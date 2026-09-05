@@ -1,0 +1,10 @@
+{
+  "version": "v0.0.7",
+  "model": "models/campus/WZMS_Campus_v007.blend",
+  "bytes": 114089128,
+  "sha256": "E8DFE62184342151E1418D51B1728310EBDE5FBBD2F26302CB0466A8D4AD7289",
+  "user_acceptance": "pending",
+  "visual_review": "Five final fresh-load renders inspected. Checked plaza, crest, six-storey galleries, library stairs and stone title panel, corrected narrow south end glazing and bridge connection. North beyond y205 remains the next delivery.",
+  "opened_in_interactive_blender": false,
+  "south_reverse_wall_unchanged": true
+}
