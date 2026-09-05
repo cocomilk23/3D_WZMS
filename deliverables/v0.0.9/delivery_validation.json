@@ -1,0 +1,19 @@
+{
+  "version": "v0.0.9",
+  "model": "models/campus/WZMS_Campus_v009.blend",
+  "bytes": 148307973,
+  "sha256": "8F94CF23F7BE1CFEE5DFFEB58B8F549CFF2BF400758F7E5FA804970F22776DE6",
+  "user_acceptance": "pending",
+  "visual_review": {
+    "reviewed_cameras": [
+      "28_North_avenue",
+      "29_Telephone_and_bamboo_lane",
+      "30_North_entry_and_noticeboards",
+      "31_Canteen_branch",
+      "32_North_route_overview"
+    ],
+    "result": "Five saved-file renders inspected; distant tree ground support corrected; phone apparatus visible behind reflective glazing. Photographic approximation and future scene boundaries documented."
+  },
+  "opened_in_interactive_blender": false,
+  "south_reverse_wall_unchanged": true
+}

@@ -30,6 +30,13 @@ if revision>=8:
     routes.append(('Middle Jiangkou crosswalk',[(54+i*.25,259) for i in range(117)]))
     routes.append(('Middle garden sidepath',[(83,209+i*.5) for i in range(163)]))
     routes.append(('Zhu Ziqing statue approach',[(59+i*.1,249) for i in range(31)]))
+if revision>=9:
+    for x in [52,54,56]:
+        routes.append(('North avenue lane x'+str(x),[(x,290+i*.5) for i in range(141)]))
+    for y in [294,348]:
+        routes.append(('North lateral lane y'+str(y),[(54+i*.5,y) for i in range(107)]))
+    routes.append(('North garden sidepath',[(83,290+i*.5) for i in range(141)]))
+    routes.append(('North building entry stairs',[(83+i*.1,322) for i in range(75)]))
 fail=[];reports=[]
 for name,points in routes:
     heights=[];hits=[];previous_floor=0.0

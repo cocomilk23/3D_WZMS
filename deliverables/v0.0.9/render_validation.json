@@ -1,0 +1,108 @@
+{
+  "opened_saved_blend": "D:\\github项目\\blender-mcp-main\\wzms\\models\\campus\\WZMS_Campus_v009.blend",
+  "version": "v0.0.9",
+  "objects": 19918,
+  "mesh_polygons": 9358457,
+  "collections": [
+    "01_Ground",
+    "02_NameWall",
+    "03_Gates",
+    "04_Guardhouses",
+    "05_Landscape",
+    "06_Background",
+    "07_Lighting",
+    "08_Cameras",
+    "10_Plaza_Paving",
+    "11_Plaza_Tree_Islands",
+    "12_Plaza_Furniture",
+    "14_Plaza_Wall_Reverse",
+    "13_Plaza_Mature_Gardens",
+    "18_Plaza_Cameras",
+    "20_Dehan_Guanzhen_Foundations",
+    "21_Dehan_Guanzhen_Wings",
+    "22_Portal_Stone_Piers",
+    "23_Portal_Glazed_Stairs",
+    "24_Elevated_Glass_Bridges",
+    "25_Portal_Curved_Roof",
+    "26_Building_Exterior_Details",
+    "27_Lakeside_Building_Edge",
+    "28_Building_Cameras",
+    "30_Zhongshan_South_Ground",
+    "31_Zhongshan_Bridge_Structure",
+    "32_Zhongshan_Bridge_Railings",
+    "33_Zhongshan_Roadside_Landscape",
+    "34_Zhongshan_Signage_And_Lights",
+    "38_Zhongshan_Cameras",
+    "40_Buqing_Paving_And_Routes",
+    "41_Buqing_Academic_Frontage",
+    "42_Buqing_Central_Portal",
+    "43_Buqing_South_Facade",
+    "44_Buqing_Library_Entrance_Context",
+    "45_Buqing_Crest_Mosaic",
+    "46_Buqing_Trees_And_Furniture",
+    "48_Buqing_Cameras",
+    "50_Zhongshan_Middle_Road_And_Junctions",
+    "51_Zhongshan_Middle_Shade_Trees",
+    "52_Zhongshan_Middle_Court_Edge",
+    "53_Zhongshan_Middle_Visible_Building",
+    "54_Zhu_Ziqing_Statue_Garden",
+    "55_Zhongshan_Middle_Street_Furniture",
+    "58_Zhongshan_Middle_Cameras",
+    "60_Zhongshan_North_Road_And_Branches",
+    "61_Zhongshan_North_Tree_Avenue",
+    "62_Zhongshan_North_Visible_Facade",
+    "63_North_Red_Telephone_Kiosk",
+    "64_North_Bulletin_Boards_And_Utilities",
+    "65_North_Court_Visible_Edge",
+    "68_Zhongshan_North_Cameras"
+  ],
+  "metric_units": true,
+  "missing_external_images": [],
+  "devices": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "type": "CUDA",
+      "use": false
+    },
+    {
+      "name": "12th Gen Intel Core i7-12700H",
+      "type": "CPU",
+      "use": false
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "type": "OPTIX",
+      "use": true
+    }
+  ],
+  "renders": [
+    {
+      "camera": "28_North_avenue",
+      "seconds": 46.65,
+      "file": "previews/28_North_avenue.png"
+    },
+    {
+      "camera": "29_Telephone_and_bamboo_lane",
+      "seconds": 45.0,
+      "file": "previews/29_Telephone_and_bamboo_lane.png"
+    },
+    {
+      "camera": "30_North_entry_and_noticeboards",
+      "seconds": 43.06,
+      "file": "previews/30_North_entry_and_noticeboards.png"
+    },
+    {
+      "camera": "31_Canteen_branch",
+      "seconds": 37.8,
+      "file": "previews/31_Canteen_branch.png"
+    },
+    {
+      "camera": "32_North_route_overview",
+      "seconds": 37.28,
+      "file": "previews/32_North_route_overview.png"
+    }
+  ],
+  "absolute_scale_verified": false,
+  "user_acceptance": "pending",
+  "ue_playthrough_verified": false
+}
