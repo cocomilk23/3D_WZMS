@@ -1,0 +1,8 @@
+{
+  "version": "v0.0.4",
+  "model": "models/campus/WZMS_Campus_v004.blend",
+  "bytes": 52108974,
+  "sha256": "B91FE2A0CD8DA2DDF8FE9C33537AE179FC381C7AF3AB42378D19F65992501208",
+  "user_acceptance": "pending",
+  "visual_review": "Three fresh-load renders inspected; image projection and procedural vegetation limitations documented"
+}
