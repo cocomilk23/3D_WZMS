@@ -1,0 +1,14 @@
+{
+  "checked_date": "2026-09-06",
+  "timezone": "Asia/Shanghai",
+  "blender_version": "5.1.2",
+  "scene": "Scene",
+  "objects": ["Cube", "Light", "Camera"],
+  "object_count": 3,
+  "unit_system": "METRIC",
+  "filepath": "",
+  "scene_query": "passed",
+  "python_execution": "passed",
+  "scene_modified": false,
+  "ue_mcp_tool_available": false
+}

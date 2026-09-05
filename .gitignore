@@ -1,0 +1,26 @@
+# Local panorama originals and derived images; indexed by reports and hashes.
+/reference/panoramas/
+/reference/images/
+/reference/incoming/
+/reference/source/*
+!/reference/source/tour.xml
+/reference/reports/acquisition_jobs.json
+/reference/reports/browser_bundle_original.json
+/scripts/browser_acquire_batch.js
+/.playwright-mcp/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.blend1
+*.blend2
+**/Saved/
+**/Intermediate/
+**/DerivedDataCache/
+**/Binaries/
+**/.vs/
+/builds/
+/renders/full/
+*.log
