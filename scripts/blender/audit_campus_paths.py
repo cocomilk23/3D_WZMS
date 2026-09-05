@@ -43,6 +43,11 @@ if revision>=10:
     for y in [370,374]:
         routes.append(('Canteen west entry stairs y'+str(y),[(103+i*.1,y) for i in range(76)]))
     routes.append(('Canteen south stairs and open doorway',[(125,346.5+i*.1) for i in range(48)]))
+if revision>=11:
+    for x in [52,54,56]:
+        routes.append(('North gate approach and street x'+str(x),[(x,360+i*.25) for i in range(153)]))
+    routes.append(('North gate inner lateral walk',[(44+i*.25,363) for i in range(81)]))
+    routes.append(('North gate exterior apron',[(43+i*.25,389.4) for i in range(77)]))
 fail=[];reports=[]
 for name,points in routes:
     heights=[];hits=[];previous_floor=0.0

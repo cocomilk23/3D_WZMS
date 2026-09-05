@@ -1,0 +1,27 @@
+{
+  "version": "v0.0.11",
+  "model": "models/campus/WZMS_Campus_v011.blend",
+  "bytes": 154684543,
+  "sha256": "9CDF38A30EFD55B31366BFBA0105010CB54879876F3F5E7EBCB4BE4A9A82FE53",
+  "user_acceptance": "pending",
+  "visual_review": {
+    "result": "Seven final saved-file renders inspected. Confirmed flat road paint, entrance kerb opening, police fascia emblem placement, editable open boom, gate/avenue connection, street context and complete route framing. Checked the live Blender viewport after opening the final model. Initial exterior reconstruction; estimated dimensions and simplified decorative/printed details documented.",
+    "reviewed_cameras": [
+      "38_North_gate_from_street",
+      "39_North_guardroom_and_police",
+      "40_North_gate_from_campus",
+      "41_North_gate_street_context",
+      "42_North_gate_overview",
+      "43_Complete_route_overview",
+      "44_Buqing_to_north_integrated"
+    ]
+  },
+  "opened_in_interactive_blender": true,
+  "interactive_camera": "38_North_gate_from_street",
+  "interactive_session_backup": "builds/session_backups/before_v011_20260906_054111.blend",
+  "south_reverse_wall_unchanged": true,
+  "local_geometry_routes": 33,
+  "continuous_route_samples": 2437,
+  "ue_playthrough_verified": false,
+  "absolute_scale_verified": false
+}

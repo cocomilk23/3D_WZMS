@@ -1,0 +1,111 @@
+{
+  "opened_saved_blend": "D:\\github项目\\blender-mcp-main\\wzms\\models\\campus\\WZMS_Campus_v011.blend",
+  "routes": [
+    {
+      "route": "south gate to north public street",
+      "waypoints": [
+        [
+          0,
+          3
+        ],
+        [
+          0,
+          47
+        ],
+        [
+          54,
+          47
+        ],
+        [
+          54,
+          76
+        ],
+        [
+          54,
+          134
+        ],
+        [
+          54,
+          205
+        ],
+        [
+          54,
+          290
+        ],
+        [
+          54,
+          348
+        ],
+        [
+          54,
+          360
+        ],
+        [
+          54,
+          398
+        ]
+      ],
+      "samples": 1797,
+      "maximum_floor_step_m": 0.06499902904033661,
+      "body_width_m": 0.7,
+      "headroom_m": 1.7
+    },
+    {
+      "route": "main avenue to canteen west exterior landing",
+      "waypoints": [
+        [
+          54,
+          348
+        ],
+        [
+          103,
+          348
+        ],
+        [
+          103,
+          374
+        ],
+        [
+          110.1,
+          374
+        ]
+      ],
+      "samples": 330,
+      "maximum_floor_step_m": 0.15000019967556,
+      "body_width_m": 0.7,
+      "headroom_m": 1.7
+    },
+    {
+      "route": "main avenue to open canteen south entrance",
+      "waypoints": [
+        [
+          54,
+          348
+        ],
+        [
+          115,
+          348
+        ],
+        [
+          115,
+          346.5
+        ],
+        [
+          125,
+          346.5
+        ],
+        [
+          125,
+          351.2
+        ]
+      ],
+      "samples": 310,
+      "maximum_floor_step_m": 0.15000008046627045,
+      "body_width_m": 0.7,
+      "headroom_m": 1.7
+    }
+  ],
+  "failures": [],
+  "passed": true,
+  "scope": "sampled evaluated surfaces and ray clearance; not UE collision/navigation"
+}
