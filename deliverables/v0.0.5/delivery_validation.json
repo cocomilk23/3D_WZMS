@@ -1,0 +1,8 @@
+{
+  "version": "v0.0.5",
+  "model": "models/campus/WZMS_Campus_v005.blend",
+  "bytes": 76161733,
+  "sha256": "12D58158FFDDB65A00736CCC354557DE5073286E935676443FD95F4A9D9655C3",
+  "user_acceptance": "pending",
+  "visual_review": "Five fresh-load renders inspected; facade, soffit, rear, roof and lettering checked; estimated geometry limitations documented"
+}

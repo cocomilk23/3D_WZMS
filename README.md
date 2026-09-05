@@ -22,6 +22,7 @@
 - [v0.0.2南大门样板](deliverables/v0.0.2/交付说明.md)
 - [v0.0.3网页预览](deliverables/v0.0.3/交付说明.md) · [本机打开](http://127.0.0.1:8766/)（需启动本地服务）
 - [v0.0.4南大门广场](deliverables/v0.0.4/交付说明.md) · [当前Blender工程](models/campus/WZMS_Campus_v004.blend)
+- [v0.0.5德涵楼、贯真楼外景](deliverables/v0.0.5/交付说明.md) · [楼体与广场工程](models/campus/WZMS_Campus_v005.blend)
 - [Blender样板模型](models/south_gate/WZMS_SouthGate_v002.blend)（Git LFS，含打包的墙面参考图）
 
 ![南大门正面预览](deliverables/v0.0.2/previews/01_Front_reference.png)

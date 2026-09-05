@@ -30,7 +30,10 @@ for name,points in routes:
         up=scene.ray_cast(deps,Vector((x,y,loc.z+.05)),Vector((0,0,1)),distance=1.70)
         if up[0]:fail.append({'route':name,'xy':[x,y],'issue':'headroom obstruction','object':up[4].name})
     steps=[abs(b-a) for a,b in zip(heights,heights[1:])]
-    if steps and max(steps)>.20:fail.append({'route':name,'issue':'floor discontinuity > 20 cm','maximum_m':max(steps)})
+    if steps and max(steps)>.20:
+        at=steps.index(max(steps))
+        fail.append({'route':name,'issue':'floor discontinuity > 20 cm','maximum_m':max(steps),
+          'from':{'xy':points[at],'z':heights[at],'object':hits[at]},'to':{'xy':points[at+1],'z':heights[at+1],'object':hits[at+1]}})
     reports.append({'route':name,'samples':len(points),'hits':len(heights),'min_z':min(heights,default=None),'max_z':max(heights,default=None),'largest_step_m':max(steps,default=0)})
 out=ROOT/'deliverables'/version/'geometry_validation.json';out.parent.mkdir(parents=True,exist_ok=True)
 out.write_text(json.dumps({'opened_saved_blend':bpy.data.filepath,'routes':reports,'failures':fail,'scope':'evaluated geometry; not UE navigation/collision','passed':not fail},ensure_ascii=False,indent=2),encoding='utf8')

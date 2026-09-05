@@ -1,0 +1,40 @@
+{
+  "opened_saved_blend": "D:\\github项目\\blender-mcp-main\\wzms\\models\\campus\\WZMS_Campus_v005.blend",
+  "routes": [
+    {
+      "route": "plaza central walk",
+      "samples": 46,
+      "hits": 46,
+      "min_z": -0.010000020265579224,
+      "max_z": -0.008000025525689125,
+      "largest_step_m": 0.0019999947398900986
+    },
+    {
+      "route": "plaza left cross access",
+      "samples": 12,
+      "hits": 12,
+      "min_z": -0.008000144734978676,
+      "max_z": -0.007999906316399574,
+      "largest_step_m": 2.384185791015625e-07
+    },
+    {
+      "route": "plaza right cross access",
+      "samples": 12,
+      "hits": 12,
+      "min_z": -0.010000020265579224,
+      "max_z": -0.008000025525689125,
+      "largest_step_m": 0.0019999947398900986
+    },
+    {
+      "route": "portal stairs and passage",
+      "samples": 100,
+      "hits": 100,
+      "min_z": -0.010000020265579224,
+      "max_z": 1.0399999618530273,
+      "largest_step_m": 0.1499999761581421
+    }
+  ],
+  "failures": [],
+  "scope": "evaluated geometry; not UE navigation/collision",
+  "passed": true
+}

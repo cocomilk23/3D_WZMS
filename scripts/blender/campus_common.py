@@ -37,6 +37,7 @@ def noise(m, scale=80, amount=.15, distance=.018):
     p=next(n for n in n if n.type=='BSDF_PRINCIPLED')
     t=n.new('ShaderNodeTexNoise');t.inputs['Scale'].default_value=scale
     t.inputs['Detail'].default_value=3
+    co=n.new('ShaderNodeTexCoord');l.new(co.outputs['Object'],t.inputs['Vector'])
     b=n.new('ShaderNodeBump');b.inputs['Strength'].default_value=amount
     b.inputs['Distance'].default_value=distance
     l.new(t.outputs['Fac'],b.inputs['Height']);l.new(b.outputs['Normal'],p.inputs['Normal'])
@@ -72,10 +73,10 @@ def rod(name,a,b,r,mat,r2=None,sides=10):
     v,f=[],[];tube_data(v,f,a,b,r,r2,sides)
     return mesh(name,v,f,mat)
 def text(name, body, loc, size, mat, rotation=(math.pi/2,0,0)):
-    d=bpy.data.curves.new(name,'FONT');d.body=body;d.size=size;d.align_x='CENTER';d.extrude=.002
-    font=bpy.data.fonts.get('Microsoft YaHei')
+    d=bpy.data.curves.new(name,'FONT');d.body=body;d.size=size;d.align_x='CENTER';d.extrude=.006;d.fill_mode='BOTH'
+    font=bpy.data.fonts.get('Campus Chinese SimHei')
     if not font:
-        font=bpy.data.fonts.load('C:/Windows/Fonts/msyh.ttc');font.name='Microsoft YaHei'
+        font=bpy.data.fonts.load('C:/Windows/Fonts/simhei.ttf');font.name='Campus Chinese SimHei'
     d.font=font
     o=bpy.data.objects.new(name,d);COL.objects.link(o);o.location=loc;o.rotation_euler=rotation;d.materials.append(mat)
     # Convert only text object to mesh via evaluated data; no external font dependency.
