@@ -24,6 +24,12 @@ if revision>=7:
     routes.append(('Buqing bridge arrival and north passage',[(54,126+i*.5) for i in range(159)]))
     routes.append(('Buqing plaza transverse route',[(x,158) for x in range(0,107)]))
     routes.append(('Buqing library external stair',[(104,134.2+i*.1) for i in range(80)]))
+if revision>=8:
+    for x in [52,54,56]:
+        routes.append(('Middle avenue lane x'+str(x),[(x,205+i*.5) for i in range(171)]))
+    routes.append(('Middle Jiangkou crosswalk',[(54+i*.25,259) for i in range(117)]))
+    routes.append(('Middle garden sidepath',[(83,209+i*.5) for i in range(163)]))
+    routes.append(('Zhu Ziqing statue approach',[(59+i*.1,249) for i in range(31)]))
 fail=[];reports=[]
 for name,points in routes:
     heights=[];hits=[];previous_floor=0.0

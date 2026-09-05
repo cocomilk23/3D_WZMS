@@ -1,0 +1,10 @@
+{
+  "version": "v0.0.8",
+  "model": "models/campus/WZMS_Campus_v008.blend",
+  "bytes": 135248133,
+  "sha256": "38AC2DEFF5638855D12E36DEE30C6D4A0F3D1B20757F555770133A1AF509A865",
+  "user_acceptance": "pending",
+  "visual_review": "Five final fresh-load renders inspected. Improved shade fill, checked avenue, junction, approximate statue/plaque, corrected court markings and removed planting from statue approach. North beyond y290 remains next delivery.",
+  "opened_in_interactive_blender": false,
+  "south_reverse_wall_unchanged": true
+}
