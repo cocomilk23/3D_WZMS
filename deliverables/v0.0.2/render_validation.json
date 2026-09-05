@@ -1,0 +1,50 @@
+{
+  "opened_saved_blend": "D:\\github项目\\blender-mcp-main\\wzms\\models\\south_gate\\WZMS_SouthGate_v002.blend",
+  "sample_scene": "WZMS_SouthGate_Sample",
+  "render_device": "GPU",
+  "devices": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "type": "CUDA",
+      "enabled": false
+    },
+    {
+      "name": "12th Gen Intel Core i7-12700H",
+      "type": "CPU",
+      "enabled": false
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "type": "OPTIX",
+      "enabled": true
+    }
+  ],
+  "renders": [
+    {
+      "camera": "01_Front_reference",
+      "seconds": 79.26,
+      "file": "previews\\01_Front_reference.png"
+    },
+    {
+      "camera": "02_Oblique_walkup",
+      "seconds": 74.3,
+      "file": "previews\\02_Oblique_walkup.png"
+    },
+    {
+      "camera": "03_Aerial_overview",
+      "seconds": 86.39,
+      "file": "previews\\03_Aerial_overview.png"
+    },
+    {
+      "camera": "04_Ground_detail",
+      "seconds": 86.11,
+      "file": "previews\\04_Ground_detail.png"
+    }
+  ],
+  "missing_external_images": [],
+  "name_wall_exists": true,
+  "camera_count": 4,
+  "metric_units": true,
+  "absolute_scale_verified": false,
+  "ue_playthrough_verified": false
+}

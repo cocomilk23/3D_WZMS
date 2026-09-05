@@ -1,0 +1,35 @@
+{
+  "version": "v0.0.2",
+  "scene": "WZMS_SouthGate_Sample",
+  "objects": 1981,
+  "mesh_objects": 1973,
+  "mesh_polygons": 574370,
+  "cameras": [
+    "01_Front_reference",
+    "02_Oblique_walkup",
+    "03_Aerial_overview",
+    "04_Ground_detail"
+  ],
+  "packed_images": [
+    "f.jpg"
+  ],
+  "reference_scene_ids": [
+    "119232349",
+    "119232352"
+  ],
+  "scale_calibrated": false,
+  "provisional_name_wall_m": {
+    "width": 18.0,
+    "height": 4.85,
+    "thickness": 0.62
+  },
+  "inferred": [
+    "wall back and thickness",
+    "guardroom hidden walls",
+    "tree crown shapes",
+    "background building depth"
+  ],
+  "surface_limitations": [
+    "Inscription and lower relief use the original photograph on a solid wall, not individually sculpted relief geometry."
+  ]
+}

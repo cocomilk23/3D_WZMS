@@ -1,0 +1,36 @@
+{
+  "model": {
+    "file": "models/south_gate/WZMS_SouthGate_v002.blend",
+    "bytes": 22848466,
+    "sha256": "36ec8aade1f3e0ad6622eb11cf01153dce0eafb207eb33a620f0e582d72f63ae"
+  },
+  "previews": [
+    {
+      "file": "deliverables/v0.0.2/previews/01_Front_reference.png",
+      "bytes": 2558070,
+      "sha256": "e607c240eb38a259f4e28d568f25ac3ff03fb5c485d5ed74a6dd70ef4d4994f0"
+    },
+    {
+      "file": "deliverables/v0.0.2/previews/02_Oblique_walkup.png",
+      "bytes": 2645899,
+      "sha256": "237bd3dba73819715c8666bb8d33112cf045261d473fe90d3bb85e6c1e54005d"
+    },
+    {
+      "file": "deliverables/v0.0.2/previews/03_Aerial_overview.png",
+      "bytes": 3167607,
+      "sha256": "33067d45697bcb32b60b07064d81436372f4fd4723a89ea49129628348bf84cf"
+    },
+    {
+      "file": "deliverables/v0.0.2/previews/04_Ground_detail.png",
+      "bytes": 2383803,
+      "sha256": "a7384d72eda318b03aabac7f33b0b59c5a206b0b466e413e85e1e754aeb78a1d"
+    }
+  ],
+  "visual_review": "Four views inspected; first reference sample, not final photoreal or measured 1:1 completion.",
+  "known_quality_gaps": [
+    "Photo-based lettering and relief; baked source shadows remain",
+    "Procedural vegetation needs species and density refinement",
+    "Guardhouse and background geometry are approximate",
+    "Scene boundary and incomplete surrounding campus visible in aerial view"
+  ]
+}

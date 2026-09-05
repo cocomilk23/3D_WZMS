@@ -23,4 +23,5 @@ __pycache__/
 **/.vs/
 /builds/
 /renders/full/
+/models/**/prebuild_backup.blend
 *.log
