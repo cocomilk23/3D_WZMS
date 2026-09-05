@@ -37,6 +37,12 @@ if revision>=9:
         routes.append(('North lateral lane y'+str(y),[(54+i*.5,y) for i in range(107)]))
     routes.append(('North garden sidepath',[(83,290+i*.5) for i in range(141)]))
     routes.append(('North building entry stairs',[(83+i*.1,322) for i in range(75)]))
+if revision>=10:
+    routes.append(('Canteen branch connection',[(101+i*.1,348) for i in range(111)]))
+    routes.append(('Canteen long forewalk',[(103,348+i*.25) for i in range(201)]))
+    for y in [370,374]:
+        routes.append(('Canteen west entry stairs y'+str(y),[(103+i*.1,y) for i in range(76)]))
+    routes.append(('Canteen south stairs and open doorway',[(125,346.5+i*.1) for i in range(48)]))
 fail=[];reports=[]
 for name,points in routes:
     heights=[];hits=[];previous_floor=0.0
@@ -53,6 +59,7 @@ for name,points in routes:
         fail.append({'route':name,'issue':'floor discontinuity > 20 cm','maximum_m':max(steps),
           'from':{'xy':points[at],'z':heights[at],'object':hits[at]},'to':{'xy':points[at+1],'z':heights[at+1],'object':hits[at+1]}})
     reports.append({'route':name,'samples':len(points),'hits':len(heights),'min_z':min(heights,default=None),'max_z':max(heights,default=None),'largest_step_m':max(steps,default=0)})
+    print('WZMS_ROUTE_CHECKED '+name,flush=True)
 out=ROOT/'deliverables'/version/'geometry_validation.json';out.parent.mkdir(parents=True,exist_ok=True)
 out.write_text(json.dumps({'opened_saved_blend':bpy.data.filepath,'routes':reports,'failures':fail,'scope':'evaluated geometry; not UE navigation/collision','passed':not fail},ensure_ascii=False,indent=2),encoding='utf8')
 print('WZMS_GEOMETRY_AUDIT '+json.dumps({'passed':not fail,'failures':fail},ensure_ascii=False),flush=True)

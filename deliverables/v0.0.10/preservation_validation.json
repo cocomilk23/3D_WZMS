@@ -1,0 +1,9 @@
+{
+  "baseline": "v0.0.6",
+  "version": "v0.0.10",
+  "object": "South name wall reverse photo surface",
+  "baseline_digest": "ab9bfc0e3f049fe087cc2599f8720509ea6b0364666bbe37258337db3531dcae",
+  "current_digest": "ab9bfc0e3f049fe087cc2599f8720509ea6b0364666bbe37258337db3531dcae",
+  "unchanged": true,
+  "scope": "mesh, UVs, transform, modifier names/types, shader sockets/links and packed image bytes"
+}

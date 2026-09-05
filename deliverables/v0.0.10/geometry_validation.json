@@ -1,0 +1,232 @@
+{
+  "opened_saved_blend": "D:\\github项目\\blender-mcp-main\\wzms\\models\\campus\\WZMS_Campus_v010.blend",
+  "routes": [
+    {
+      "route": "plaza central walk",
+      "samples": 46,
+      "hits": 46,
+      "min_z": -0.010000139474868774,
+      "max_z": -0.008000025525689125,
+      "largest_step_m": 0.0019999947398900986
+    },
+    {
+      "route": "plaza left cross access",
+      "samples": 12,
+      "hits": 12,
+      "min_z": -0.008000144734978676,
+      "max_z": -0.007999906316399574,
+      "largest_step_m": 1.1920928955078125e-07
+    },
+    {
+      "route": "plaza right cross access",
+      "samples": 12,
+      "hits": 12,
+      "min_z": -0.010000139474868774,
+      "max_z": -0.007999906316399574,
+      "largest_step_m": 0.0020002331584692
+    },
+    {
+      "route": "portal stairs and passage",
+      "samples": 100,
+      "hits": 100,
+      "min_z": -0.010000020265579224,
+      "max_z": 1.0400002002716064,
+      "largest_step_m": 0.1500002145767212
+    },
+    {
+      "route": "Zhongshan facade walk",
+      "samples": 55,
+      "hits": 55,
+      "min_z": -0.010000020265579224,
+      "max_z": -0.007999906316399574,
+      "largest_step_m": 0.0020001139491796494
+    },
+    {
+      "route": "Zhongshan east turn",
+      "samples": 30,
+      "hits": 30,
+      "min_z": -0.010000020265579224,
+      "max_z": -0.009999990463256836,
+      "largest_step_m": 2.9802322387695312e-08
+    },
+    {
+      "route": "Zhongshan bridge",
+      "samples": 101,
+      "hits": 101,
+      "min_z": -0.010000139474868774,
+      "max_z": 0.28999996185302734,
+      "largest_step_m": 0.009423404932022095
+    },
+    {
+      "route": "Buqing bridge arrival and north passage",
+      "samples": 159,
+      "hits": 159,
+      "min_z": -0.010000154376029968,
+      "max_z": 0.03000004217028618,
+      "largest_step_m": 0.02100031077861786
+    },
+    {
+      "route": "Buqing plaza transverse route",
+      "samples": 107,
+      "hits": 107,
+      "min_z": -0.010000154376029968,
+      "max_z": 0.021000027656555176,
+      "largest_step_m": 0.01900021731853485
+    },
+    {
+      "route": "Buqing library external stair",
+      "samples": 80,
+      "hits": 80,
+      "min_z": -0.010000154376029968,
+      "max_z": 4.239999771118164,
+      "largest_step_m": 0.17000031471252441
+    },
+    {
+      "route": "Middle avenue lane x52",
+      "samples": 171,
+      "hits": 171,
+      "min_z": -0.010000273585319519,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.0159999318420887
+    },
+    {
+      "route": "Middle avenue lane x54",
+      "samples": 171,
+      "hits": 171,
+      "min_z": -0.010000154376029968,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.01600005105137825
+    },
+    {
+      "route": "Middle avenue lane x56",
+      "samples": 171,
+      "hits": 171,
+      "min_z": -0.010000273585319519,
+      "max_z": 0.006000135093927383,
+      "largest_step_m": 0.01600028946995735
+    },
+    {
+      "route": "Middle Jiangkou crosswalk",
+      "samples": 117,
+      "hits": 117,
+      "min_z": -0.005000129342079163,
+      "max_z": -0.004999890923500061,
+      "largest_step_m": 2.384185791015625e-07
+    },
+    {
+      "route": "Middle garden sidepath",
+      "samples": 163,
+      "hits": 163,
+      "min_z": -0.010000035166740417,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.016000036150217056
+    },
+    {
+      "route": "Zhu Ziqing statue approach",
+      "samples": 31,
+      "hits": 31,
+      "min_z": -0.010000020265579224,
+      "max_z": 1.043081283569336e-07,
+      "largest_step_m": 0.01000000536441803
+    },
+    {
+      "route": "North avenue lane x52",
+      "samples": 141,
+      "hits": 141,
+      "min_z": -0.010000273585319519,
+      "max_z": -0.009999796748161316,
+      "largest_step_m": 3.5762786865234375e-07
+    },
+    {
+      "route": "North avenue lane x54",
+      "samples": 141,
+      "hits": 141,
+      "min_z": -0.010000273585319519,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.0160001702606678
+    },
+    {
+      "route": "North avenue lane x56",
+      "samples": 141,
+      "hits": 141,
+      "min_z": -0.010000154376029968,
+      "max_z": 0.006000135093927383,
+      "largest_step_m": 0.0160001702606678
+    },
+    {
+      "route": "North lateral lane y294",
+      "samples": 107,
+      "hits": 107,
+      "min_z": -0.005000129342079163,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.011000145226716995
+    },
+    {
+      "route": "North lateral lane y348",
+      "samples": 107,
+      "hits": 107,
+      "min_z": -0.005000129342079163,
+      "max_z": 0.014000161550939083,
+      "largest_step_m": 0.011000145226716995
+    },
+    {
+      "route": "North garden sidepath",
+      "samples": 141,
+      "hits": 141,
+      "min_z": -0.010000020265579224,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.016000036150217056
+    },
+    {
+      "route": "North building entry stairs",
+      "samples": 75,
+      "hits": 75,
+      "min_z": -0.009999915957450867,
+      "max_z": 0.9500000476837158,
+      "largest_step_m": 0.1600002944469452
+    },
+    {
+      "route": "Canteen branch connection",
+      "samples": 111,
+      "hits": 111,
+      "min_z": 0.005999896675348282,
+      "max_z": 0.014000161550939083,
+      "largest_step_m": 0.008000264875590801
+    },
+    {
+      "route": "Canteen long forewalk",
+      "samples": 201,
+      "hits": 201,
+      "min_z": -0.010000154376029968,
+      "max_z": 0.006000015884637833,
+      "largest_step_m": 0.0160001702606678
+    },
+    {
+      "route": "Canteen west entry stairs y370",
+      "samples": 76,
+      "hits": 76,
+      "min_z": -0.010000154376029968,
+      "max_z": 1.040000081062317,
+      "largest_step_m": 0.1500002145767212
+    },
+    {
+      "route": "Canteen west entry stairs y374",
+      "samples": 76,
+      "hits": 76,
+      "min_z": -0.010000154376029968,
+      "max_z": 1.040000081062317,
+      "largest_step_m": 0.15000030398368835
+    },
+    {
+      "route": "Canteen south stairs and open doorway",
+      "samples": 48,
+      "hits": 48,
+      "min_z": -0.010000154376029968,
+      "max_z": 1.0399999618530273,
+      "largest_step_m": 0.15000008046627045
+    }
+  ],
+  "failures": [],
+  "scope": "evaluated geometry; not UE navigation/collision",
+  "passed": true
+}

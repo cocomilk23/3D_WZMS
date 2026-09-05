@@ -1,0 +1,20 @@
+{
+  "version": "v0.0.10",
+  "model": "models/campus/WZMS_Campus_v010.blend",
+  "bytes": 150472526,
+  "sha256": "785F352CD560301BD696545C397E25A41248A1DC144E0EB3CADCEA868224AB4C",
+  "user_acceptance": "pending",
+  "visual_review": {
+    "result": "Six final saved-file renders inspected. Closed corner gaps, corrected narrow-window wall piers and lower sashes, softened granite variation, opened south entrance and verified actual stair/doorway passage. Roof/service rear and incomplete interior are documented approximations.",
+    "reviewed_cameras": [
+      "33_Canteen_arrival",
+      "34_Canteen_long_front",
+      "35_Canteen_stair_detail",
+      "36_Canteen_court_and_paving",
+      "37_Canteen_overview",
+      "37b_Canteen_south_entry"
+    ]
+  },
+  "opened_in_interactive_blender": false,
+  "south_reverse_wall_unchanged": true
+}
