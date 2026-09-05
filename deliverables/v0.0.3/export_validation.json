@@ -1,0 +1,14 @@
+{
+  "source": "models/south_gate/WZMS_SouthGate_v002.blend",
+  "file": "web-preview/assets/south-gate.glb",
+  "bytes": 12681060,
+  "source_objects": 1976,
+  "joined_meshes": 1,
+  "geometry_simplified": false,
+  "compression": "Draco",
+  "seconds": 2.52,
+  "notes": [
+    "Original .blend was not overwritten.",
+    "Procedural paving recreated in web viewer; render gallery remains the appearance reference."
+  ]
+}

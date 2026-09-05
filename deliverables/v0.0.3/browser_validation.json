@@ -1,0 +1,33 @@
+{
+  "url": "http://127.0.0.1:8766/",
+  "model_loaded": true,
+  "wall_texture_visually_verified": true,
+  "meshes": 20,
+  "triangles": 664788,
+  "draw_calls_with_shadows": 40,
+  "view_presets": 4,
+  "front_and_oblique_coordinates_verified": true,
+  "orbit_drag_verified": true,
+  "zoom_exercised": true,
+  "wireframe_verified": true,
+  "auto_rotate_verified": true,
+  "fullscreen_verified": true,
+  "render_gallery_decoded": [
+    1600,
+    1000
+  ],
+  "model_failure_render_fallback": true,
+  "desktop_viewport": [
+    1440,
+    900
+  ],
+  "narrow_viewport": [
+    390,
+    844
+  ],
+  "horizontal_overflow": false,
+  "actual_mobile_device_tested": false,
+  "original_blend_hash_unchanged": true,
+  "glb_bytes": 12681060,
+  "glb_sha256": "668200dfa437c2761f9010313eba9e63ade8f337d18ce25fa95aac762c738000"
+}

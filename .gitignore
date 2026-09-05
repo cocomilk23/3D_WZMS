@@ -25,3 +25,4 @@ __pycache__/
 /renders/full/
 /models/**/prebuild_backup.blend
 *.log
+node_modules/
