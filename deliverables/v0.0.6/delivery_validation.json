@@ -1,0 +1,9 @@
+{
+  "version": "v0.0.6",
+  "model": "models/campus/WZMS_Campus_v006.blend",
+  "bytes": 101096433,
+  "sha256": "42AEEE3C9CEBB8D542A75EE000EC1FF003E2A33E0ABF1B924F04EC4579B423BC",
+  "user_acceptance": "pending",
+  "visual_review": "Four final fresh-load renders inspected; sign print, bridge in both directions and integrated aerial checked; pond terrain connected",
+  "opened_in_interactive_blender": true
+}
