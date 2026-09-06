@@ -1,0 +1,54 @@
+{
+  "version": "v0.0.13",
+  "model": "models/campus/WZMS_Campus_v013.blend",
+  "bytes": 169185971,
+  "sha256": "8cde1d2880f91e16112816418fd7a37551744b1a04aac14a73cdcb73e7c085e1",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/49_Daosi_shaded_curve.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "9dcb287a4667b5e2057b27b2c65e4fbcfb727a4e11e901cf7cc7a5c0a92f8ff0"
+    },
+    {
+      "file": "previews/50_Daosi_flower_bridge.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "1054e809a5ba6d1a36f728014d7d584aaaa9aad6fd8d63232b8c5f3f26aaab5d"
+    },
+    {
+      "file": "previews/51_Daosi_lakeside_lookback.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c262e00f324c3a24dcc65a5fdeafb6dc26ea045d88155f7e03c027076d0ac75b"
+    },
+    {
+      "file": "previews/52_Daosi_north_junction.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "8e964e72d1f8f5ee9a08cf11dde9f201642e3cf83ab04a6e3d3923af5b91d83a"
+    },
+    {
+      "file": "previews/53_Daosi_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c0518252f3434666ae4fe2492e01606b15fc8ae1c8e54463ffd82d116170574b"
+    }
+  ],
+  "geometry_passed": true,
+  "previous_objects_preserved": true,
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false
+}

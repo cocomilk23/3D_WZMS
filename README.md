@@ -29,7 +29,8 @@
 - [v0.0.9中山路北段](deliverables/v0.0.9/交付说明.md) · [北段整合工程](models/campus/WZMS_Campus_v009.blend)
 - [v0.0.10食堂外景](deliverables/v0.0.10/交付说明.md) · [食堂整合工程](models/campus/WZMS_Campus_v010.blend)
 - [v0.0.11北门与南北路线整合](deliverables/v0.0.11/交付说明.md) · [北门整合工程](models/campus/WZMS_Campus_v011.blend)
-- [v0.0.12网球场](deliverables/v0.0.12/交付说明.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v012.blend)**
+- [v0.0.12网球场](deliverables/v0.0.12/交付说明.md) · [网球场整合工程](models/campus/WZMS_Campus_v012.blend)
+- [v0.0.13道司前路](deliverables/v0.0.13/交付说明.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v013.blend)**
 - [Blender样板模型](models/south_gate/WZMS_SouthGate_v002.blend)（Git LFS，含打包的墙面参考图）
 
 ![北门整合初版](deliverables/v0.0.11/previews/38_North_gate_from_street.png)

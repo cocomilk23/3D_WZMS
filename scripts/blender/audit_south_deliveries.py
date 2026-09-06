@@ -40,13 +40,31 @@ deps=bpy.context.evaluated_depsgraph_get()
 routes=[('Tennis entrance from existing road',[(54,47),(62,47),(62,17),(68,17),(76,17)]),
  ('Tennis court west ends',[(69,17),(69,-1),(77,-1)]),
  ('Tennis north runout and east gate',[(69,24.5),(97,24.5),(97,23),(100.5,23)])]
-if rev>=13:
+if rev==13:
+ # This addition is west of the campus; the independently sealed tennis checks
+ # remain valid. Only the new west routes need repeating for this revision.
+ routes=[]
  sys.path.insert(0,str(Path(__file__).parent));from south_detail_common import smooth_path
  routes.append(('Daosi south curve',smooth_path([(-50,47),(-59,48),(-67,59),(-70,72),(-69,86)],18)))
  routes.append(('Daosi flower bridge',[(-69,86),(-69,128)]))
  routes.append(('Daosi north junction and Nantian reserved link',smooth_path([(-69,128),(-69,136),(-58,145),(-30,146),(-20,146)],18)))
 if rev>=14:routes.append(('Heyu entry bridge and island path',[(62,44),(70,44),(77,42),(87,42)]))
 if rev>=15:routes.append(('Shuinan waterside bridge to tennis',[(87,42),(106,42),(106,23),(99,23)]))
+# Conservative broad phase: rays cannot reach geometry outside these bounds.
+# Link original objects into a temporary query scene, avoiding traversal of remote
+# classrooms on every ray. Evaluated bounds include modifiers; no proxy surfaces.
+route_points=[p for _,poly in routes for p in poly]
+lo=[min(p[0] for p in route_points)-.5,min(p[1] for p in route_points)-.5,-1.1]
+hi=[max(p[0] for p in route_points)+.5,max(p[1] for p in route_points)+.5,2.4]
+original_scene=sc
+query=bpy.data.scenes.new('Temporary southern geometric clearance query')
+for o in original_scene.objects:
+ if o.type not in {'MESH','CURVE','SURFACE','FONT','META'} or o.hide_viewport:continue
+ ev=o.evaluated_get(deps);bounds=[ev.matrix_world@Vector(v) for v in ev.bound_box]
+ if all(max(v[i] for v in bounds)>=lo[i] and min(v[i] for v in bounds)<=hi[i] for i in range(3)):
+  query.collection.objects.link(o)
+bpy.context.window.scene=query;bpy.context.view_layer.update();sc=query;deps=bpy.context.evaluated_depsgraph_get()
+print('SOUTH_QUERY_OBJECTS',len(query.objects),'of',len(original_scene.objects),flush=True)
 reports=[]
 for name,poly in routes:
  failures=[];count=0;lastz=None
@@ -68,9 +86,12 @@ for name,poly in routes:
      hit2,p2,_,_,o2,_=sc.ray_cast(deps,pos+Vector((0,0,h)),Vector((normal.x*sign,normal.y*sign,0)),distance=.35)
      if hit2:failures.append({'xy':list(q),'reason':'body width','object':o2.name})
  reports.append({'name':name,'samples':count,'failure_count':len(failures),'failures':failures[:30]})
- print('SOUTH_ROUTE',name,count,'FAILURES',len(failures),flush=True)
+ print('SOUTH_ROUTE',name,count,'FAILURES',len(failures),failures[:3],flush=True)
 report={'version':version,'sample_spacing_max_m':.35,'body_width_m':.70,'headroom_m':1.70,'routes':reports,
- 'all_passed':not any(r['failure_count'] for r in reports),'ue_verified':False}
+ 'all_passed':not any(r['failure_count'] for r in reports),'ue_verified':False,
+ 'query_geometry':'original objects intersecting conservative evaluated bounds; no proxy colliders',
+ 'query_objects':len(query.objects),'query_bounds':[lo,hi]}
 (out/'geometry_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
+bpy.context.window.scene=original_scene;bpy.data.scenes.remove(query)
 if changed or not report['all_passed']:raise RuntimeError('Southern scene validation failed; inspect saved reports')
 print('SOUTH_BATCH_AUDIT_COMPLETE',version,flush=True)

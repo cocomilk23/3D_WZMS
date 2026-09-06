@@ -1,0 +1,46 @@
+{
+  "version": "v0.0.13",
+  "sample_spacing_max_m": 0.35,
+  "body_width_m": 0.7,
+  "headroom_m": 1.7,
+  "routes": [
+    {
+      "name": "Daosi south curve",
+      "samples": 261,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Daosi flower bridge",
+      "samples": 122,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Daosi north junction and Nantian reserved link",
+      "samples": 281,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "ue_verified": false,
+  "query_geometry": "original objects intersecting conservative evaluated bounds; no proxy colliders",
+  "query_objects": 404,
+  "query_bounds": [
+    [
+      -70.5589828491211,
+      46.3125,
+      -1.1
+    ],
+    [
+      -19.5,
+      146.57408142089844,
+      2.4
+    ]
+  ],
+  "validated_against_full_scene": {
+    "same_sample_results": true,
+    "samples": 664
+  }
+}
