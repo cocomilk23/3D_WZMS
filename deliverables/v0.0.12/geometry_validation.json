@@ -1,0 +1,28 @@
+{
+  "version": "v0.0.12",
+  "sample_spacing_max_m": 0.35,
+  "body_width_m": 0.7,
+  "headroom_m": 1.7,
+  "routes": [
+    {
+      "name": "Tennis entrance from existing road",
+      "samples": 154,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Tennis court west ends",
+      "samples": 77,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Tennis north runout and east gate",
+      "samples": 98,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "ue_verified": false
+}

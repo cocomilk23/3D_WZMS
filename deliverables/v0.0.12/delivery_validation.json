@@ -1,0 +1,46 @@
+{
+  "version": "v0.0.12",
+  "model": "models/campus/WZMS_Campus_v012.blend",
+  "bytes": 163268489,
+  "sha256": "374513e6f7694f6a8f8396bb216970808566acc29b8d7adb62940de7effe7a05",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/45_Tennis_ground_toward_wall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "8a045215b41e33315053c468fdde9cb0d26788838b22c2a38efb156a10044ba9"
+    },
+    {
+      "file": "previews/46_Tennis_net_and_campus.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "dd6ee864eaf493bb22d5f1283f927dd33d33d0cacc94cd0b6f053010ad68cdb6"
+    },
+    {
+      "file": "previews/48_Tennis_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "7a4ef6d156df49715416c3976ea36f68e3b99602e9a6cd1d620ece864925ad68"
+    },
+    {
+      "file": "previews/47_Tennis_entry.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "a0623c68c0676912dfe9b310bcbc4d622ed53c32ff2042b2828c9ed34d8aa1ff"
+    }
+  ],
+  "geometry_passed": true,
+  "previous_objects_preserved": true,
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false
+}

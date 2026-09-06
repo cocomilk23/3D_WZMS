@@ -1,0 +1,8 @@
+{
+  "baseline": "v0.0.11",
+  "objects_checked": 26714,
+  "changed_or_missing": [],
+  "new_objects": 668,
+  "unchanged": true,
+  "scope": "mesh coordinates, topology, UVs, material assignments, transforms, modifier identities, visibility; camera/scene settings excluded"
+}
