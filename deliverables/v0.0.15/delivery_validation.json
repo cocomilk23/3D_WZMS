@@ -1,0 +1,55 @@
+{
+  "version": "v0.0.15",
+  "model": "models/campus/WZMS_Campus_v015.blend",
+  "bytes": 175372250,
+  "sha256": "a63b9950457332208ef97352e972a9c554e3921110b80146e8ffd53a8b21b71e",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/58_Shuinan_toward_island.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ade5fe46c8240659e2eb286166874e38eea816d367b62d03032e81ad2f68ae5b"
+    },
+    {
+      "file": "previews/59_Shuinan_toward_court_peninsula.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "230a49a3f1356cb5003bd8a6ed300b01b6ad712b86d3803458e9afa2ce4fbedf"
+    },
+    {
+      "file": "previews/60_Shuinan_court_and_lotus.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "07e117f6dcda2f3a31a40a4eacc99e34a557993e5ba46f6078e7f9ebb5616ec3"
+    },
+    {
+      "file": "previews/61_Shuinan_bridge_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "36dfcf7a37852271a2519071626db99782533ded7ebaa46cd3ffefdfd43105fe"
+    },
+    {
+      "file": "previews/62_Southern_four_scene_integration.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c590a30458b10248634cefa201c705c2b18f07241c22f3c0c5d6cca10f9d76c8"
+    }
+  ],
+  "geometry_passed": true,
+  "previous_objects_preserved": false,
+  "only_documented_connection_adjustments": true,
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false
+}

@@ -9,6 +9,10 @@ from mathutils import Vector
 ROOT=Path(__file__).resolve().parents[2]
 rev=int(sys.argv[sys.argv.index('--')+1]);version='v0.0.'+str(rev)
 out=ROOT/'deliverables'/version;out.mkdir(parents=True,exist_ok=True)
+connection_plants=['Heyu arching variegated strap foliage','Heyu sparse grass blades'] if rev==15 else []
+def plant_faces(name):
+ o=bpy.data.objects[name];m=o.data
+ return {tuple([p.material_index]+[tuple(m.vertices[i].co) for i in p.vertices]) for p in m.polygons}
 def snapshots():
  bpy.context.view_layer.update();meshes={};result={}
  for o in bpy.data.objects:
@@ -27,15 +31,25 @@ def snapshots():
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/f'models/campus/WZMS_Campus_v{rev-1:03}.blend'))
 bpy.context.window.scene=bpy.data.scenes['WZMS_Campus']
 before=snapshots()
+before_plants={name:plant_faces(name) for name in connection_plants}
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/f'models/campus/WZMS_Campus_v{rev:03}.blend'))
 sc=bpy.data.scenes['WZMS_Campus'];bpy.context.window.scene=sc
 after=snapshots()
 changed=[name for name,val in before.items() if after.get(name)!=val]
+adjustments=[]
+for name in connection_plants:
+ if name not in changed:continue
+ old,new=before_plants[name],plant_faces(name);removed=old-new
+ same_properties=all(before[name][key]==after[name][key] for key in before[name] if key!='geometry')
+ local_only=bool(removed) and new<=old and all(any(86.1<=v[0]<=91.7 and 39.85<=v[1]<=44.15 for v in face[1:]) for face in removed)
+ if same_properties and local_only:adjustments.append({'object':name,'removed_faces':len(removed),'scope':'Only existing leaf faces removed at the new east island bridge exit; remaining faces and object properties unchanged'})
+unexpected=[name for name in changed if name not in {a['object'] for a in adjustments}]
 pres={'baseline':f'v0.0.{rev-1}','objects_checked':len(before),'changed_or_missing':changed,
  'new_objects':len(after)-len(before),'unchanged':not changed,
  'scope':'mesh coordinates, topology, UVs, material assignments, transforms, modifier identities, visibility; camera/scene settings excluded'}
+pres.update(expected_connection_adjustments=adjustments,unexpected_changes=unexpected,all_unexpected_changes_absent=not unexpected)
 (out/'preservation_validation.json').write_text(json.dumps(pres,ensure_ascii=False,indent=2),encoding='utf8')
-print('SOUTH_PREDECESSOR_PRESERVED',not changed,changed[:5],flush=True)
+print('SOUTH_PREDECESSOR_PRESERVED',not changed,'DOCUMENTED_CONNECTION_TRIMS',adjustments,'UNEXPECTED',unexpected[:5],flush=True)
 deps=bpy.context.evaluated_depsgraph_get()
 routes=[('Tennis entrance from existing road',[(54,47),(62,47),(62,17),(68,17),(76,17)]),
  ('Tennis court west ends',[(69,17),(69,-1),(77,-1)]),
@@ -50,6 +64,7 @@ if rev==13:
  routes.append(('Daosi north junction and Nantian reserved link',smooth_path([(-69,128),(-69,136),(-58,145),(-30,146),(-20,146)],18)))
 if rev>=14:routes.append(('Heyu entry bridge and island path',[(62,44),(70,44),(77,42),(87,42)]))
 if rev>=15:routes.append(('Shuinan waterside bridge to tennis',[(87,42),(106,42),(106,23),(99,23)]))
+if rev>=15:routes.append(('Shuinan peninsula utility room approach',[(106,30),(106,23),(106,19),(109,19),(109,19.7)]))
 # Conservative broad phase: rays cannot reach geometry outside these bounds.
 # Link original objects into a temporary query scene, avoiding traversal of remote
 # classrooms on every ray. Evaluated bounds include modifiers; no proxy surfaces.
@@ -93,5 +108,5 @@ report={'version':version,'sample_spacing_max_m':.35,'body_width_m':.70,'headroo
  'query_objects':len(query.objects),'query_bounds':[lo,hi]}
 (out/'geometry_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 bpy.context.window.scene=original_scene;bpy.data.scenes.remove(query)
-if changed or not report['all_passed']:raise RuntimeError('Southern scene validation failed; inspect saved reports')
+if unexpected or not report['all_passed']:raise RuntimeError('Southern scene validation failed; inspect saved reports')
 print('SOUTH_BATCH_AUDIT_COMPLETE',version,flush=True)

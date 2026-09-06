@@ -27,11 +27,13 @@ def segment(name,a,b,width,mat,top=-.01,thickness=.22):
  o.rotation_euler.z=math.atan2(d.y,d.x)
  return o
 
-def ribbon(name,points,width,mat,z=-.01,thickness=.2):
+def ribbon(name,points,width,mat,z=-.01,thickness=.2,miter=False):
  pts=[Vector(p) for p in points];v=[]
+ edges=[miter_offset(points,side*width/2) for side in [-1,1]] if miter else None
  for i,p in enumerate(pts):
   direction=pts[min(i+1,len(pts)-1)]-pts[max(0,i-1)]
   normal=Vector((-direction.y,direction.x)).normalized()*width/2
+  if edges:normal=(Vector(edges[1][i])-Vector(edges[0][i]))/2
   zz=z(p) if callable(z) else z
   v.extend([(p.x-normal.x,p.y-normal.y,zz),(p.x+normal.x,p.y+normal.y,zz),
             (p.x-normal.x,p.y-normal.y,zz-thickness),(p.x+normal.x,p.y+normal.y,zz-thickness)])
@@ -55,6 +57,16 @@ def offset(points,distance):
  for i,p in enumerate(points):
   p=Vector(p);a=Vector(points[max(0,i-1)]);b=Vector(points[min(len(points)-1,i+1)])
   t=(b-a).normalized();out.append(tuple(p+Vector((-t.y,t.x))*distance))
+ return out
+
+def miter_offset(points,distance):
+ """Intersect the parallel edges at each corner to retain a constant clear width."""
+ pts=[Vector(p) for p in points];out=[]
+ for i,p in enumerate(pts):
+  a=(pts[i]-pts[i-1]).normalized() if i else (pts[1]-pts[0]).normalized()
+  b=(pts[i+1]-pts[i]).normalized() if i<len(pts)-1 else a
+  na,nb=Vector((-a.y,a.x)),Vector((-b.y,b.x));bis=(na+nb).normalized()
+  out.append(tuple(p+bis*(distance/max(.1,bis.dot(na)))))
  return out
 
 def wire_fence(name,a,b,height=4.0,mat=None,pitch=.11,z=0):
@@ -106,13 +118,16 @@ def glass_rail(a,b,z=0,name='Waterside bridge'):
     pos=Vector(pt(t,h));normal=Vector((-d.y,d.x,0))
     c.rod(name+' glass clamp bolt',pos-normal*.019,pos+normal*.019,.019,steel,sides=10)
 
-def bridge(name,points,width=2.4,top=-.01):
+def bridge(name,points,width=2.4,top=-.01,miter=False,open_land_end=False):
  stone=n.paving('Waterside fine rectangular granite',(.59,.60,.54),(.6,.30),.004)
- ribbon(name+' walkable continuous deck',points,width,stone,top,.30)
+ ribbon(name+' walkable continuous deck',points,width,stone,top,.30,miter=miter)
+ edge_offset=miter_offset if miter else offset
  for side in [-1,1]:
-  edge=offset(points,side*(width/2-.09))
-  for a,b in zip(edge,edge[1:]):glass_rail(a,b,top,name)
-  inner=offset(points,side*(width/2-.23))
+  edge=edge_offset(points,side*(width/2-.09))
+  for index,(a,b) in enumerate(zip(edge,edge[1:])):
+   if open_land_end and index==len(edge)-2:continue
+   glass_rail(a,b,top,name)
+  inner=edge_offset(points,side*(width/2-.23))
   ribbon(name+' recessed drainage',inner,.105,c.material('Waterside drain recess',(.027,.034,.031)),top+.001,.01)
   for a,b in zip(inner,inner[1:]):
    a,b=Vector(a),Vector(b);d=(b-a).normalized();norm=Vector((-d.y,d.x))

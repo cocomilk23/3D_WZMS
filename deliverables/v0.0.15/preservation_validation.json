@@ -1,0 +1,25 @@
+{
+  "baseline": "v0.0.14",
+  "objects_checked": 29251,
+  "changed_or_missing": [
+    "Heyu arching variegated strap foliage",
+    "Heyu sparse grass blades"
+  ],
+  "new_objects": 1280,
+  "unchanged": false,
+  "scope": "mesh coordinates, topology, UVs, material assignments, transforms, modifier identities, visibility; camera/scene settings excluded",
+  "expected_connection_adjustments": [
+    {
+      "object": "Heyu arching variegated strap foliage",
+      "removed_faces": 7707,
+      "scope": "Only existing leaf faces removed at the new east island bridge exit; remaining faces and object properties unchanged"
+    },
+    {
+      "object": "Heyu sparse grass blades",
+      "removed_faces": 191,
+      "scope": "Only existing leaf faces removed at the new east island bridge exit; remaining faces and object properties unchanged"
+    }
+  ],
+  "unexpected_changes": [],
+  "all_unexpected_changes_absent": true
+}

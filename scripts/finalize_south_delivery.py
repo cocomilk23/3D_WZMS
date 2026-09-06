@@ -10,7 +10,7 @@ ver=f'v0.0.{a.revision}';out=ROOT/'deliverables'/ver
 r=json.loads((out/'render_validation.json').read_text(encoding='utf8'))
 g=json.loads((out/'geometry_validation.json').read_text(encoding='utf8'))
 b=json.loads((out/'preservation_validation.json').read_text(encoding='utf8'))
-assert r['version']==ver and g['all_passed'] and b['unchanged'] and not r['missing_external_images']
+assert r['version']==ver and g['all_passed'] and (b['unchanged'] or b.get('all_unexpected_changes_absent',False)) and not r['missing_external_images']
 images=[]
 for rec in r['renders']:
  file=out/rec['file'];data=file.read_bytes();assert data[:8]==b'\x89PNG\r\n\x1a\n'
@@ -25,7 +25,8 @@ for rec in r['renders']:
  images.append({'file':rec['file'],'dimensions':[w,h],'sha256':hashlib.sha256(data).hexdigest()})
 file=ROOT/f'models/campus/WZMS_Campus_v{a.revision:03}.blend'
 report={'version':ver,'model':file.relative_to(ROOT).as_posix(),'bytes':file.stat().st_size,'sha256':hashlib.sha256(file.read_bytes()).hexdigest(),
- 'images_visually_reviewed':True,'previews':images,'geometry_passed':True,'previous_objects_preserved':True,
+ 'images_visually_reviewed':True,'previews':images,'geometry_passed':True,'previous_objects_preserved':b['unchanged'],
+ 'only_documented_connection_adjustments':bool(b.get('expected_connection_adjustments')) and b.get('all_unexpected_changes_absent',False),
  'user_acceptance':'pending','absolute_1_to_1_calibrated':False,'ue_playthrough_verified':False}
 (out/'delivery_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 print(ver,'SEALED',len(images),'images',report['sha256'])
