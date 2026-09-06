@@ -1,0 +1,46 @@
+{
+  "version": "v0.0.14",
+  "model": "models/campus/WZMS_Campus_v014.blend",
+  "bytes": 174216016,
+  "sha256": "b7f284ba970e00431770c3328e94f14fa84156878d1e72e72c84ad8dd0868afb",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/54_Heyu_island_and_banyans.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "7a2e183db11e173125d32691a601b2d60a20319098cde512b080e2473289c78b"
+    },
+    {
+      "file": "previews/55_Heyu_bridge_toward_campus.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "9baaecd411a27626246062d6d9f8d47c230768e22c8ddab1a40b6124a3be74b3"
+    },
+    {
+      "file": "previews/56_Heyu_lotus_and_courts.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "319e9d177f810558d5464c1891612a28312a1316658e89e3988250efa63891c4"
+    },
+    {
+      "file": "previews/57_Heyu_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "3c07e9c9abb4d689aff0ca4dc17ef940166db550b1e039791ef3f8fda2bc4667"
+    }
+  ],
+  "geometry_passed": true,
+  "previous_objects_preserved": true,
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false
+}
