@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.24",
+  "title": "橘岛",
+  "model": "models/campus/WZMS_Campus_v024.blend",
+  "bytes": 205564722,
+  "sha256": "6470d96639c05f681bec440174e11eced25baf56124cb898788ae0735ccb867f",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/93_Ju_stone_bridge.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "980a4a34fd02d3df8801d48306a3f8060c862f02408aa04bdbfa2fa581ed9cce"
+    },
+    {
+      "file": "previews/94_Ju_tree_seat.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c6a4d5045df84c3c67e982270f1fe1a0e78b1d380427d18656630605968c33be"
+    },
+    {
+      "file": "previews/95_Ju_growing_garden.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "244b3a0324e0d1ea0df10625666f7abda5ba393f1a510efaf74b7bde38d7165d"
+    },
+    {
+      "file": "previews/96_Ju_island_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "290339b3d62b8dc0c8d939d0f3d2a88886f09aad31b0f0c65653bd7556b31dfa"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}
