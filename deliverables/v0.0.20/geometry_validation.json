@@ -1,0 +1,31 @@
+{
+  "version": "v0.0.20",
+  "routes": [
+    {
+      "name": "Library east and glass facade route",
+      "samples": 664,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Glass facade south branch",
+      "samples": 109,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Garden junction to yellow bridge",
+      "samples": 304,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 800,
+  "query_geometry": "Original evaluated geometry within conservative route bounds"
+}
