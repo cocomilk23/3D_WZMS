@@ -33,6 +33,7 @@
 - [v0.0.13道司前路](deliverables/v0.0.13/交付说明.md) · [道司前路整合工程](models/campus/WZMS_Campus_v013.blend)
 - [v0.0.14荷屿](deliverables/v0.0.14/交付说明.md) · [荷屿整合工程](models/campus/WZMS_Campus_v014.blend)
 - [v0.0.15水南路与南侧四场景整合](deliverables/v0.0.15/交付说明.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v015.blend)**
+- [v0.0.16整合网页预览](deliverables/v0.0.16/交付说明.md) · **[打开当前网页预览](http://127.0.0.1:8766/)**（本机服务）
 - [Blender样板模型](models/south_gate/WZMS_SouthGate_v002.blend)（Git LFS，含打包的墙面参考图）
 
 ![南侧四场景整合初版](deliverables/v0.0.15/previews/62_Southern_four_scene_integration.png)
@@ -52,6 +53,8 @@
 - `reference/source/`：原始页面、配置与用户截图。
 
 ## 后续工作
+
+2026-09-07 用户要求恢复网页预览，在原页面基础上加入 v0.0.15 整合场景；网页交付编号 v0.0.16，模型版本仍为 v0.0.15。下文“不更新网页预览”为此前制作批次的历史安排，本次以新要求为准。
 
 步青广场至北门五个场景保留 v0.0.7–v0.0.11 交付记录。本批次网球场、道司前路、荷屿和水南路分别保留 v0.0.12–v0.0.15 外景初版，待用户验收；不更新网页预览。后续两侧片区顺序见[从南大门向北的制作顺序](docs/南北向制作顺序.md)。照片依据及估算边界见[南侧建模依据](docs/南侧三场景建模依据.md)、[步青广场至北门依据](docs/步青广场至北门建模依据.md)和[南侧四场景依据](docs/南侧四场景建模依据.md)。[用户反馈](docs/用户反馈与待调整.md)中的南门背面校歌问题按要求保留原状。
 

@@ -1,6 +1,6 @@
 {
   "name": "wzms-web-preview",
-  "version": "0.0.3",
+  "version": "0.0.16",
   "private": true,
   "type": "module",
   "scripts": { "start": "python ../scripts/serve_preview.py" },

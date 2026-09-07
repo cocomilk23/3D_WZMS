@@ -3,38 +3,40 @@
 <head>
   <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#e9eeec">
-  <title>温州中学 · 南大门三维预览</title>
+  <title>温州中学 · 校园三维预览 v0.0.15</title>
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="./style.css">
   <script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
 </head>
 <body>
-  <main id="stage" aria-label="南大门模型预览">
+  <main id="stage" aria-label="温州中学校园模型预览">
     <canvas id="viewport" aria-label="三维模型：拖动旋转，滚轮缩放，右键拖动平移"></canvas>
-    <img id="render-image" alt="南大门 Blender 渲染对照" hidden>
+    <img id="render-image" alt="校园 Blender 渲染对照" hidden>
     <header>
-      <div class="identity"><div class="monogram" aria-hidden="true">温</div><div><p class="eyebrow">WENZHOU MIDDLE SCHOOL</p><h1>温州中学 <span>/ 南大门</span></h1></div></div>
+      <div class="identity"><div class="monogram" aria-hidden="true">温</div><div><p class="eyebrow">WENZHOU MIDDLE SCHOOL</p><h1>温州中学 <span>/ 校园预览</span></h1></div></div>
       <div class="mode-switch" role="group" aria-label="预览模式">
         <button id="interactive" class="selected" aria-pressed="true">三维交互</button><button id="rendered" aria-pressed="false">渲染对照</button>
       </div>
     </header>
-    <div id="loading" role="status"><span class="loader-symbol">◌</span><strong id="loading-title">正在打开校园样板</strong><p id="loading-text">首次加载需要片刻</p><div class="progress-track"><i id="progress"></i></div><button id="retry" hidden>重新加载</button></div>
+    <div id="loading" role="status"><span class="loader-symbol">◌</span><strong id="loading-title">正在打开校园整合场景</strong><p id="loading-text">首次加载需要片刻，可先看渲染对照</p><div class="progress-track"><i id="progress"></i></div><button id="retry" hidden>重新加载</button></div>
     <div class="tools" role="group" aria-label="观察工具">
       <button id="reset" title="恢复当前视角" aria-label="恢复当前视角">↺</button>
       <button id="rotate" title="自动旋转" aria-label="自动旋转" aria-pressed="false">⟳</button>
       <button id="wireframe" title="查看网格" aria-label="查看网格" aria-pressed="false">▧</button>
       <button id="fullscreen" title="全屏预览" aria-label="全屏预览">⛶</button>
     </div>
-    <div class="scene-label"><span class="live-dot"></span><span id="view-label">斜侧 · 入口关系</span><span class="sample">首版样板</span></div>
+    <div class="scene-label"><span class="live-dot"></span><span id="view-label">南侧整合 · 本轮四场景</span><span class="sample">v0.0.15 外景初版</span></div>
     <footer>
+      <label class="scene-picker">前往场景 <select id="scene-select" aria-label="前往场景"></select></label>
       <div class="view-dock" role="group" aria-label="选择观察视角">
-        <button data-view="front"><img src="./assets/01_Front_reference.png" alt=""><span><small>01</small> 正面</span></button>
-        <button data-view="oblique" class="selected" aria-pressed="true"><img src="./assets/02_Oblique_walkup.png" alt=""><span><small>02</small> 斜侧</span></button>
-        <button data-view="aerial"><img src="./assets/03_Aerial_overview.png" alt=""><span><small>03</small> 航拍</span></button>
-        <button data-view="detail"><img src="./assets/04_Ground_detail.png" alt=""><span><small>04</small> 近景</span></button>
+        <button data-view="campus" class="selected" aria-pressed="true"><img src="./assets/campus/62_Southern_four_scene_integration.png" alt=""><span><small>01</small> 本轮整合</span></button>
+        <button data-view="tennis"><img src="./assets/campus/48_Tennis_overview.png" alt=""><span><small>02</small> 网球场</span></button>
+        <button data-view="daosi"><img src="./assets/campus/49_Daosi_shaded_curve.png" alt=""><span><small>03</small> 道司前路</span></button>
+        <button data-view="heyu"><img src="./assets/campus/54_Heyu_island_and_banyans.png" alt=""><span><small>04</small> 荷屿</span></button>
+        <button data-view="shuinan"><img src="./assets/campus/58_Shuinan_toward_island.png" alt=""><span><small>05</small> 水南路</span></button>
       </div>
-      <p id="interaction-hint">拖动旋转 · 滚轮缩放 · 右键平移 <span>按 1–4 切换视角</span></p>
-      <p class="disclosure">尺寸尚未校准 · 校名与浮雕为照片表面细节 · 网页材质以渲染对照为准</p>
+      <p id="interaction-hint">拖动旋转 · 滚轮缩放 · 右键平移 <span>按 1–5 切换本轮场景</span></p>
+      <p class="disclosure">尺寸待校准 · 网页植被与材质为轻量预览 · 细节请看渲染对照 · 未建区域待补齐</p>
     </footer>
   </main>
   <script type="module" src="./viewer.js"></script>

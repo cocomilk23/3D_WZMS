@@ -1,0 +1,12 @@
+{
+  "browser": "Codex in-app browser",
+  "url": "http://127.0.0.1:8766/",
+  "date": "2026-09-07",
+  "canvas_loaded": true,
+  "scene_selector_options_checked": 22,
+  "visually_reviewed": ["southern integration", "Shuinan ground view", "tennis overview", "Blender render comparison"],
+  "controls_checked": ["scene selection", "render comparison", "return to interactive", "wireframe toggle", "auto-rotate toggle", "reset"],
+  "narrow_viewport": {"width": 390, "height": 844, "scroll_width": 390, "all_five_cards_fit": true},
+  "runtime_errors_observed": [],
+  "notes": ["One non-fatal GPU shader floating-point precision warning was observed.", "Frame rate and mobile hardware performance were not benchmarked.", "Free observation only; walking collision is not implemented."]
+}

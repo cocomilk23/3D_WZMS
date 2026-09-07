@@ -1,0 +1,725 @@
+{
+  "source": "models/campus/WZMS_Campus_v015.blend",
+  "source_sha256": "a63b9950457332208ef97352e972a9c554e3921110b80146e8ffd53a8b21b71e",
+  "source_unchanged": true,
+  "file": "web-preview/assets/campus-v015.glb",
+  "bytes": 51051024,
+  "sha256": "d27e1986d1ff5965cbc4d601337c4b2cf066fbb1e7e6efc52abb6f30b09dbc2b",
+  "original_objects": 30463,
+  "original_faces_with_instances": 16326331,
+  "web_faces": 2338471,
+  "foliage_lod": [
+    {
+      "mesh": "Forecourt central tree foliage dense canopy",
+      "original_faces": 32000,
+      "web_faces": 2000
+    },
+    {
+      "mesh": "Low rectangular groundcover",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row -1-0 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.001",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row -1-1 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.002",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row -1-2 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.003",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row -1-3 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.004",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row 1-0 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.005",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row 1-1 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.006",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row 1-2 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Low rectangular groundcover.007",
+      "original_faces": 67924,
+      "web_faces": 4246
+    },
+    {
+      "mesh": "Plaza row 1-3 individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Garden broadleaf -1 0 individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Garden broadleaf -1 1 individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Garden broadleaf -1 2 individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Garden broadleaf 1 0 individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Garden broadleaf 1 1 individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Garden broadleaf 1 2 individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Facade low hedge",
+      "original_faces": 47248,
+      "web_faces": 2953
+    },
+    {
+      "mesh": "Facade low hedge.001",
+      "original_faces": 47248,
+      "web_faces": 2953
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.001",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.002",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.003",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.004",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.005",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.006",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Trimmed facade tree individual leaves.007",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Lakeside planting strip",
+      "original_faces": 236340,
+      "web_faces": 14772
+    },
+    {
+      "mesh": "Roadside mature tree individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Roadside mature tree individual leaves.001",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Roadside mature tree individual leaves.002",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Roadside mature tree individual leaves.003",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Bridgehead broadleaf individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Bridgehead groundcover",
+      "original_faces": 24696,
+      "web_faces": 1544
+    },
+    {
+      "mesh": "Bridgehead broadleaf individual leaves.001",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Bridgehead groundcover.001",
+      "original_faces": 24696,
+      "web_faces": 1544
+    },
+    {
+      "mesh": "Bridgehead broadleaf individual leaves.002",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Bridgehead groundcover.002",
+      "original_faces": 24696,
+      "web_faces": 1544
+    },
+    {
+      "mesh": "Bridgehead broadleaf individual leaves.003",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Bridgehead groundcover.003",
+      "original_faces": 24696,
+      "web_faces": 1544
+    },
+    {
+      "mesh": "East garden broadleaf individual leaves",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "East garden broadleaf individual leaves.001",
+      "original_faces": 44800,
+      "web_faces": 2800
+    },
+    {
+      "mesh": "Buqing western low planting",
+      "original_faces": 44880,
+      "web_faces": 2805
+    },
+    {
+      "mesh": "Buqing mature canopy canopy leaves",
+      "original_faces": 144000,
+      "web_faces": 9000
+    },
+    {
+      "mesh": "Middle mature avenue tree canopy leaves",
+      "original_faces": 144000,
+      "web_faces": 9000
+    },
+    {
+      "mesh": "Middle alternate avenue tree canopy leaves",
+      "original_faces": 144000,
+      "web_faces": 9000
+    },
+    {
+      "mesh": "Avenue liriope border",
+      "original_faces": 38376,
+      "web_faces": 2399
+    },
+    {
+      "mesh": "Avenue liriope border.001",
+      "original_faces": 23400,
+      "web_faces": 1463
+    },
+    {
+      "mesh": "Avenue liriope border.002",
+      "original_faces": 22356,
+      "web_faces": 1398
+    },
+    {
+      "mesh": "Avenue liriope border.004",
+      "original_faces": 16200,
+      "web_faces": 1013
+    },
+    {
+      "mesh": "Garden clipped shrub leaves",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Garden clipped shrub leaves.001",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Garden clipped shrub leaves.002",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Garden clipped shrub leaves.003",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Garden clipped shrub leaves.004",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Garden clipped shrub leaves.005",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Garden clipped shrub leaves.006",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Avenue potted shrub leaves",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Avenue potted shrub leaves.001",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Avenue potted shrub leaves.002",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "North liriope border",
+      "original_faces": 40664,
+      "web_faces": 2542
+    },
+    {
+      "mesh": "North liriope border.001",
+      "original_faces": 6188,
+      "web_faces": 387
+    },
+    {
+      "mesh": "North liriope border.002",
+      "original_faces": 28152,
+      "web_faces": 1760
+    },
+    {
+      "mesh": "North liriope border.003",
+      "original_faces": 4284,
+      "web_faces": 268
+    },
+    {
+      "mesh": "North garden shrub leaves",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "North garden shrub leaves.001",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "North garden shrub leaves.002",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "North garden shrub leaves.003",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "North garden shrub leaves.004",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Bamboo-islet lane young tree individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Canteen branch young tree individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Bamboo-islet lane young tree individual leaves.001",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Canteen branch young tree individual leaves.001",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Bamboo-islet lane young tree individual leaves.002",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Canteen branch young tree individual leaves.002",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Bamboo-islet lane young tree individual leaves.003",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Canteen branch young tree individual leaves.003",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Canteen low hedge",
+      "original_faces": 31980,
+      "web_faces": 1999
+    },
+    {
+      "mesh": "Tennis clipped border leaves",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.001",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.002",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.003",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.004",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.005",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.006",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.007",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.008",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.009",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.010",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.011",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.012",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.013",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.014",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.015",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.016",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.017",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.018",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.019",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.020",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.021",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.022",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.023",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.024",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.025",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.026",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.027",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.028",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.029",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.030",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.031",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.032",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.033",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.034",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.035",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.036",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.037",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.038",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.039",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.040",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Tennis clipped border leaves.041",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Daosi dense bridge flower foliage",
+      "original_faces": 20000,
+      "web_faces": 1250
+    },
+    {
+      "mesh": "Daosi dense bridge flower foliage.001",
+      "original_faces": 20000,
+      "web_faces": 1250
+    },
+    {
+      "mesh": "Daosi dense garden groundcover",
+      "original_faces": 21840,
+      "web_faces": 1365
+    },
+    {
+      "mesh": "Daosi dense garden groundcover.001",
+      "original_faces": 26880,
+      "web_faces": 1680
+    },
+    {
+      "mesh": "Daosi dense garden groundcover.002",
+      "original_faces": 11200,
+      "web_faces": 700
+    },
+    {
+      "mesh": "Daosi dense garden groundcover.003",
+      "original_faces": 7840,
+      "web_faces": 490
+    },
+    {
+      "mesh": "Daosi sculpted shrub leaves",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Daosi sculpted shrub leaves.001",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Daosi sculpted shrub leaves.002",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Daosi sculpted shrub leaves.003",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Daosi sculpted shrub leaves.004",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Shuinan young supported tree individual leaves",
+      "original_faces": 21504,
+      "web_faces": 1344
+    },
+    {
+      "mesh": "Shuinan low shore shrubs leaves",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Shuinan low shore shrubs leaves.001",
+      "original_faces": 9200,
+      "web_faces": 575
+    },
+    {
+      "mesh": "Shuinan low shore shrubs leaves.002",
+      "original_faces": 9200,
+      "web_faces": 575
+    }
+  ],
+  "seconds": 877.2,
+  "notes": [
+    "Browser foliage uses one enlarged quad for every four procedural leaves.",
+    "Buildings, bridges and court geometry retained.",
+    "Procedural shader colours approximated; photographs retained.",
+    "No walking collision; orbit inspection only."
+  ]
+}

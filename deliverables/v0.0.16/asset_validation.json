@@ -1,0 +1,14 @@
+{
+  "version": "v0.0.16",
+  "model_version": "v0.0.15",
+  "source_blend_unchanged": true,
+  "glb_bytes": 51051024,
+  "meshes": 2,
+  "primitives": 205,
+  "triangles": 4259224,
+  "embedded_images": 3,
+  "camera_presets": 22,
+  "http_resources_passed": 29,
+  "url": "http://127.0.0.1:8766/",
+  "public_deployment": false
+}
