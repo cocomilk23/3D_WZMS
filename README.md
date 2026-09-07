@@ -35,7 +35,8 @@
 - [v0.0.15水南路与南侧四场景整合](deliverables/v0.0.15/交付说明.md) · [南侧整合工程](models/campus/WZMS_Campus_v015.blend)
 - [v0.0.16整合网页预览](deliverables/v0.0.16/交付说明.md) · **[打开当前网页预览](http://127.0.0.1:8766/)**（本机服务）
 - [v0.0.17图书馆外景](deliverables/v0.0.17/README.md) · [图书馆外景工程](models/campus/WZMS_Campus_v017.blend)
-- [v0.0.18图书馆大厅与中庭](deliverables/v0.0.18/README.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v018.blend)**
+- [v0.0.18图书馆大厅与中庭](deliverables/v0.0.18/README.md) · [图书馆内外景整合工程](models/campus/WZMS_Campus_v018.blend)
+- [v0.0.19数学馆外景](deliverables/v0.0.19/README.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v019.blend)**
 - [Blender样板模型](models/south_gate/WZMS_SouthGate_v002.blend)（Git LFS，含打包的墙面参考图）
 
 ![南侧四场景整合初版](deliverables/v0.0.15/previews/62_Southern_four_scene_integration.png)

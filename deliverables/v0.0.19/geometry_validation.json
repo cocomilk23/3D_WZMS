@@ -1,0 +1,19 @@
+{
+  "version": "v0.0.19",
+  "routes": [
+    {
+      "name": "Library south to mathematics gate",
+      "samples": 587,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 123,
+  "query_geometry": "Original evaluated geometry within conservative route bounds"
+}

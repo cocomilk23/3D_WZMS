@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.19",
+  "title": "数学馆外景",
+  "model": "models/campus/WZMS_Campus_v019.blend",
+  "bytes": 182115435,
+  "sha256": "058287639c0caa38a4250b6578ab11a6dff328edade15f84c91ebfd4370d011c",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/72_Math_gate_and_flowers.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "6b8e75bc9381cd62a30e5b8760e4ef682781aec0d935290e63601c038e13ad45"
+    },
+    {
+      "file": "previews/73_Math_courtyard_reverse.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c84afaead6be97600530714017937be79aa3d5fc2becc66bf9630107c47709b8"
+    },
+    {
+      "file": "previews/74_Math_glass_wing.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e8f55b86cdc484f501cc06ab7a599acee8127465211fc60ec6a02b8d1289adb3"
+    },
+    {
+      "file": "previews/75_Math_library_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "a87339515eca971337d8717061529acca06caccca862c13ed762731436947426"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}
