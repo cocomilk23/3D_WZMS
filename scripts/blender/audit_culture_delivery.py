@@ -11,6 +11,9 @@ if rev in (21,25,29,33,39):
  if rev==33:
   # Surface the new connection checks early; every registered route still runs.
   stage['routes'].sort(key=lambda item:0 if item[0].startswith('v33:') or item[0]=='v25: Jiangkou west branch toward Nantian' else 1)
+ if rev==39:
+  # Inspect the newly added dining circulation first; retain every prior route.
+  stage['routes'].sort(key=lambda item:0 if item[0].startswith('v39:') else 1)
 out=ROOT/f'deliverables/v0.0.{rev}';out.mkdir(parents=True,exist_ok=True)
 def snapshot():
  bpy.context.view_layer.update();meshes={};result={}

@@ -1,0 +1,116 @@
+{
+  "version": "v0.0.39",
+  "title": "食堂就餐内景与本部室内整合",
+  "model": "models/campus/WZMS_Campus_v039.blend",
+  "bytes": 386194071,
+  "sha256": "95bad7906f4841c984c9360c1b83d935fe7b613957b6df257993d365d190c373",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/164_Canteen_dining_hall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c9d7c03a4f7b1b1d0ad6fcf3600cb90be71e3affab526d93f54f6d63fd38f1ac"
+    },
+    {
+      "file": "previews/165_Canteen_blue_stool_detail.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ac64f28976b1155b9be913641f9bb7c93a3e131f48ee3b9ceab27da091290d27"
+    },
+    {
+      "file": "previews/166_Canteen_service_and_return.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "3560de55a04949a4f8f02c2c72fde10ee807756e842af082674b21b4357c3ed2"
+    },
+    {
+      "file": "previews/167_Canteen_window_and_tables.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "3e03085d9702468329c5e93cb47557518599daea7145cd088dde7efe8eeb67eb"
+    },
+    {
+      "file": "previews/168_Campus_integrated_v039.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c81c6185ce67f397dab42e59a6718676248b059682ce0fa7088a9770b195ad7a"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Canteen entrance red queue strap",
+    "Canteen long window glass",
+    "Canteen long window glass.001",
+    "Canteen long window glass.002",
+    "Canteen long window glass.003",
+    "Canteen long window glass.004",
+    "Canteen long window glass.005",
+    "Canteen long window glass.006",
+    "Canteen long window glass.007",
+    "Canteen long window glass.008",
+    "Canteen long window glass.009",
+    "Canteen long window glass.010",
+    "Canteen long window glass.011",
+    "Canteen long window glass.012",
+    "Canteen long window glass.013",
+    "Canteen queue post",
+    "Canteen queue post foot",
+    "Canteen queue post foot.001",
+    "Canteen queue post foot.002",
+    "Canteen queue post.001",
+    "Canteen queue post.002",
+    "Canteen south door overlight",
+    "Canteen south door sidelight",
+    "Canteen south glass door and window",
+    "Canteen south glass door and window.001",
+    "Canteen south glass door and window.002",
+    "Canteen south glass door and window.003",
+    "Canteen south glass door and window.004",
+    "Canteen south glass door and window.005",
+    "Canteen south glass door and window.006",
+    "Visible dining bench seat",
+    "Visible dining bench seat.001",
+    "Visible dining bench seat.002",
+    "Visible dining bench seat.003",
+    "Visible dining bench seat.004",
+    "Visible dining bench seat.005",
+    "Visible dining bench seat.006",
+    "Visible dining bench seat.007",
+    "Visible dining table",
+    "Visible dining table.001",
+    "Visible dining table.002",
+    "Visible dining table.003",
+    "Visible table leg",
+    "Visible table leg.001",
+    "Visible table leg.002",
+    "Visible table leg.003",
+    "Visible table leg.004",
+    "Visible table leg.005",
+    "Visible table leg.006",
+    "Visible table leg.007",
+    "Visible table leg.008",
+    "Visible table leg.009",
+    "Visible table leg.010",
+    "Visible table leg.011",
+    "Visible table leg.012",
+    "Visible table leg.013",
+    "Visible table leg.014",
+    "Visible table leg.015"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}
