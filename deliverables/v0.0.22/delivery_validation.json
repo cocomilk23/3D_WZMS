@@ -1,0 +1,60 @@
+{
+  "version": "v0.0.22",
+  "title": "桃花岛",
+  "model": "models/campus/WZMS_Campus_v022.blend",
+  "bytes": 188189867,
+  "sha256": "13512c7978aac5bbc687565ff515febc13cb5c312e25f7ecb9d0b2120034a62d",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/85_Taohua_white_portals.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e2a037c339cee77aae5b532bdd8573c68cbd19f854bef592f1606ec7763dd997"
+    },
+    {
+      "file": "previews/86_Taohua_twin_kiosks.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "c0fd6e8ddd65ad941e082604b8ee47861f51cd22b144cdfe2fb2138331e91371"
+    },
+    {
+      "file": "previews/87_Taohua_coloured_garden.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "a55712dee99517ac26d7978b05580f781596ea4ec8a010516284eeb1808aa375"
+    },
+    {
+      "file": "previews/88_Taohua_island_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ae97dbd4730d912ab4e70aaf04a184de974e5e0f145b69850706a1eae3499af8"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Jiushan garden landscape stone",
+    "Jiushan low evergreen bank branch.020",
+    "Jiushan low evergreen bank branch.021",
+    "Jiushan low evergreen bank branch.022",
+    "Jiushan low evergreen bank branch.023",
+    "Jiushan low evergreen bank branch.024",
+    "Jiushan low evergreen bank leaves.004",
+    "Jiushan white garden gateway lintel",
+    "Jiushan white garden gateway pier",
+    "Jiushan white garden gateway pier.001"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

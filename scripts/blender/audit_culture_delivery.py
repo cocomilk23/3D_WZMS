@@ -5,8 +5,8 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
-if rev==21:
- stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,22) for name,poly in STAGES[r]['routes']])
+if rev in (21,25):
+ stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) for name,poly in STAGES[r]['routes']])
 out=ROOT/f'deliverables/v0.0.{rev}';out.mkdir(parents=True,exist_ok=True)
 def snapshot():
  bpy.context.view_layer.update();meshes={};result={}
@@ -22,7 +22,7 @@ def snapshot():
  return result
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/f'models/campus/WZMS_Campus_v{stage["previous"]:03}.blend'))
 bpy.context.window.scene=bpy.data.scenes['WZMS_Campus'];before=snapshot()
-allowed=set(json.loads((out/'replacement_scope.json').read_text(encoding='utf8'))['retired_objects']) if rev==17 else set()
+allowed=set(json.loads((out/'replacement_scope.json').read_text(encoding='utf8'))['retired_objects']) if (out/'replacement_scope.json').exists() else set()
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/f'models/campus/WZMS_Campus_v{rev:03}.blend'))
 sc=bpy.data.scenes['WZMS_Campus'];bpy.context.window.scene=sc;after=snapshot()
 changed=[x for x in before if before[x]!=after.get(x)];unexpected=[x for x in changed if x not in allowed]
