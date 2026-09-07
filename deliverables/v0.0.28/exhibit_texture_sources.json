@@ -1,0 +1,227 @@
+{
+  "source_scene": 119232356,
+  "original_faces_packed": true,
+  "panels": [
+    {
+      "object": "Alumni original blue profile panel",
+      "face": "l",
+      "quad_pixels_on_1600": [
+        [
+          905,
+          761
+        ],
+        [
+          977,
+          758
+        ],
+        [
+          977,
+          935
+        ],
+        [
+          905,
+          928
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original blue profile panel.001",
+      "face": "l",
+      "quad_pixels_on_1600": [
+        [
+          848,
+          764
+        ],
+        [
+          902,
+          761
+        ],
+        [
+          902,
+          928
+        ],
+        [
+          848,
+          922
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original blue profile panel.002",
+      "face": "l",
+      "quad_pixels_on_1600": [
+        [
+          795,
+          768
+        ],
+        [
+          845,
+          765
+        ],
+        [
+          845,
+          922
+        ],
+        [
+          795,
+          917
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original blue profile panel.003",
+      "face": "l",
+      "quad_pixels_on_1600": [
+        [
+          744,
+          771
+        ],
+        [
+          792,
+          768
+        ],
+        [
+          792,
+          916
+        ],
+        [
+          744,
+          911
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original blue profile panel.004",
+      "face": "l",
+      "quad_pixels_on_1600": [
+        [
+          699,
+          773
+        ],
+        [
+          741,
+          771
+        ],
+        [
+          741,
+          910
+        ],
+        [
+          699,
+          906
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original blue profile panel.005",
+      "face": "l",
+      "quad_pixels_on_1600": [
+        [
+          654,
+          775
+        ],
+        [
+          696,
+          773
+        ],
+        [
+          696,
+          905
+        ],
+        [
+          654,
+          901
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original red exhibition panel",
+      "face": "f",
+      "quad_pixels_on_1600": [
+        [
+          1125,
+          741
+        ],
+        [
+          1221,
+          737
+        ],
+        [
+          1221,
+          963
+        ],
+        [
+          1125,
+          951
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original red exhibition panel.001",
+      "face": "f",
+      "quad_pixels_on_1600": [
+        [
+          1227,
+          737
+        ],
+        [
+          1338,
+          730
+        ],
+        [
+          1338,
+          980
+        ],
+        [
+          1227,
+          965
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original red exhibition panel.002",
+      "face": "f",
+      "quad_pixels_on_1600": [
+        [
+          1348,
+          731
+        ],
+        [
+          1455,
+          722
+        ],
+        [
+          1455,
+          1004
+        ],
+        [
+          1348,
+          984
+        ]
+      ]
+    },
+    {
+      "object": "Alumni original red exhibition panel.003",
+      "face": "f",
+      "quad_pixels_on_1600": [
+        [
+          1464,
+          722
+        ],
+        [
+          1575,
+          712
+        ],
+        [
+          1575,
+          1040
+        ],
+        [
+          1464,
+          1009
+        ]
+      ]
+    }
+  ],
+  "text_transcription": "No biographies invented; original photographs mapped projectively."
+}
