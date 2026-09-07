@@ -1,0 +1,57 @@
+{
+  "version": "v0.0.38",
+  "title": "校史馆展厅与陈列",
+  "model": "models/campus/WZMS_Campus_v038.blend",
+  "bytes": 385753904,
+  "sha256": "7f1ce26b369d39a5573c2c881508b2a99ee062249f2b524319acf53bf764fd8a",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/159_History_entry_preface.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "93c6be6a6a5c66a52e1d03e94f422a0606c4731c94bdcf9cc6c6905af56d5fca"
+    },
+    {
+      "file": "previews/160_History_century_and_miniatures.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "fcffe0b2b1736bca7b5cb54bcd5553dc5885eb7f6fa86ac0e8735377aa98fe28"
+    },
+    {
+      "file": "previews/161_History_exhibition_aisle.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "52c616ecbe2b3272cd30371bcc2522fc2b2a624b6b97e726622ee7c77aa0367f"
+    },
+    {
+      "file": "previews/162_History_teachers_and_photo_wall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "079a697d201ffe8d23971df1f10b3e23b11b0547012093ad794df81396e05705"
+    },
+    {
+      "file": "previews/163_History_calligraphy_and_ceiling.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "429300b163a46c99fcd77f9941f52bfeca5382999ca2bf8cee6ec3662f4319a7"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}
