@@ -31,11 +31,16 @@ pres={'baseline':f'v0.0.{stage["previous"]}','objects_checked':len(before),'chan
 # Build a bounded query using original evaluated geometry, not substitute floor planes.
 pts=[p for _,route in stage['routes'] for p in route]
 lo=[min(p[i] for p in pts)-(.6 if i<2 else 1) for i in range(3)];hi=[max(p[i] for p in pts)+(.6 if i<2 else 2.3) for i in range(3)]
+corridors=[]
+for _,route in stage['routes']:
+ for a,b in zip(route,route[1:]):
+  corridors.append(([min(a[i],b[i])-(.6 if i<2 else 1) for i in range(3)],[max(a[i],b[i])+(.6 if i<2 else 2.3) for i in range(3)]))
 deps=bpy.context.evaluated_depsgraph_get();query=bpy.data.scenes.new('Temporary culture route query')
 for o in sc.objects:
  if o.type!='MESH' or o.hide_viewport:continue
  ev=o.evaluated_get(deps);bounds=[ev.matrix_world@Vector(v) for v in ev.bound_box]
- if all(max(v[i] for v in bounds)>=lo[i] and min(v[i] for v in bounds)<=hi[i] for i in range(3)):query.collection.objects.link(o)
+ oblo=[min(v[i] for v in bounds) for i in range(3)];obhi=[max(v[i] for v in bounds) for i in range(3)]
+ if all(obhi[i]>=lo[i] and oblo[i]<=hi[i] for i in range(3)) and any(all(obhi[i]>=clo[i] and oblo[i]<=chi[i] for i in range(3)) for clo,chi in corridors):query.collection.objects.link(o)
 bpy.context.window.scene=query;bpy.context.view_layer.update();deps=bpy.context.evaluated_depsgraph_get();reports=[]
 for name,poly in stage['routes']:
  failures=[];count=0;last=None;lastpos=None;lastnormal=None
@@ -68,7 +73,7 @@ for name,poly in stage['routes']:
   
  reports.append(dict(name=name,samples=count,failure_count=len(failures),failures=failures[:40]))
  print('CULTURE_ROUTE',name,count,'FAILURES',len(failures),failures[:4],flush=True)
-report=dict(version=f'v0.0.{rev}',routes=reports,all_passed=all(r['failure_count']==0 for r in reports),sample_spacing_max_m=.14,body_width_m=.70,headroom_m=1.72,step_limit_m=.20,ue_verified=False,query_objects=len(query.objects),query_geometry='Original evaluated geometry within conservative route bounds')
+report=dict(version=f'v0.0.{rev}',routes=reports,all_passed=all(r['failure_count']==0 for r in reports),sample_spacing_max_m=.14,body_width_m=.70,headroom_m=1.72,step_limit_m=.20,ue_verified=False,query_objects=len(query.objects),query_geometry='Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach')
 (out/'geometry_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 bpy.context.window.scene=sc;bpy.data.scenes.remove(query)
 if unexpected or not report['all_passed']:raise RuntimeError('Culture audit failed: inspect JSON reports')

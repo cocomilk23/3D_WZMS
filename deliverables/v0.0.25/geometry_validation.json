@@ -1,0 +1,145 @@
+{
+  "version": "v0.0.25",
+  "routes": [
+    {
+      "name": "v17: Ground portico to entrance",
+      "samples": 116,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v17: External stairs and upper entry",
+      "samples": 260,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v18: First floor entry and central stairs",
+      "samples": 184,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v18: Second floor external entrance to upper staircase",
+      "samples": 208,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v19: Library south to mathematics gate",
+      "samples": 587,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v20: Library east and glass facade route",
+      "samples": 664,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v20: Glass facade south branch",
+      "samples": 109,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v20: Garden junction to yellow bridge",
+      "samples": 304,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v21: Yellow bridge to museum entrance",
+      "samples": 163,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v22: Taohua white portal entry",
+      "samples": 183,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v22: Taohua pink portal walk",
+      "samples": 98,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v22: Taohua blue portal walk",
+      "samples": 98,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v22: Taohua pavilion entry",
+      "samples": 81,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v22: Taohua circular terraces",
+      "samples": 177,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v23: Yellow bridge to art plaza",
+      "samples": 478,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v23: Art plaza to future Ju bridge landing",
+      "samples": 298,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v24: Art plaza over stepped stone bridge",
+      "samples": 177,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v24: Ju tree and garden loop",
+      "samples": 450,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v25: Jiushan to Jiangkou east garden",
+      "samples": 1372,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v25: Jiangkou west branch toward Nantian",
+      "samples": 397,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v25: Zhongshan branch to bamboo water terrace",
+      "samples": 516,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "v25: Bamboo island garden walk",
+      "samples": 122,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 1308,
+  "query_geometry": "Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach"
+}

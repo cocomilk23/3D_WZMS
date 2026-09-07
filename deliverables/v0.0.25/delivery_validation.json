@@ -1,0 +1,59 @@
+{
+  "version": "v0.0.25",
+  "title": "江口路与竹屿连接段",
+  "model": "models/campus/WZMS_Campus_v025.blend",
+  "bytes": 208956936,
+  "sha256": "e45c76e3a9e54b797d0c63e3f44bff4a67d7d26935aac93c17e932e0a415ca4c",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/97_Jiangkou_shaded_walk.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "2808e68c1c4b5a1b2196371cfe140c7de1dc370725458ac68f96a914e0acde25"
+    },
+    {
+      "file": "previews/98_Jiangkou_cultural_screens.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "0f7ade8a3dd4480ffe25b98393da219b20914808cd1380e34d68560465c93b33"
+    },
+    {
+      "file": "previews/99_Zhuyu_timber_walk.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "8df297bceb7304ad824ead30b2f366be6e6807de6ab65d1e57aedeacb1584f5d"
+    },
+    {
+      "file": "previews/100_Zhuyu_lakeside.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "b4049eb5ded22c5d3c0f3f6840768645221f97488e005383ecb71fa286de845e"
+    },
+    {
+      "file": "previews/101_Island_batch_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "652be074a59ea56f30aafcb40bcf9db207bf025a6ae10a60f560267a8d47cec4"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "North regional terrain CONTEXT_ESTIMATED"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

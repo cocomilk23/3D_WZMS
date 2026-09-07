@@ -1,0 +1,6 @@
+{
+  "retired_objects": [
+    "North regional terrain CONTEXT_ESTIMATED"
+  ],
+  "reason": "Replace explicitly identified estimated context with this reference-led scene."
+}
