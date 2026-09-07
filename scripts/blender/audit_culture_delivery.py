@@ -5,7 +5,7 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
-if rev in (21,25):
+if rev in (21,25,29):
  stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) for name,poly in STAGES[r]['routes']])
 out=ROOT/f'deliverables/v0.0.{rev}';out.mkdir(parents=True,exist_ok=True)
 def snapshot():

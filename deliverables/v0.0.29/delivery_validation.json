@@ -1,0 +1,80 @@
+{
+  "version": "v0.0.29",
+  "title": "南田路与西侧文化区整合",
+  "model": "models/campus/WZMS_Campus_v029.blend",
+  "bytes": 239148961,
+  "sha256": "561fb9b90353a75ca6cdcffc2c557bd4e3426cc7622d734f0852247f24e94971",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/115_Nantian_shaded_avenue.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "32a3563903eaa58abbc29f02f3610ad850279931de3b882caa42559279918ac5"
+    },
+    {
+      "file": "previews/116_Nantian_Buqing_portal.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "5e4885e1019cfb63a517ae0cf9917a16b9fbc90d9634984f57667d15711b4b2c"
+    },
+    {
+      "file": "previews/117_Nantian_Jiangkou_connection.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "4003c66e3eaff1985cace43ea2a5028431546ef71e74884cb52061aca5eebd9e"
+    },
+    {
+      "file": "previews/118_Nantian_sports_edge.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "52ad7c6a39fc7491f5f63a7bed456b57d87f8f04222937ccd2a450582ab12ea6"
+    },
+    {
+      "file": "previews/119_West_precinct_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "a754332fca6b1f1002f02f727982ae2eadd45c07fddfe05b5964d591e0c2ed5f"
+    },
+    {
+      "file": "previews/120_Campus_integrated_v029.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "2487c63880eb629e4e1753af28a2bd4c79770c09a93501de80f449de44b29bff"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Bin vertical metal slat.008",
+    "Bin vertical metal slat.009",
+    "Bin vertical metal slat.010",
+    "Bin vertical metal slat.011",
+    "Bin vertical metal slat.012",
+    "Bin vertical metal slat.013",
+    "Bin vertical metal slat.014",
+    "Bin vertical metal slat.015",
+    "Buqing granite seat.001",
+    "Buqing litter bin.001",
+    "Buqing western lawn",
+    "Buqing western low planting",
+    "Seat stone support.002",
+    "Seat stone support.003"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

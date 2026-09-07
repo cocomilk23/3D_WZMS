@@ -1,0 +1,40 @@
+{
+  "baseline": "v0.0.28",
+  "objects_checked": 40719,
+  "changed_or_missing": [
+    "Bin vertical metal slat.008",
+    "Bin vertical metal slat.009",
+    "Bin vertical metal slat.010",
+    "Bin vertical metal slat.011",
+    "Bin vertical metal slat.012",
+    "Bin vertical metal slat.013",
+    "Bin vertical metal slat.014",
+    "Bin vertical metal slat.015",
+    "Buqing granite seat.001",
+    "Buqing litter bin.001",
+    "Buqing western lawn",
+    "Buqing western low planting",
+    "Seat stone support.002",
+    "Seat stone support.003"
+  ],
+  "approved_context_replacements": [
+    "Bin vertical metal slat.008",
+    "Bin vertical metal slat.009",
+    "Bin vertical metal slat.010",
+    "Bin vertical metal slat.011",
+    "Bin vertical metal slat.012",
+    "Bin vertical metal slat.013",
+    "Bin vertical metal slat.014",
+    "Bin vertical metal slat.015",
+    "Buqing granite seat.001",
+    "Buqing litter bin.001",
+    "Buqing western lawn",
+    "Buqing western low planting",
+    "Seat stone support.002",
+    "Seat stone support.003"
+  ],
+  "unexpected_changes": [],
+  "all_unexpected_changes_absent": true,
+  "new_objects": 368,
+  "scope": "Mesh coordinates, topology, UV, material slot assignments, object transforms, modifier identities, visibility; no blanket shader parameter or UE collision claim"
+}

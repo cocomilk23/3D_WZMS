@@ -1,0 +1,72 @@
+[
+  {
+    "old": "Buqing western lawn",
+    "new": "Nantian trimmed Buqing western lawn",
+    "scope": "Remove only planting intersecting y161.65..166.35 connector; retain original remaining mesh coordinates and material assignments"
+  },
+  {
+    "old": "Buqing western low planting",
+    "new": "Nantian trimmed Buqing western low planting",
+    "scope": "Remove only planting intersecting y161.65..166.35 connector; retain original remaining mesh coordinates and material assignments"
+  },
+  {
+    "old": "Buqing granite seat.001",
+    "new": "Nantian relocated Buqing granite seat.001",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Seat stone support.002",
+    "new": "Nantian relocated Seat stone support.002",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Seat stone support.003",
+    "new": "Nantian relocated Seat stone support.003",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Buqing litter bin.001",
+    "new": "Nantian relocated Buqing litter bin.001",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.008",
+    "new": "Nantian relocated Bin vertical metal slat.008",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.009",
+    "new": "Nantian relocated Bin vertical metal slat.009",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.010",
+    "new": "Nantian relocated Bin vertical metal slat.010",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.011",
+    "new": "Nantian relocated Bin vertical metal slat.011",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.012",
+    "new": "Nantian relocated Bin vertical metal slat.012",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.013",
+    "new": "Nantian relocated Bin vertical metal slat.013",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.014",
+    "new": "Nantian relocated Bin vertical metal slat.014",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  },
+  {
+    "old": "Bin vertical metal slat.015",
+    "new": "Nantian relocated Bin vertical metal slat.015",
+    "scope": "Move roadside seat/bin four metres south, retaining mesh, to open Buqing connection"
+  }
+]
