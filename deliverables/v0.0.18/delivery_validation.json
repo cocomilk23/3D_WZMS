@@ -1,0 +1,57 @@
+{
+  "version": "v0.0.18",
+  "title": "图书馆大厅与中庭",
+  "model": "models/campus/WZMS_Campus_v018.blend",
+  "bytes": 177392791,
+  "sha256": "537159164e35dc111e28d25138d0a09cf03b691e7c1fe7ccdaab27f7dfff392a",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/67_Library_ground_hall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "1dea7cb50ce5d83bd828558cb299a444e6a32ea4fb890c4a206e10c5eb156416"
+    },
+    {
+      "file": "previews/68_Library_atrium_upward.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "060a8ae41e4c886ad9612c9bc61c76c7876c5b6e2055336567a44ae54e19a351"
+    },
+    {
+      "file": "previews/69_Library_second_hall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "b4079c3a8a94d1ccc50cbf84c398637a92e3440969a7bd8bd0767a67473c49f8"
+    },
+    {
+      "file": "previews/70_Library_curved_stairs.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "47435aadc521cd408e157f52162a24357181a617fe21ea8eaa8c9e251099ff0e"
+    },
+    {
+      "file": "previews/71_Library_hall_reverse.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "7be27a4c143ff1248a2ae149472180a3b73914f6e420fb125c9482ffa83e45ab"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

@@ -5,6 +5,8 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
+if rev==21:
+ stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,22) for name,poly in STAGES[r]['routes']])
 out=ROOT/f'deliverables/v0.0.{rev}';out.mkdir(parents=True,exist_ok=True)
 def snapshot():
  bpy.context.view_layer.update();meshes={};result={}
@@ -36,7 +38,7 @@ for o in sc.objects:
  if all(max(v[i] for v in bounds)>=lo[i] and min(v[i] for v in bounds)<=hi[i] for i in range(3)):query.collection.objects.link(o)
 bpy.context.window.scene=query;bpy.context.view_layer.update();deps=bpy.context.evaluated_depsgraph_get();reports=[]
 for name,poly in stage['routes']:
- failures=[];count=0;last=None
+ failures=[];count=0;last=None;lastpos=None;lastnormal=None
  for a,b in zip(poly,poly[1:]):
   a,b=Vector(a),Vector(b);d=b-a
   if d.length<1e-6:continue
@@ -54,6 +56,15 @@ for name,poly in stage['routes']:
     for sign in [-1,1]:
      hit,_,_,_,ob,_=query.ray_cast(deps,pos+Vector((0,0,h)),normal*sign,distance=.35)
      if hit:failures.append(dict(at=list(q),reason='body width',object=ob.name))
+   # Sweep longitudinal rays as well: thin uprights can fall between discrete samples.
+   if lastpos is not None:
+    for h in [.45,1.1,1.6]:
+     for side in [-.34,0,.34]:
+      aa=lastpos+Vector((0,0,h))+lastnormal*side;bb=pos+Vector((0,0,h))+normal*side;dd=bb-aa
+      if dd.length<1e-6:continue
+      hit,_,_,_,ob,_=query.ray_cast(deps,aa,dd.normalized(),distance=dd.length)
+      if hit:failures.append(dict(at=list(q),reason='longitudinal body sweep',object=ob.name))
+   lastpos=pos.copy();lastnormal=normal.copy()
   
  reports.append(dict(name=name,samples=count,failure_count=len(failures),failures=failures[:40]))
  print('CULTURE_ROUTE',name,count,'FAILURES',len(failures),failures[:4],flush=True)

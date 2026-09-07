@@ -1,0 +1,182 @@
+{
+  "opened_saved_blend": "D:\\github项目\\blender-mcp-main\\wzms\\models\\campus\\WZMS_Campus_v018.blend",
+  "version": "v0.0.18",
+  "objects": 34278,
+  "mesh_polygons": 16431310,
+  "collections": [
+    "01_Ground",
+    "02_NameWall",
+    "03_Gates",
+    "04_Guardhouses",
+    "05_Landscape",
+    "06_Background",
+    "07_Lighting",
+    "08_Cameras",
+    "10_Plaza_Paving",
+    "11_Plaza_Tree_Islands",
+    "12_Plaza_Furniture",
+    "14_Plaza_Wall_Reverse",
+    "13_Plaza_Mature_Gardens",
+    "18_Plaza_Cameras",
+    "20_Dehan_Guanzhen_Foundations",
+    "21_Dehan_Guanzhen_Wings",
+    "22_Portal_Stone_Piers",
+    "23_Portal_Glazed_Stairs",
+    "24_Elevated_Glass_Bridges",
+    "25_Portal_Curved_Roof",
+    "26_Building_Exterior_Details",
+    "27_Lakeside_Building_Edge",
+    "28_Building_Cameras",
+    "30_Zhongshan_South_Ground",
+    "31_Zhongshan_Bridge_Structure",
+    "32_Zhongshan_Bridge_Railings",
+    "33_Zhongshan_Roadside_Landscape",
+    "34_Zhongshan_Signage_And_Lights",
+    "38_Zhongshan_Cameras",
+    "40_Buqing_Paving_And_Routes",
+    "41_Buqing_Academic_Frontage",
+    "42_Buqing_Central_Portal",
+    "43_Buqing_South_Facade",
+    "45_Buqing_Crest_Mosaic",
+    "46_Buqing_Trees_And_Furniture",
+    "48_Buqing_Cameras",
+    "50_Zhongshan_Middle_Road_And_Junctions",
+    "51_Zhongshan_Middle_Shade_Trees",
+    "52_Zhongshan_Middle_Court_Edge",
+    "53_Zhongshan_Middle_Visible_Building",
+    "54_Zhu_Ziqing_Statue_Garden",
+    "55_Zhongshan_Middle_Street_Furniture",
+    "58_Zhongshan_Middle_Cameras",
+    "60_Zhongshan_North_Road_And_Branches",
+    "61_Zhongshan_North_Tree_Avenue",
+    "62_Zhongshan_North_Visible_Facade",
+    "63_North_Red_Telephone_Kiosk",
+    "64_North_Bulletin_Boards_And_Utilities",
+    "65_North_Court_Visible_Edge",
+    "68_Zhongshan_North_Cameras",
+    "70_Canteen_Forecourt_And_Steps",
+    "71_Canteen_Ground_Floor_Glazing",
+    "72_Canteen_Upper_White_Facades",
+    "73_Canteen_Corner_Glass_And_Roof",
+    "74_Canteen_Signage_And_Street_Furniture",
+    "75_Canteen_Court_And_Trees",
+    "78_Canteen_Cameras",
+    "80_North_Gate_Approach_And_Street",
+    "81_North_Guardroom_And_Police_Office",
+    "82_North_Entrance_Wall_And_Retractable_Gate",
+    "83_North_Editable_Boom_And_Security",
+    "84_North_Historic_2022_Temporary_Furnishings_HIDEABLE",
+    "85_North_Gate_Trees_And_Planting",
+    "86_North_Street_Residential_Context",
+    "88_North_Gate_And_Whole_Route_Cameras",
+    "90_Tennis_Courts_And_Access",
+    "91_Tennis_Blue_Fencing",
+    "92_Tennis_Nets_And_Practice_Wall",
+    "93_Tennis_Lights_And_Furniture",
+    "94_Tennis_Adjacent_Planting",
+    "98_Tennis_Cameras",
+    "100_Daosi_Road_Surface_And_Banks",
+    "101_Daosi_Flower_Bridge_Balustrades",
+    "102_Daosi_Shade_Trees_And_Gardens",
+    "103_Daosi_White_Parking_Canopy",
+    "104_Daosi_Bridgehead_Furniture",
+    "105_Daosi_Visible_Context_ESTIMATED",
+    "108_Daosi_Cameras",
+    "110_Heyu_Lake_And_Shore",
+    "111_Heyu_Paths_And_Entry_Bridge",
+    "112_Heyu_Variegated_Banks_And_Lawn",
+    "113_Heyu_Banyans_And_Aerial_Roots",
+    "114_Heyu_Lotus_Beds",
+    "115_Heyu_Lights_And_Lifesaving",
+    "118_Heyu_Cameras",
+    "120_Shuinan_Continuous_Bridge",
+    "121_Shuinan_Peninsula_And_Path",
+    "122_Shuinan_Grey_Utility_Room",
+    "123_Shuinan_Trees_And_Furniture",
+    "128_Shuinan_And_Southern_Integration_Cameras",
+    "130_Library_Structure_And_Exterior",
+    "131_Library_External_Stair_And_Terrace",
+    "132_Library_Radial_Skylight",
+    "138_Library_Exterior_Review_Cameras",
+    "140_Library_Interior_Stair_Structure",
+    "141_Library_Hall_Finishes_And_Niches",
+    "142_Library_Hall_Display_And_Pots",
+    "148_Library_Interior_Review_Cameras"
+  ],
+  "metric_units": true,
+  "missing_external_images": [],
+  "devices": [
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "type": "CUDA",
+      "use": false
+    },
+    {
+      "name": "12th Gen Intel Core i7-12700H",
+      "type": "CPU",
+      "use": false
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "type": "OPTIX",
+      "use": true
+    }
+  ],
+  "renders": [
+    {
+      "camera": "67_Library_ground_hall",
+      "seconds": 60.04,
+      "file": "previews/67_Library_ground_hall.png"
+    },
+    {
+      "camera": "68_Library_atrium_upward",
+      "seconds": 58.67,
+      "file": "previews/68_Library_atrium_upward.png"
+    },
+    {
+      "camera": "69_Library_second_hall",
+      "seconds": 60.63,
+      "file": "previews/69_Library_second_hall.png"
+    },
+    {
+      "camera": "70_Library_curved_stairs",
+      "seconds": 62.95,
+      "file": "previews/70_Library_curved_stairs.png"
+    },
+    {
+      "camera": "71_Library_hall_reverse",
+      "seconds": 61.44,
+      "file": "previews/71_Library_hall_reverse.png"
+    }
+  ],
+  "absolute_scale_verified": false,
+  "user_acceptance": "pending",
+  "ue_playthrough_verified": false,
+  "selective_camera_refresh": {
+    "changed_camera": "67_Library_ground_hall",
+    "reason": "Move away from foreground exhibition board; wider central entrance view",
+    "retained_views": [
+      {
+        "camera": "68_Library_atrium_upward",
+        "seconds": 58.67,
+        "file": "previews/68_Library_atrium_upward.png"
+      },
+      {
+        "camera": "69_Library_second_hall",
+        "seconds": 60.63,
+        "file": "previews/69_Library_second_hall.png"
+      },
+      {
+        "camera": "70_Library_curved_stairs",
+        "seconds": 62.95,
+        "file": "previews/70_Library_curved_stairs.png"
+      },
+      {
+        "camera": "71_Library_hall_reverse",
+        "seconds": 61.44,
+        "file": "previews/71_Library_hall_reverse.png"
+      }
+    ],
+    "unchanged_inputs_for_retained_views": "Geometry, materials, lights, world and the four other camera settings unchanged; only camera67 transform/lens and active scene camera changed"
+  }
+}
