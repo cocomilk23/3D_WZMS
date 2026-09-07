@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.27",
+  "title": "籀园学堂外景与入口",
+  "model": "models/campus/WZMS_Campus_v027.blend",
+  "bytes": 225974855,
+  "sha256": "2f6adc65bb1ff29510c21737e67164e43711f62a934ab8465daf2a929dc6c6f5",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/106_Zhouyuan_entry.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "cca59fb04ed254bfe38e6c0c99d4e64e9f515ebb80991c26043e112e7debac93"
+    },
+    {
+      "file": "previews/107_Zhouyuan_curved_promenade.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e109a6d1ce6efece95fa7bb7951e1c2e962a7ef70ca3862f88d00d0fe205a872"
+    },
+    {
+      "file": "previews/108_Zhouyuan_lakeside_facade.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "3336979c0c16435af4f842f958f605cffc2b5160daa0217ea72f61b1272a2308"
+    },
+    {
+      "file": "previews/109_Zhouyuan_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e91e06270b0977d6581e6b16f25b616b943ae2e2154e02c4d5d55373465c3d6c"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

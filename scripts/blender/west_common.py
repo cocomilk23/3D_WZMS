@@ -106,7 +106,7 @@ def wood_deck(name,poly,width=2.5):
     dark=c.material('West boardwalk dark joints',(.025,.021,.017),.88)
     wood=s.mottled('West boardwalk weathered brown timber',[(.075,.047,.028),(.20,.15,.095)],7)
     if not any(q.type=='BUMP' for q in wood.node_tree.nodes):c.noise(wood,82,.25,.012)
-    s.ribbon(name+' supporting continuous deck',poly,width,dark,-.032,.23,miter=True)
+    s.ribbon(name+' supporting continuous deck',poly,width,dark,-.015,.23,miter=True)
     for a,b in zip(poly,poly[1:]):
         a,b=Vector(a),Vector(b);direction=(b-a).normalized();normal=Vector((-direction.y,direction.x));count=math.ceil((b-a).length/.14)
         for j in range(count):
