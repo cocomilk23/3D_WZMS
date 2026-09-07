@@ -20,3 +20,11 @@ STAGES[28]=dict(previous=27,builder='build_alumni.py',title='校友风采门厅�
 STAGES[29]=dict(previous=28,builder='build_nantian.py',title='南田路与西侧文化区整合',refs=[376,377,378,379,374,386,355,347,348],cameras=['115_Nantian_shaded_avenue','116_Nantian_Buqing_portal','117_Nantian_Jiangkou_connection','118_Nantian_sports_edge','119_West_precinct_overview','120_Campus_integrated_v029'],routes=[('Nantian north-south avenue',[(-20,146,0),(-20,350,0)]),('Nantian to Buqing through entry portal',[(-20,164,0),(3,164,0)]),('Jiangkou to Nantian',[(8,200,0),(-20,200,0)]),('Nantian track gate one',[(-20,218,0),(-36,218,0)]),('Nantian track gate three',[(-20,318,0),(-36,318,0)]),('Nantian north sports reserved branches',[(-3,330,0),(-20,330,0),(-20,346,0),(-43,346,0)])])
 
 STAGES[30]=dict(previous=29,builder='build_west_gate.py',title='西门',refs=[350,375,347,348],cameras=['121_West_gate_front','122_West_gate_arch_detail','123_West_gate_court','124_West_gate_connection'],routes=[('Daosi to west gate open arch',[(-81,136,0),(-84,136,0),(-84,169,0),(-120,169,0)]),('West gate outside garden walk',[(-120,169,0),(-130,169,0),(-130,185,0)])])
+
+_track_half=(400-2*math.pi*36.8)/4
+_track_radius=36.5+4.27
+_track_loop=[(-85+_track_radius*math.cos(i*math.pi/64),280+_track_half+_track_radius*math.sin(i*math.pi/64),0) for i in range(65)]
+_track_loop += [(-85-_track_radius,280-_track_half,0)]
+_track_loop += [(-85+_track_radius*math.cos(math.pi+i*math.pi/64),280-_track_half+_track_radius*math.sin(math.pi+i*math.pi/64),0) for i in range(1,65)]
+_track_loop += [_track_loop[0]]
+STAGES[31]=dict(previous=30,builder='build_track.py',title='操场与蓝白看台',refs=[357,378,379,347,348],cameras=['125_Track_from_field','126_Track_east_lanes','127_Track_grandstand','128_Track_overview'],routes=[('Athletics gate one to grass infield',[(-36,218,0),(-54,218,0),(-65,230,0),(-85,230,0),(-85,340,0)]),('Athletics gate three to grass',[(-36,318,0),(-49,318,0),(-85,318,0)]),('Athletics entire running lane circuit',_track_loop),('Athletics west stand accessible aisle',[(-85,280,0),(-133,280,0),(-133,248,0),(-134.91,248,0),(-143.49,248,3.74),(-145,248,3.74)])])

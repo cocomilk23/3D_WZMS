@@ -1,0 +1,51 @@
+{
+  "version": "v0.0.31",
+  "title": "操场与蓝白看台",
+  "model": "models/campus/WZMS_Campus_v031.blend",
+  "bytes": 289508167,
+  "sha256": "ccf1fdfdca16b27cec1c23dbbc4fe3385fc140e35793b43e6b8831ac96d1337c",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/125_Track_from_field.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "d81910eaeb0e1a5328a823fa7db8776af6b8c0f912201475cf234c14d4b0f6cf"
+    },
+    {
+      "file": "previews/126_Track_east_lanes.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "aac38fe687cbd4a9abbe76d51cce0dffdc47ec4993fae726469399405bbaf764"
+    },
+    {
+      "file": "previews/127_Track_grandstand.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "8a28b19549cfba75e067a425f1b92770e1fe842b1a8f2fbcdf4acde5c75e8ace"
+    },
+    {
+      "file": "previews/128_Track_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "3c81f28b2b603146b02730e70689a17ef68c52511519ce05e6579efd0a5f2c5c"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Nantian western athletic verge CONTEXT_ESTIMATED"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

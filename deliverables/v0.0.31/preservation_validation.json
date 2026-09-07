@@ -1,0 +1,14 @@
+{
+  "baseline": "v0.0.30",
+  "objects_checked": 42278,
+  "changed_or_missing": [
+    "Nantian western athletic verge CONTEXT_ESTIMATED"
+  ],
+  "approved_context_replacements": [
+    "Nantian western athletic verge CONTEXT_ESTIMATED"
+  ],
+  "unexpected_changes": [],
+  "all_unexpected_changes_absent": true,
+  "new_objects": 4952,
+  "scope": "Mesh coordinates, topology, UV, material slot assignments, object transforms, modifier identities, visibility; no blanket shader parameter or UE collision claim"
+}

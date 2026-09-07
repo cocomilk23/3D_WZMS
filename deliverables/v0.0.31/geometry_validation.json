@@ -1,0 +1,37 @@
+{
+  "version": "v0.0.31",
+  "routes": [
+    {
+      "name": "Athletics gate one to grass infield",
+      "samples": 1179,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Athletics gate three to grass",
+      "samples": 353,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Athletics entire running lane circuit",
+      "samples": 3256,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Athletics west stand accessible aisle",
+      "samples": 669,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 79,
+  "query_geometry": "Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach"
+}
