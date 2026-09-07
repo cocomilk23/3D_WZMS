@@ -1,0 +1,150 @@
+{
+  "version": "v0.0.37",
+  "title": "数学馆双层展厅、放映厅与教室",
+  "model": "models/campus/WZMS_Campus_v037.blend",
+  "bytes": 325261272,
+  "sha256": "72fe9bb630c348b5eeb47ffb79a9242a11e5cb0840ac53b5f7e70e5c2ad8beed",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/153_Math_preface_atrium.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ea14cd8f98c84e3a83c749d60cd0114b295a6e18af940397e31c028590e9ce0e"
+    },
+    {
+      "file": "previews/154_Math_biography_galleries.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "92e43309c43f53d89b46c3c8addd4a09e6faa73e3ba6f89b47fc42b9902a5ad8"
+    },
+    {
+      "file": "previews/155_Math_stair_and_upper_level.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "7bec8190f4f7b7cd3542e7c4b0564ed45430f664d344ef8e9caf0b2bfe78ee71"
+    },
+    {
+      "file": "previews/156_Math_curved_projection_theatre.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "3a1b7e6c62e419691f84b8436138a3da12dfaca184439de2f36bbe6a1cc5d59d"
+    },
+    {
+      "file": "previews/157_Math_traditional_classroom.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "f5ccf6bddddb4e91fdef6385f7a9b76197c92838a5e8390a8b8cb8617942049e"
+    },
+    {
+      "file": "previews/158_Math_upper_rest_corner.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "cee142701a05ca510bd9d1cdb6ca0267d4ded5e7b3677125f6651b61e00ee1be"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Blue white planter.042",
+    "Blue white planter.043",
+    "Math circular room dark door",
+    "Math circular room doorway stone jamb",
+    "Math circular room doorway stone jamb.001",
+    "Math circular white gallery exterior",
+    "Math clipped planting bed",
+    "Math clipped planting bed.001",
+    "Math clipped planting bed.002",
+    "Math clipped rounded hedge branch",
+    "Math clipped rounded hedge branch.001",
+    "Math clipped rounded hedge branch.002",
+    "Math clipped rounded hedge branch.003",
+    "Math clipped rounded hedge branch.004",
+    "Math clipped rounded hedge branch.005",
+    "Math clipped rounded hedge branch.006",
+    "Math clipped rounded hedge branch.007",
+    "Math clipped rounded hedge branch.008",
+    "Math clipped rounded hedge branch.009",
+    "Math clipped rounded hedge branch.010",
+    "Math clipped rounded hedge branch.011",
+    "Math clipped rounded hedge branch.012",
+    "Math clipped rounded hedge branch.013",
+    "Math clipped rounded hedge branch.014",
+    "Math clipped rounded hedge leaves",
+    "Math clipped rounded hedge leaves.001",
+    "Math clipped rounded hedge leaves.002",
+    "Math courtyard scholar rock",
+    "Math drum flat roof",
+    "Math narrow window reveal",
+    "Math narrow window reveal.001",
+    "Math narrow window reveal.002",
+    "Math narrow window reveal.003",
+    "Math narrow window reveal.004",
+    "Math narrow window reveal.005",
+    "Math narrow window reveal.006",
+    "Math narrow window reveal.007",
+    "Math narrow window reveal.008",
+    "Math narrow window reveal.009",
+    "Math narrow window reveal.010",
+    "Math narrow window reveal.011",
+    "Math narrow window reveal.012",
+    "Math narrow window reveal.013",
+    "Math narrow window reveal.014",
+    "Math narrow window reveal.015",
+    "Math narrow window transom",
+    "Math narrow window transom.001",
+    "Math narrow window transom.002",
+    "Math narrow window transom.003",
+    "Math narrow window transom.004",
+    "Math narrow window transom.005",
+    "Math narrow window transom.006",
+    "Math narrow window transom.007",
+    "Math sloping dark wing roof",
+    "Math sloping dark wing roof.001",
+    "Math tall narrow exterior glass",
+    "Math tall narrow exterior glass.001",
+    "Math tall narrow exterior glass.002",
+    "Math tall narrow exterior glass.003",
+    "Math tall narrow exterior glass.004",
+    "Math tall narrow exterior glass.005",
+    "Math tall narrow exterior glass.006",
+    "Math tall narrow exterior glass.007",
+    "Math wing wall following sloping roof",
+    "Math wing wall following sloping roof.001",
+    "Math wing wall following sloping roof.002",
+    "Math wing wall following sloping roof.003",
+    "Math wing wall following sloping roof.004",
+    "Math wing wall following sloping roof.005",
+    "Math wing wall following sloping roof.006",
+    "Math wing wall following sloping roof.007",
+    "Planter soil.042",
+    "Planter soil.043",
+    "Porcelain blue rim.042",
+    "Porcelain blue rim.043",
+    "Potted foliage or flowers.042",
+    "Potted foliage or flowers.043",
+    "Potted plant stem.042",
+    "Potted plant stem.043",
+    "Slit lamp cap.012",
+    "Slit lamp foot.012",
+    "Slit lamp frosted strip.012",
+    "Slit lamp tall side.024",
+    "Slit lamp tall side.025"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

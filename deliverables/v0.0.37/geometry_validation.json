@@ -1,0 +1,37 @@
+{
+  "version": "v0.0.37",
+  "routes": [
+    {
+      "name": "Math courtyard to main exhibits",
+      "samples": 295,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Math ground classroom aisle",
+      "samples": 91,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Math stair and upstairs connection",
+      "samples": 395,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Math pre-existing northern Jiushan path",
+      "samples": 237,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 105,
+  "query_geometry": "Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach"
+}

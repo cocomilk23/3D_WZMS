@@ -1,0 +1,60 @@
+{
+  "saved_file": "E:\\3D_WZMS\\models\\campus\\WZMS_Campus_v037.blend",
+  "basketball_centres": [
+    [
+      -1.0,
+      222.0
+    ],
+    [
+      30.0,
+      222.0
+    ],
+    [
+      -1.0,
+      248.0
+    ],
+    [
+      30.0,
+      248.0
+    ],
+    [
+      -1.0,
+      274.0
+    ],
+    [
+      30.0,
+      274.0
+    ],
+    [
+      -1.0,
+      300.0
+    ],
+    [
+      30.0,
+      300.0
+    ]
+  ],
+  "basketball_count": 8,
+  "basketball_rotation_degrees": 90,
+  "tennis_centres": [
+    [
+      83.0,
+      -1.0
+    ],
+    [
+      83.0,
+      17.0
+    ],
+    [
+      119.0,
+      -1.0
+    ],
+    [
+      119.0,
+      17.0
+    ]
+  ],
+  "tennis_count": 4,
+  "solid_divider": true,
+  "all_passed": true
+}
