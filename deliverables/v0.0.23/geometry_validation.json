@@ -1,0 +1,25 @@
+{
+  "version": "v0.0.23",
+  "routes": [
+    {
+      "name": "Yellow bridge to art plaza",
+      "samples": 478,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Art plaza to future Ju bridge landing",
+      "samples": 298,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 321,
+  "query_geometry": "Original evaluated geometry within conservative route bounds"
+}
