@@ -1,0 +1,57 @@
+{
+  "version": "v0.0.21",
+  "title": "校史馆外景",
+  "model": "models/campus/WZMS_Campus_v021.blend",
+  "bytes": 185740566,
+  "sha256": "6702dc1f958522a1741ea3e26b2a12150a801b7ee389728c64cab163804f04e1",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/81_History_entrance.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "5ac39436a64c31eb37937db5b80d1908588311dc89366736caaaa07a6ba9c586"
+    },
+    {
+      "file": "previews/82_History_waterside.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "100824d769498da9a12aaa0ca8c500d21549fec8a0bd53a1db20ef816524d599"
+    },
+    {
+      "file": "previews/83_History_courtyard.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "58f3543924607e981917824d6426f5a21ba9541b852e508fa48b84eb5094d4cf"
+    },
+    {
+      "file": "previews/84_Cultural_precinct_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "005de1a84701161e935672321f2a06dac2c653bab39ff15cf173b6cf5d367320"
+    },
+    {
+      "file": "previews/79_Jiushan_yellow_bridge.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "d5882346a29eaf3dd7cd7f9a133af00851121ee4e26b147d4fada28700c5cd31"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}
