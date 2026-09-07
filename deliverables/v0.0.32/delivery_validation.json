@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.32",
+  "title": "体育馆外景",
+  "model": "models/campus/WZMS_Campus_v032.blend",
+  "bytes": 290393565,
+  "sha256": "04f767332341b2b7332639020015eff5446494e38adb4721761ead92660efbc5",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/129_Gym_entry_forecourt.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "e064d240d3a50b8b29dd88561b243b7f30269e7f046ce212e0c2897441e4c681"
+    },
+    {
+      "file": "previews/130_Gym_louvres_and_steps.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "a43e2b3abd526bbbd8f324c17cc339e428fa8e1c65ee18d1e7a76b4a8896d7d8"
+    },
+    {
+      "file": "previews/131_Gym_side_and_roof.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "08b55c7bf4ad910ec46d5764effc431cc08a5ae6ffaff54154c738f9bdaef12e"
+    },
+    {
+      "file": "previews/132_Gym_track_connection.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "6fb259320af8004ae454eda5354d5d7ff89c5a2efe2c0b15d90fa3c01c92b1bd"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

@@ -48,7 +48,8 @@
 - [v0.0.28校友风采门厅与展示区域](deliverables/v0.0.28/README.md) · [门厅工程](models/campus/WZMS_Campus_v028.blend)
 - [v0.0.29南田路与西侧文化区整合](deliverables/v0.0.29/README.md) · [南田路整合工程](models/campus/WZMS_Campus_v029.blend)
 - [v0.0.30西门](deliverables/v0.0.30/README.md) · [西门整合工程](models/campus/WZMS_Campus_v030.blend)
-- [v0.0.31操场与蓝白看台](deliverables/v0.0.31/README.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v031.blend)**
+- [v0.0.31操场与蓝白看台](deliverables/v0.0.31/README.md) · [操场整合工程](models/campus/WZMS_Campus_v031.blend)
+- [v0.0.32体育馆外景](deliverables/v0.0.32/README.md) · **[最新整合Blender工程](models/campus/WZMS_Campus_v032.blend)**
 - [Blender样板模型](models/south_gate/WZMS_SouthGate_v002.blend)（Git LFS，含打包的墙面参考图）
 
 西侧文化区本轮交付记录见 v0.0.26—v0.0.29；各版本的检查结果以对应交付目录为准。
