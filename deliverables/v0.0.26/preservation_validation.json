@@ -1,0 +1,10 @@
+{
+  "baseline": "v0.0.25",
+  "objects_checked": 40448,
+  "changed_or_missing": [],
+  "approved_context_replacements": [],
+  "unexpected_changes": [],
+  "all_unexpected_changes_absent": true,
+  "new_objects": 101,
+  "scope": "Mesh coordinates, topology, UV, material slot assignments, object transforms, modifier identities, visibility; no blanket shader parameter or UE collision claim"
+}

@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.26",
+  "title": "榕屿",
+  "model": "models/campus/WZMS_Campus_v026.blend",
+  "bytes": 225449635,
+  "sha256": "3fb2a3d7b3322550daf0e2c4617378a6056fa2a6f4daa5c4af6c4855c74e042f",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/102_Rongyu_stone_bridge.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "63c9c93e23bacbf32abf49ae09df06100612d259de46c8fdedb8a4f2ed430ee7"
+    },
+    {
+      "file": "previews/103_Rongyu_lotus_channel.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "311d3fdd9fe7bdca39e92938fc5149dc275e8bc9798358798ec70277adad4aa8"
+    },
+    {
+      "file": "previews/104_Rongyu_banyan_walk.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "9b384badb387109e089ed4ebd8f91020a505989bf1c46545096c3390e91d4f2d"
+    },
+    {
+      "file": "previews/105_Rongyu_island_overview.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "5ab3499eb925efd0b2c983e096bb3419bc71c19ac398c715a1d4b609a1e3b24b"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

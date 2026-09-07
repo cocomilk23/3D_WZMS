@@ -1,0 +1,25 @@
+{
+  "version": "v0.0.26",
+  "routes": [
+    {
+      "name": "Daosi junction to Rongyu stone bridge",
+      "samples": 355,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Rongyu pebble island circuit",
+      "samples": 334,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 22,
+  "query_geometry": "Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach"
+}
