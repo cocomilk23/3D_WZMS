@@ -5,8 +5,11 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
-if rev in (21,25,29):
+if rev in (21,25,29,33):
  stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) for name,poly in STAGES[r]['routes']])
+ if rev==33:
+  # Surface the new connection checks early; every registered route still runs.
+  stage['routes'].sort(key=lambda item:0 if item[0].startswith('v33:') or item[0]=='v25: Jiangkou west branch toward Nantian' else 1)
 out=ROOT/f'deliverables/v0.0.{rev}';out.mkdir(parents=True,exist_ok=True)
 def snapshot():
  bpy.context.view_layer.update();meshes={};result={}
