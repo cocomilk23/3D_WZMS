@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.30",
+  "title": "西门",
+  "model": "models/campus/WZMS_Campus_v030.blend",
+  "bytes": 243941818,
+  "sha256": "6dd579dc0aecf9726d1672b0637e446b8ec0efe3da60e22e1c312caf4df8f006",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/121_West_gate_front.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "dbfcd9bfcaf4d28136371bfbfc4dc92c6a94089a41a37d98006d644ee5022215"
+    },
+    {
+      "file": "previews/122_West_gate_arch_detail.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "2cea66e0036f7cd6e3c1217e052429bcf906709f77ab455d6ea81c5f42f8c229"
+    },
+    {
+      "file": "previews/123_West_gate_court.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "78868b76a710ae306c3bb30a3c89b7cd782d3ef294bc0c5b4e0c2559e1b0b48e"
+    },
+    {
+      "file": "previews/124_West_gate_connection.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "5b20ed8226d41bd08a2b994e876c9aca249afb3c6c892abf6179cb92bae3db6f"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

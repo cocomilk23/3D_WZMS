@@ -1,0 +1,492 @@
+{
+  "images": [
+    {
+      "scene": 119232347,
+      "face": "f",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "6cc9fa3e4c67ea7f70d1e025c8f113af2b4f4944a575a7e60b9ed87251f61b7c"
+    },
+    {
+      "scene": 119232347,
+      "face": "b",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "9fcde3e682c294169c6e643d2c47261d232b2c376810515e6787e12606c1a14f"
+    },
+    {
+      "scene": 119232347,
+      "face": "l",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "ddd0f7ac6c212c9b7a7932f6b7e25e2203e4e0fa990a2110090d3fbc2c17f31c"
+    },
+    {
+      "scene": 119232347,
+      "face": "r",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "9906db79ad46c41ab395476a322549c630d3ae98f933c9b9f753a26844102085"
+    },
+    {
+      "scene": 119232347,
+      "face": "u",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "652ade4e24f8080d580d9e0936b62587c67afcaca147f8c376c13c27ed7e9294"
+    },
+    {
+      "scene": 119232347,
+      "face": "d",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "634583bf9e96817f18ae299ef2439d6f559fa2ea949e6f100464384581c2d1cc"
+    },
+    {
+      "scene": 119232348,
+      "face": "f",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "b06a6ceec7a1291d71f6afb1b20875e3c1d7c7b3f3ccdb998b22ae74ac011f19"
+    },
+    {
+      "scene": 119232348,
+      "face": "b",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "68dc600ddf635da87c59ec841d858a58cfe7534f3021b48e745470abb5ef4f6f"
+    },
+    {
+      "scene": 119232348,
+      "face": "l",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "38f4c1088e707b596d340f4140fcc55cc76a6ae9c21398b340453d9148b52e9d"
+    },
+    {
+      "scene": 119232348,
+      "face": "r",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "b584e5e9c6437b17ae279a8d36721774c28eb86a9f0e2aa4bef9aee9a4d705e7"
+    },
+    {
+      "scene": 119232348,
+      "face": "u",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "7bda302c714ec46b41dbb0d442eddb99e500edfc3a4714161ac3a800a58c3158"
+    },
+    {
+      "scene": 119232348,
+      "face": "d",
+      "dimensions": [
+        5760,
+        5760
+      ],
+      "sha256": "e0caacba6b077aba7f6d8c3be9a348645474383832e6284113b3b33c4ba6701f"
+    },
+    {
+      "scene": 119232350,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "b43df4fbd578974d5de0623207e3546b5bd93291f295c5a2c0351c241d97bde7"
+    },
+    {
+      "scene": 119232350,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "8fdc0bed2ebbcc213cdc281414bb514788677210bf3981dcc37082233b65925f"
+    },
+    {
+      "scene": 119232350,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "86a9629f4268bb0a4e503a7f73deacbbe13cdd1f3d9894055beb34d3f8106b0c"
+    },
+    {
+      "scene": 119232350,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "edfe7e60d2b3b1160e0e21859f37f81eb7e6acd454878e2e176dabee763f4e63"
+    },
+    {
+      "scene": 119232350,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "910f1b35e032a510b060c9a183e385192a7248618273fc3994e8892f62d4fcf5"
+    },
+    {
+      "scene": 119232350,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "3fd906cb9e7c83060f127f2f6447a2b41f545d9ab70ab5362cb4064b5333fa02"
+    },
+    {
+      "scene": 119232357,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "c2c41ea4946925c8a6be9f1cf553436c1bc30123d936b976971613526d2491bb"
+    },
+    {
+      "scene": 119232357,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "c176e7f2551d0574699ca8843a98c12d008600965fa0e2d8d30edcf8604d73aa"
+    },
+    {
+      "scene": 119232357,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "73115513375f8c6d100d81e8b568867616f567eaf50ef846935258012f67dcee"
+    },
+    {
+      "scene": 119232357,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "a2c64a6558d8c0cb457d6f9986db7a01d49f852a7ef827ebab7a5427e53fadba"
+    },
+    {
+      "scene": 119232357,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "6d973395c9150e58e829e9e6dbacb3b6aa8b288723d499f7f272299546e28cfb"
+    },
+    {
+      "scene": 119232357,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "da057e1cd0f6f38ffeb747be73f78d82a89a4916ef8a0c60d88a6b332485a933"
+    },
+    {
+      "scene": 119232358,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "bbd691ea5639f574927571884d948d638a6c711a51c4965b85d78e0f51376025"
+    },
+    {
+      "scene": 119232358,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "2a2668c320e1e04284d2ea63d150ddb726d4dadffce66aa12f5c0f2b82a09372"
+    },
+    {
+      "scene": 119232358,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "d4854a442e441dca5d7a0dab5787225fcaf2340bd15babb79c752cc3f2ff85a3"
+    },
+    {
+      "scene": 119232358,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "3a688e6cc3909a3025ab29262044fca98539a377f75efa52794d5d543bddd8bc"
+    },
+    {
+      "scene": 119232358,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "664737c9019871036abca10fc5585b31660103496c3e54ae1cf5cb41a8fffd0c"
+    },
+    {
+      "scene": 119232358,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "90b6d3aeb7d70d18f4b86df79d322af32dfd932b1afc95c8ff06b063f8e82680"
+    },
+    {
+      "scene": 119232375,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "ca51eaf52e13f1ca858da147948a2c9989a13e3950149e4604d561f8d884391e"
+    },
+    {
+      "scene": 119232375,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "2e4fdb32497962d31cd7d529e00d37788508b9fb19e4275686db163c859c7831"
+    },
+    {
+      "scene": 119232375,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "d51486b1d208a74c5f2b77990cc38858835c17f84904f2e6d9db55745eb6fe3f"
+    },
+    {
+      "scene": 119232375,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "52f41a4dc0b0ae7007f72566810b0869e8b20cec24a206249a94b3ceeacb3ea6"
+    },
+    {
+      "scene": 119232375,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "70b09f257584ca9c60b7fb3da7590b13516a30a2dea43ab4d9e5b3c5629ca280"
+    },
+    {
+      "scene": 119232375,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "df26e476f47059d49232f8fafd5c9a87c851dbc27796a7ca5db2fadb9ae83777"
+    },
+    {
+      "scene": 119232378,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "0b5bd5ee35ddc2d10e98e3abd022f2209f3ea067bd5cdfcb5716622fd5945cc5"
+    },
+    {
+      "scene": 119232378,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "50fa27917f4aaa002f195c55a7aa2a9299dbd6121be2f4b4d88705a3af82da65"
+    },
+    {
+      "scene": 119232378,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "0f8382d3f7aefb1d3cec6e557d9d2cad2f32f6075a6d7ca0aa94d76bd6addb20"
+    },
+    {
+      "scene": 119232378,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "b2b35caa207e2b42e4d6ca9afcaa9f1fa5b67b0b1aa4457dc7e142b5ef5ea801"
+    },
+    {
+      "scene": 119232378,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "0302b9d3254c20143d8f15bb5fd913dd442ed4cd35c5d634f5e47ad9221e5859"
+    },
+    {
+      "scene": 119232378,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "1dd410f5145fcbd09528bf2848342e72fa7b2cbceb911370ab4fbd07a3587706"
+    },
+    {
+      "scene": 119232379,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "b7ac7cfe39be5ad75acd8ab1ab577f20284d2da80dd6410fd981273c1f25a13b"
+    },
+    {
+      "scene": 119232379,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "a7d02c9f0448249dae570928d6a6eb0e77e690fad3fdd0e0453ef7b5aaa60287"
+    },
+    {
+      "scene": 119232379,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "1767ae67d5b29a93520f0a06e618cc350cd2df6395c57cdcefda029b43515ce1"
+    },
+    {
+      "scene": 119232379,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "bf1de02f136ebf4c1bf4341631848c8b1943abc09e5053322381664c9ee36ca5"
+    },
+    {
+      "scene": 119232379,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "299c046ae5fa362cfae944e58e442e785491920fa86bae963a4f6e61b670b085"
+    },
+    {
+      "scene": 119232379,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "d2467e92e9c49d5c983b74e325e1eab493a0c35ab5aef4995986d2be7aff723e"
+    },
+    {
+      "scene": 119232392,
+      "face": "f",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "2cee1c40c23ae4b80b94dff522fd71334556bcf0ac81ea8fd5e58452f5990336"
+    },
+    {
+      "scene": 119232392,
+      "face": "b",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "5d3fd8bb5e97075c1cfe76c129b734ed3043c9d6ec7d83b4e45a193fed969eb2"
+    },
+    {
+      "scene": 119232392,
+      "face": "l",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "06e566809c37e63a440e5db98e2aa8445fc0a34e143c3ae67129b18e7f39fcf8"
+    },
+    {
+      "scene": 119232392,
+      "face": "r",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "39a68d86b03b891ea198d7dac26a3868d6a204e8096b4aa421c57124ff70c42d"
+    },
+    {
+      "scene": 119232392,
+      "face": "u",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "b98ea9d35a54e0b64106fe237ab257366be344d5bffd1c65c74625a5c6b18960"
+    },
+    {
+      "scene": 119232392,
+      "face": "d",
+      "dimensions": [
+        4352,
+        4352
+      ],
+      "sha256": "c3fd06bcc4cad34dd7d89a8ea28538937706f0baa48b80d7e431b59d3604edc7"
+    }
+  ],
+  "fully_decoded": 54,
+  "geometry_calibrated": false
+}
