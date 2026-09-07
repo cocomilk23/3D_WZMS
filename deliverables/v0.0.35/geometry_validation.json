@@ -1,0 +1,49 @@
+{
+  "version": "v0.0.35",
+  "routes": [
+    {
+      "name": "Tennis original entrance retained",
+      "samples": 334,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Tennis southern passage between both pairs",
+      "samples": 756,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Tennis north passage around dividing wall",
+      "samples": 693,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Heyu original access retained",
+      "samples": 187,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Heyu to corrected four-court north gate",
+      "samples": 253,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Relocated Shuinan utility connection",
+      "samples": 70,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 95,
+  "query_geometry": "Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach"
+}
