@@ -1,0 +1,41 @@
+{
+  "court_centres": [
+    [
+      -1.0,
+      222.0
+    ],
+    [
+      30.0,
+      222.0
+    ],
+    [
+      -1.0,
+      248.0
+    ],
+    [
+      30.0,
+      248.0
+    ],
+    [
+      -1.0,
+      274.0
+    ],
+    [
+      30.0,
+      274.0
+    ],
+    [
+      -1.0,
+      300.0
+    ],
+    [
+      30.0,
+      300.0
+    ]
+  ],
+  "unique_courts": 8,
+  "hoops": 16,
+  "rotation_degrees": 90,
+  "baseline_axis_verified": "Y; playing long axis X",
+  "all_passed": true
+}

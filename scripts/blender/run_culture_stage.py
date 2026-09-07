@@ -8,6 +8,6 @@ if '--skip-build' not in args:
  runpy.run_path(str(S/stage['builder']),run_name='__main__');gc.collect()
 sys.argv=['audit','--',str(rev)];runpy.run_path(str(S/'audit_culture_delivery.py'),run_name='__main__');gc.collect()
 sys.argv=['render','--',f'v0.0.{rev}']+stage['cameras'];runpy.run_path(str(S/'render_campus.py'),run_name='__main__')
-if rev in (29,33):
+if rev in (29,33,39):
  sys.argv=['south-wall','--',f'v0.0.{rev}'];runpy.run_path(str(S/'audit_culture_south_wall.py'),run_name='__main__')
 print('CULTURE_STAGE_REVIEW_READY',rev,flush=True)

@@ -1,0 +1,43 @@
+{
+  "version": "v0.0.34",
+  "routes": [
+    {
+      "name": "Eight basketball courts central aisle",
+      "samples": 977,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Basketball revised eastern pedestrian path",
+      "samples": 1127,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Basketball cross aisle and east gate",
+      "samples": 389,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Basketball south to preserved Jiangkou route",
+      "samples": 434,
+      "failure_count": 0,
+      "failures": []
+    },
+    {
+      "name": "Preserved Nantian avenue",
+      "samples": 1073,
+      "failure_count": 0,
+      "failures": []
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 96,
+  "query_geometry": "Original evaluated geometry within union of conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach"
+}

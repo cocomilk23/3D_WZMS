@@ -5,8 +5,9 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
-if rev in (21,25,29,33):
- stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) for name,poly in STAGES[r]['routes']])
+if rev in (21,25,29,33,39):
+ superseded={r for st in STAGES.values() if st['previous']<rev for r in st.get('supersedes_routes',[])}
+ stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) if r not in superseded for name,poly in STAGES[r]['routes']])
  if rev==33:
   # Surface the new connection checks early; every registered route still runs.
   stage['routes'].sort(key=lambda item:0 if item[0].startswith('v33:') or item[0]=='v25: Jiangkou west branch toward Nantian' else 1)
@@ -28,6 +29,25 @@ bpy.context.window.scene=bpy.data.scenes['WZMS_Campus'];before=snapshot()
 allowed=set(json.loads((out/'replacement_scope.json').read_text(encoding='utf8'))['retired_objects']) if (out/'replacement_scope.json').exists() else set()
 bpy.ops.wm.open_mainfile(filepath=str(ROOT/f'models/campus/WZMS_Campus_v{rev:03}.blend'))
 sc=bpy.data.scenes['WZMS_Campus'];bpy.context.window.scene=sc;after=snapshot()
+if rev>=34:
+ centres=[]
+ for number in range(1,9):
+  col=bpy.data.collections['301_Basketball_8_Court_'+str(number)]
+  obj=next(o for o in col.objects if o.name.startswith('Basketball red centre circle'))
+  centre=obj.matrix_world@Vector((0,0,.037));centres.append([round(centre.x,3),round(centre.y,3)])
+  assert centres[-1]==[[-1,30][(number-1)%2],[222,248,274,300][(number-1)//2]]
+  for line in [o for o in col.objects if o.name.startswith('Basketball baseline')]:
+   pts=[line.matrix_world@v.co for v in line.data.vertices]
+   assert max(v.y for v in pts)-min(v.y for v in pts)>14.9 and max(v.x for v in pts)-min(v.x for v in pts)<.1
+ semantic={'saved_file':bpy.data.filepath,'basketball_centres':centres,'basketball_count':8,'basketball_rotation_degrees':90}
+ if rev>=35:
+  courts=[o for o in sc.objects if 'Tennis violet doubles playing area' in o.name]
+  actual=sorted((round(o.matrix_world.translation.x,3),round(o.matrix_world.translation.y,3)) for o in courts)
+  assert actual==[(83,-1),(83,17),(119,-1),(119,17)],actual
+  wall=sc.objects['Tennis middle solid dividing practice wall'];assert wall.dimensions.y>27.9 and wall.dimensions.z>3
+  semantic.update(tennis_centres=actual,tennis_count=4,solid_divider=True)
+ semantic['all_passed']=True
+ (out/'saved_layout_validation.json').write_text(json.dumps(semantic,indent=2),encoding='utf8')
 changed=[x for x in before if before[x]!=after.get(x)];unexpected=[x for x in changed if x not in allowed]
 pres={'baseline':f'v0.0.{stage["previous"]}','objects_checked':len(before),'changed_or_missing':changed,'approved_context_replacements':sorted(allowed),'unexpected_changes':unexpected,'all_unexpected_changes_absent':not unexpected,'new_objects':len(set(after)-set(before)),'scope':'Mesh coordinates, topology, UV, material slot assignments, object transforms, modifier identities, visibility; no blanket shader parameter or UE collision claim'}
 (out/'preservation_validation.json').write_text(json.dumps(pres,ensure_ascii=False,indent=2),encoding='utf8')
