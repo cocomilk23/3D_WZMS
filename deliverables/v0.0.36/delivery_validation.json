@@ -1,0 +1,78 @@
+{
+  "version": "v0.0.36",
+  "title": "体育馆乒乓球厅与楼上运动大厅",
+  "model": "models/campus/WZMS_Campus_v036.blend",
+  "bytes": 305523299,
+  "sha256": "1e9159f8a2d096706da13ede90e0811fc85708c31cc0baab5316dc56c07872ab",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/148_Gym_table_tennis_hall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "1f7722c12420dd635030b03de026474c8bbc2b1d90b81d755d91e6b03d186578"
+    },
+    {
+      "file": "previews/149_Gym_trophy_foyer.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "84baea135bb2e8c71fce5f556e17cc61d52cf122d2286bd74590a9394a89121e"
+    },
+    {
+      "file": "previews/150_Gym_upper_sports_hall.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ed23a6354c6d7cfa802c20ed943d927792ac9efa7dcad42d95fa9914e3825eb5"
+    },
+    {
+      "file": "previews/151_Gym_upper_gallery.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "03c5baffecf584608cc3eae6b21e9a3ed4a4891bad40d5b3ec1f6706be399151"
+    },
+    {
+      "file": "previews/152_Gym_connected_internal_stair.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "997e9b5facd138b084b8b025910c707aec691ec1bc61d4023cae4a062ba00735"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Gym closed entrance glass door",
+    "Gym closed entrance glass door.001",
+    "Gym door aluminium jamb.002",
+    "Gym entrance glazed sidelight",
+    "Gym entrance glazed sidelight.001",
+    "Gym front clerestory band",
+    "Gym high clerestory glass",
+    "Gym high clerestory glass.001",
+    "Gym longitudinal lower cladding",
+    "Gym longitudinal lower cladding.001",
+    "Gym louvre shaded back plane",
+    "Gym rear high windows",
+    "Gym stainless door pull",
+    "Gym stainless door pull.001",
+    "Rongyu spreading old banyan attached broadleaf canopy.005",
+    "Rongyu spreading old banyan attached broadleaf canopy.006",
+    "Rongyu spreading old banyan attached broadleaf canopy.007",
+    "Rongyu spreading old banyan connected trunks roots and twigs.005",
+    "Rongyu spreading old banyan connected trunks roots and twigs.006",
+    "Rongyu spreading old banyan connected trunks roots and twigs.007"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}
