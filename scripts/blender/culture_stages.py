@@ -60,3 +60,17 @@ STAGES[41]=dict(previous=40,builder='build_tennis_orientation_v041.py',title='�
  ('Heyu restored mainland access',[(62,47,0),(62,44,0),(63.5,44,0),(70,44,0),(77,42,0),(87,42,0)]),
  ('Heyu to north tennis gate',[(87,42,0),(104,42,0),(104,24,0)]),
  ('Restored utility connection',[(104,39,0),(106,39,0),(106,35,0),(109.2,35,0)])])
+
+STAGES[42]=dict(previous=41,builder='build_south_layout_v042.py',title='南侧航拍布局与岸线校正',refs=[347,348,349,352,353,354,359,364,365,366],supersedes_routes=[35,40,41],cameras=['186_South_registered_aerial','187_Tennis_registered_school_view','188_South_gate_registered_axis','189_Heyu_registered_shore'],routes=[
+ ('South gate right passage to school forewalk',[(-14.5,-30,0),(-14.5,-20,0),(-23.111,-17.778,0),(-20.222,-9.444,0),(-14.444,6.111,0),(-8.667,21.667,0),(-2.889,37.222,0),(0,45,0),(0,47,0),(54,47,0)]),
+ ('South gate west garden to Daosi',[(-42,-22,0),(-49,-7,0),(-50,20,0),(-50,47,0),(-59,48,0)]),
+ ('Plaza to tennis west gate and first pair',[(-12,-19,0),(10,-19,0),(10,-22,0),(15,-22,0),(15,-15,0),(31,-15,0),(31,-47,0),(47,-47,0),(47,-15,0)]),
+ ('Tennis second pair aisle',[(51,-15,0),(67,-15,0),(67,-47,0),(83,-47,0),(83,-15,0),(51,-15,0)]),
+ ('Tennis both divider end passages',[(47,-15,0),(51,-15,0),(51,-47,0),(47,-47,0)]),
+ ('School forewalk to Heyu mainland landing',[(54,47,0),(57,41,0),(60,30,0)]),
+ ('Heyu entry bridge and island path',[(60,30,0),(69,27,0),(78,17,0),(83,17,0),(90,15,0),(100,15,0)]),
+ ('Heyu folded walk to bridge junction',[(100,15,0),(110,15,0),(110,-8,0),(90,-8,0)]),
+ ('Bridge junction to tennis north gate',[(90,-8,0),(52,-8,0),(52,-15,0)]),
+ ('Bridge junction to utility doorway',[(90,-8,0),(90,-38,0),(99,-38,0),(99,-42,0),(102.2,-42,0)]),
+ ('Tennis southern exterior path',[(10,-22,0),(10,-52,0),(88,-52,0)]),
+ ('Public road to open south gate',[(-26,-62,0),(-26,-55,0),(-14.5,-55,0),(-14.5,-30,0)])])

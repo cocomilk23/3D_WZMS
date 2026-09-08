@@ -5,7 +5,7 @@ import bpy, sys, time, json
 from pathlib import Path
 sys.path.insert(0,str(Path(__file__).parent))
 import campus_common as c
-args=sys.argv[sys.argv.index('--')+1:];version=args[0];names=args[1:]
+args=sys.argv[sys.argv.index('--')+1:];version=args[0];names=[x for x in args[1:] if x!='--no-persistent-data']
 scene=bpy.data.scenes['WZMS_Campus'];c.activate(scene);c.render_setup(scene)
 if scene.get('render_review_samples'):
     scene.cycles.samples=int(scene['render_review_samples'])
@@ -17,7 +17,7 @@ for d in prefs.devices:
 scene.cycles.device='GPU' if any(d['use'] for d in devices) else 'CPU'
 # Reuse the same scene's acceleration data across review cameras. Image size,
 # sample count and material settings are unchanged; cache dies with this process.
-scene.render.use_persistent_data=True
+scene.render.use_persistent_data='--no-persistent-data' not in args
 out=c.ROOT/'deliverables'/version/'previews';out.mkdir(parents=True,exist_ok=True)
 r=[]
 for name in names:

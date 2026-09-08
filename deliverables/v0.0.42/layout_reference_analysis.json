@@ -1,0 +1,185 @@
+{
+  "source": "reference/panoramas/faces/119232347/l.jpg",
+  "source_sha256": "ddd0f7ac6c212c9b7a7932f6b7e25e2203e4e0fa990a2110090d3fbc2c17f31c",
+  "inspection_crop_original_pixels": [
+    4000,
+    4200,
+    5760,
+    5760
+  ],
+  "inspection_coordinate_canvas": [
+    1696,
+    1503
+  ],
+  "court_line_picks_pixels": [
+    [
+      306.0,
+      711.0
+    ],
+    [
+      487.0,
+      682.0
+    ],
+    [
+      562.0,
+      748.0
+    ],
+    [
+      377.0,
+      777.0
+    ]
+  ],
+  "assumed_court_rectangle_m": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      23.77
+    ],
+    [
+      10.97,
+      23.77
+    ],
+    [
+      10.97,
+      0.0
+    ]
+  ],
+  "image_to_court_plane_homography": [
+    [
+      0.02774792140050818,
+      0.17318530253420641,
+      -131.62561405037627
+    ],
+    [
+      0.13541627479692986,
+      -0.14567508349366712,
+      62.137604276136784
+    ],
+    [
+      9.236123752207115e-05,
+      0.00024031316721819193,
+      1.0
+    ]
+  ],
+  "project_offset_to_preserved_school_portal": [
+    16.675803824582673,
+    -42.92850323558896
+  ],
+  "landmarks": {
+    "south_gate": {
+      "pixel": [
+        180,
+        455
+      ],
+      "image_plane_estimate_m": [
+        -42.48051116694304,
+        17.96709985086816
+      ],
+      "project_estimate_m": [
+        -25.804707342360366,
+        -24.961403384720803
+      ]
+    },
+    "school_portal_ground": {
+      "pixel": [
+        924,
+        496
+      ],
+      "image_plane_estimate_m": [
+        -16.675803824582673,
+        95.47850323558896
+      ],
+      "project_estimate_m": [
+        0.0,
+        52.55
+      ]
+    },
+    "lotus_bay": {
+      "pixel": [
+        815,
+        743
+      ],
+      "image_plane_estimate_m": [
+        15.684476593459914,
+        51.25529797443645
+      ],
+      "project_estimate_m": [
+        32.360280418042585,
+        8.32679473884749
+      ]
+    },
+    "island": {
+      "pixel": [
+        1380,
+        1150
+      ],
+      "image_plane_estimate_m": [
+        75.38695642099319,
+        58.0457578857918
+      ],
+      "project_estimate_m": [
+        92.06276024557586,
+        15.117254650202838
+      ]
+    },
+    "utility": {
+      "pixel": [
+        979,
+        1322
+      ],
+      "image_plane_estimate_m": [
+        88.4093363999798,
+        1.5110100585230337
+      ],
+      "project_estimate_m": [
+        105.08514022456247,
+        -41.41749317706593
+      ]
+    },
+    "island_mainland_landing": {
+      "pixel": [
+        1224,
+        900
+      ],
+      "image_plane_estimate_m": [
+        43.784858707927135,
+        72.80314406258141
+      ],
+      "project_estimate_m": [
+        60.46066253250981,
+        29.874640826992447
+      ]
+    }
+  },
+  "adopted_translations_m": {
+    "courts": [
+      -52,
+      -39,
+      0
+    ],
+    "south_gate": [
+      -26,
+      -25,
+      0
+    ],
+    "island": [
+      13,
+      -27,
+      0
+    ],
+    "utility": [
+      -7,
+      -77,
+      0
+    ]
+  },
+  "limits": [
+    "Manual image picks and nominal tennis dimensions, not survey control.",
+    "Ground-plane extrapolation is sensitive to edge picks and panorama projection; roof and treetop points are not used as ground anchors.",
+    "School facade is kept fixed; adopted shifts are rounded design estimates.",
+    "No claimed metre-level accuracy or measured 1:1 calibration."
+  ]
+}

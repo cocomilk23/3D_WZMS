@@ -1,0 +1,12 @@
+{
+  "version": "v0.0.42",
+  "reviewer": "Codex",
+  "reviewed_images": {
+    "188_South_gate_registered_axis": "Reviewed: continuous paving from the relocated south gate toward the main school entrance; tree beds, furniture and lights remain coherent, with no visible cracks or separated assemblies.",
+    "189_Heyu_registered_shore": "Reviewed: widened lotus bay joins the lake, the relocated island and school shoreline read together, and the court-side walkway meets the branch landing without a visible water gap. Plant forms and shoreline finishes remain candidates for the later realism pass.",
+    "186_South_registered_aerial": "Reviewed final shoreline/road revision: gate, plaza, four-court row and broad lotus bay are coherently arranged around the fixed school; south water seam is closed and the approach road avoids the forecourt island. Vegetation and off-site terrain remain simplified.",
+    "187_Tennis_registered_school_view": "Reviewed: complete main school facade is visible in front of the court pair, replacing the strong lateral offset of v041; nets, lines and central aisle remain intact. This is an image-based layout check, not a pixel-identical panorama match."
+  },
+  "all_four_images_visually_reviewed": true,
+  "user_acceptance": "pending"
+}

@@ -1,0 +1,16 @@
+{
+  "baseline": "v0.0.6",
+  "version": "v0.0.42",
+  "object": "South name wall reverse photo surface",
+  "baseline_digest": "ab9bfc0e3f049fe087cc2599f8720509ea6b0364666bbe37258337db3531dcae",
+  "current_digest": "ab9bfc0e3f049fe087cc2599f8720509ea6b0364666bbe37258337db3531dcae",
+  "unchanged": false,
+  "content_unchanged": true,
+  "approved_motion_matches": true,
+  "approved_gate_translation": [
+    -26,
+    -25,
+    0
+  ],
+  "scope": "mesh, UVs, modifier names/types, shader sockets/links and packed image bytes; transform checked against explicitly approved rigid gate relocation for v042 only"
+}
