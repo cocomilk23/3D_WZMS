@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Visualization",
+  "Description": "Wenzhou Middle School campus; UE integration from Blender v0.0.43.",
+  "Plugins": [
+    {"Name": "ModelContextProtocol", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "ToolsetRegistry", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "EditorToolset", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "SlateInspectorToolset", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "PythonScriptPlugin", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "EditorScriptingUtilities", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "EnhancedInput", "Enabled": true},
+    {"Name": "AndroidFileServer", "Enabled": false}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-09-08T13:25:57.341942+00:00",
+  "endpoint": "http://127.0.0.1:8010/mcp",
+  "toolset_count": 20,
+  "level": "/Engine/Maps/Entry",
+  "created_actor": {
+    "refPath": "/Engine/Maps/Entry.Entry:PersistentLevel.StaticMeshActor_0"
+  },
+  "readback_transform": {
+    "location": {
+      "x": 100,
+      "y": 200,
+      "z": 300
+    },
+    "rotation": {
+      "pitch": 0,
+      "yaw": 0,
+      "roll": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "passed": true,
+  "temporary_actor_removed": true,
+  "campus_assets_imported": false
+}
