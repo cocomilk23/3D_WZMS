@@ -1,0 +1,63 @@
+{
+  "version": "v0.0.43",
+  "title": "环境精修与 UE 导入准备",
+  "model": "models/campus/WZMS_Campus_v043.blend",
+  "bytes": 394999737,
+  "sha256": "3f22de7bcfceb9410968d8255e1aa91a9a579c99ab154b27665e58cbc3f877ab",
+  "images_visually_reviewed": true,
+  "previews": [
+    {
+      "file": "previews/190_Environment_south_aerial.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "f1250d624925f994ab7dfa6c24195980f9adc3ee9cf0de49d273bd6808a34335"
+    },
+    {
+      "file": "previews/191_Environment_gate_garden.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "7468fc182daa49afb623ca2618f949ba7010ea5b2370daf5434d296bc63724a2"
+    },
+    {
+      "file": "previews/192_Environment_lotus_bank.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "ebb864022b7bb2de270d40d4bff604c4069787802c8ec67ed8db4a16e87301ee"
+    },
+    {
+      "file": "previews/193_Environment_bank_close.png",
+      "dimensions": [
+        1600,
+        1000
+      ],
+      "sha256": "acda637ce8e89f867d43fe3322ccaa2029650da088b425e6175bf46903f9933e"
+    }
+  ],
+  "geometry_passed": true,
+  "unexpected_predecessor_changes": false,
+  "approved_replacements": [
+    "Garden broadleaf -1 0 individual leaves",
+    "Garden broadleaf -1 1 individual leaves",
+    "Garden broadleaf -1 2 individual leaves",
+    "Garden broadleaf 1 0 individual leaves",
+    "Garden broadleaf 1 1 individual leaves",
+    "Garden broadleaf 1 2 individual leaves",
+    "v042 bank broadleaf individual leaves",
+    "v042 bank broadleaf individual leaves.001",
+    "v042 bank broadleaf individual leaves.002",
+    "v042 bank broadleaf individual leaves.003",
+    "v042 bank broadleaf individual leaves.004",
+    "v042 bank broadleaf individual leaves.005",
+    "v042 bank broadleaf individual leaves.006"
+  ],
+  "user_acceptance": "pending",
+  "absolute_1_to_1_calibrated": false,
+  "ue_playthrough_verified": false,
+  "web_preview_updated": false
+}

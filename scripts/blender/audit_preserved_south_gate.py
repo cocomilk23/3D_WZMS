@@ -36,14 +36,14 @@ bpy.ops.wm.open_mainfile(filepath=str(ROOT/'models/campus/WZMS_Campus_v006.blend
 baseline=digest()
 baseline_matrix=bpy.data.objects['South name wall reverse photo surface'].matrix_world.copy()
 bpy.ops.wm.open_mainfile(filepath=str(target))
-relocated=version=='v0.0.42'
+relocated=int(version.rsplit('.',1)[1])>=42
 current=digest(normalize_gate_translation=relocated)
 expected=Matrix.Translation((-26,-25,0))@baseline_matrix if relocated else baseline_matrix
 actual=bpy.data.objects['South name wall reverse photo surface'].matrix_world
 motion_matches=max(abs(actual[r][k]-expected[r][k]) for r in range(4) for k in range(4))<1e-5
 report={'baseline':'v0.0.6','version':version,'object':'South name wall reverse photo surface',
         'baseline_digest':baseline,'current_digest':current,'unchanged':baseline==current and not relocated,'content_unchanged':baseline==current,'approved_motion_matches':motion_matches,'approved_gate_translation':[-26,-25,0] if relocated else [0,0,0],
-        'scope':'mesh, UVs, modifier names/types, shader sockets/links and packed image bytes; transform checked against explicitly approved rigid gate relocation for v042 only'}
+        'scope':'mesh, UVs, modifier names/types, shader sockets/links and packed image bytes; transform checked against explicitly approved rigid gate relocation introduced in v042 and retained thereafter'}
 (ROOT/'deliverables'/version/'preservation_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 print('SOUTH_REVERSE_WALL_PRESERVED',baseline==current,flush=True)
 if baseline!=current or not motion_matches:raise RuntimeError('Deferred south reverse wall changed')

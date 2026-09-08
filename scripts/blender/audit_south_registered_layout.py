@@ -3,7 +3,8 @@ import bpy,json
 from pathlib import Path
 from mathutils import Vector
 R=Path(__file__).resolve().parents[2]
-assert Path(bpy.data.filepath).name=='WZMS_Campus_v042.blend'
+rev=int(Path(bpy.data.filepath).stem.rsplit('_v',1)[1]);assert rev>=42
+version=f'v0.0.{rev}'
 sc=bpy.data.scenes['WZMS_Campus']
 def midpoint(name):
  o=sc.objects[name];pts=[o.matrix_world@Vector(v) for v in o.bound_box]
@@ -35,6 +36,6 @@ assert all(inside_polygon(q,water_poly) for q in shore_samples),'Gap below south
 roundabout=midpoint('Round forecourt kerb')
 road=sc.objects['v042 south approach public road']
 assert all((Vector((v.x,v.y))-Vector(roundabout[:2])).length>4.7 for v in (road.matrix_world@p.co for p in road.data.vertices)),'Road intersects forecourt island'
-report={'version':'v0.0.42','saved_file':bpy.data.filepath,'anchors':{k:{'measured_mesh_midpoint':a,'adopted_image_estimate_xy':t} for k,(a,t) in anchors.items()},'south_wall_rigid_translation':list(wall.matrix_world.translation),'right_gate_post_count':len(right),'right_gate_retracted_extent_x':[min(p[0] for p in right),max(p[0] for p in right)],'old_isolated_pond_absent':True,'connected_lotus_bay_present':True,'south_coast_water_samples':len(shore_samples),'road_clear_of_forecourt_island':True,'all_passed':True,'survey_accuracy_claimed':False}
-(R/'deliverables/v0.0.42/south_registration_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
+report={'version':version,'saved_file':bpy.data.filepath,'anchors':{k:{'measured_mesh_midpoint':a,'adopted_image_estimate_xy':t} for k,(a,t) in anchors.items()},'south_wall_rigid_translation':list(wall.matrix_world.translation),'right_gate_post_count':len(right),'right_gate_retracted_extent_x':[min(p[0] for p in right),max(p[0] for p in right)],'old_isolated_pond_absent':True,'connected_lotus_bay_present':True,'south_coast_water_samples':len(shore_samples),'road_clear_of_forecourt_island':True,'all_passed':True,'survey_accuracy_claimed':False}
+(R/'deliverables'/version/'south_registration_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 print('SOUTH_REGISTRATION_ANCHORS_VERIFIED',flush=True)

@@ -1,0 +1,20 @@
+{
+  "retired_objects": [],
+  "transformed_objects": [],
+  "modified_objects": [
+    "Garden broadleaf -1 0 individual leaves",
+    "Garden broadleaf -1 1 individual leaves",
+    "Garden broadleaf -1 2 individual leaves",
+    "Garden broadleaf 1 0 individual leaves",
+    "Garden broadleaf 1 1 individual leaves",
+    "Garden broadleaf 1 2 individual leaves",
+    "v042 bank broadleaf individual leaves",
+    "v042 bank broadleaf individual leaves.001",
+    "v042 bank broadleaf individual leaves.002",
+    "v042 bank broadleaf individual leaves.003",
+    "v042 bank broadleaf individual leaves.004",
+    "v042 bank broadleaf individual leaves.005",
+    "v042 bank broadleaf individual leaves.006"
+  ],
+  "reason": "User accepts image-estimated dimensions and current layout; environmental detail and pre-UE preparation only."
+}

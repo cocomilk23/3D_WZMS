@@ -1,0 +1,38 @@
+{
+  "baseline": "v0.0.42",
+  "objects_checked": 56956,
+  "changed_or_missing": [
+    "Garden broadleaf -1 0 individual leaves",
+    "Garden broadleaf -1 1 individual leaves",
+    "Garden broadleaf -1 2 individual leaves",
+    "Garden broadleaf 1 0 individual leaves",
+    "Garden broadleaf 1 1 individual leaves",
+    "Garden broadleaf 1 2 individual leaves",
+    "v042 bank broadleaf individual leaves",
+    "v042 bank broadleaf individual leaves.001",
+    "v042 bank broadleaf individual leaves.002",
+    "v042 bank broadleaf individual leaves.003",
+    "v042 bank broadleaf individual leaves.004",
+    "v042 bank broadleaf individual leaves.005",
+    "v042 bank broadleaf individual leaves.006"
+  ],
+  "approved_context_replacements": [
+    "Garden broadleaf -1 0 individual leaves",
+    "Garden broadleaf -1 1 individual leaves",
+    "Garden broadleaf -1 2 individual leaves",
+    "Garden broadleaf 1 0 individual leaves",
+    "Garden broadleaf 1 1 individual leaves",
+    "Garden broadleaf 1 2 individual leaves",
+    "v042 bank broadleaf individual leaves",
+    "v042 bank broadleaf individual leaves.001",
+    "v042 bank broadleaf individual leaves.002",
+    "v042 bank broadleaf individual leaves.003",
+    "v042 bank broadleaf individual leaves.004",
+    "v042 bank broadleaf individual leaves.005",
+    "v042 bank broadleaf individual leaves.006"
+  ],
+  "unexpected_changes": [],
+  "all_unexpected_changes_absent": true,
+  "new_objects": 589,
+  "scope": "Mesh coordinates, topology, UV, material slot assignments, object transforms, modifier identities, visibility; no blanket shader parameter or UE collision claim"
+}

@@ -1,0 +1,27 @@
+{
+  "refined_south_tree_canopies": 13,
+  "individual_coping_stones": 290,
+  "drain_grates": 5,
+  "grass_clump_instances": 232,
+  "grass_unique_meshes": 3,
+  "refined_materials": [
+    "Campus mottled grey bark",
+    "Daosi dry shaded lawn",
+    "Heyu banyan grey fibrous bark",
+    "Heyu connecting bank lawn",
+    "History island shaded lawn",
+    "History miniature lawn",
+    "Jiangkou garden lawn",
+    "Jiushan shaded grass soil",
+    "Ju exposed root bark",
+    "Lawn soil green",
+    "Nantian bark with photographed limewashed roots",
+    "Nantian shaded verge soil",
+    "Natural lawn blades",
+    "North avenue bark",
+    "Palm fibrous bark",
+    "Tree bark",
+    "West banyan weathered bark",
+    "West gate pine bark"
+  ]
+}

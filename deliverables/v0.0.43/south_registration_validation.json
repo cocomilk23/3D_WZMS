@@ -1,0 +1,66 @@
+{
+  "version": "v0.0.43",
+  "saved_file": "E:\\3D_WZMS\\models\\campus\\WZMS_Campus_v043.blend",
+  "anchors": {
+    "school_foundation": {
+      "measured_mesh_midpoint": [
+        0.0,
+        59.0,
+        -0.30000002682209015
+      ],
+      "adopted_image_estimate_xy": [
+        0,
+        59
+      ]
+    },
+    "island": {
+      "measured_mesh_midpoint": [
+        92.0,
+        15.0,
+        -0.9450000114738941
+      ],
+      "adopted_image_estimate_xy": [
+        92,
+        15
+      ]
+    },
+    "utility_base": {
+      "measured_mesh_midpoint": [
+        105.0,
+        -41.0,
+        0.03999999538064003
+      ],
+      "adopted_image_estimate_xy": [
+        105,
+        -41
+      ]
+    },
+    "divider": {
+      "measured_mesh_midpoint": [
+        48.899993896484375,
+        -31.0,
+        1.5499999523162842
+      ],
+      "adopted_image_estimate_xy": [
+        48.9,
+        -31
+      ]
+    }
+  },
+  "south_wall_rigid_translation": [
+    -26.0,
+    -25.0,
+    0.0
+  ],
+  "right_gate_post_count": 18,
+  "right_gate_retracted_extent_x": [
+    -12.399999618530273,
+    -10.799999237060547
+  ],
+  "old_isolated_pond_absent": true,
+  "connected_lotus_bay_present": true,
+  "south_coast_water_samples": 35,
+  "road_clear_of_forecourt_island": true,
+  "all_passed": true,
+  "survey_accuracy_claimed": false
+}

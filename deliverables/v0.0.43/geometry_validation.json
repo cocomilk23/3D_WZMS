@@ -1,0 +1,532 @@
+{
+  "version": "v0.0.43",
+  "routes": [
+    {
+      "name": "v17: Ground portico to entrance",
+      "samples": 116,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 16
+    },
+    {
+      "name": "v17: External stairs and upper entry",
+      "samples": 260,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 81
+    },
+    {
+      "name": "v18: First floor entry and central stairs",
+      "samples": 184,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 95
+    },
+    {
+      "name": "v18: Second floor external entrance to upper staircase",
+      "samples": 208,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 346
+    },
+    {
+      "name": "v19: Library south to mathematics gate",
+      "samples": 587,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 16
+    },
+    {
+      "name": "v20: Library east and glass facade route",
+      "samples": 664,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 37
+    },
+    {
+      "name": "v20: Glass facade south branch",
+      "samples": 109,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 9
+    },
+    {
+      "name": "v20: Garden junction to yellow bridge",
+      "samples": 304,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 38
+    },
+    {
+      "name": "v21: Yellow bridge to museum entrance",
+      "samples": 163,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 19
+    },
+    {
+      "name": "v22: Taohua white portal entry",
+      "samples": 183,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 73
+    },
+    {
+      "name": "v22: Taohua pink portal walk",
+      "samples": 98,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 116
+    },
+    {
+      "name": "v22: Taohua blue portal walk",
+      "samples": 98,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 162
+    },
+    {
+      "name": "v22: Taohua pavilion entry",
+      "samples": 81,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 72
+    },
+    {
+      "name": "v22: Taohua circular terraces",
+      "samples": 177,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 19
+    },
+    {
+      "name": "v23: Yellow bridge to art plaza",
+      "samples": 478,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 33
+    },
+    {
+      "name": "v23: Art plaza to future Ju bridge landing",
+      "samples": 298,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 14
+    },
+    {
+      "name": "v24: Art plaza over stepped stone bridge",
+      "samples": 177,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 74
+    },
+    {
+      "name": "v24: Ju tree and garden loop",
+      "samples": 450,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 15
+    },
+    {
+      "name": "v25: Jiushan to Jiangkou east garden",
+      "samples": 1372,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 25
+    },
+    {
+      "name": "v25: Jiangkou west branch toward Nantian",
+      "samples": 397,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 15
+    },
+    {
+      "name": "v25: Zhongshan branch to bamboo water terrace",
+      "samples": 516,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 269
+    },
+    {
+      "name": "v25: Bamboo island garden walk",
+      "samples": 122,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 40
+    },
+    {
+      "name": "v26: Daosi junction to Rongyu stone bridge",
+      "samples": 355,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 156
+    },
+    {
+      "name": "v26: Rongyu pebble island circuit",
+      "samples": 334,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 9
+    },
+    {
+      "name": "v27: Zhouyuan east entry",
+      "samples": 99,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 69
+    },
+    {
+      "name": "v27: Zhouyuan curved wooden promenade",
+      "samples": 490,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 486
+    },
+    {
+      "name": "v28: Rongyu and Zhouyuan to alumni lobby",
+      "samples": 341,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 46
+    },
+    {
+      "name": "v28: Alumni exhibition hall circuit",
+      "samples": 192,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 7
+    },
+    {
+      "name": "v28: Alumni hall east exit",
+      "samples": 176,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 11
+    },
+    {
+      "name": "v29: Nantian north-south avenue",
+      "samples": 1459,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 82
+    },
+    {
+      "name": "v29: Nantian to Buqing through entry portal",
+      "samples": 166,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 18
+    },
+    {
+      "name": "v29: Jiangkou to Nantian",
+      "samples": 201,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 8
+    },
+    {
+      "name": "v29: Nantian track gate one",
+      "samples": 116,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 11
+    },
+    {
+      "name": "v29: Nantian track gate three",
+      "samples": 116,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 8
+    },
+    {
+      "name": "v29: Nantian north sports reserved branches",
+      "samples": 405,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 28
+    },
+    {
+      "name": "v30: Daosi to west gate open arch",
+      "samples": 519,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 8
+    },
+    {
+      "name": "v30: West gate outside garden walk",
+      "samples": 189,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 3
+    },
+    {
+      "name": "v31: Athletics gate one to grass infield",
+      "samples": 1179,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 25
+    },
+    {
+      "name": "v31: Athletics gate three to grass",
+      "samples": 353,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 25
+    },
+    {
+      "name": "v31: Athletics entire running lane circuit",
+      "samples": 3256,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 28
+    },
+    {
+      "name": "v31: Athletics west stand accessible aisle",
+      "samples": 669,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 69
+    },
+    {
+      "name": "v32: Nantian to gym entrance and stairs",
+      "samples": 724,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 48
+    },
+    {
+      "name": "v32: Gym shaded western forecourt",
+      "samples": 175,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 10
+    },
+    {
+      "name": "v34: Eight basketball courts central aisle",
+      "samples": 977,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 12
+    },
+    {
+      "name": "v34: Basketball revised eastern pedestrian path",
+      "samples": 1127,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 32
+    },
+    {
+      "name": "v34: Basketball cross aisle and east gate",
+      "samples": 389,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 7
+    },
+    {
+      "name": "v34: Basketball south to preserved Jiangkou route",
+      "samples": 434,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 15
+    },
+    {
+      "name": "v34: Preserved Nantian avenue",
+      "samples": 1073,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 58
+    },
+    {
+      "name": "v36: Gym entrance to table tennis aisle",
+      "samples": 351,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 6
+    },
+    {
+      "name": "v36: Gym foyer trophy viewing",
+      "samples": 137,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 2
+    },
+    {
+      "name": "v36: Gym real two flight internal stairs",
+      "samples": 676,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 90
+    },
+    {
+      "name": "v36: Gym rear gallery stair",
+      "samples": 59,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 45
+    },
+    {
+      "name": "v37: Math courtyard to main exhibits",
+      "samples": 295,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 12
+    },
+    {
+      "name": "v37: Math ground classroom aisle",
+      "samples": 91,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 58
+    },
+    {
+      "name": "v37: Math stair and upstairs connection",
+      "samples": 395,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 66
+    },
+    {
+      "name": "v37: Math pre-existing northern Jiushan path",
+      "samples": 237,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 11
+    },
+    {
+      "name": "v38: History complete ground gallery circuit",
+      "samples": 444,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 13
+    },
+    {
+      "name": "v38: History middle cross aisle",
+      "samples": 59,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 9
+    },
+    {
+      "name": "v39: Canteen south steps to dining and return",
+      "samples": 309,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 14
+    },
+    {
+      "name": "v39: Canteen central cross aisle",
+      "samples": 184,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 2
+    },
+    {
+      "name": "v39: Canteen eastern aisle and counter",
+      "samples": 300,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 9
+    },
+    {
+      "name": "v39: Canteen window-side dining access",
+      "samples": 349,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 2
+    },
+    {
+      "name": "v42: South gate right passage to school forewalk",
+      "samples": 1027,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 154
+    },
+    {
+      "name": "v42: South gate west garden to Daosi",
+      "samples": 574,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 20
+    },
+    {
+      "name": "v42: Plaza to tennis west gate and first pair",
+      "samples": 962,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 19
+    },
+    {
+      "name": "v42: Tennis second pair aisle",
+      "samples": 922,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 9
+    },
+    {
+      "name": "v42: Tennis both divider end passages",
+      "samples": 290,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 9
+    },
+    {
+      "name": "v42: School forewalk to Heyu mainland landing",
+      "samples": 132,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 22
+    },
+    {
+      "name": "v42: Heyu entry bridge and island path",
+      "samples": 331,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 589
+    },
+    {
+      "name": "v42: Heyu folded walk to bridge junction",
+      "samples": 383,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 20
+    },
+    {
+      "name": "v42: Bridge junction to tennis north gate",
+      "samples": 324,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 16
+    },
+    {
+      "name": "v42: Bridge junction to utility doorway",
+      "samples": 336,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 19
+    },
+    {
+      "name": "v42: Tennis southern exterior path",
+      "samples": 775,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 5
+    },
+    {
+      "name": "v42: Public road to open south gate",
+      "samples": 315,
+      "failure_count": 0,
+      "failures": [],
+      "query_objects": 10
+    }
+  ],
+  "all_passed": true,
+  "sample_spacing_max_m": 0.14,
+  "body_width_m": 0.7,
+  "headroom_m": 1.72,
+  "step_limit_m": 0.2,
+  "ue_verified": false,
+  "query_objects": 3147,
+  "route_local_queries": true,
+  "query_geometry": "Original evaluated geometry within conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach; v040 limits each query to the current route"
+}

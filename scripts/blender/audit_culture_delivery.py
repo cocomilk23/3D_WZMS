@@ -5,7 +5,7 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
-if rev in (21,25,29,33,39,40,41,42):
+if rev in (21,25,29,33,39,40,41,42,43):
  superseded={r for st in STAGES.values() if st['previous']<rev for r in st.get('supersedes_routes',[])}
  stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) if r not in superseded for name,poly in STAGES[r]['routes']])
  if rev==33:
@@ -62,7 +62,7 @@ if rev>=34:
    assert all(abs(d[1]-23.77)<.02 and abs(d[0]-10.97)<.02 for d in court_sizes)
    wall=sc.objects['v040 tennis horizontal solid divider'];wd=world_size(wall)
    assert wd[0 if rev==40 else 1]>27.9 and wd[1 if rev==40 else 0]<.5 and wd[2]>3
-   if rev==42:
+   if rev>=42:
     assert abs(wall.matrix_world.translation.x-48.9)<.01 and abs(wall.matrix_world.translation.y+31)<.01
    if rev==41:
     assert abs(wall.matrix_world.translation.x-100.9)<.01
@@ -134,7 +134,7 @@ for name,poly in stage['routes']:
   
  reports.append(dict(name=name,samples=count,failure_count=len(failures),failures=failures[:40],query_objects=len(query.objects)))
  print('CULTURE_ROUTE',name,count,'FAILURES',len(failures),failures[:4],flush=True)
- if rev>=40 and rev!=42 and failures:
+ if rev>=40 and rev<42 and failures:
   print('REFINEMENT_ROUTE_STOPPED_ON_FAILURE; remaining routes are not certified',flush=True)
   break
 report=dict(version=f'v0.0.{rev}',routes=reports,all_passed=len(reports)==len(stage['routes']) and all(r['failure_count']==0 for r in reports),sample_spacing_max_m=.14,body_width_m=.70,headroom_m=1.72,step_limit_m=.20,ue_verified=False,query_objects=len(candidates),route_local_queries=rev>=40,query_geometry='Original evaluated geometry within conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach; v040 limits each query to the current route')

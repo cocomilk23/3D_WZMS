@@ -1,0 +1,23 @@
+{
+  "version": "v0.0.43",
+  "source_sha256": "3f22de7bcfceb9410968d8255e1aa91a9a579c99ab154b27665e58cbc3f877ab",
+  "zones": 5,
+  "source_objects": 57217,
+  "mesh_files": 249,
+  "evaluated_triangles": 34742424,
+  "textures": 24,
+  "materials": 484,
+  "native_shader_rebuild_count": 286,
+  "roundtrip_all_passed": true,
+  "decimation_applied": false,
+  "ue_runtime_tested": false,
+  "shader_equivalence_claimed": false,
+  "static_collision": "Roles supplied; collision must be assigned and tested in UE. Foliage/water excluded from intended blocking geometry.",
+  "lightmap_uv": "UV0 only; dynamic-lighting handoff. Static lightmap unwrap is not supplied.",
+  "archive": {
+    "file": "deliverables/v0.0.43/ue/WZMS_UE_Transfer_v043.zip",
+    "bytes": 1547149987,
+    "sha256": "aacc538da50b296a52945cafeb68f3885469e58d3f8d8a5289d1b40358e4f4e4",
+    "crc_verified": true
+  }
+}

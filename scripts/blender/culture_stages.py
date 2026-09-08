@@ -74,3 +74,5 @@ STAGES[42]=dict(previous=41,builder='build_south_layout_v042.py',title='南侧�
  ('Bridge junction to utility doorway',[(90,-8,0),(90,-38,0),(99,-38,0),(99,-42,0),(102.2,-42,0)]),
  ('Tennis southern exterior path',[(10,-22,0),(10,-52,0),(88,-52,0)]),
  ('Public road to open south gate',[(-26,-62,0),(-26,-55,0),(-14.5,-55,0),(-14.5,-30,0)])])
+
+STAGES[43]=dict(previous=42,builder='build_environment_v043.py',title='环境精修与 UE 导入准备',refs=[347,348,349,352,353,354,359,364,365,366],cameras=['190_Environment_south_aerial','191_Environment_gate_garden','192_Environment_lotus_bank','193_Environment_bank_close'],routes=[])
