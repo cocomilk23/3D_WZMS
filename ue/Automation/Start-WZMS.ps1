@@ -1,4 +1,4 @@
-param([switch]$WaitForExit)
+param([switch]$WaitForExit,[string]$Map='')
 $ErrorActionPreference='Stop'
 $taskWorkspace=Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 $taskProject=Join-Path $taskWorkspace 'ue/WZMS/WZMS.uproject'
@@ -14,6 +14,10 @@ ${env:UE-LocalDataCachePath}="$taskCache/DDC"
 $env:TEMP="$taskCache/Temp"
 $env:TMP="$taskCache/Temp"
 $taskArguments=@(('"'+$taskProject+'"'), '-NoSplash', '-Unattended', '-NoSound', '-culture=en', '-SCCProvider=None', '-ModelContextProtocolStartServer', '-ModelContextProtocolPort=8010', ('-AbsLog="'+$taskLogs+'/UnrealMCP.log"'))
+if ($Map) {
+    if ($Map -notmatch '^/Game/WZMS/Maps/[A-Za-z0-9_]+$') { throw 'Invalid WZMS map path' }
+    $taskArguments=@(('"'+$taskProject+'"'),$Map)+$taskArguments[1..($taskArguments.Count-1)]
+}
 $taskEditor=Start-Process -FilePath $taskEngine -ArgumentList $taskArguments -WorkingDirectory $taskWorkspace -WindowStyle Hidden -PassThru
 $taskEditor.Id | Set-Content (Join-Path $taskLogs 'editor_pid.txt')
 Write-Output "WZMS editor launched: $($taskEditor.Id); MCP http://127.0.0.1:8010/mcp"

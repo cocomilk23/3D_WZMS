@@ -6,7 +6,8 @@ request=json.loads((root/'Saved/Logs/campus_request.json').read_text());name=req
 zone=json.loads((source/f'zone_{name}.json').read_text(encoding='utf8'))
 ch=next(c for c in zone['chunks'] if c['name']==request['chunk'])
 ref=next(c for c in json.loads((root.parent/f'Reports/fbx_bounds_{name}.json').read_text()) if c['name']==ch['name'])
-world=unreal.get_editor_subsystem(unreal.UnrealEditorSubsystem).get_editor_world();assert world.get_name()=='L_WZMS_Campus',world.get_name()
+world=unreal.get_editor_subsystem(unreal.UnrealEditorSubsystem).get_editor_world();assert world.get_name() in ['L_WZMS_Campus','L_WZMS_Transfer'],world.get_name()
+staging=world.get_name()=='L_WZMS_Transfer'
 assets=unreal.EditorAssetLibrary;smes=unreal.get_editor_subsystem(unreal.StaticMeshEditorSubsystem);actors=unreal.get_editor_subsystem(unreal.EditorActorSubsystem)
 src=source/ch['file'];assert hashlib.sha256(src.read_bytes()).hexdigest()==ch['sha256']
 path=f'/Game/WZMS/{name.title()}/Meshes/'+ch['name'];mesh=assets.load_asset(path)
@@ -42,10 +43,13 @@ comp=a.static_mesh_component;comp.set_static_mesh(mesh);comp.set_mobility(unreal
 comp.set_collision_profile_name('BlockAll' if ch['role']=='solid' else 'NoCollision');comp.set_editor_property('cast_shadow',ch['role'] not in ['glass','water'])
 for i,mid in enumerate(slots):
     mi=assets.load_asset('/Game/WZMS/Materials/Instances/MI_'+mid);assert mi,mid;comp.set_material(i,mi)
-assert unreal.get_editor_subsystem(unreal.LevelEditorSubsystem).save_current_level()
+if staging:
+    actors.destroy_actor(a)
+else:
+    assert unreal.get_editor_subsystem(unreal.LevelEditorSubsystem).save_current_level()
 report_path=root.parent/f'Reports/import_{name}.json'
 report=json.loads(report_path.read_text()) if report_path.exists() else {'zone':name,'source_sha256':zone['source_sha256'],'map':'/Game/WZMS/Maps/L_WZMS_Campus','chunks':[]}
-row={'name':ch['name'],'role':ch['role'],'path':path,'source_triangles':ch['triangles'],'ue_triangles':tris,'bounds_error_cm':error,'placement_cm':list(loc.to_tuple()),'materials':slots,'verified':True}
+row={'name':ch['name'],'role':ch['role'],'path':path,'source_triangles':ch['triangles'],'ue_triangles':tris,'bounds_error_cm':error,'placement_cm':list(loc.to_tuple()),'materials':slots,'verified':True,'pending_campus_placement':staging}
 report['chunks']=[c for c in report['chunks'] if c['name']!=ch['name']]+[row];report['complete']=len(report['chunks'])==len(zone['chunks'])
 report_path.write_text(json.dumps(report,indent=2))
 unreal.SystemLibrary.collect_garbage()
