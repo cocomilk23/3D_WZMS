@@ -1,0 +1,17 @@
+{
+  "trees": 262,
+  "actors": 524,
+  "shared_meshes": [
+    "/Game/WZMS/Tour/Meshes/SM_Tour_Context_Tree_Branches.SM_Tour_Context_Tree_Branches",
+    "/Game/WZMS/Tour/Meshes/SM_Tour_Context_Tree_Leaves.SM_Tour_Context_Tree_Leaves"
+  ],
+  "collision": "None; outside original campus",
+  "source_foliage_triangles_retained": true,
+  "visual_and_performance_validation_pending": true,
+  "actual_review_images": [
+    "Reviews/Tour/Campus_Aerial.png",
+    "Reviews/Tour/Campus_North_Gate.png"
+  ],
+  "visual_reviewed": true,
+  "final_visual_grade_pending": true
+}

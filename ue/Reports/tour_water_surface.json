@@ -1,0 +1,20 @@
+{
+  "source_water_assets_preserved": true,
+  "hidden_source_actors": [
+    "SM_south_water_054",
+    "SM_central_water_048",
+    "SM_west_water_042",
+    "SM_east_water_068"
+  ],
+  "replacement_actor": "SM_Tour_Lake_Surface",
+  "area_m2": 88249.6,
+  "level_m": -1.15,
+  "collision": "NoCollision; water exclusion remains separately active",
+  "visual_validation_pending": false,
+  "actual_review_images": [
+    "Reviews/Tour/Campus_Aerial.png",
+    "Reviews/Tour/Campus_North_Gate.png"
+  ],
+  "visual_reviewed": true,
+  "final_visual_grade_pending": true
+}

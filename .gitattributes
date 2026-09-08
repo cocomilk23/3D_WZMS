@@ -12,3 +12,5 @@
 *.exr filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 /deliverables/v0.0.43/ue/*.zip filter=lfs diff=lfs merge=lfs -text
+/ue/SourceReference/tour_context_tree_buffers.json filter=lfs diff=lfs merge=lfs -text
+/ue/SourceReference/tour_perimeter_buffers.json filter=lfs diff=lfs merge=lfs -text

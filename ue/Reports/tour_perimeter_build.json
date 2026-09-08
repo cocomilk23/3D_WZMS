@@ -1,0 +1,63 @@
+{
+  "context_is_estimated": true,
+  "campus_placements_unchanged": true,
+  "objects": [
+    {
+      "actor": "SM_Tour_District_Ground",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_District_Ground",
+      "triangles": 41,
+      "collision": false
+    },
+    {
+      "actor": "SM_Tour_Perimeter_Ground",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_Perimeter_Ground",
+      "triangles": 18,
+      "collision": true
+    },
+    {
+      "actor": "SM_Tour_District_Road",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_District_Road",
+      "triangles": 2559,
+      "collision": false
+    },
+    {
+      "actor": "SM_Tour_Perimeter_Wall",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_Perimeter_Wall",
+      "triangles": 6900,
+      "collision": true
+    },
+    {
+      "actor": "SM_Tour_District_West",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_District_West",
+      "triangles": 31336,
+      "collision": false
+    },
+    {
+      "actor": "SM_Tour_District_East",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_District_East",
+      "triangles": 21452,
+      "collision": false
+    },
+    {
+      "actor": "SM_Tour_District_North",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_District_North",
+      "triangles": 6978,
+      "collision": false
+    },
+    {
+      "actor": "SM_Tour_District_South",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_District_South",
+      "triangles": 6156,
+      "collision": false
+    }
+  ],
+  "visual_and_runtime_validation_pending": true,
+  "actual_review_images": [
+    "Reviews/Tour/Campus_Aerial.png",
+    "Reviews/Tour/Campus_North_Gate.png"
+  ],
+  "visual_reviewed": true,
+  "final_visual_grade_pending": true,
+  "collision_audit_report": "tour_perimeter_collision.json",
+  "character_runtime_report": "tour_perimeter_runtime.json"
+}

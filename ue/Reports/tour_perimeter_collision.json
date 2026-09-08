@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "boundary_samples": 622,
+  "capsule_heights_cm": [
+    92,
+    180
+  ],
+  "already_inside_forbidden_water_tests": 358,
+  "boundary_failures": [],
+  "authored_routes_checked": 74,
+  "wall_route_conflicts": [],
+  "method": "Actual physics against perimeter wall and water exclusion, with walking and near-jump-apex capsule heights. Sweeps wholly within forbidden water are checked by vertical intersection with the closed exclusion volume. Separate character runtime traversal remains required."
+}
