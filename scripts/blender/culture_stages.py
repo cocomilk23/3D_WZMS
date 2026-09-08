@@ -52,3 +52,11 @@ STAGES[40]=dict(previous=39,builder='build_campus_refinement.py',title='本部�
  ('Heyu revised mainland and island access',[(62,47,0),(62,80,0),(70,80,0),(77,78,0),(87,78,0)]),
  ('Waterside bridge to retained utility',[(106,64,0),(106,39,0),(106,35,0),(109.2,35,0)]),
  ('Tennis both ends of horizontal divider',[(66.5,23,0),(66.5,29,0),(99,29,0),(99,23,0)])])
+
+STAGES[41]=dict(previous=40,builder='build_tennis_orientation_v041.py',title='网球场航拍与地面参照校正',refs=[347,348,359,364,365],supersedes_routes=[35,40],cameras=['183_Tennis_toward_school','184_Tennis_four_top_plan','185_Tennis_aerial_relationships'],routes=[
+ ('Tennis west entry and first pair aisle',[(54,47,0),(62,47,0),(62,17,0),(67,17,0),(67,24,0),(83,24,0),(83,-8,0),(99,-8,0),(99,24,0)]),
+ ('Tennis second pair aisle and perimeter',[(103,24,0),(119,24,0),(119,-8,0),(135,-8,0),(135,24,0),(103,24,0)]),
+ ('Tennis passages around both divider ends',[(99,24,0),(103,24,0),(103,-8,0),(99,-8,0)]),
+ ('Heyu restored mainland access',[(62,47,0),(62,44,0),(63.5,44,0),(70,44,0),(77,42,0),(87,42,0)]),
+ ('Heyu to north tennis gate',[(87,42,0),(104,42,0),(104,24,0)]),
+ ('Restored utility connection',[(104,39,0),(106,39,0),(106,35,0),(109.2,35,0)])])

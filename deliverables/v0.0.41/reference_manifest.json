@@ -1,0 +1,14 @@
+[
+  {
+    "file": "reference/user_aerial.png",
+    "bytes": 730359,
+    "sha256": "3331df631b009293f52e5bb9f6019a592871187d37aa7bdf6a91229603612ec3",
+    "authority": "User-supplied visual reference, 2026-09-08"
+  },
+  {
+    "file": "reference/user_ground.png",
+    "bytes": 3981754,
+    "sha256": "b166e9f8688e22163e3fed17268645ad980e901d3d4b4e53e87ef24bed20f468",
+    "authority": "User-supplied visual reference, 2026-09-08"
+  }
+]

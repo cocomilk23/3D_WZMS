@@ -5,7 +5,7 @@ from mathutils import Vector
 sys.path.insert(0,str(Path(__file__).parent))
 from culture_stages import STAGES
 ROOT=Path(__file__).resolve().parents[2];rev=int(sys.argv[sys.argv.index('--')+1]);stage=STAGES[rev]
-if rev in (21,25,29,33,39,40):
+if rev in (21,25,29,33,39,40,41):
  superseded={r for st in STAGES.values() if st['previous']<rev for r in st.get('supersedes_routes',[])}
  stage=dict(stage,routes=[(f'v{r}: '+name,poly) for r in range(17,rev+1) if r not in superseded for name,poly in STAGES[r]['routes']])
  if rev==33:
@@ -14,7 +14,7 @@ if rev in (21,25,29,33,39,40):
  if rev==39:
   # Inspect the newly added dining circulation first; retain every prior route.
   stage['routes'].sort(key=lambda item:0 if item[0].startswith('v39:') else 1)
- if rev==40:stage['routes'].sort(key=lambda item:0 if item[0].startswith('v40:') else 1)
+ if rev>=40:stage['routes'].sort(key=lambda item:0 if item[0].startswith(f'v{rev}:') else 1)
 out=ROOT/f'deliverables/v0.0.{rev}';out.mkdir(parents=True,exist_ok=True)
 def snapshot():
  bpy.context.view_layer.update();meshes={};result={}
@@ -54,13 +54,17 @@ if rev>=34:
    assert actual==[(83,-1),(83,17),(119,-1),(119,17)],actual
    wall=sc.objects['Tennis middle solid dividing practice wall'];assert wall.dimensions.y>27.9 and wall.dimensions.z>3
   else:
-   assert actual==[(74,8),(74,44),(92,8),(92,44)],actual
+   assert actual==([(74,8),(74,44),(92,8),(92,44)] if rev==40 else [(74,8),(92,8),(110,8),(128,8)]),actual
    def world_size(o):
     points=[o.matrix_world@v.co for v in o.data.vertices]
     return [max(p[i] for p in points)-min(p[i] for p in points) for i in range(3)]
    court_sizes=[world_size(o) for o in courts]
    assert all(abs(d[1]-23.77)<.02 and abs(d[0]-10.97)<.02 for d in court_sizes)
-   wall=sc.objects['v040 tennis horizontal solid divider'];assert wall.dimensions.x>27.9 and wall.dimensions.y<.5 and wall.dimensions.z>3
+   wall=sc.objects['v040 tennis horizontal solid divider'];wd=world_size(wall)
+   assert wd[0 if rev==40 else 1]>27.9 and wd[1 if rev==40 else 0]<.5 and wd[2]>3
+   if rev==41:
+    assert abs(wall.matrix_world.translation.x-100.9)<.01
+    assert abs(wall.matrix_world.translation.y-8)<.01
    nets=[o for o in sc.objects if 'Tennis actual woven sagging net' in o.name]
    net_sizes=[world_size(o) for o in nets]
    assert len(nets)==4 and all(d[0]>12.7 and d[1]<.03 for d in net_sizes)
@@ -85,10 +89,10 @@ for o in sc.objects:
  oblo=[min(v[i] for v in bounds) for i in range(3)];obhi=[max(v[i] for v in bounds) for i in range(3)]
  if all(obhi[i]>=lo[i] and oblo[i]<=hi[i] for i in range(3)) and any(all(obhi[i]>=clo[i] and oblo[i]<=chi[i] for i in range(3)) for clo,chi in corridors):
   candidates.append((o,oblo,obhi))
-  if rev!=40:query.collection.objects.link(o)
+  if rev<40:query.collection.objects.link(o)
 bpy.context.window.scene=query;bpy.context.view_layer.update();deps=bpy.context.evaluated_depsgraph_get();reports=[]
 for name,poly in stage['routes']:
- if rev==40:
+ if rev>=40:
   # The same evaluated objects and conservative padding, scoped to this route.
   # Excluding distant routes reduces per-ray scene overhead without changing
   # sample spacing, clearances, actual geometry or longitudinal body sweeps.
@@ -128,10 +132,10 @@ for name,poly in stage['routes']:
   
  reports.append(dict(name=name,samples=count,failure_count=len(failures),failures=failures[:40],query_objects=len(query.objects)))
  print('CULTURE_ROUTE',name,count,'FAILURES',len(failures),failures[:4],flush=True)
- if rev==40 and failures:
+ if rev>=40 and failures:
   print('REFINEMENT_ROUTE_STOPPED_ON_FAILURE; remaining routes are not certified',flush=True)
   break
-report=dict(version=f'v0.0.{rev}',routes=reports,all_passed=len(reports)==len(stage['routes']) and all(r['failure_count']==0 for r in reports),sample_spacing_max_m=.14,body_width_m=.70,headroom_m=1.72,step_limit_m=.20,ue_verified=False,query_objects=len(candidates),route_local_queries=rev==40,query_geometry='Original evaluated geometry within conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach; v040 limits each query to the current route')
+report=dict(version=f'v0.0.{rev}',routes=reports,all_passed=len(reports)==len(stage['routes']) and all(r['failure_count']==0 for r in reports),sample_spacing_max_m=.14,body_width_m=.70,headroom_m=1.72,step_limit_m=.20,ue_verified=False,query_objects=len(candidates),route_local_queries=rev>=40,query_geometry='Original evaluated geometry within conservative segment bounds; 0.60m XY padding exceeds 0.35m query reach; v040 limits each query to the current route')
 (out/'geometry_validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 bpy.context.window.scene=sc;bpy.data.scenes.remove(query)
 if unexpected or not report['all_passed']:raise RuntimeError('Culture audit failed: inspect JSON reports')

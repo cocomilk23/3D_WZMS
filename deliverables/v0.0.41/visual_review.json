@@ -1,0 +1,10 @@
+{
+  "version": "v0.0.41",
+  "reviewer": "Codex visual inspection",
+  "reviewed": {
+    "183_Tennis_toward_school": "Reviewed final reframed image: left/right courts and both cross-court nets visible, central aisle clear, blue divider on right. Main school facade is offset to the left in existing estimated site coordinates; this is not a pixel-matched reconstruction of the panorama.",
+    "184_Tennis_four_top_plan": "Reviewed: four longitudinal courts in one row, continuous enclosure, one divider between courts two and three, open passages at both ends and northern gateway.",
+    "185_Tennis_aerial_relationships": "Reviewed: court row follows the school wing direction; court long axes run toward the school side, island and utility connections remain visible. Existing estimated spacing and unmodeled terrain outside the campus boundaries remain visible."
+  },
+  "user_acceptance": "pending"
+}
