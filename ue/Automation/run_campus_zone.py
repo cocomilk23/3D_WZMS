@@ -1,5 +1,5 @@
 """Resumable one-chunk MCP jobs; never abandon or overlap a running editor mutation."""
-import argparse,json,time,socket,subprocess,psutil
+import argparse,json,time,subprocess,psutil
 from pathlib import Path
 from ue_mcp import UnrealMcpClient
 root=Path(__file__).resolve().parents[1]
@@ -33,9 +33,7 @@ def run_job(client,script):
         if state['state']=='failed':raise RuntimeError(json.dumps(state))
         if state['state']=='complete':return state
         if time.monotonic()-last_probe>10:
-            try:
-                with socket.create_connection(('127.0.0.1',8010),timeout=2):pass
-            except OSError as exc:raise RuntimeError(f'Editor MCP stopped during {job}; inspect logs before resuming') from exc
+            if not editor_process().is_running():raise RuntimeError(f'Editor stopped during {job}; inspect logs before resuming')
             last_probe=time.monotonic()
         time.sleep(.5)
     raise TimeoutError(f'Job may still be running; inspect {job} before retrying')

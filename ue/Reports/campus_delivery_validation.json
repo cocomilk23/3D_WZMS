@@ -4,10 +4,11 @@
     "south",
     "central",
     "west",
-    "east"
+    "east",
+    "north"
   ],
-  "all_five_zones_complete": false,
-  "mesh_count": 212,
+  "all_five_zones_complete": true,
+  "mesh_count": 249,
   "meshes": [
     {
       "zone": "south",
@@ -1701,6 +1702,302 @@
       "zone": "east",
       "mesh": "SM_east_foliage_056",
       "triangles": 108512,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_030",
+      "triangles": 74854,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_031",
+      "triangles": 163018,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_032",
+      "triangles": 34248,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_033",
+      "triangles": 200474,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_034",
+      "triangles": 243486,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_035",
+      "triangles": 214936,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_036",
+      "triangles": 288004,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_solid_037",
+      "triangles": 47112,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_glass_029",
+      "triangles": 4276,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_001",
+      "triangles": 136396,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_002",
+      "triangles": 117881,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_003",
+      "triangles": 118118,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_004",
+      "triangles": 122470,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_005",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_006",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_007",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_008",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_009",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_010",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_011",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_012",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_013",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_014",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_015",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_016",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_017",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_018",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_019",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_020",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_021",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_022",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_023",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_024",
+      "triangles": 124416,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_025",
+      "triangles": 137982,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_026",
+      "triangles": 28684,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_027",
+      "triangles": 124416,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "north",
+      "mesh": "SM_north_foliage_028",
+      "triangles": 124416,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true

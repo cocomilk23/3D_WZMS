@@ -13,8 +13,9 @@
     "south",
     "central",
     "west",
-    "east"
+    "east",
+    "north"
   ],
   "scope": "Existing main campus model; Xinjiang branch remains deferred.",
-  "verified_meshes": 212
+  "verified_meshes": 249
 }

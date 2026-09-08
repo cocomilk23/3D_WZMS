@@ -1,0 +1,162 @@
+{
+  "materials": [
+    {
+      "id": "M_16f84a34bccbfe",
+      "source_strength": 3.0,
+      "ue_emission_multiplier": 300.0,
+      "source_name": "Alumni warm recessed diffuser"
+    },
+    {
+      "id": "M_511a40eb0d2166",
+      "source_strength": 0.07999999821186066,
+      "ue_emission_multiplier": 7.999999821186066,
+      "source_name": "Gym source sports picture source 393/l"
+    },
+    {
+      "id": "M_ae5becdd475c75",
+      "source_strength": 0.05999999865889549,
+      "ue_emission_multiplier": 5.999999865889549,
+      "source_name": "History original campus and photo wall source 408/f"
+    },
+    {
+      "id": "M_bc830f91642ea5",
+      "source_strength": 0.05999999865889549,
+      "ue_emission_multiplier": 5.999999865889549,
+      "source_name": "History original campus and photo wall source 418/f"
+    },
+    {
+      "id": "M_aef73b3fb1aa9a",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original framed large scroll source 417/l"
+    },
+    {
+      "id": "M_6b50b33bdf094c",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original framed narrow scroll source 417/l"
+    },
+    {
+      "id": "M_0125e18419007a",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original framed portrait source 417/l"
+    },
+    {
+      "id": "M_d4c22067002117",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original preface left source 405/l"
+    },
+    {
+      "id": "M_ce6847706336ad",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original preface right source 405/f"
+    },
+    {
+      "id": "M_88b1d2f5df66ea",
+      "source_strength": 0.20000000298023224,
+      "ue_emission_multiplier": 20.000000298023224,
+      "source_name": "History original warm photograph mosaic source 412/f"
+    },
+    {
+      "id": "M_e35a0f6dc4bf55",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original 历任校长 source 411/f"
+    },
+    {
+      "id": "M_0964c5bbe1c39c",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original 名师荟萃 source 413/l"
+    },
+    {
+      "id": "M_8613794a4743ad",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original 孙诒让 source 414/l"
+    },
+    {
+      "id": "M_fafc765648e4a6",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original 温中百年 source 407/f"
+    },
+    {
+      "id": "M_27d7ad5e021f5f",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original 英奇匡国 source 410/l"
+    },
+    {
+      "id": "M_fb4e6e005b7cb2",
+      "source_strength": 0.03999999910593033,
+      "ue_emission_multiplier": 3.999999910593033,
+      "source_name": "History original 英奇匡国 source 416/f"
+    },
+    {
+      "id": "M_fe2453b7f9de6f",
+      "source_strength": 2.0,
+      "ue_emission_multiplier": 200.0,
+      "source_name": "History warm exhibit lighting"
+    },
+    {
+      "id": "M_eeed9f93f345bc",
+      "source_strength": 3.0,
+      "ue_emission_multiplier": 300.0,
+      "source_name": "Interior neutral LED"
+    },
+    {
+      "id": "M_34429117b55cdc",
+      "source_strength": 3.0,
+      "ue_emission_multiplier": 300.0,
+      "source_name": "Library warm LED diffuser"
+    },
+    {
+      "id": "M_3d20f2ae565101",
+      "source_strength": 0.07999999821186066,
+      "ue_emission_multiplier": 7.999999821186066,
+      "source_name": "Math Gu Chaohao gallery original interpretation source 399/l"
+    },
+    {
+      "id": "M_7c79fa083736ed",
+      "source_strength": 0.07999999821186066,
+      "ue_emission_multiplier": 7.999999821186066,
+      "source_name": "Math Su Buqing gallery original interpretation source 398/l"
+    },
+    {
+      "id": "M_280cf49d1931ee",
+      "source_strength": 0.07999999821186066,
+      "ue_emission_multiplier": 7.999999821186066,
+      "source_name": "Math foyer original preface source 398/b"
+    },
+    {
+      "id": "M_c73e76dad613d1",
+      "source_strength": 0.5,
+      "ue_emission_multiplier": 50.0,
+      "source_name": "Math photographed projection screen source 402/f"
+    },
+    {
+      "id": "M_fe6d1854de036e",
+      "source_strength": 0.07999999821186066,
+      "ue_emission_multiplier": 7.999999821186066,
+      "source_name": "Math stars gallery original interpretation source 400/f"
+    },
+    {
+      "id": "M_c67d1f2af083c8",
+      "source_strength": 1.7999999523162842,
+      "ue_emission_multiplier": 179.99999523162842,
+      "source_name": "Math warm paper lantern"
+    },
+    {
+      "id": "M_bd8faed5f2a47d",
+      "source_strength": 2.4000000953674316,
+      "ue_emission_multiplier": 240.00000953674316,
+      "source_name": "Zhouyuan lit spotlight lens"
+    }
+  ],
+  "count": 26,
+  "estimated_radiometric_conversion": true
+}
