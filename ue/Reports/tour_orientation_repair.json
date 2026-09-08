@@ -1,0 +1,333 @@
+{
+  "meshes": [
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_044",
+      "inward_components_corrected": 2,
+      "triangles_flipped": 528,
+      "triangles_before": 50074,
+      "triangles_after": 50074,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "43608839a95bd7883a5e5ef4e04777148816d26ae08511b129617b8413db6cb4",
+      "source_triangles_sha256": "1ee3e061dfebe530e0d0f1d4d8b98140e47ade488f3aa20d44c280e13985809c"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_045",
+      "inward_components_corrected": 5,
+      "triangles_flipped": 2392,
+      "triangles_before": 43428,
+      "triangles_after": 43428,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "403066d8d632c77f02890ac221cf3fd64bba3a8ce5d66062da63ec95c9345aae",
+      "source_triangles_sha256": "610e9c1354523cc34ddb79626a33d84d1ad5f27b0d533f18ca2946a288663a8c"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_046",
+      "inward_components_corrected": 3,
+      "triangles_flipped": 60,
+      "triangles_before": 73334,
+      "triangles_after": 73334,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "ea48bbb5bfc6dd64f9155f2af4a55eb6ab579af5ee1f0598f90da23ea6bea333",
+      "source_triangles_sha256": "0df6fd0c57aee9f41d51b90eb7076ad6773816a6cfe211b23dfe89c193cee856"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_047",
+      "inward_components_corrected": 1,
+      "triangles_flipped": 224,
+      "triangles_before": 52589,
+      "triangles_after": 52589,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "ad08e175c6e3a4dac1d9efe89cd9a44fde1e8bb7b5a0c609f64f7707bb618e49",
+      "source_triangles_sha256": "1fdd7196e9e1912fc68683cfcd2d321d21369425de9749b450a1cc896d0b2c72"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_048",
+      "inward_components_corrected": 2,
+      "triangles_flipped": 24,
+      "triangles_before": 146185,
+      "triangles_after": 146185,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "2da4a8020d75510d80e7863f384a7c54e7e7d0d3814c50a1d9a2bb5b97ee78e2",
+      "source_triangles_sha256": "831cdd4a3fc12139ba1a22236ed1113d7dc5bec0ed62c9b45b7c4cd3862c0cd6"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_049",
+      "inward_components_corrected": 27,
+      "triangles_flipped": 2096,
+      "triangles_before": 26302,
+      "triangles_after": 26302,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "5e069f927ec0f001c6c6a88cd06d1d8445a5828799338f17026221da26f12335",
+      "source_triangles_sha256": "b71e4b44e178fe8e5feecd2ba90920ac99ac2b5335d953935da6e9073a57c754"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_050",
+      "inward_components_corrected": 4,
+      "triangles_flipped": 144,
+      "triangles_before": 121420,
+      "triangles_after": 121420,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "10857f4f2054b82e944d7214fb3c9234f72b570969dcfa7d98b719e54d3c4774",
+      "source_triangles_sha256": "90368d9e9707c232f614633a84c1855d551201c6d7932624e5c7adb2d8451b45"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_051",
+      "inward_components_corrected": 14,
+      "triangles_flipped": 5424,
+      "triangles_before": 270784,
+      "triangles_after": 270784,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "c33d3aad2245e8cb7cbda710468081ed7216ff3aa374344c376af6d2e99a093c",
+      "source_triangles_sha256": "5c88bb38679cfd2b6a38d38ea467c003bbe2e0ea19f875e7ab53a7b90b5ca455"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_052",
+      "inward_components_corrected": 8,
+      "triangles_flipped": 224,
+      "triangles_before": 276436,
+      "triangles_after": 276436,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "5163470d4d3645aa57cf53c193456cacda42c1a69e00b259b2e3758e1763fb99",
+      "source_triangles_sha256": "15709dfa37d6413673c8050b0389583ecf4123084d6029c10d6b5f7f52be6ee2"
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_053",
+      "inward_components_corrected": 17,
+      "triangles_flipped": 3468,
+      "triangles_before": 63654,
+      "triangles_after": 63654,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "172846b4d8fd4088de12e10220a836c05ebaf5307349c04efcb4d5b991c9c680",
+      "source_triangles_sha256": "574ed1411385f91919f3ee6d379ba7efeda4d18e65f5cdd3bf0c252ab46a62c4"
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_037",
+      "inward_components_corrected": 248,
+      "triangles_flipped": 2976,
+      "triangles_before": 264860,
+      "triangles_after": 264860,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "e01d8e063c0af7f239d17c5b3bf83fa2abe37f72d2316abef6671b359620f45c",
+      "source_triangles_sha256": "979074650c9d7b7cf1b7f7c48c8a1da4161b271e72a0d5aed1e5bce804c64fff"
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_038",
+      "inward_components_corrected": 8,
+      "triangles_flipped": 144,
+      "triangles_before": 167172,
+      "triangles_after": 167172,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "30016ed9f1501e390b8785af6f96436e6630985864e481f8bfebbb8b36244d3e",
+      "source_triangles_sha256": "b11bc6b8553913b528879381e9084a10555d82c261cf26b69930ba17998505d7"
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_039",
+      "inward_components_corrected": 4,
+      "triangles_flipped": 112,
+      "triangles_before": 63262,
+      "triangles_after": 63262,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "f8ff047e0b5384e59e7b52ae79b3d9b9053bee4920da75ff94246b337ea7d1c6",
+      "source_triangles_sha256": "eb25a5fc6a1b61ce803b0549e23955ec13ccb84e676ea06a730bae590901f81a"
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_041",
+      "inward_components_corrected": 4,
+      "triangles_flipped": 48,
+      "triangles_before": 117720,
+      "triangles_after": 117720,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "e25402466933bba4be39c5bbd4cb33a2c30b95c0d8dd525c10cbd13998c7c59f",
+      "source_triangles_sha256": "474617bbaac4a77dec7e83ae4c514b1a56a384c465c450ef2819c5c397c6797a"
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_045",
+      "inward_components_corrected": 15,
+      "triangles_flipped": 5860,
+      "triangles_before": 275948,
+      "triangles_after": 275948,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "4ddf25df4d587825135d0444ba8852e26430320540224b93ad36f0b950c66ddb",
+      "source_triangles_sha256": "f64619ab6ad63f25fd30346206aaa5fc120ea11c353664848ac3494fdf640125"
+    },
+    {
+      "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_030",
+      "inward_components_corrected": 19,
+      "triangles_flipped": 1800,
+      "triangles_before": 74354,
+      "triangles_after": 74354,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "6ff6847e2104271be5e34282dfda5ff80f6cc2bc093ca815b0736ba09fa47b58",
+      "source_triangles_sha256": "80bd504c415110787509829624bb1c7d1bbbf81921b5441af095a21ab23709bc"
+    },
+    {
+      "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_031",
+      "inward_components_corrected": 22,
+      "triangles_flipped": 8408,
+      "triangles_before": 144328,
+      "triangles_after": 144328,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "1cf7d90e8ae23330d8de9f588b844d253d2f51ad857606d072051eda09bc8352",
+      "source_triangles_sha256": "35f1c93c07ab1defac9d179d844a0c4552e413f57b0462e6e0c11d11bd47b8a4"
+    },
+    {
+      "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_037",
+      "inward_components_corrected": 4,
+      "triangles_flipped": 48,
+      "triangles_before": 325928,
+      "triangles_after": 325928,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "32b33288df9dd73a24d1cf95bf8a0280a2d9755a161c854b51d448e8c70cb12c",
+      "source_triangles_sha256": "6529510e44d9c71820039acbbf3abff52b83355e2cf3f50f90f129679376bc6a"
+    },
+    {
+      "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_039",
+      "inward_components_corrected": 17,
+      "triangles_flipped": 456,
+      "triangles_before": 284172,
+      "triangles_after": 284172,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "85ef53a63994f2d55b3e775ed8db228f9f1055c876adbbfd8bb3d7bbde1a9bb0",
+      "source_triangles_sha256": "8648dba5d1a7fcbdd5d07f9eaf05a2a03a586446a0794dcacadf5329a53c8e9e"
+    },
+    {
+      "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_040",
+      "inward_components_corrected": 172,
+      "triangles_flipped": 26396,
+      "triangles_before": 166212,
+      "triangles_after": 166212,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "bdbbe0726910414f70acf874faa1c02d03783d91d87429a791c1fc694f6dedc3",
+      "source_triangles_sha256": "36e8db14e6c48537050cfcbca7c992be281a5d8529aaa210a882dc91429aafbb"
+    },
+    {
+      "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_041",
+      "inward_components_corrected": 1,
+      "triangles_flipped": 12,
+      "triangles_before": 7336,
+      "triangles_after": 7336,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "e6f2330e08608692ad21be1094508edb74597ae406b584a48e32a0437f8b1944",
+      "source_triangles_sha256": "9edd22c10dc7ab83f79a336a12d694baaee9156b9ba1e792f59054d48d37fd2f"
+    },
+    {
+      "mesh": "/Game/WZMS/East/Meshes/SM_east_solid_058",
+      "inward_components_corrected": 3,
+      "triangles_flipped": 996,
+      "triangles_before": 80616,
+      "triangles_after": 80616,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "e356b2cdf55cb68f51bf7f7578162eb2c7835d8cdeab6831ec10e95157aaa505",
+      "source_triangles_sha256": "352c8e7b9de907d20def16fbcb2161cb5c2191f24e9178f9e955ebf162faa2b0"
+    },
+    {
+      "mesh": "/Game/WZMS/East/Meshes/SM_east_solid_060",
+      "inward_components_corrected": 42,
+      "triangles_flipped": 1744,
+      "triangles_before": 51992,
+      "triangles_after": 51992,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "4c16970ac6cc4a8e8b1e5741495c08edfafb29a0966228d5a273489093a21fed",
+      "source_triangles_sha256": "a1cc5a428b1c22cf5148121c30d834ebaf0be378bf9dd17c04dc71c5aabce1ce"
+    },
+    {
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_east_solid_061_Tour",
+      "inward_components_corrected": 11,
+      "triangles_flipped": 5504,
+      "triangles_before": 186898,
+      "triangles_after": 186898,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "8d4574bc1538e85a883ae62724787754039ca24bb358dc5315d37faf92d6e7e0",
+      "source_triangles_sha256": "474c070dda7529880720fceaba1ca3ca353652769d85c02c850ec99b799fecc0"
+    },
+    {
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_east_solid_062_Tour",
+      "inward_components_corrected": 49,
+      "triangles_flipped": 4736,
+      "triangles_before": 120050,
+      "triangles_after": 120050,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "305af8e1d7249acd423fdd2605eed5c4c6fa1fb08fa17feddab3a420ac96ed5f",
+      "source_triangles_sha256": "dc1d1191552089d057cd146996ef88a4fe38d31dea757d03e444f093261d2cd5"
+    },
+    {
+      "mesh": "/Game/WZMS/East/Meshes/SM_east_solid_063",
+      "inward_components_corrected": 1,
+      "triangles_flipped": 440,
+      "triangles_before": 161034,
+      "triangles_after": 161034,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "93462d8de4578af56f8f7e76a89be8988462809fa59fa7bd1759180c23a8cc86",
+      "source_triangles_sha256": "57a5d570811746b999549a823bca37035d8071613858da49a6f963d35d428757"
+    },
+    {
+      "mesh": "/Game/WZMS/East/Meshes/SM_east_solid_065",
+      "inward_components_corrected": 22,
+      "triangles_flipped": 6572,
+      "triangles_before": 234198,
+      "triangles_after": 234198,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "ab9543f3945d1873a7b2e15f0a128ba52c7f8ae5f06a3bd0727b313d8e2bd60d",
+      "source_triangles_sha256": "25fb39c7c0004dad56ee75297915ecaaa0f9925f71af9ff8700dac7332cfbaf0"
+    },
+    {
+      "mesh": "/Game/WZMS/East/Meshes/SM_east_solid_066",
+      "inward_components_corrected": 4,
+      "triangles_flipped": 128,
+      "triangles_before": 292142,
+      "triangles_after": 292142,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "f97319511e575afec8f541e057ea5f67c7e0e702f4c74766a3b7b4cebe4fcfbf",
+      "source_triangles_sha256": "0248fcf3eb27b2d85bf3bf52c7691ccb444388dab81f2ddcfcfd540bb7786349"
+    },
+    {
+      "mesh": "/Game/WZMS/North/Meshes/SM_north_solid_032",
+      "inward_components_corrected": 14,
+      "triangles_flipped": 200,
+      "triangles_before": 34248,
+      "triangles_after": 34248,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "97b12e1514ee357f51b8ebbab06ad63782427d0f2dbc2ea77a210427e8929dd3",
+      "source_triangles_sha256": "4538a4e425147f53476b0106c4c205e715cc6c19571820e0e128aad5c45c4eef"
+    },
+    {
+      "mesh": "/Game/WZMS/North/Meshes/SM_north_solid_033",
+      "inward_components_corrected": 19,
+      "triangles_flipped": 260,
+      "triangles_before": 200474,
+      "triangles_after": 200474,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "47e2502acc79c1eb39c2a559163e3dba3b581a7378c0978be81a2d26bda22adf",
+      "source_triangles_sha256": "c41fb139278172b707b7e45c3cca5825c3504d25390dcb0d0c999788c41968e0"
+    },
+    {
+      "mesh": "/Game/WZMS/North/Meshes/SM_north_solid_034",
+      "inward_components_corrected": 10,
+      "triangles_flipped": 1152,
+      "triangles_before": 243486,
+      "triangles_after": 243486,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "6eecdddb286c4fd68a50cf9f4b495cabebf95f6c520638c52a6e748e2d1e10df",
+      "source_triangles_sha256": "b0b839c9651a8cc4266f72a4a0aca37561f8c534454ee9d93fcb19a0aa91ad78"
+    },
+    {
+      "mesh": "/Game/WZMS/North/Meshes/SM_north_solid_035",
+      "inward_components_corrected": 11,
+      "triangles_flipped": 7540,
+      "triangles_before": 214936,
+      "triangles_after": 214936,
+      "vertex_positions_bitwise_unchanged": true,
+      "source_positions_sha256": "c60a46498ec99290ffb85bfaf010087191b4b8d703679245815183d3f6fe0352",
+      "source_triangles_sha256": "f9287d7e5a9dad8541a23596cc21373fe6e2f46506908201dd1c57afacf287a6"
+    }
+  ],
+  "method": "Closed components with exactly two oppositely directed faces per edge. Signed-volume orientation calibrated against UE Engine Cube. No vertex welding or decimation in the output. Open or inconsistently oriented components are excluded.",
+  "geometry_decimation": false,
+  "runtime_revalidation_pending": true,
+  "targeted_runtime_validation": {
+    "report": "tour_orientation_routes_runtime.json",
+    "passed": true,
+    "cases": 14,
+    "full_74_route_retest_pending": true
+  }
+}
