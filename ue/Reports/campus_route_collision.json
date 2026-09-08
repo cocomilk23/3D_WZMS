@@ -1,0 +1,453 @@
+{
+  "complete": true,
+  "route_count": 74,
+  "sample_count": 2572,
+  "passed": true,
+  "routes": [
+    {
+      "route": "v17: Ground portico to entrance",
+      "sample_count": 9,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v17: External stairs and upper entry",
+      "sample_count": 22,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v18: First floor entry and central stairs",
+      "sample_count": 15,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v18: Second floor external entrance to upper staircase",
+      "sample_count": 40,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v19: Library south to mathematics gate",
+      "sample_count": 43,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v20: Library east and glass facade route",
+      "sample_count": 48,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v20: Glass facade south branch",
+      "sample_count": 9,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v20: Garden junction to yellow bridge",
+      "sample_count": 23,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v21: Yellow bridge to museum entrance",
+      "sample_count": 12,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v22: Taohua white portal entry",
+      "sample_count": 15,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v22: Taohua pink portal walk",
+      "sample_count": 8,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v22: Taohua blue portal walk",
+      "sample_count": 8,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v22: Taohua pavilion entry",
+      "sample_count": 7,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v22: Taohua circular terraces",
+      "sample_count": 16,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v23: Yellow bridge to art plaza",
+      "sample_count": 36,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v23: Art plaza to future Ju bridge landing",
+      "sample_count": 23,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v24: Art plaza over stepped stone bridge",
+      "sample_count": 15,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v24: Ju tree and garden loop",
+      "sample_count": 33,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v25: Jiushan to Jiangkou east garden",
+      "sample_count": 98,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v25: Jiangkou west branch toward Nantian",
+      "sample_count": 29,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v25: Zhongshan branch to bamboo water terrace",
+      "sample_count": 38,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v25: Bamboo island garden walk",
+      "sample_count": 11,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v26: Daosi junction to Rongyu stone bridge",
+      "sample_count": 27,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v26: Rongyu pebble island circuit",
+      "sample_count": 27,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v27: Zhouyuan east entry",
+      "sample_count": 9,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v27: Zhouyuan curved wooden promenade",
+      "sample_count": 43,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v28: Rongyu and Zhouyuan to alumni lobby",
+      "sample_count": 25,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v28: Alumni exhibition hall circuit",
+      "sample_count": 16,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v28: Alumni hall east exit",
+      "sample_count": 13,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v29: Nantian north-south avenue",
+      "sample_count": 103,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v29: Nantian to Buqing through entry portal",
+      "sample_count": 13,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v29: Jiangkou to Nantian",
+      "sample_count": 15,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v29: Nantian track gate one",
+      "sample_count": 9,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v29: Nantian track gate three",
+      "sample_count": 9,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v29: Nantian north sports reserved branches",
+      "sample_count": 30,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v30: Daosi to west gate open arch",
+      "sample_count": 38,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v30: West gate outside garden walk",
+      "sample_count": 14,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v31: Athletics gate one to grass infield",
+      "sample_count": 84,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v31: Athletics gate three to grass",
+      "sample_count": 26,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v31: Athletics entire running lane circuit",
+      "sample_count": 343,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v31: Athletics west stand accessible aisle",
+      "sample_count": 48,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v32: Nantian to gym entrance and stairs",
+      "sample_count": 54,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v32: Gym shaded western forecourt",
+      "sample_count": 13,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v34: Eight basketball courts central aisle",
+      "sample_count": 70,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v34: Basketball revised eastern pedestrian path",
+      "sample_count": 81,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v34: Basketball cross aisle and east gate",
+      "sample_count": 29,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v34: Basketball south to preserved Jiangkou route",
+      "sample_count": 33,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v34: Preserved Nantian avenue",
+      "sample_count": 76,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v36: Gym entrance to table tennis aisle",
+      "sample_count": 26,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v36: Gym foyer trophy viewing",
+      "sample_count": 11,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v36: Gym real two flight internal stairs",
+      "sample_count": 52,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v36: Gym rear gallery stair",
+      "sample_count": 7,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v37: Math courtyard to main exhibits",
+      "sample_count": 22,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v37: Math ground classroom aisle",
+      "sample_count": 8,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v37: Math stair and upstairs connection",
+      "sample_count": 32,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v37: Math pre-existing northern Jiushan path",
+      "sample_count": 18,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v38: History complete ground gallery circuit",
+      "sample_count": 32,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v38: History middle cross aisle",
+      "sample_count": 5,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v39: Canteen south steps to dining and return",
+      "sample_count": 25,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v39: Canteen central cross aisle",
+      "sample_count": 14,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v39: Canteen eastern aisle and counter",
+      "sample_count": 22,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v39: Canteen window-side dining access",
+      "sample_count": 26,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: South gate right passage to school forewalk",
+      "sample_count": 76,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: South gate west garden to Daosi",
+      "sample_count": 43,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Plaza to tennis west gate and first pair",
+      "sample_count": 69,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Tennis second pair aisle",
+      "sample_count": 65,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Tennis both divider end passages",
+      "sample_count": 21,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: School forewalk to Heyu mainland landing",
+      "sample_count": 11,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Heyu entry bridge and island path",
+      "sample_count": 25,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Heyu folded walk to bridge junction",
+      "sample_count": 28,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Bridge junction to tennis north gate",
+      "sample_count": 24,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Bridge junction to utility doorway",
+      "sample_count": 25,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Tennis southern exterior path",
+      "sample_count": 55,
+      "missing_floor_samples_m": [],
+      "passed": true
+    },
+    {
+      "route": "v42: Public road to open south gate",
+      "sample_count": 24,
+      "missing_floor_samples_m": [],
+      "passed": true
+    }
+  ],
+  "limits": "Floor contact test against visible complex collision, not a complete dynamic capsule traversal."
+}

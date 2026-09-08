@@ -1,0 +1,308 @@
+[
+  {
+    "label": "Review_18_Buqing_arrival",
+    "position_cm": [
+      5700.0,
+      -14000.0,
+      172.00000286102295
+    ],
+    "fov": 69.39030706246794
+  },
+  {
+    "label": "Review_38_North_gate_from_street",
+    "position_cm": [
+      5400.0,
+      -39800.0,
+      172.00000286102295
+    ],
+    "fov": 61.92751306414704
+  },
+  {
+    "label": "Review_40_North_gate_from_campus",
+    "position_cm": [
+      5400.0,
+      -36700.0,
+      172.00000286102295
+    ],
+    "fov": 61.92751306414704
+  },
+  {
+    "label": "Review_63_Library_Buqing_front",
+    "position_cm": [
+      7600.0,
+      -12700.0,
+      600.0
+    ],
+    "fov": 57.22091933193043
+  },
+  {
+    "label": "Review_67_Library_ground_hall",
+    "position_cm": [
+      11559.99984741211,
+      -15500.0,
+      164.9999976158142
+    ],
+    "fov": 90.0
+  },
+  {
+    "label": "Review_69_Library_second_hall",
+    "position_cm": [
+      11909.99984741211,
+      -15500.0,
+      594.9999809265137
+    ],
+    "fov": 81.20258929000894
+  },
+  {
+    "label": "Review_70_Library_curved_stairs",
+    "position_cm": [
+      13889.999389648438,
+      -15900.0,
+      600.0
+    ],
+    "fov": 81.20258929000894
+  },
+  {
+    "label": "Review_106_Zhouyuan_entry",
+    "position_cm": [
+      -1600.0,
+      -13200.0,
+      170.00000476837158
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_111_Alumni_exhibition_hall",
+    "position_cm": [
+      -4100.0,
+      -15410.000610351562,
+      170.00000476837158
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_138_Campus_integrated_v033",
+    "position_cm": [
+      -26500.0,
+      14000.0,
+      41500.0
+    ],
+    "fov": 65.4704525442152
+  },
+  {
+    "label": "Review_139_Basketball_eight_overview",
+    "position_cm": [
+      9300.0,
+      -17000.0,
+      11000.0
+    ],
+    "fov": 50.69235188389338
+  },
+  {
+    "label": "Review_141_Basketball_shared_aisle",
+    "position_cm": [
+      1450.0,
+      -32000.0,
+      170.00000476837158
+    ],
+    "fov": 65.4704525442152
+  },
+  {
+    "label": "Review_147b_Tennis_Heyu_reconnected",
+    "position_cm": [
+      14300.0,
+      -6500.0,
+      4300.0
+    ],
+    "fov": 51.88459097974335
+  },
+  {
+    "label": "Review_148_Gym_table_tennis_hall",
+    "position_cm": [
+      -6000.0,
+      -39500.0,
+      275.0
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_149_Gym_trophy_foyer",
+    "position_cm": [
+      -8500.0,
+      -38689.99938964844,
+      277.99999713897705
+    ],
+    "fov": 71.5077745088735
+  },
+  {
+    "label": "Review_150_Gym_upper_sports_hall",
+    "position_cm": [
+      -9500.0,
+      -42400.0,
+      778.000020980835
+    ],
+    "fov": 78.57881372500071
+  },
+  {
+    "label": "Review_152_Gym_connected_internal_stair",
+    "position_cm": [
+      -6800.0,
+      -38800.0,
+      277.99999713897705
+    ],
+    "fov": 76.09408506365217
+  },
+  {
+    "label": "Review_153_Math_preface_atrium",
+    "position_cm": [
+      13869.999694824219,
+      -12000.0,
+      170.00000476837158
+    ],
+    "fov": 78.57881372500071
+  },
+  {
+    "label": "Review_155_Math_stair_and_upper_level",
+    "position_cm": [
+      14100.0,
+      -11900.0,
+      170.00000476837158
+    ],
+    "fov": 78.57881372500071
+  },
+  {
+    "label": "Review_156_Math_curved_projection_theatre",
+    "position_cm": [
+      15439.999389648438,
+      -12800.0,
+      590.0000095367432
+    ],
+    "fov": 83.97442499163331
+  },
+  {
+    "label": "Review_157_Math_traditional_classroom",
+    "position_cm": [
+      16050.0,
+      -12600.0,
+      170.00000476837158
+    ],
+    "fov": 76.09408506365217
+  },
+  {
+    "label": "Review_159_History_entry_preface",
+    "position_cm": [
+      25150.0,
+      -12000.0,
+      170.00000476837158
+    ],
+    "fov": 76.09408506365217
+  },
+  {
+    "label": "Review_161_History_exhibition_aisle",
+    "position_cm": [
+      25289.999389648438,
+      -13780.000305175781,
+      170.00000476837158
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_164_Canteen_dining_hall",
+    "position_cm": [
+      12440.00015258789,
+      -35400.0,
+      274.0000009536743
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_167_Canteen_window_and_tables",
+    "position_cm": [
+      11650.0,
+      -38700.0,
+      274.0000009536743
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_172_Refined_facade_windows",
+    "position_cm": [
+      -3300.0,
+      -4200.0,
+      700.0
+    ],
+    "fov": 53.13010235415598
+  },
+  {
+    "label": "Review_174_Refined_moulded_grandstand",
+    "position_cm": [
+      -13650.0,
+      -24650.0,
+      220.00000476837158
+    ],
+    "fov": 58.71550708558255
+  },
+  {
+    "label": "Review_176_Refined_library",
+    "position_cm": [
+      11559.99984741211,
+      -15500.0,
+      164.9999976158142
+    ],
+    "fov": 90.0
+  },
+  {
+    "label": "Review_177_Refined_landscape",
+    "position_cm": [
+      -2200.0,
+      -10400.0,
+      170.00000476837158
+    ],
+    "fov": 73.73979529168804
+  },
+  {
+    "label": "Review_178_Refined_math_furniture",
+    "position_cm": [
+      16050.0,
+      -11400.0,
+      590.0000095367432
+    ],
+    "fov": 76.09408506365217
+  },
+  {
+    "label": "Review_179_Refined_canteen",
+    "position_cm": [
+      12300.0,
+      -36500.0,
+      253.99999618530273
+    ],
+    "fov": 65.4704525442152
+  },
+  {
+    "label": "Review_180_Refined_history",
+    "position_cm": [
+      25350.0,
+      -12080.000305175781,
+      254.99999523162842
+    ],
+    "fov": 76.09408506365217
+  },
+  {
+    "label": "Review_181_Refined_gym",
+    "position_cm": [
+      -9500.0,
+      -42400.0,
+      778.000020980835
+    ],
+    "fov": 78.57881372500071
+  },
+  {
+    "label": "Review_182_Refined_whole_campus",
+    "position_cm": [
+      -26500.0,
+      14000.0,
+      41500.0
+    ],
+    "fov": 65.4704525442152
+  }
+]

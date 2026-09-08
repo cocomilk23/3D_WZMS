@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "material": "M_f80a54c3fec033",
+      "source_name": "Daosi white tensile roofing",
+      "two_sided": true
+    },
+    {
+      "material": "M_8cb89cfc148efc",
+      "source_name": "Grandstand pale blue standing seam roof",
+      "two_sided": true
+    },
+    {
+      "material": "M_a93a6e7cae443f",
+      "source_name": "Gym pale grey standing seam roof",
+      "two_sided": true
+    },
+    {
+      "material": "M_abc0b533fa6e04",
+      "source_name": "History dark grey metal roof",
+      "two_sided": true
+    },
+    {
+      "material": "M_193c7fa146ac8a",
+      "source_name": "History miniature roof",
+      "two_sided": true
+    },
+    {
+      "material": "M_cd58f0a9943f86",
+      "source_name": "Meihua zinc roof",
+      "two_sided": true
+    },
+    {
+      "material": "M_ccee06e110f9e8",
+      "source_name": "Roof standing seam silver",
+      "two_sided": true
+    },
+    {
+      "material": "M_09ece66d903747",
+      "source_name": "Taohua pavilion teal metal roof",
+      "two_sided": true
+    }
+  ],
+  "geometry_unchanged": true,
+  "reason": "Source thin roofing must be visible from both exterior and interior in UE."
+}

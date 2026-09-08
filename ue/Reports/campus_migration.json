@@ -17,5 +17,11 @@
     "north"
   ],
   "scope": "Existing main campus model; Xinjiang branch remains deferred.",
-  "verified_meshes": 249
+  "verified_meshes": 249,
+  "geometry_migration_complete": true,
+  "materials_verified": 484,
+  "default_map": "/Game/WZMS/Maps/L_WZMS_Campus",
+  "interactive_runtime_verified": true,
+  "source_dimensions": "User-approved estimates; no survey dimensions supplied",
+  "delivery_scope": "All existing v043 main-campus model content; not newly modelled unseen interiors"
 }

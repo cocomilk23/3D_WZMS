@@ -1,0 +1,26 @@
+{
+  "complete": true,
+  "captures": [
+    {
+      "view": "Ground",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_035026).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 12
+    },
+    {
+      "view": "Aerial",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_035046).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 12
+    },
+    {
+      "view": "Interior",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_035106).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 12
+    }
+  ],
+  "fps_cap": 60,
+  "gameplay_fov": 80,
+  "mode": "UE 5.8 PIE; full campus loaded"
+}

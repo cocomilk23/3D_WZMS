@@ -13,7 +13,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_044",
-      "triangles": 50074,
+      "source_visible_triangles": 50074,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -21,7 +22,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_045",
-      "triangles": 43428,
+      "source_visible_triangles": 43428,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -29,7 +31,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_046",
-      "triangles": 73334,
+      "source_visible_triangles": 73334,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -37,7 +40,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_047",
-      "triangles": 52589,
+      "source_visible_triangles": 52589,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -45,7 +49,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_048",
-      "triangles": 146185,
+      "source_visible_triangles": 146185,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -53,7 +58,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_049",
-      "triangles": 26302,
+      "source_visible_triangles": 26302,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -61,7 +67,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_050",
-      "triangles": 121420,
+      "source_visible_triangles": 121420,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -69,7 +76,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_051",
-      "triangles": 270784,
+      "source_visible_triangles": 270784,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -77,7 +85,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_052",
-      "triangles": 276436,
+      "source_visible_triangles": 276436,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -85,7 +94,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_solid_053",
-      "triangles": 63654,
+      "source_visible_triangles": 63654,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -93,7 +103,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_glass_043",
-      "triangles": 23984,
+      "source_visible_triangles": 23984,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -101,7 +112,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_water_054",
-      "triangles": 34,
+      "source_visible_triangles": 34,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -109,7 +121,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_001",
-      "triangles": 138992,
+      "source_visible_triangles": 138992,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -117,7 +130,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_002",
-      "triangles": 123568,
+      "source_visible_triangles": 123568,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -125,7 +139,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_003",
-      "triangles": 124048,
+      "source_visible_triangles": 124048,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -133,7 +148,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_004",
-      "triangles": 134400,
+      "source_visible_triangles": 134400,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -141,7 +157,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_005",
-      "triangles": 134563,
+      "source_visible_triangles": 134563,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -149,7 +166,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_006",
-      "triangles": 45028,
+      "source_visible_triangles": 45028,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -157,7 +175,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_007",
-      "triangles": 144396,
+      "source_visible_triangles": 144396,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -165,7 +184,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_008",
-      "triangles": 18049,
+      "source_visible_triangles": 18049,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -173,7 +193,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_009",
-      "triangles": 236340,
+      "source_visible_triangles": 236340,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -181,7 +202,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_010",
-      "triangles": 135848,
+      "source_visible_triangles": 135848,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -189,7 +211,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_011",
-      "triangles": 135848,
+      "source_visible_triangles": 135848,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -197,7 +220,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_012",
-      "triangles": 135848,
+      "source_visible_triangles": 135848,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -205,7 +229,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_013",
-      "triangles": 135848,
+      "source_visible_triangles": 135848,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -213,7 +238,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_014",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -221,7 +247,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_015",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -229,7 +256,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_016",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -237,7 +265,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_017",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -245,7 +274,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_018",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -253,7 +283,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_019",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -261,7 +292,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_020",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -269,7 +301,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_021",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -277,7 +310,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_022",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -285,7 +319,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_023",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -293,7 +328,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_024",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -301,7 +337,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_025",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -309,7 +346,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_026",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -317,7 +355,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_027",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -325,7 +364,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_028",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -333,7 +373,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_029",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -341,7 +382,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_030",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -349,7 +391,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_031",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -357,7 +400,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_032",
-      "triangles": 138124,
+      "source_visible_triangles": 138124,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -365,7 +409,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_033",
-      "triangles": 43008,
+      "source_visible_triangles": 43008,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -373,7 +418,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_034",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -381,7 +427,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_035",
-      "triangles": 138704,
+      "source_visible_triangles": 138704,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -389,7 +436,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_036",
-      "triangles": 128224,
+      "source_visible_triangles": 128224,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -397,7 +445,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_037",
-      "triangles": 134400,
+      "source_visible_triangles": 134400,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -405,7 +454,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_038",
-      "triangles": 134400,
+      "source_visible_triangles": 134400,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -413,7 +463,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_039",
-      "triangles": 136800,
+      "source_visible_triangles": 136800,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -421,7 +472,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_040",
-      "triangles": 134400,
+      "source_visible_triangles": 134400,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -429,7 +481,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_041",
-      "triangles": 134400,
+      "source_visible_triangles": 134400,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -437,7 +490,8 @@
     {
       "zone": "south",
       "mesh": "SM_south_foliage_042",
-      "triangles": 136840,
+      "source_visible_triangles": 136840,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -445,7 +499,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_037",
-      "triangles": 264860,
+      "source_visible_triangles": 264860,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -453,7 +508,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_038",
-      "triangles": 167172,
+      "source_visible_triangles": 167172,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -461,7 +517,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_039",
-      "triangles": 63262,
+      "source_visible_triangles": 63262,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -469,7 +526,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_040",
-      "triangles": 61500,
+      "source_visible_triangles": 61500,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -477,7 +535,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_041",
-      "triangles": 117720,
+      "source_visible_triangles": 117720,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -485,7 +544,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_042",
-      "triangles": 113712,
+      "source_visible_triangles": 113712,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -493,7 +553,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_043",
-      "triangles": 56305,
+      "source_visible_triangles": 56305,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -501,7 +562,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_044",
-      "triangles": 67500,
+      "source_visible_triangles": 67500,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -509,7 +571,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_045",
-      "triangles": 275948,
+      "source_visible_triangles": 275948,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -517,7 +580,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_046",
-      "triangles": 284832,
+      "source_visible_triangles": 284832,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -525,7 +589,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_solid_047",
-      "triangles": 256248,
+      "source_visible_triangles": 256248,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -533,7 +598,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_glass_036",
-      "triangles": 3896,
+      "source_visible_triangles": 3896,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -541,7 +607,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_water_048",
-      "triangles": 12,
+      "source_visible_triangles": 12,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -549,7 +616,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_001",
-      "triangles": 132936,
+      "source_visible_triangles": 132936,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -557,7 +625,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_002",
-      "triangles": 138992,
+      "source_visible_triangles": 138992,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -565,7 +634,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_003",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -573,7 +643,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_004",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -581,7 +652,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_005",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -589,7 +661,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_006",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -597,7 +670,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_007",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -605,7 +679,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_008",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -613,7 +688,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_009",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -621,7 +697,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_010",
-      "triangles": 79896,
+      "source_visible_triangles": 79896,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -629,7 +706,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_011",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -637,7 +715,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_012",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -645,7 +724,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_013",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -653,7 +733,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_014",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -661,7 +742,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_015",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -669,7 +751,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_016",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -677,7 +760,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_017",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -685,7 +769,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_018",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -693,7 +778,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_019",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -701,7 +787,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_020",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -709,7 +796,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_021",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -717,7 +805,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_022",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -725,7 +814,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_023",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -733,7 +823,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_024",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -741,7 +832,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_025",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -749,7 +841,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_026",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -757,7 +850,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_027",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -765,7 +859,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_028",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -773,7 +868,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_029",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -781,7 +877,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_030",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -789,7 +886,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_031",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -797,7 +895,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_032",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -805,7 +904,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_033",
-      "triangles": 126240,
+      "source_visible_triangles": 126240,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -813,7 +913,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_034",
-      "triangles": 137982,
+      "source_visible_triangles": 137982,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -821,7 +922,8 @@
     {
       "zone": "central",
       "mesh": "SM_central_foliage_035",
-      "triangles": 97775,
+      "source_visible_triangles": 97775,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -829,7 +931,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_030",
-      "triangles": 74354,
+      "source_visible_triangles": 74354,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -837,7 +940,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_031",
-      "triangles": 144328,
+      "source_visible_triangles": 144328,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -845,7 +949,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_032",
-      "triangles": 357504,
+      "source_visible_triangles": 357504,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -853,7 +958,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_033",
-      "triangles": 357504,
+      "source_visible_triangles": 357504,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -861,7 +967,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_034",
-      "triangles": 351076,
+      "source_visible_triangles": 351076,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -869,7 +976,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_035",
-      "triangles": 357504,
+      "source_visible_triangles": 357504,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -877,7 +985,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_036",
-      "triangles": 357504,
+      "source_visible_triangles": 357504,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -885,7 +994,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_037",
-      "triangles": 325928,
+      "source_visible_triangles": 325928,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -893,7 +1003,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_038",
-      "triangles": 261320,
+      "source_visible_triangles": 261320,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -901,7 +1012,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_039",
-      "triangles": 284172,
+      "source_visible_triangles": 284172,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -909,7 +1021,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_040",
-      "triangles": 166212,
+      "source_visible_triangles": 166212,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -917,7 +1030,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_solid_041",
-      "triangles": 7336,
+      "source_visible_triangles": 7336,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -925,7 +1039,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_glass_029",
-      "triangles": 38426,
+      "source_visible_triangles": 38426,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -933,7 +1048,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_water_042",
-      "triangles": 12,
+      "source_visible_triangles": 12,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -941,7 +1057,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_001",
-      "triangles": 586664,
+      "source_visible_triangles": 586664,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -949,7 +1066,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_002",
-      "triangles": 81088,
+      "source_visible_triangles": 81088,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -957,7 +1075,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_003",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -965,7 +1084,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_004",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -973,7 +1093,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_005",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -981,7 +1102,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_006",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -989,7 +1111,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_007",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -997,7 +1120,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_008",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1005,7 +1129,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_009",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1013,7 +1138,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_010",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1021,7 +1147,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_011",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1029,7 +1156,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_012",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1037,7 +1165,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_013",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1045,7 +1174,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_014",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1053,7 +1183,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_015",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1061,7 +1192,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_016",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1069,7 +1201,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_017",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1077,7 +1210,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_018",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1085,7 +1219,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_019",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1093,7 +1228,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_020",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1101,7 +1237,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_021",
-      "triangles": 137982,
+      "source_visible_triangles": 137982,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1109,7 +1246,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_022",
-      "triangles": 106220,
+      "source_visible_triangles": 106220,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1117,7 +1255,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_023",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1125,7 +1264,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_024",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1133,7 +1273,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_025",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1141,7 +1282,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_026",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1149,7 +1291,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_027",
-      "triangles": 126816,
+      "source_visible_triangles": 126816,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1157,7 +1300,8 @@
     {
       "zone": "west",
       "mesh": "SM_west_foliage_028",
-      "triangles": 122400,
+      "source_visible_triangles": 122400,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1165,7 +1309,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_058",
-      "triangles": 80616,
+      "source_visible_triangles": 80616,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1173,7 +1318,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_059",
-      "triangles": 108218,
+      "source_visible_triangles": 108218,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1181,7 +1327,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_060",
-      "triangles": 51992,
+      "source_visible_triangles": 51992,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1189,7 +1336,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_061",
-      "triangles": 186976,
+      "source_visible_triangles": 186976,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1197,7 +1345,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_062",
-      "triangles": 118740,
+      "source_visible_triangles": 118740,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1205,7 +1354,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_063",
-      "triangles": 161034,
+      "source_visible_triangles": 161034,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1213,7 +1363,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_064",
-      "triangles": 113717,
+      "source_visible_triangles": 113717,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1221,7 +1372,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_065",
-      "triangles": 234198,
+      "source_visible_triangles": 234198,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1229,7 +1381,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_066",
-      "triangles": 292142,
+      "source_visible_triangles": 292142,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1237,7 +1390,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_solid_067",
-      "triangles": 72400,
+      "source_visible_triangles": 72400,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1245,7 +1399,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_glass_057",
-      "triangles": 5110,
+      "source_visible_triangles": 5110,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1253,7 +1408,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_water_068",
-      "triangles": 48,
+      "source_visible_triangles": 48,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1261,7 +1417,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_001",
-      "triangles": 21504,
+      "source_visible_triangles": 21504,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1269,7 +1426,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_002",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1277,7 +1435,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_003",
-      "triangles": 139824,
+      "source_visible_triangles": 139824,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1285,7 +1444,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_004",
-      "triangles": 39000,
+      "source_visible_triangles": 39000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1293,7 +1453,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_005",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1301,7 +1462,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_006",
-      "triangles": 28800,
+      "source_visible_triangles": 28800,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1309,7 +1471,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_007",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1317,7 +1480,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_008",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1325,7 +1489,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_009",
-      "triangles": 55200,
+      "source_visible_triangles": 55200,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1333,7 +1498,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_010",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1341,7 +1507,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_011",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1349,7 +1516,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_012",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1357,7 +1525,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_013",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1365,7 +1534,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_014",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1373,7 +1543,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_015",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1381,7 +1552,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_016",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1389,7 +1561,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_017",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1397,7 +1570,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_018",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1405,7 +1579,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_019",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1413,7 +1588,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_020",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1421,7 +1597,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_021",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1429,7 +1606,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_022",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1437,7 +1615,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_023",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1445,7 +1624,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_024",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1453,7 +1633,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_025",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1461,7 +1642,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_026",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1469,7 +1651,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_027",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1477,7 +1660,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_028",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1485,7 +1669,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_029",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1493,7 +1678,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_030",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1501,7 +1687,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_031",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1509,7 +1696,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_032",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1517,7 +1705,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_033",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1525,7 +1714,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_034",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1533,7 +1723,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_035",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1541,7 +1732,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_036",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1549,7 +1741,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_037",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1557,7 +1750,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_038",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1565,7 +1759,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_039",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1573,7 +1768,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_040",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1581,7 +1777,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_041",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1589,7 +1786,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_042",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1597,7 +1795,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_043",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1605,7 +1804,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_044",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1613,7 +1813,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_045",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1621,7 +1822,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_046",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1629,7 +1831,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_047",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1637,7 +1840,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_048",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1645,7 +1849,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_049",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1653,7 +1858,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_050",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1661,7 +1867,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_051",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1669,7 +1876,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_052",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1677,7 +1885,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_053",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1685,7 +1894,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_054",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1693,7 +1903,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_055",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1701,7 +1912,8 @@
     {
       "zone": "east",
       "mesh": "SM_east_foliage_056",
-      "triangles": 108512,
+      "source_visible_triangles": 108512,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1709,7 +1921,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_030",
-      "triangles": 74854,
+      "source_visible_triangles": 74854,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1717,7 +1930,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_031",
-      "triangles": 163018,
+      "source_visible_triangles": 163018,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1725,7 +1939,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_032",
-      "triangles": 34248,
+      "source_visible_triangles": 34248,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1733,7 +1948,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_033",
-      "triangles": 200474,
+      "source_visible_triangles": 200474,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1741,7 +1957,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_034",
-      "triangles": 243486,
+      "source_visible_triangles": 243486,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1749,7 +1966,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_035",
-      "triangles": 214936,
+      "source_visible_triangles": 214936,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1757,7 +1975,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_036",
-      "triangles": 288004,
+      "source_visible_triangles": 288004,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1765,7 +1984,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_solid_037",
-      "triangles": 47112,
+      "source_visible_triangles": 47112,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1773,7 +1993,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_glass_029",
-      "triangles": 4276,
+      "source_visible_triangles": 4276,
+      "full_nanite_geometry_verified": false,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1781,7 +2002,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_001",
-      "triangles": 136396,
+      "source_visible_triangles": 136396,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1789,7 +2011,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_002",
-      "triangles": 117881,
+      "source_visible_triangles": 117881,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1797,7 +2020,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_003",
-      "triangles": 118118,
+      "source_visible_triangles": 118118,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1805,7 +2029,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_004",
-      "triangles": 122470,
+      "source_visible_triangles": 122470,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1813,7 +2038,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_005",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1821,7 +2047,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_006",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1829,7 +2056,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_007",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1837,7 +2065,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_008",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1845,7 +2074,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_009",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1853,7 +2083,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_010",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1861,7 +2092,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_011",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1869,7 +2101,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_012",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1877,7 +2110,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_013",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1885,7 +2119,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_014",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1893,7 +2128,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_015",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1901,7 +2137,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_016",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1909,7 +2146,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_017",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1917,7 +2155,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_018",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1925,7 +2164,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_019",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1933,7 +2173,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_020",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1941,7 +2182,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_021",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1949,7 +2191,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_022",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1957,7 +2200,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_023",
-      "triangles": 144000,
+      "source_visible_triangles": 144000,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1965,7 +2209,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_024",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1973,7 +2218,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_025",
-      "triangles": 137982,
+      "source_visible_triangles": 137982,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1981,7 +2227,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_026",
-      "triangles": 28684,
+      "source_visible_triangles": 28684,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1989,7 +2236,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_027",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true
@@ -1997,7 +2245,8 @@
     {
       "zone": "north",
       "mesh": "SM_north_foliage_028",
-      "triangles": 124416,
+      "source_visible_triangles": 124416,
+      "full_nanite_geometry_verified": true,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true

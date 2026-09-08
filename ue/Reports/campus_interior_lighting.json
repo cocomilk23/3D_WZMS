@@ -1,0 +1,1526 @@
+{
+  "source_local_lights": 128,
+  "lights": [
+    {
+      "source_name": "Library interior diffuse illumination",
+      "ue_label": "InteriorLight_001_Library interior diffuse illumination",
+      "position_cm": [
+        11800.0,
+        -14400.0,
+        365.00000953674316
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.001",
+      "ue_label": "InteriorLight_002_Library interior diffuse illumination.001",
+      "position_cm": [
+        11800.0,
+        -16600.0,
+        365.00000953674316
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.002",
+      "ue_label": "InteriorLight_003_Library interior diffuse illumination.002",
+      "position_cm": [
+        13900.0,
+        -14500.0,
+        365.00000953674316
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.003",
+      "ue_label": "InteriorLight_004_Library interior diffuse illumination.003",
+      "position_cm": [
+        13900.0,
+        -16500.0,
+        365.00000953674316
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.004",
+      "ue_label": "InteriorLight_005_Library interior diffuse illumination.004",
+      "position_cm": [
+        11900.0,
+        -15500.0,
+        365.00000953674316
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.005",
+      "ue_label": "InteriorLight_006_Library interior diffuse illumination.005",
+      "position_cm": [
+        11800.0,
+        -14400.0,
+        790.0000095367432
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.006",
+      "ue_label": "InteriorLight_007_Library interior diffuse illumination.006",
+      "position_cm": [
+        11800.0,
+        -16600.0,
+        790.0000095367432
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.007",
+      "ue_label": "InteriorLight_008_Library interior diffuse illumination.007",
+      "position_cm": [
+        13900.0,
+        -14500.0,
+        790.0000095367432
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.008",
+      "ue_label": "InteriorLight_009_Library interior diffuse illumination.008",
+      "position_cm": [
+        13900.0,
+        -16500.0,
+        790.0000095367432
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Library interior diffuse illumination.009",
+      "ue_label": "InteriorLight_010_Library interior diffuse illumination.009",
+      "position_cm": [
+        11900.0,
+        -15500.0,
+        790.0000095367432
+      ],
+      "estimated_lumens": 45500.0,
+      "radius_cm": 2200
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight",
+      "ue_label": "InteriorLight_011_Zhouyuan visible entry downlight",
+      "position_cm": [
+        -4500.0,
+        -12700.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.001",
+      "ue_label": "InteriorLight_012_Zhouyuan visible entry downlight.001",
+      "position_cm": [
+        -4500.0,
+        -13000.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.002",
+      "ue_label": "InteriorLight_013_Zhouyuan visible entry downlight.002",
+      "position_cm": [
+        -4500.0,
+        -13300.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.003",
+      "ue_label": "InteriorLight_014_Zhouyuan visible entry downlight.003",
+      "position_cm": [
+        -4000.0,
+        -12700.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.004",
+      "ue_label": "InteriorLight_015_Zhouyuan visible entry downlight.004",
+      "position_cm": [
+        -4000.0,
+        -13000.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.005",
+      "ue_label": "InteriorLight_016_Zhouyuan visible entry downlight.005",
+      "position_cm": [
+        -4000.0,
+        -13300.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.006",
+      "ue_label": "InteriorLight_017_Zhouyuan visible entry downlight.006",
+      "position_cm": [
+        -3500.0,
+        -12700.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.007",
+      "ue_label": "InteriorLight_018_Zhouyuan visible entry downlight.007",
+      "position_cm": [
+        -3500.0,
+        -13000.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.008",
+      "ue_label": "InteriorLight_019_Zhouyuan visible entry downlight.008",
+      "position_cm": [
+        -3500.0,
+        -13300.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.009",
+      "ue_label": "InteriorLight_020_Zhouyuan visible entry downlight.009",
+      "position_cm": [
+        -3000.0,
+        -12700.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.010",
+      "ue_label": "InteriorLight_021_Zhouyuan visible entry downlight.010",
+      "position_cm": [
+        -3000.0,
+        -13000.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Zhouyuan visible entry downlight.011",
+      "ue_label": "InteriorLight_022_Zhouyuan visible entry downlight.011",
+      "position_cm": [
+        -3000.0,
+        -13300.0,
+        338.0000114440918
+      ],
+      "estimated_lumens": 4550.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area",
+      "ue_label": "InteriorLight_023_Alumni warm ceiling area",
+      "position_cm": [
+        -5300.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area.001",
+      "ue_label": "InteriorLight_024_Alumni warm ceiling area.001",
+      "position_cm": [
+        -4900.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area.002",
+      "ue_label": "InteriorLight_025_Alumni warm ceiling area.002",
+      "position_cm": [
+        -4500.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area.003",
+      "ue_label": "InteriorLight_026_Alumni warm ceiling area.003",
+      "position_cm": [
+        -4100.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area.004",
+      "ue_label": "InteriorLight_027_Alumni warm ceiling area.004",
+      "position_cm": [
+        -3700.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area.005",
+      "ue_label": "InteriorLight_028_Alumni warm ceiling area.005",
+      "position_cm": [
+        -3300.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Alumni warm ceiling area.006",
+      "ue_label": "InteriorLight_029_Alumni warm ceiling area.006",
+      "position_cm": [
+        -3050.0,
+        -16300.0,
+        379.9999952316284
+      ],
+      "estimated_lumens": 6300.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light",
+      "ue_label": "InteriorLight_030_Gym ground fluorescent pair light",
+      "position_cm": [
+        -9400.0,
+        -39000.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.001",
+      "ue_label": "InteriorLight_031_Gym ground fluorescent pair light.001",
+      "position_cm": [
+        -9400.0,
+        -40100.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.002",
+      "ue_label": "InteriorLight_032_Gym ground fluorescent pair light.002",
+      "position_cm": [
+        -9400.0,
+        -40900.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.003",
+      "ue_label": "InteriorLight_033_Gym ground fluorescent pair light.003",
+      "position_cm": [
+        -9400.0,
+        -41700.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.004",
+      "ue_label": "InteriorLight_034_Gym ground fluorescent pair light.004",
+      "position_cm": [
+        -9400.0,
+        -42500.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.005",
+      "ue_label": "InteriorLight_035_Gym ground fluorescent pair light.005",
+      "position_cm": [
+        -8500.0,
+        -39000.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.006",
+      "ue_label": "InteriorLight_036_Gym ground fluorescent pair light.006",
+      "position_cm": [
+        -8500.0,
+        -40100.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.007",
+      "ue_label": "InteriorLight_037_Gym ground fluorescent pair light.007",
+      "position_cm": [
+        -8500.0,
+        -40900.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.008",
+      "ue_label": "InteriorLight_038_Gym ground fluorescent pair light.008",
+      "position_cm": [
+        -8500.0,
+        -41700.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.009",
+      "ue_label": "InteriorLight_039_Gym ground fluorescent pair light.009",
+      "position_cm": [
+        -8500.0,
+        -42500.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.010",
+      "ue_label": "InteriorLight_040_Gym ground fluorescent pair light.010",
+      "position_cm": [
+        -7600.0,
+        -39000.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.011",
+      "ue_label": "InteriorLight_041_Gym ground fluorescent pair light.011",
+      "position_cm": [
+        -7600.0,
+        -40100.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.012",
+      "ue_label": "InteriorLight_042_Gym ground fluorescent pair light.012",
+      "position_cm": [
+        -7600.0,
+        -40900.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.013",
+      "ue_label": "InteriorLight_043_Gym ground fluorescent pair light.013",
+      "position_cm": [
+        -7600.0,
+        -41700.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.014",
+      "ue_label": "InteriorLight_044_Gym ground fluorescent pair light.014",
+      "position_cm": [
+        -7600.0,
+        -42500.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.015",
+      "ue_label": "InteriorLight_045_Gym ground fluorescent pair light.015",
+      "position_cm": [
+        -6600.0,
+        -39000.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.016",
+      "ue_label": "InteriorLight_046_Gym ground fluorescent pair light.016",
+      "position_cm": [
+        -6600.0,
+        -40100.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.017",
+      "ue_label": "InteriorLight_047_Gym ground fluorescent pair light.017",
+      "position_cm": [
+        -6600.0,
+        -40900.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.018",
+      "ue_label": "InteriorLight_048_Gym ground fluorescent pair light.018",
+      "position_cm": [
+        -6600.0,
+        -41700.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.019",
+      "ue_label": "InteriorLight_049_Gym ground fluorescent pair light.019",
+      "position_cm": [
+        -6600.0,
+        -42500.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.020",
+      "ue_label": "InteriorLight_050_Gym ground fluorescent pair light.020",
+      "position_cm": [
+        -5700.0,
+        -40100.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.021",
+      "ue_label": "InteriorLight_051_Gym ground fluorescent pair light.021",
+      "position_cm": [
+        -5700.0,
+        -40900.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.022",
+      "ue_label": "InteriorLight_052_Gym ground fluorescent pair light.022",
+      "position_cm": [
+        -5700.0,
+        -41700.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym ground fluorescent pair light.023",
+      "ue_label": "InteriorLight_053_Gym ground fluorescent pair light.023",
+      "position_cm": [
+        -5700.0,
+        -42500.0,
+        523.9999771118164
+      ],
+      "estimated_lumens": 7700.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym trophy case LED light",
+      "ue_label": "InteriorLight_054_Gym trophy case LED light",
+      "position_cm": [
+        -9500.0,
+        -38860.00061035156,
+        357.99999237060547
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym trophy case LED light.001",
+      "ue_label": "InteriorLight_055_Gym trophy case LED light.001",
+      "position_cm": [
+        -9100.0,
+        -38860.00061035156,
+        357.99999237060547
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym trophy case LED light.002",
+      "ue_label": "InteriorLight_056_Gym trophy case LED light.002",
+      "position_cm": [
+        -8700.0,
+        -38860.00061035156,
+        357.99999237060547
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Gym upper industrial light",
+      "ue_label": "InteriorLight_057_Gym upper industrial light",
+      "position_cm": [
+        -9400.0,
+        -39200.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.001",
+      "ue_label": "InteriorLight_058_Gym upper industrial light.001",
+      "position_cm": [
+        -9400.0,
+        -40400.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.002",
+      "ue_label": "InteriorLight_059_Gym upper industrial light.002",
+      "position_cm": [
+        -9400.0,
+        -41600.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.003",
+      "ue_label": "InteriorLight_060_Gym upper industrial light.003",
+      "position_cm": [
+        -9400.0,
+        -42800.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.004",
+      "ue_label": "InteriorLight_061_Gym upper industrial light.004",
+      "position_cm": [
+        -8200.0,
+        -39200.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.005",
+      "ue_label": "InteriorLight_062_Gym upper industrial light.005",
+      "position_cm": [
+        -8200.0,
+        -40400.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.006",
+      "ue_label": "InteriorLight_063_Gym upper industrial light.006",
+      "position_cm": [
+        -8200.0,
+        -41600.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.007",
+      "ue_label": "InteriorLight_064_Gym upper industrial light.007",
+      "position_cm": [
+        -8200.0,
+        -42800.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.008",
+      "ue_label": "InteriorLight_065_Gym upper industrial light.008",
+      "position_cm": [
+        -7000.0,
+        -39200.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.009",
+      "ue_label": "InteriorLight_066_Gym upper industrial light.009",
+      "position_cm": [
+        -7000.0,
+        -40400.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.010",
+      "ue_label": "InteriorLight_067_Gym upper industrial light.010",
+      "position_cm": [
+        -7000.0,
+        -41600.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.011",
+      "ue_label": "InteriorLight_068_Gym upper industrial light.011",
+      "position_cm": [
+        -7000.0,
+        -42800.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.012",
+      "ue_label": "InteriorLight_069_Gym upper industrial light.012",
+      "position_cm": [
+        -5800.0,
+        -39200.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.013",
+      "ue_label": "InteriorLight_070_Gym upper industrial light.013",
+      "position_cm": [
+        -5800.0,
+        -40400.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.014",
+      "ue_label": "InteriorLight_071_Gym upper industrial light.014",
+      "position_cm": [
+        -5800.0,
+        -41600.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Gym upper industrial light.015",
+      "ue_label": "InteriorLight_072_Gym upper industrial light.015",
+      "position_cm": [
+        -5800.0,
+        -42800.0,
+        1444.9999809265137
+      ],
+      "estimated_lumens": 52500.0,
+      "radius_cm": 1800
+    },
+    {
+      "source_name": "Math warm pendant fill",
+      "ue_label": "InteriorLight_073_Math warm pendant fill",
+      "position_cm": [
+        13800.0,
+        -11600.0,
+        598.0000019073486
+      ],
+      "estimated_lumens": 5600.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math warm pendant fill.001",
+      "ue_label": "InteriorLight_074_Math warm pendant fill.001",
+      "position_cm": [
+        14100.0,
+        -11800.0,
+        667.9999828338623
+      ],
+      "estimated_lumens": 5600.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math warm pendant fill.002",
+      "ue_label": "InteriorLight_075_Math warm pendant fill.002",
+      "position_cm": [
+        13800.0,
+        -11900.0,
+        538.0000114440918
+      ],
+      "estimated_lumens": 5600.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light",
+      "ue_label": "InteriorLight_076_Math ceiling soft exhibit light",
+      "position_cm": [
+        14000.0,
+        -13200.0,
+        384.99999046325684
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light.001",
+      "ue_label": "InteriorLight_077_Math ceiling soft exhibit light.001",
+      "position_cm": [
+        14800.0,
+        -13100.0,
+        384.99999046325684
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light.002",
+      "ue_label": "InteriorLight_078_Math ceiling soft exhibit light.002",
+      "position_cm": [
+        15400.0,
+        -13200.0,
+        384.99999046325684
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light.003",
+      "ue_label": "InteriorLight_079_Math ceiling soft exhibit light.003",
+      "position_cm": [
+        16000.0,
+        -12800.0,
+        384.99999046325684
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light.004",
+      "ue_label": "InteriorLight_080_Math ceiling soft exhibit light.004",
+      "position_cm": [
+        14100.0,
+        -12300.0,
+        819.9999809265137
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light.005",
+      "ue_label": "InteriorLight_081_Math ceiling soft exhibit light.005",
+      "position_cm": [
+        14900.0,
+        -13100.0,
+        819.9999809265137
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math ceiling soft exhibit light.006",
+      "ue_label": "InteriorLight_082_Math ceiling soft exhibit light.006",
+      "position_cm": [
+        16100.0,
+        -12300.0,
+        819.9999809265137
+      ],
+      "estimated_lumens": 9800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math classroom pendant light",
+      "ue_label": "InteriorLight_083_Math classroom pendant light",
+      "position_cm": [
+        15800.0,
+        -11500.0,
+        300.0
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math classroom pendant light.001",
+      "ue_label": "InteriorLight_084_Math classroom pendant light.001",
+      "position_cm": [
+        16300.0,
+        -11500.0,
+        300.0
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math classroom pendant light.002",
+      "ue_label": "InteriorLight_085_Math classroom pendant light.002",
+      "position_cm": [
+        15800.0,
+        -11900.0,
+        300.0
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math classroom pendant light.003",
+      "ue_label": "InteriorLight_086_Math classroom pendant light.003",
+      "position_cm": [
+        16300.0,
+        -11900.0,
+        300.0
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math classroom pendant light.004",
+      "ue_label": "InteriorLight_087_Math classroom pendant light.004",
+      "position_cm": [
+        15800.0,
+        -12300.0,
+        300.0
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math classroom pendant light.005",
+      "ue_label": "InteriorLight_088_Math classroom pendant light.005",
+      "position_cm": [
+        16300.0,
+        -12300.0,
+        300.0
+      ],
+      "estimated_lumens": 2800.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Math rest ambient fill",
+      "ue_label": "InteriorLight_089_Math rest ambient fill",
+      "position_cm": [
+        16050.0,
+        -11600.0,
+        810.0000381469727
+      ],
+      "estimated_lumens": 14000.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash",
+      "ue_label": "InteriorLight_090_History exhibit wash",
+      "position_cm": [
+        25114.999389648438,
+        -12500.0,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.001",
+      "ue_label": "InteriorLight_091_History exhibit wash.001",
+      "position_cm": [
+        25114.999389648438,
+        -13100.0,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.002",
+      "ue_label": "InteriorLight_092_History exhibit wash.002",
+      "position_cm": [
+        25114.999389648438,
+        -13700.0,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.003",
+      "ue_label": "InteriorLight_093_History exhibit wash.003",
+      "position_cm": [
+        26284.99755859375,
+        -12500.0,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.004",
+      "ue_label": "InteriorLight_094_History exhibit wash.004",
+      "position_cm": [
+        26284.99755859375,
+        -13100.0,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.005",
+      "ue_label": "InteriorLight_095_History exhibit wash.005",
+      "position_cm": [
+        26284.99755859375,
+        -13700.0,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.006",
+      "ue_label": "InteriorLight_096_History exhibit wash.006",
+      "position_cm": [
+        25950.0,
+        -11914.999389648438,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History exhibit wash.007",
+      "ue_label": "InteriorLight_097_History exhibit wash.007",
+      "position_cm": [
+        25700.0,
+        -14085.000610351562,
+        329.9999952316284
+      ],
+      "estimated_lumens": 3150.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light",
+      "ue_label": "InteriorLight_098_History soft gallery light",
+      "position_cm": [
+        25289.999389648438,
+        -12000.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.001",
+      "ue_label": "InteriorLight_099_History soft gallery light.001",
+      "position_cm": [
+        25289.999389648438,
+        -12300.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.002",
+      "ue_label": "InteriorLight_100_History soft gallery light.002",
+      "position_cm": [
+        25289.999389648438,
+        -12600.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.003",
+      "ue_label": "InteriorLight_101_History soft gallery light.003",
+      "position_cm": [
+        25289.999389648438,
+        -12900.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.004",
+      "ue_label": "InteriorLight_102_History soft gallery light.004",
+      "position_cm": [
+        25289.999389648438,
+        -13200.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.005",
+      "ue_label": "InteriorLight_103_History soft gallery light.005",
+      "position_cm": [
+        25289.999389648438,
+        -13500.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.006",
+      "ue_label": "InteriorLight_104_History soft gallery light.006",
+      "position_cm": [
+        25289.999389648438,
+        -13800.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.007",
+      "ue_label": "InteriorLight_105_History soft gallery light.007",
+      "position_cm": [
+        25289.999389648438,
+        -14000.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.008",
+      "ue_label": "InteriorLight_106_History soft gallery light.008",
+      "position_cm": [
+        26110.000610351562,
+        -12000.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.009",
+      "ue_label": "InteriorLight_107_History soft gallery light.009",
+      "position_cm": [
+        26110.000610351562,
+        -12300.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.010",
+      "ue_label": "InteriorLight_108_History soft gallery light.010",
+      "position_cm": [
+        26110.000610351562,
+        -12600.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.011",
+      "ue_label": "InteriorLight_109_History soft gallery light.011",
+      "position_cm": [
+        26110.000610351562,
+        -12900.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.012",
+      "ue_label": "InteriorLight_110_History soft gallery light.012",
+      "position_cm": [
+        26110.000610351562,
+        -13200.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.013",
+      "ue_label": "InteriorLight_111_History soft gallery light.013",
+      "position_cm": [
+        26110.000610351562,
+        -13500.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.014",
+      "ue_label": "InteriorLight_112_History soft gallery light.014",
+      "position_cm": [
+        26110.000610351562,
+        -13800.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "History soft gallery light.015",
+      "ue_label": "InteriorLight_113_History soft gallery light.015",
+      "position_cm": [
+        26110.000610351562,
+        -14000.0,
+        309.99999046325684
+      ],
+      "estimated_lumens": 2660.0,
+      "radius_cm": 650
+    },
+    {
+      "source_name": "Canteen twin fluorescent light",
+      "ue_label": "InteriorLight_114_Canteen twin fluorescent light",
+      "position_cm": [
+        11550.0,
+        -35600.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.001",
+      "ue_label": "InteriorLight_115_Canteen twin fluorescent light.001",
+      "position_cm": [
+        11550.0,
+        -36400.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.002",
+      "ue_label": "InteriorLight_116_Canteen twin fluorescent light.002",
+      "position_cm": [
+        11550.0,
+        -37200.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.003",
+      "ue_label": "InteriorLight_117_Canteen twin fluorescent light.003",
+      "position_cm": [
+        11550.0,
+        -38000.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.004",
+      "ue_label": "InteriorLight_118_Canteen twin fluorescent light.004",
+      "position_cm": [
+        11550.0,
+        -38800.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.005",
+      "ue_label": "InteriorLight_119_Canteen twin fluorescent light.005",
+      "position_cm": [
+        12440.00015258789,
+        -35600.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.006",
+      "ue_label": "InteriorLight_120_Canteen twin fluorescent light.006",
+      "position_cm": [
+        12440.00015258789,
+        -36400.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.007",
+      "ue_label": "InteriorLight_121_Canteen twin fluorescent light.007",
+      "position_cm": [
+        12440.00015258789,
+        -37200.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.008",
+      "ue_label": "InteriorLight_122_Canteen twin fluorescent light.008",
+      "position_cm": [
+        12440.00015258789,
+        -38000.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.009",
+      "ue_label": "InteriorLight_123_Canteen twin fluorescent light.009",
+      "position_cm": [
+        12440.00015258789,
+        -38800.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.010",
+      "ue_label": "InteriorLight_124_Canteen twin fluorescent light.010",
+      "position_cm": [
+        13300.0,
+        -35600.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.011",
+      "ue_label": "InteriorLight_125_Canteen twin fluorescent light.011",
+      "position_cm": [
+        13300.0,
+        -36400.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.012",
+      "ue_label": "InteriorLight_126_Canteen twin fluorescent light.012",
+      "position_cm": [
+        13300.0,
+        -37200.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.013",
+      "ue_label": "InteriorLight_127_Canteen twin fluorescent light.013",
+      "position_cm": [
+        13300.0,
+        -38000.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    },
+    {
+      "source_name": "Canteen twin fluorescent light.014",
+      "ue_label": "InteriorLight_128_Canteen twin fluorescent light.014",
+      "position_cm": [
+        13300.0,
+        -38800.0,
+        467.00000762939453
+      ],
+      "estimated_lumens": 6650.0,
+      "radius_cm": 950
+    }
+  ],
+  "indoor_exposure_ev_range": [
+    5.5,
+    13
+  ],
+  "bounded_volumes": [
+    {
+      "name": "Library",
+      "bounds_blender_m": [
+        [
+          105,
+          136,
+          -0.2
+        ],
+        [
+          151,
+          174,
+          8.6
+        ]
+      ]
+    },
+    {
+      "name": "Zhouyuan",
+      "bounds_blender_m": [
+        [
+          -48,
+          124,
+          -0.2
+        ],
+        [
+          -27,
+          136,
+          3.7
+        ]
+      ]
+    },
+    {
+      "name": "Alumni",
+      "bounds_blender_m": [
+        [
+          -55.2,
+          151,
+          -0.2
+        ],
+        [
+          -28.8,
+          170.2,
+          9.3
+        ]
+      ]
+    },
+    {
+      "name": "Gym",
+      "bounds_blender_m": [
+        [
+          -100,
+          385,
+          1.0
+        ],
+        [
+          -52,
+          432,
+          15.0
+        ]
+      ]
+    },
+    {
+      "name": "Math",
+      "bounds_blender_m": [
+        [
+          135,
+          112,
+          -0.2
+        ],
+        [
+          165,
+          134,
+          8.6
+        ]
+      ]
+    },
+    {
+      "name": "History",
+      "bounds_blender_m": [
+        [
+          250,
+          117,
+          -0.2
+        ],
+        [
+          264,
+          143,
+          3.7
+        ]
+      ]
+    },
+    {
+      "name": "Canteen",
+      "bounds_blender_m": [
+        [
+          109,
+          351,
+          1.0
+        ],
+        [
+          140,
+          392,
+          5.0
+        ]
+      ]
+    }
+  ],
+  "outdoor_ev": 13,
+  "estimated_photometry": true
+}

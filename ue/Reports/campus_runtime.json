@@ -1,0 +1,129 @@
+{
+  "complete": true,
+  "tests": [
+    {
+      "location": "South gate",
+      "travel_cm": 585.0599710704469,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 1.1500043869018555,
+      "passed": true,
+      "end_position_cm": [
+        -1450.0,
+        2414.940028929553,
+        91.15000438690186
+      ]
+    },
+    {
+      "location": "Library ground entry",
+      "travel_cm": 596.6810103186004,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 24.997759050847947,
+      "passed": true,
+      "end_position_cm": [
+        12191.320446991493,
+        -15500.78327130714,
+        172.75250603207496
+      ]
+    },
+    {
+      "location": "Library upper entry",
+      "travel_cm": 584.6828829152128,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 2.149998188018799,
+      "passed": true,
+      "end_position_cm": [
+        12209.1860428536,
+        -15500.0,
+        517.1499981880188
+      ]
+    },
+    {
+      "location": "Mathematics gallery",
+      "travel_cm": 583.406387215513,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 9.150001525878906,
+      "passed": true,
+      "end_position_cm": [
+        14884.301924367031,
+        -13100.0,
+        99.1500015258789
+      ]
+    },
+    {
+      "location": "History gallery",
+      "travel_cm": 589.8622279626907,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 7.149942398071289,
+      "passed": true,
+      "end_position_cm": [
+        25300.568891364208,
+        -12989.86222796269,
+        97.14994239807129
+      ]
+    },
+    {
+      "location": "Alumni east exit",
+      "travel_cm": 589.8144821702781,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 2.7499828338623047,
+      "passed": true,
+      "end_position_cm": [
+        -3610.185517829722,
+        -16200.870752448165,
+        92.7499828338623
+      ]
+    },
+    {
+      "location": "Basketball central aisle",
+      "travel_cm": 590.4342877481649,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 4.649879455566406,
+      "passed": true,
+      "end_position_cm": [
+        1450.5688911098925,
+        -28590.434287748165,
+        94.6498794555664
+      ]
+    },
+    {
+      "location": "Gym ground hall",
+      "travel_cm": 586.1757362177086,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 3.0499649047851562,
+      "passed": true,
+      "end_position_cm": [
+        -8150.000000000001,
+        -40493.55116485453,
+        201.04996490478516
+      ]
+    },
+    {
+      "location": "Gym upper hall",
+      "travel_cm": 582.5104322434892,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 2.4500250816345215,
+      "passed": true,
+      "end_position_cm": [
+        -7600.0,
+        -41083.30218041742,
+        700.4500250816345
+      ]
+    },
+    {
+      "location": "Canteen central aisle",
+      "travel_cm": 584.2316702359018,
+      "walking_on_floor": true,
+      "floor_capsule_height_error_cm": 4.149989604949951,
+      "passed": true,
+      "end_position_cm": [
+        12440.0,
+        -36384.97284790479,
+        198.14998960494995
+      ]
+    }
+  ],
+  "map": "L_WZMS_Campus",
+  "notes": "Actual compiled pawn movement in PIE for 1.5 seconds per sample; does not certify every possible player route.",
+  "flight_toggle_passed": true,
+  "passed": true
+}

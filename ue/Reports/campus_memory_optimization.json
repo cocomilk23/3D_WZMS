@@ -1,0 +1,17 @@
+{
+  "before_rhi_buffers_mb": {
+    "Vertex Buffer Memory": 2112.894,
+    "Index Buffer Memory": 902.529
+  },
+  "measurement_note": "RHI vertex/index allocations from the full-campus editor; not the total physical GPU usage. Compare final same content after foliage fallback compaction.",
+  "full_primary_geometry_preserved": true,
+  "after_rhi_buffers_mb": {
+    "Vertex Buffer Memory": 403.493,
+    "Index Buffer Memory": 226.557
+  },
+  "foliage_chunks": 189,
+  "full_fallback_exceptions": 4,
+  "nanite_primary_triangles": 26024846,
+  "raster_fallback_triangles": 1030234,
+  "rhi_buffer_reduction_mb": 2385.3729999999996
+}

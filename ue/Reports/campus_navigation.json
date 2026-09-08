@@ -1,0 +1,6 @@
+{
+  "mesh_components": 249,
+  "ai_navigation_generation": false,
+  "player_collision_preserved": true,
+  "reason": "Campus uses directly controlled walking/flying; it does not currently have AI pathfinding agents."
+}

@@ -1,0 +1,120 @@
+{
+  "mode": "UE 5.8 PIE; full campus loaded",
+  "fps_cap": 60,
+  "gpu": "RTX 3060 Laptop 6GB",
+  "views": [
+    {
+      "view": "Ground",
+      "csv": "Campus_Profile_Ground.csv",
+      "frames": 720,
+      "duration_seconds": 12.074258200000001,
+      "average_fps": 59.6309924861471,
+      "timings": {
+        "FrameTime": {
+          "mean": 16.769803055555556,
+          "median": 16.6669,
+          "p95": 16.6729
+        },
+        "GameThreadTime": {
+          "mean": 7.2305447222222226,
+          "median": 6.9318,
+          "p95": 8.6351
+        },
+        "RenderThreadTime": {
+          "mean": 7.93694125,
+          "median": 7.72215,
+          "p95": 9.7797
+        },
+        "GPUTime": {
+          "mean": 13.223605277777779,
+          "median": 13.20625,
+          "p95": 13.6935
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4454.316854722222,
+          "median": 4645.5391,
+          "p95": 4645.5391
+        }
+      }
+    },
+    {
+      "view": "Aerial",
+      "csv": "Campus_Profile_Aerial.csv",
+      "frames": 719,
+      "duration_seconds": 12.015177600000001,
+      "average_fps": 59.840979795421426,
+      "timings": {
+        "FrameTime": {
+          "mean": 16.710956328233657,
+          "median": 16.6669,
+          "p95": 16.6793
+        },
+        "GameThreadTime": {
+          "mean": 7.2368438108484,
+          "median": 6.9657,
+          "p95": 8.7924
+        },
+        "RenderThreadTime": {
+          "mean": 7.781945340751043,
+          "median": 7.5175,
+          "p95": 9.9343
+        },
+        "GPUTime": {
+          "mean": 9.80099221140473,
+          "median": 9.7858,
+          "p95": 10.0084
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4503.51582433936,
+          "median": 4645.6641,
+          "p95": 4645.6641
+        }
+      }
+    },
+    {
+      "view": "Interior",
+      "csv": "Campus_Profile_Interior.csv",
+      "frames": 720,
+      "duration_seconds": 12.0014535,
+      "average_fps": 59.992733380169334,
+      "timings": {
+        "FrameTime": {
+          "mean": 16.668685416666666,
+          "median": 16.6669,
+          "p95": 16.6724
+        },
+        "GameThreadTime": {
+          "mean": 7.044660138888889,
+          "median": 6.80365,
+          "p95": 8.6623
+        },
+        "RenderThreadTime": {
+          "mean": 8.065414027777777,
+          "median": 7.830550000000001,
+          "p95": 9.7838
+        },
+        "GPUTime": {
+          "mean": 12.379511944444445,
+          "median": 12.348400000000002,
+          "p95": 12.9741
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4499.118829444445,
+          "median": 4681.1641,
+          "p95": 4681.1641
+        }
+      }
+    }
+  ],
+  "resolution_note": "Maximized editor window 1707x1019; visible game area approximately 1355x850, default UE editor screen-percentage policy. This is not a native 1080p/4K or packaged-game certification.",
+  "limitations": "Three stationary camera samples, 12 seconds each after warmup; first-load streaming or unrestricted movement can differ.",
+  "window_capture": "../Reviews/Campus/Campus_Runtime_Window.png",
+  "window_size_pixels": [
+    1707,
+    1019
+  ],
+  "approx_game_viewport_pixels": [
+    1355,
+    850
+  ]
+}
