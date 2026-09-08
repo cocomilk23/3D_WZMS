@@ -7,6 +7,8 @@ actors={a.get_actor_label():a for a in unreal.get_editor_subsystem(unreal.Editor
 completed=[];rows=[];smes=unreal.get_editor_subsystem(unreal.StaticMeshEditorSubsystem)
 fallback_path=root.parent/'Reports/campus_foliage_fallback.json'
 fallback={r['path']:r for r in json.loads(fallback_path.read_text())['meshes']} if fallback_path.exists() else {}
+variant_path=root.parent/'Reports/tour_stair_geometry.json'
+variants={r['actor']:r for r in json.loads(variant_path.read_text(encoding='utf8'))['replacements']} if variant_path.exists() else {}
 for zone in ['south','central','west','east','north']:
     file=root.parent/('Reports/south_import.json' if zone=='south' else f'Reports/import_{zone}.json')
     if not file.exists():continue
@@ -15,7 +17,13 @@ for zone in ['south','central','west','east','north']:
     for ref in imported['chunks']:
         a=actors[ref['name']];comp=a.static_mesh_component;mesh=comp.static_mesh
         fp=f'/Game/WZMS/{zone.title()}/Meshes/'+ref['name'];compact=fallback.get(fp)
-        if compact:
+        variant=variants.get(ref['name'])
+        assert mesh.get_path_name().split('.')[0]==(variant['replacement'] if variant else fp),ref['name']
+        if variant:
+            assert variant['original']==fp and variant['triangles_before']==ref['ue_triangles']
+            assert mesh.get_num_triangles(0)==variant['triangles_after'],ref['name']
+            original=unreal.load_asset(fp);assert original.get_num_triangles(0)==ref['ue_triangles']
+        elif compact:
             assert mesh.get_num_nanite_triangles()==compact['nanite_triangles_before']==ref['ue_triangles'],ref['name']
             assert mesh.get_num_triangles(0)==compact['raster_fallback_triangles'],ref['name']
         else:assert mesh.get_num_triangles(0)==ref['ue_triangles'],ref['name']
@@ -30,7 +38,7 @@ for zone in ['south','central','west','east','north']:
             assert ns.keep_percent_triangles==1 and ns.trim_relative_error==0 and abs(ns.fallback_percent_triangles-(compact['fallback_fraction'] if compact else 1))<1e-6
         for i,slot in enumerate(mesh.static_materials):
             mi=comp.get_material(i);assert mi and mi.get_name()=='MI_'+str(slot.material_slot_name),(ref['name'],i)
-        rows.append({'zone':zone,'mesh':ref['name'],'source_visible_triangles':ref['ue_triangles'],'full_nanite_geometry_verified':bool(compact),'transform_correct':True,'materials_bound':True,'collision_policy_verified':True})
+        rows.append({'zone':zone,'mesh':ref['name'],'source_visible_triangles':ref['ue_triangles'],'tour_geometry_variant':variant,'full_nanite_geometry_verified':bool(compact),'transform_correct':True,'materials_bound':True,'collision_policy_verified':True})
     completed.append(zone)
 assert unreal.get_editor_subsystem(unreal.LevelEditorSubsystem).save_current_level()
 report={'passed':True,'completed_zones':completed,'all_five_zones_complete':len(completed)==5,'mesh_count':len(rows),'meshes':rows,'source_version':'v043','source_model_unchanged':True}

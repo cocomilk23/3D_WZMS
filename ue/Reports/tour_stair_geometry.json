@@ -1,0 +1,97 @@
+{
+  "replacements": [
+    {
+      "actor": "SM_east_solid_061",
+      "original": "/Game/WZMS/East/Meshes/SM_east_solid_061",
+      "replacement": "/Game/WZMS/Tour/Meshes/SM_east_solid_061_Tour",
+      "triangles_before": 186976,
+      "triangles_after": 186898,
+      "cut_world_blender_m": [
+        [
+          122.8,
+          154.2,
+          3.6
+        ],
+        [
+          124.5,
+          155.8,
+          4.35
+        ]
+      ],
+      "curved_stair_side_entries_m": [
+        [
+          [
+            122,
+            155.85,
+            4.3
+          ],
+          [
+            122.9,
+            156.9,
+            5.9
+          ]
+        ],
+        [
+          [
+            122,
+            153.1,
+            4.3
+          ],
+          [
+            122.9,
+            154.15,
+            5.9
+          ]
+        ]
+      ],
+      "purpose": "Provide real headroom above the central stair; visual geometry and collision both updated."
+    },
+    {
+      "actor": "SM_east_solid_062",
+      "original": "/Game/WZMS/East/Meshes/SM_east_solid_062",
+      "replacement": "/Game/WZMS/Tour/Meshes/SM_east_solid_062_Tour",
+      "triangles_before": 118740,
+      "triangles_after": 120050,
+      "cut_world_blender_m": [
+        [
+          122.8,
+          154.2,
+          3.6
+        ],
+        [
+          124.5,
+          155.8,
+          4.35
+        ]
+      ],
+      "curved_stair_side_entries_m": [
+        [
+          [
+            122,
+            155.85,
+            4.3
+          ],
+          [
+            122.9,
+            156.9,
+            5.9
+          ]
+        ],
+        [
+          [
+            122,
+            153.1,
+            4.3
+          ],
+          [
+            122.9,
+            154.15,
+            5.9
+          ]
+        ]
+      ],
+      "purpose": "Provide real headroom above the central stair; visual geometry and collision both updated."
+    }
+  ],
+  "original_assets_preserved": true
+}

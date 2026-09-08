@@ -1,0 +1,98 @@
+{
+  "passed": true,
+  "tested_routes": 15,
+  "routes": [
+    {
+      "name": "v22: Taohua circular terraces",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 5
+    },
+    {
+      "name": "v24: Art plaza over stepped stone bridge",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 5
+    },
+    {
+      "name": "v26: Daosi junction to Rongyu stone bridge",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 4
+    },
+    {
+      "name": "v27: Zhouyuan curved wooden promenade",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 34
+    },
+    {
+      "name": "v36: Gym real two flight internal stairs",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 15
+    },
+    {
+      "name": "v36: Gym rear gallery stair",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 3
+    },
+    {
+      "name": "v37: Math stair and upstairs connection",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 11
+    },
+    {
+      "name": "v39: Canteen south steps to dining and return",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 5
+    },
+    {
+      "name": "v42: Heyu entry bridge and island path",
+      "passed": true,
+      "evidence": "TourBaseline/tour_bridges_upper_stairs_runtime.json",
+      "waypoints_reached": 5
+    },
+    {
+      "name": "Library central full ascent and descent",
+      "passed": true,
+      "evidence": "tour_library_all_levels_runtime.json",
+      "waypoints_reached": 8
+    },
+    {
+      "name": "Library upper curved ascent and descent",
+      "passed": true,
+      "evidence": "tour_library_all_levels_runtime.json",
+      "waypoints_reached": 70
+    },
+    {
+      "name": "Library exterior ascent",
+      "passed": true,
+      "evidence": "tour_library_all_levels_runtime.json",
+      "waypoints_reached": 4
+    },
+    {
+      "name": "South west lawn",
+      "passed": true,
+      "evidence": "tour_library_all_levels_runtime.json",
+      "waypoints_reached": 1
+    },
+    {
+      "name": "South east lawn",
+      "passed": true,
+      "evidence": "tour_library_all_levels_runtime.json",
+      "waypoints_reached": 1
+    },
+    {
+      "name": "Library opposite curved flight ascent and descent",
+      "passed": true,
+      "evidence": "tour_library_opposite_flight_runtime.json",
+      "waypoints_reached": 70
+    }
+  ],
+  "scope": "15 critical connected character routes, including both upper library stair flights in both directions. Full 74-route runtime traversal and packaged-game validation remain pending.",
+  "library_revision": "Central headroom, retained side landings, shallow side-entry steps and paired outer handrail entry gaps."
+}

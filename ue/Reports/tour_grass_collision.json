@@ -1,0 +1,48 @@
+{
+  "sections": [
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_047.SM_south_solid_047",
+      "section": 11,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    },
+    {
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_048.SM_south_solid_048",
+      "section": 0,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_040.SM_central_solid_040",
+      "section": 0,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_041.SM_central_solid_041",
+      "section": 0,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_043.SM_central_solid_043",
+      "section": 0,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_044.SM_central_solid_044",
+      "section": 0,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    },
+    {
+      "mesh": "/Game/WZMS/North/Meshes/SM_north_solid_035.SM_north_solid_035",
+      "section": 0,
+      "material": "Natural lawn blades",
+      "collision_enabled": false
+    }
+  ],
+  "visible_geometry_unchanged": true,
+  "underlying_soil_collision_retained": true
+}

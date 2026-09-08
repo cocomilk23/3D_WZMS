@@ -1,0 +1,1 @@
+Historical diagnostic reports, including reproduced failures and one interrupted duplicate test. They are retained as repair evidence, not current pass/fail status. Current traversal evidence is ../tour_critical_traversal_validation.json and ../tour_library_all_levels_runtime.json. Water route conflicts were resolved before the current fixtures and collision audit.

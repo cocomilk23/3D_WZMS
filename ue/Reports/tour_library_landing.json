@@ -1,0 +1,171 @@
+{
+  "objects": [
+    {
+      "actor": "Tour_Library_Entry_-1_0",
+      "bounds_m": [
+        [
+          122.0,
+          153.16,
+          4.2
+        ],
+        [
+          122.44,
+          154.04,
+          4.36
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Entry_-1_1",
+      "bounds_m": [
+        [
+          122.44,
+          153.16,
+          4.2
+        ],
+        [
+          122.88,
+          154.04,
+          4.47
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Entry_-1_2",
+      "bounds_m": [
+        [
+          122.88,
+          153.16,
+          4.2
+        ],
+        [
+          123.32,
+          154.04,
+          4.58
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Entry_1_0",
+      "bounds_m": [
+        [
+          122.0,
+          155.96,
+          4.2
+        ],
+        [
+          122.44,
+          156.84,
+          4.36
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Entry_1_1",
+      "bounds_m": [
+        [
+          122.44,
+          155.96,
+          4.2
+        ],
+        [
+          122.88,
+          156.84,
+          4.47
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Entry_1_2",
+      "bounds_m": [
+        [
+          122.88,
+          155.96,
+          4.2
+        ],
+        [
+          123.32,
+          156.84,
+          4.58
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Opening_Post_154.16",
+      "bounds_m": [
+        [
+          122.7,
+          154.135,
+          4.25
+        ],
+        [
+          122.75,
+          154.185,
+          5.3
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Opening_Post_155",
+      "bounds_m": [
+        [
+          122.7,
+          154.975,
+          4.25
+        ],
+        [
+          122.75,
+          155.025,
+          5.3
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Opening_Post_155.84",
+      "bounds_m": [
+        [
+          122.7,
+          155.815,
+          4.25
+        ],
+        [
+          122.75,
+          155.865,
+          5.3
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Opening_Rail_4.72",
+      "bounds_m": [
+        [
+          122.685,
+          154.12,
+          4.72
+        ],
+        [
+          122.765,
+          155.88,
+          4.779999999999999
+        ]
+      ]
+    },
+    {
+      "actor": "Tour_Library_Opening_Rail_5.28",
+      "bounds_m": [
+        [
+          122.685,
+          154.12,
+          5.28
+        ],
+        [
+          122.765,
+          155.88,
+          5.34
+        ]
+      ]
+    }
+  ],
+  "estimated_circulation_adjustment": true,
+  "purpose": "Side access to both curved stair flights while retaining central stair headroom and guarding the upper-floor opening."
+}

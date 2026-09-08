@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "water_grid_samples": 2784,
+  "grid_spacing_m": 5,
+  "shore_capsule_sweeps": 621,
+  "grid_failures": [],
+  "sweep_failures": [],
+  "reference_routes_outside_blocked_water": 74,
+  "method": "Actual editor physics queries against only the hidden water exclusion actor; separate real-character attempts are also required."
+}

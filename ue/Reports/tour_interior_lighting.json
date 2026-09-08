@@ -1,0 +1,871 @@
+{
+  "authored_lamp_materials_restored": [
+    {
+      "source_material": "Alumni warm recessed diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16f84a34bccbfe.MI_M_16f84a34bccbfe",
+      "emission_color": [
+        1.0,
+        0.6100000143051147,
+        0.2199999988079071,
+        1.0
+      ],
+      "estimated_luminance": 360.0
+    },
+    {
+      "source_material": "History warm exhibit lighting",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fe2453b7f9de6f.MI_M_fe2453b7f9de6f",
+      "emission_color": [
+        0.9800000190734863,
+        0.800000011920929,
+        0.49000000953674316,
+        1.0
+      ],
+      "estimated_luminance": 240.0
+    },
+    {
+      "source_material": "Interior neutral LED",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eeed9f93f345bc.MI_M_eeed9f93f345bc",
+      "emission_color": [
+        0.9200000166893005,
+        0.949999988079071,
+        1.0,
+        1.0
+      ],
+      "estimated_luminance": 360.0
+    },
+    {
+      "source_material": "Library warm LED diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_34429117b55cdc.MI_M_34429117b55cdc",
+      "emission_color": [
+        1.0,
+        0.7799999713897705,
+        0.47999998927116394,
+        1.0
+      ],
+      "estimated_luminance": 360.0
+    },
+    {
+      "source_material": "Math warm paper lantern",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c67d1f2af083c8.MI_M_c67d1f2af083c8",
+      "emission_color": [
+        0.949999988079071,
+        0.7400000095367432,
+        0.3700000047683716,
+        1.0
+      ],
+      "estimated_luminance": 215.9999942779541
+    },
+    {
+      "source_material": "Zhouyuan lit spotlight lens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bd8faed5f2a47d.MI_M_bd8faed5f2a47d",
+      "emission_color": [
+        1.0,
+        0.8399999737739563,
+        0.6299999952316284,
+        1.0
+      ],
+      "estimated_luminance": 288.0000114440918
+    }
+  ],
+  "additional_upper_library_lights": [
+    {
+      "actor": "Tour_InteriorLight_Library_Upper_00",
+      "position_cm": [
+        11800.0,
+        -14400.0,
+        1210.0
+      ],
+      "estimated_lumens": 35000,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "Tour_InteriorLight_Library_Upper_01",
+      "position_cm": [
+        11800.0,
+        -15500.0,
+        1210.0
+      ],
+      "estimated_lumens": 35000,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "Tour_InteriorLight_Library_Upper_02",
+      "position_cm": [
+        11800.0,
+        -16600.0,
+        1210.0
+      ],
+      "estimated_lumens": 35000,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "Tour_InteriorLight_Library_Upper_03",
+      "position_cm": [
+        13900.0,
+        -14500.0,
+        1210.0
+      ],
+      "estimated_lumens": 35000,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "Tour_InteriorLight_Library_Upper_04",
+      "position_cm": [
+        13900.0,
+        -15500.0,
+        1210.0
+      ],
+      "estimated_lumens": 35000,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "Tour_InteriorLight_Library_Upper_05",
+      "position_cm": [
+        13900.0,
+        -16500.0,
+        1210.0
+      ],
+      "estimated_lumens": 35000,
+      "temperature_k": 4200
+    }
+  ],
+  "open_interior_audit": [
+    {
+      "area": "Library",
+      "enabled_light_count": 16,
+      "lights": [
+        {
+          "actor": "InteriorLight_001_Library interior diffuse illumination",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_002_Library interior diffuse illumination.001",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_003_Library interior diffuse illumination.002",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_004_Library interior diffuse illumination.003",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_005_Library interior diffuse illumination.004",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_006_Library interior diffuse illumination.005",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_007_Library interior diffuse illumination.006",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_008_Library interior diffuse illumination.007",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_009_Library interior diffuse illumination.008",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "InteriorLight_010_Library interior diffuse illumination.009",
+          "intensity": 45500.0
+        },
+        {
+          "actor": "Tour_InteriorLight_Library_Upper_00",
+          "intensity": 35000.0
+        },
+        {
+          "actor": "Tour_InteriorLight_Library_Upper_01",
+          "intensity": 35000.0
+        },
+        {
+          "actor": "Tour_InteriorLight_Library_Upper_02",
+          "intensity": 35000.0
+        },
+        {
+          "actor": "Tour_InteriorLight_Library_Upper_03",
+          "intensity": 35000.0
+        },
+        {
+          "actor": "Tour_InteriorLight_Library_Upper_04",
+          "intensity": 35000.0
+        },
+        {
+          "actor": "Tour_InteriorLight_Library_Upper_05",
+          "intensity": 35000.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        12800.0,
+        -15500.0,
+        630.0
+      ],
+      "exposure_bounds_extent_cm": [
+        2300.0,
+        1900.0,
+        650.0
+      ]
+    },
+    {
+      "area": "Zhouyuan",
+      "enabled_light_count": 12,
+      "lights": [
+        {
+          "actor": "InteriorLight_011_Zhouyuan visible entry downlight",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_012_Zhouyuan visible entry downlight.001",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_013_Zhouyuan visible entry downlight.002",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_014_Zhouyuan visible entry downlight.003",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_015_Zhouyuan visible entry downlight.004",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_016_Zhouyuan visible entry downlight.005",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_017_Zhouyuan visible entry downlight.006",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_018_Zhouyuan visible entry downlight.007",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_019_Zhouyuan visible entry downlight.008",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_020_Zhouyuan visible entry downlight.009",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_021_Zhouyuan visible entry downlight.010",
+          "intensity": 4550.0
+        },
+        {
+          "actor": "InteriorLight_022_Zhouyuan visible entry downlight.011",
+          "intensity": 4550.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        -3750.0,
+        -13000.0,
+        175.0
+      ],
+      "exposure_bounds_extent_cm": [
+        1050.0,
+        600.0,
+        195.00000000000003
+      ]
+    },
+    {
+      "area": "Alumni",
+      "enabled_light_count": 7,
+      "lights": [
+        {
+          "actor": "InteriorLight_023_Alumni warm ceiling area",
+          "intensity": 6300.0
+        },
+        {
+          "actor": "InteriorLight_024_Alumni warm ceiling area.001",
+          "intensity": 6300.0
+        },
+        {
+          "actor": "InteriorLight_025_Alumni warm ceiling area.002",
+          "intensity": 6300.0
+        },
+        {
+          "actor": "InteriorLight_026_Alumni warm ceiling area.003",
+          "intensity": 6300.0
+        },
+        {
+          "actor": "InteriorLight_027_Alumni warm ceiling area.004",
+          "intensity": 6300.0
+        },
+        {
+          "actor": "InteriorLight_028_Alumni warm ceiling area.005",
+          "intensity": 6300.0
+        },
+        {
+          "actor": "InteriorLight_029_Alumni warm ceiling area.006",
+          "intensity": 6300.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        -4200.0,
+        -16060.0,
+        455.0000000000001
+      ],
+      "exposure_bounds_extent_cm": [
+        1320.0,
+        959.9999999999994,
+        475.0
+      ]
+    },
+    {
+      "area": "Gym",
+      "enabled_light_count": 43,
+      "lights": [
+        {
+          "actor": "InteriorLight_030_Gym ground fluorescent pair light",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_031_Gym ground fluorescent pair light.001",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_032_Gym ground fluorescent pair light.002",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_033_Gym ground fluorescent pair light.003",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_034_Gym ground fluorescent pair light.004",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_035_Gym ground fluorescent pair light.005",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_036_Gym ground fluorescent pair light.006",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_037_Gym ground fluorescent pair light.007",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_038_Gym ground fluorescent pair light.008",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_039_Gym ground fluorescent pair light.009",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_040_Gym ground fluorescent pair light.010",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_041_Gym ground fluorescent pair light.011",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_042_Gym ground fluorescent pair light.012",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_043_Gym ground fluorescent pair light.013",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_044_Gym ground fluorescent pair light.014",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_045_Gym ground fluorescent pair light.015",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_046_Gym ground fluorescent pair light.016",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_047_Gym ground fluorescent pair light.017",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_048_Gym ground fluorescent pair light.018",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_049_Gym ground fluorescent pair light.019",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_050_Gym ground fluorescent pair light.020",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_051_Gym ground fluorescent pair light.021",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_052_Gym ground fluorescent pair light.022",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_053_Gym ground fluorescent pair light.023",
+          "intensity": 7700.0
+        },
+        {
+          "actor": "InteriorLight_054_Gym trophy case LED light",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_055_Gym trophy case LED light.001",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_056_Gym trophy case LED light.002",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_057_Gym upper industrial light",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_058_Gym upper industrial light.001",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_059_Gym upper industrial light.002",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_060_Gym upper industrial light.003",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_061_Gym upper industrial light.004",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_062_Gym upper industrial light.005",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_063_Gym upper industrial light.006",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_064_Gym upper industrial light.007",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_065_Gym upper industrial light.008",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_066_Gym upper industrial light.009",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_067_Gym upper industrial light.010",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_068_Gym upper industrial light.011",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_069_Gym upper industrial light.012",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_070_Gym upper industrial light.013",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_071_Gym upper industrial light.014",
+          "intensity": 52500.0
+        },
+        {
+          "actor": "InteriorLight_072_Gym upper industrial light.015",
+          "intensity": 52500.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        -7600.0,
+        -40850.0,
+        800.0
+      ],
+      "exposure_bounds_extent_cm": [
+        2400.0,
+        2350.0,
+        700.0
+      ]
+    },
+    {
+      "area": "Math",
+      "enabled_light_count": 17,
+      "lights": [
+        {
+          "actor": "InteriorLight_073_Math warm pendant fill",
+          "intensity": 5600.0
+        },
+        {
+          "actor": "InteriorLight_074_Math warm pendant fill.001",
+          "intensity": 5600.0
+        },
+        {
+          "actor": "InteriorLight_075_Math warm pendant fill.002",
+          "intensity": 5600.0
+        },
+        {
+          "actor": "InteriorLight_076_Math ceiling soft exhibit light",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_077_Math ceiling soft exhibit light.001",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_078_Math ceiling soft exhibit light.002",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_079_Math ceiling soft exhibit light.003",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_080_Math ceiling soft exhibit light.004",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_081_Math ceiling soft exhibit light.005",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_082_Math ceiling soft exhibit light.006",
+          "intensity": 9800.0
+        },
+        {
+          "actor": "InteriorLight_083_Math classroom pendant light",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_084_Math classroom pendant light.001",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_085_Math classroom pendant light.002",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_086_Math classroom pendant light.003",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_087_Math classroom pendant light.004",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_088_Math classroom pendant light.005",
+          "intensity": 2800.0
+        },
+        {
+          "actor": "InteriorLight_089_Math rest ambient fill",
+          "intensity": 14000.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        15000.0,
+        -12300.0,
+        420.0
+      ],
+      "exposure_bounds_extent_cm": [
+        1500.0,
+        1100.0,
+        439.99999999999994
+      ]
+    },
+    {
+      "area": "History",
+      "enabled_light_count": 24,
+      "lights": [
+        {
+          "actor": "InteriorLight_090_History exhibit wash",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_091_History exhibit wash.001",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_092_History exhibit wash.002",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_093_History exhibit wash.003",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_094_History exhibit wash.004",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_095_History exhibit wash.005",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_096_History exhibit wash.006",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_097_History exhibit wash.007",
+          "intensity": 3150.0
+        },
+        {
+          "actor": "InteriorLight_098_History soft gallery light",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_099_History soft gallery light.001",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_100_History soft gallery light.002",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_101_History soft gallery light.003",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_102_History soft gallery light.004",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_103_History soft gallery light.005",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_104_History soft gallery light.006",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_105_History soft gallery light.007",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_106_History soft gallery light.008",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_107_History soft gallery light.009",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_108_History soft gallery light.010",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_109_History soft gallery light.011",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_110_History soft gallery light.012",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_111_History soft gallery light.013",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_112_History soft gallery light.014",
+          "intensity": 2660.0
+        },
+        {
+          "actor": "InteriorLight_113_History soft gallery light.015",
+          "intensity": 2660.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        25700.0,
+        -13000.0,
+        175.0
+      ],
+      "exposure_bounds_extent_cm": [
+        700.0,
+        1300.0,
+        195.00000000000003
+      ]
+    },
+    {
+      "area": "Canteen",
+      "enabled_light_count": 15,
+      "lights": [
+        {
+          "actor": "InteriorLight_114_Canteen twin fluorescent light",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_115_Canteen twin fluorescent light.001",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_116_Canteen twin fluorescent light.002",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_117_Canteen twin fluorescent light.003",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_118_Canteen twin fluorescent light.004",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_119_Canteen twin fluorescent light.005",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_120_Canteen twin fluorescent light.006",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_121_Canteen twin fluorescent light.007",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_122_Canteen twin fluorescent light.008",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_123_Canteen twin fluorescent light.009",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_124_Canteen twin fluorescent light.010",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_125_Canteen twin fluorescent light.011",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_126_Canteen twin fluorescent light.012",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_127_Canteen twin fluorescent light.013",
+          "intensity": 6650.0
+        },
+        {
+          "actor": "InteriorLight_128_Canteen twin fluorescent light.014",
+          "intensity": 6650.0
+        }
+      ],
+      "exposure_bounds_centre_cm": [
+        12450.0,
+        -37150.0,
+        300.0
+      ],
+      "exposure_bounds_extent_cm": [
+        1550.0,
+        2050.0,
+        200.0
+      ]
+    }
+  ],
+  "photometry": "Artistic estimates, to be verified by rendered views and runtime walkthroughs.",
+  "library_exposure_ev": {
+    "lower_halls": [
+      5.5,
+      12
+    ],
+    "upper_gallery": [
+      8.0,
+      12
+    ]
+  },
+  "library_upper_indirect_fill": [
+    {
+      "actor": "Tour_InteriorBounce_Library_Upper_00",
+      "estimated_lumens": 30000,
+      "purpose": "Approximate broad floor-bounced daylight on the upper ceiling; no invented visible floor fixture."
+    },
+    {
+      "actor": "Tour_InteriorBounce_Library_Upper_01",
+      "estimated_lumens": 30000,
+      "purpose": "Approximate broad floor-bounced daylight on the upper ceiling; no invented visible floor fixture."
+    },
+    {
+      "actor": "Tour_InteriorBounce_Library_Upper_02",
+      "estimated_lumens": 30000,
+      "purpose": "Approximate broad floor-bounced daylight on the upper ceiling; no invented visible floor fixture."
+    },
+    {
+      "actor": "Tour_InteriorBounce_Library_Upper_03",
+      "estimated_lumens": 30000,
+      "purpose": "Approximate broad floor-bounced daylight on the upper ceiling; no invented visible floor fixture."
+    }
+  ],
+  "representative_views_reviewed": true,
+  "final_visual_grade_and_packaged_runtime_pending": true,
+  "rendered_views": [
+    {
+      "path": "Reviews/Tour/Alumni.png",
+      "sha256": "3cad51a2502164c4d3189e76f427725228db81401147a57dceb705c7158e07cf"
+    },
+    {
+      "path": "Reviews/Tour/Canteen.png",
+      "sha256": "38a0cfb1ef7cabf7ce630ae1d9f5b59eb5b0179e25d872dc77294bec851bcfe0"
+    },
+    {
+      "path": "Reviews/Tour/Gym_Ground.png",
+      "sha256": "70fafe7573d441ec2135bc2041aace5fb8345c1fdb397d8ee47a7aaf5997f130"
+    },
+    {
+      "path": "Reviews/Tour/Gym_Upper.png",
+      "sha256": "37f1a44a784c7e020c9231f6f9984b391e5727ec8a8df09e32c67e5157e9dc2c"
+    },
+    {
+      "path": "Reviews/Tour/History.png",
+      "sha256": "ef7fd459b29a82a4680d46fe37307329405a97270c3c261b5a8a0bef4842a28a"
+    },
+    {
+      "path": "Reviews/Tour/Library_Curved.png",
+      "sha256": "7ff39cbb7498c340098dc2082a7c73ac18f17c3c7a75306249c0deaa4ae783bf"
+    },
+    {
+      "path": "Reviews/Tour/Library_Ground.png",
+      "sha256": "1f0fe5bc829e020a07dc540a53de083fd6aaf6cea60674067a9cff17bd980d08"
+    },
+    {
+      "path": "Reviews/Tour/Library_Second.png",
+      "sha256": "5ebc7b611b77c284f5ec7b1a2fd2035beecaff5c6fb6bb4bf6c4b98a7e1d006a"
+    },
+    {
+      "path": "Reviews/Tour/Library_Top.png",
+      "sha256": "11f7aeee3d98b898657e4090981866fea3e37b56fc229a42607d29811e0f5e83"
+    },
+    {
+      "path": "Reviews/Tour/Math_Ground.png",
+      "sha256": "4b908f0f926a2a2207d10b08df383309717faff9e2764e0514047a75ccd02486"
+    },
+    {
+      "path": "Reviews/Tour/Math_Upper.png",
+      "sha256": "670ed4e0fdedc165059253403df732926e9055296e1c901c1cafe0fd5268dc23"
+    },
+    {
+      "path": "Reviews/Tour/Zhouyuan.png",
+      "sha256": "b47e519306cbfbbc9e35f4bfd753a74c38df4dd3a7560755bcc75c46be8f6232"
+    },
+    {
+      "path": "Reviews/Tour/Zhouyuan_Inside.png",
+      "sha256": "b2cc3398032eb5e2fb69420e0b0dbd70066091e798d6fabc5107ba979f06dede"
+    }
+  ]
+}

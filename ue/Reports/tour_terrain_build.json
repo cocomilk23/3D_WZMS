@@ -1,0 +1,26 @@
+{
+  "objects": [
+    {
+      "actor": "SM_Tour_Continuous_Ground",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_Continuous_Ground",
+      "triangles": 4492,
+      "expected_triangles": 4492,
+      "visible": true,
+      "collision": "complex-as-simple BlockAll"
+    },
+    {
+      "actor": "SM_Tour_Water_Exclusion",
+      "mesh": "/Game/WZMS/Tour/Meshes/SM_Tour_Water_Exclusion",
+      "triangles": 2904,
+      "expected_triangles": 2904,
+      "visible": false,
+      "collision": "complex-as-simple BlockAll"
+    }
+  ],
+  "footprints": "SourceReference/tour_terrain_plan.json",
+  "water_area_physics_verified": "tour_water_collision_audit.json",
+  "water_character_verified": "tour_water_runtime.json",
+  "critical_ground_connections_verified": "tour_critical_traversal_validation.json",
+  "complete_map_traversal_pending": true,
+  "perimeter_visual_integration_pending": true
+}

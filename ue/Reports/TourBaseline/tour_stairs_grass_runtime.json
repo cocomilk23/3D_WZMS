@@ -1,0 +1,832 @@
+{
+  "complete": true,
+  "cases": [
+    {
+      "name": "Library interior ascent, bypass bust, descent",
+      "passed": true,
+      "reason": "all connected waypoints reached",
+      "waypoint_reached": 9,
+      "position_cm": [
+        11644.961733822844,
+        -15499.992833159087,
+        92.14999805049358
+      ],
+      "forward_hit": null,
+      "samples": [
+        {
+          "t": 0.0,
+          "waypoint": 1,
+          "position_cm": [
+            11600.0,
+            -15500.0,
+            92.94998931884766
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.2,
+          "waypoint": 1,
+          "position_cm": [
+            11627.940900526093,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.41,
+          "waypoint": 1,
+          "position_cm": [
+            11686.949331025677,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.61,
+          "waypoint": 1,
+          "position_cm": [
+            11739.143082491206,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.81,
+          "waypoint": 1,
+          "position_cm": [
+            11797.399917355822,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.01,
+          "waypoint": 1,
+          "position_cm": [
+            11850.496342471884,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.22,
+          "waypoint": 1,
+          "position_cm": [
+            11906.58077998002,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.44,
+          "waypoint": 1,
+          "position_cm": [
+            11966.821915230797,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.67,
+          "waypoint": 1,
+          "position_cm": [
+            12030.634190737353,
+            -15500.0,
+            92.35479545593262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.88,
+          "waypoint": 1,
+          "position_cm": [
+            12086.762036020951,
+            -15500.0,
+            106.94949608975571
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.08,
+          "waypoint": 1,
+          "position_cm": [
+            12142.464300975334,
+            -15500.0,
+            142.22246586062906
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.28,
+          "waypoint": 1,
+          "position_cm": [
+            12195.81300583485,
+            -15500.0,
+            176.17088089346902
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.51,
+          "waypoint": 1,
+          "position_cm": [
+            12257.588210441192,
+            -15500.0,
+            214.3878684000538
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.72,
+          "waypoint": 1,
+          "position_cm": [
+            12313.353073820057,
+            -15500.0,
+            249.70289230320782
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.92,
+          "waypoint": 1,
+          "position_cm": [
+            12373.870485299349,
+            -15500.0,
+            286.8738753003283
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.12,
+          "waypoint": 1,
+          "position_cm": [
+            12426.541958834034,
+            -15500.0,
+            321.0720824496414
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.33,
+          "waypoint": 1,
+          "position_cm": [
+            12481.019435411086,
+            -15500.0,
+            355.82861931254286
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.55,
+          "waypoint": 1,
+          "position_cm": [
+            12541.068351827944,
+            -15500.0,
+            392.8705220900284
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.75,
+          "waypoint": 1,
+          "position_cm": [
+            12598.22767226745,
+            -15500.0,
+            428.6452272533981
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.95,
+          "waypoint": 1,
+          "position_cm": [
+            12651.042115670552,
+            -15500.0,
+            462.9507021151215
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 4.16,
+          "waypoint": 1,
+          "position_cm": [
+            12710.43604984641,
+            -15500.0,
+            499.5376722802764
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 4.36,
+          "waypoint": 1,
+          "position_cm": [
+            12760.792647630538,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 4.56,
+          "waypoint": 1,
+          "position_cm": [
+            12818.346316602643,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.16,
+          "waypoint": 2,
+          "position_cm": [
+            12870.155113926287,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.38,
+          "waypoint": 2,
+          "position_cm": [
+            12925.857652099932,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.58,
+          "waypoint": 2,
+          "position_cm": [
+            12983.80274871936,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.78,
+          "waypoint": 2,
+          "position_cm": [
+            13039.03370608961,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.98,
+          "waypoint": 2,
+          "position_cm": [
+            13095.696575952823,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.19,
+          "waypoint": 2,
+          "position_cm": [
+            13149.040803307797,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.39,
+          "waypoint": 2,
+          "position_cm": [
+            13204.405421478803,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.59,
+          "waypoint": 2,
+          "position_cm": [
+            13260.42605925923,
+            -15500.0,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.08,
+          "waypoint": 3,
+          "position_cm": [
+            13306.30238727187,
+            -15495.778001358345,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.28,
+          "waypoint": 3,
+          "position_cm": [
+            13325.726474730904,
+            -15445.006314736384,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.08,
+          "waypoint": 4,
+          "position_cm": [
+            13338.290204175995,
+            -15406.531338497549,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.28,
+          "waypoint": 4,
+          "position_cm": [
+            13386.631940704494,
+            -15398.00079975386,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.5,
+          "waypoint": 4,
+          "position_cm": [
+            13443.474170554757,
+            -15393.876962397339,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.7,
+          "waypoint": 4,
+          "position_cm": [
+            13501.994413004022,
+            -15390.134420324022,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.91,
+          "waypoint": 4,
+          "position_cm": [
+            13556.64400785959,
+            -15386.672157269213,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.11,
+          "waypoint": 4,
+          "position_cm": [
+            13613.014468943013,
+            -15383.103361577394,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.31,
+          "waypoint": 4,
+          "position_cm": [
+            13667.524295775227,
+            -15379.65256547077,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.52,
+          "waypoint": 4,
+          "position_cm": [
+            13722.01606127449,
+            -15376.20293046874,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.02,
+          "waypoint": 5,
+          "position_cm": [
+            13779.269985103536,
+            -15372.578437266684,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.23,
+          "waypoint": 5,
+          "position_cm": [
+            13760.340202709562,
+            -15371.483462414242,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.45,
+          "waypoint": 5,
+          "position_cm": [
+            13700.452270958442,
+            -15371.169732268254,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.66,
+          "waypoint": 5,
+          "position_cm": [
+            13646.318858902177,
+            -15370.988222943026,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.86,
+          "waypoint": 5,
+          "position_cm": [
+            13590.421145928169,
+            -15370.807422313617,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.08,
+          "waypoint": 5,
+          "position_cm": [
+            13531.868656099821,
+            -15370.618599825664,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.28,
+          "waypoint": 5,
+          "position_cm": [
+            13474.545587708923,
+            -15370.433783369352,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.5,
+          "waypoint": 5,
+          "position_cm": [
+            13416.403441561806,
+            -15370.24632928936,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.06,
+          "waypoint": 6,
+          "position_cm": [
+            13371.74687838879,
+            -15372.836755229839,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.27,
+          "waypoint": 6,
+          "position_cm": [
+            13355.806644445367,
+            -15417.7894024254,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.08,
+          "waypoint": 7,
+          "position_cm": [
+            13341.709486712056,
+            -15464.294835177509,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.31,
+          "waypoint": 7,
+          "position_cm": [
+            13283.484843353075,
+            -15474.161025839674,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.51,
+          "waypoint": 7,
+          "position_cm": [
+            13225.076432749716,
+            -15478.10845286986,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.73,
+          "waypoint": 7,
+          "position_cm": [
+            13166.253427556998,
+            -15481.753585946408,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.95,
+          "waypoint": 7,
+          "position_cm": [
+            13108.603037680248,
+            -15485.305461350776,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.17,
+          "waypoint": 7,
+          "position_cm": [
+            13049.310578545495,
+            -15488.957108311864,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.39,
+          "waypoint": 7,
+          "position_cm": [
+            12989.916912788822,
+            -15492.6148889905,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.59,
+          "waypoint": 7,
+          "position_cm": [
+            12934.46477807054,
+            -15496.029921999427,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.16,
+          "waypoint": 8,
+          "position_cm": [
+            12884.551450425528,
+            -15498.020421051675,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.36,
+          "waypoint": 8,
+          "position_cm": [
+            12828.072241513277,
+            -15498.272283768465,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.56,
+          "waypoint": 8,
+          "position_cm": [
+            12772.298620542322,
+            -15498.385137336332,
+            517.1499973378458
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.77,
+          "waypoint": 8,
+          "position_cm": [
+            12717.36576509145,
+            -15498.487441880452,
+            501.611738238091
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.98,
+          "waypoint": 8,
+          "position_cm": [
+            12659.433270796451,
+            -15498.594691159386,
+            465.06788006802213
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.2,
+          "waypoint": 8,
+          "position_cm": [
+            12598.848477603857,
+            -15498.706804159867,
+            428.8162033943013
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.41,
+          "waypoint": 8,
+          "position_cm": [
+            12542.26932473432,
+            -15498.811502138637,
+            393.2405791771834
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.61,
+          "waypoint": 8,
+          "position_cm": [
+            12487.427676922183,
+            -15498.912984779165,
+            358.1294572622928
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 1.83,
+          "waypoint": 8,
+          "position_cm": [
+            12428.725761154768,
+            -15499.021610706779,
+            321.92143577262
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.03,
+          "waypoint": 8,
+          "position_cm": [
+            12374.951650707606,
+            -15499.121117895189,
+            287.17672099164395
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.25,
+          "waypoint": 8,
+          "position_cm": [
+            12312.147562767832,
+            -15499.237334754145,
+            249.23249787433184
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.45,
+          "waypoint": 8,
+          "position_cm": [
+            12259.117976467376,
+            -15499.335464225545,
+            215.06534052190136
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.67,
+          "waypoint": 8,
+          "position_cm": [
+            12198.742055245026,
+            -15499.447187843409,
+            177.77258202889996
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 2.89,
+          "waypoint": 8,
+          "position_cm": [
+            12137.99381753969,
+            -15499.559600420442,
+            139.5297331993818
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.11,
+          "waypoint": 8,
+          "position_cm": [
+            12079.354991522996,
+            -15499.668109601864,
+            101.95256267146526
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.31,
+          "waypoint": 8,
+          "position_cm": [
+            12023.102455111357,
+            -15499.772203034376,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 3.52,
+          "waypoint": 8,
+          "position_cm": [
+            11968.191629771452,
+            -15499.873813675536,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.12,
+          "waypoint": 9,
+          "position_cm": [
+            11918.664975875485,
+            -15499.941977853647,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.33,
+          "waypoint": 9,
+          "position_cm": [
+            11865.214471834119,
+            -15499.957063189819,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.53,
+          "waypoint": 9,
+          "position_cm": [
+            11808.332165821364,
+            -15499.966735455804,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.73,
+          "waypoint": 9,
+          "position_cm": [
+            11751.737710561332,
+            -15499.975807820212,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        },
+        {
+          "t": 0.94,
+          "waypoint": 9,
+          "position_cm": [
+            11699.224222780063,
+            -15499.984183148557,
+            92.14999805049358
+          ],
+          "mode": "<MovementMode.MOVE_WALKING: 1>"
+        }
+      ]
+    }
+  ],
+  "method": "Actual CharacterMovement following connected waypoints; teleport only at each route start.",
+  "error": "Traceback (most recent call last):\n  File \"E:\\WZMS_UE\\ue\\Automation\\test_tour_traversal.py\", line 28, in tick\n    pos=pawn.get_actor_location();point=cases[state['case']]['points'][state['waypoint']];target=unreal.Vector(point[0]*100,-point[1]*100,point[2]*100+92);delta=target-pos;distance=math.hypot(delta.x,delta.y)\n        ^^^^^^^^^^^^^^^^^^^^^^^^^\nException: Character: Internal Error - ObjectInstance is null!\n",
+  "passed": false
+}

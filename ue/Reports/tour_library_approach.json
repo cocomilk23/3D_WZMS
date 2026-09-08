@@ -1,0 +1,16 @@
+{
+  "actor": "Tour_Library_Stair_Approach",
+  "bounds_blender_m": [
+    [
+      98,
+      130,
+      -0.6
+    ],
+    [
+      106,
+      134.5,
+      0
+    ]
+  ],
+  "purpose": "Connect plaza to the first exterior stair tread; the original stair begins at y=134.4965 m."
+}
