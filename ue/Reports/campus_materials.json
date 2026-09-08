@@ -1,0 +1,3932 @@
+{
+  "complete": true,
+  "materials": [
+    {
+      "id": "M_2fcd623bf2484e",
+      "source_name": "Alumni WZHS blue letters",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2fcd623bf2484e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_447a03a5d1c069",
+      "source_name": "Alumni atrium clear glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_447a03a5d1c069",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c44ac72773058c",
+      "source_name": "Alumni burgundy piano cloth",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c44ac72773058c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_16f691f4bcd569",
+      "source_name": "Alumni charcoal inlay joints",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16f691f4bcd569",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_26787426db0e4e",
+      "source_name": "Alumni inactive screen",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_26787426db0e4e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f090eb89dc8904",
+      "source_name": "Alumni oak ceiling slats",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f090eb89dc8904",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5034d3fa0d92c6",
+      "source_name": "Alumni original exhibition photo f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5034d3fa0d92c6",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_d7ab279a9a249682fb.jpg"
+      ]
+    },
+    {
+      "id": "M_09113d524f9096",
+      "source_name": "Alumni original exhibition photo l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_09113d524f9096",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_fcf4b2d7ca988f0296.jpg"
+      ]
+    },
+    {
+      "id": "M_bcb70a2b48f6aa",
+      "source_name": "Alumni polished black piano",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bcb70a2b48f6aa",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_57c3e9a2220331",
+      "source_name": "Alumni polished light granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_57c3e9a2220331",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3686ddc3ffca88",
+      "source_name": "Alumni red safety text",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3686ddc3ffca88",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_dd46e8b2a9649b",
+      "source_name": "Alumni silver column cladding",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dd46e8b2a9649b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_16f84a34bccbfe",
+      "source_name": "Alumni warm recessed diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16f84a34bccbfe",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8307d10cc6d279",
+      "source_name": "Alumni warm white plaster",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8307d10cc6d279",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c08dc2eeaf2ba5",
+      "source_name": "Architectural teal glass 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c08dc2eeaf2ba5",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_dd665f10495f2f",
+      "source_name": "Architectural teal glass 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dd665f10495f2f",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_e740099a8383ae",
+      "source_name": "Architectural teal glass 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e740099a8383ae",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_9fbb746b00c809",
+      "source_name": "Architectural teal glass 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9fbb746b00c809",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_62b4839eba28f3",
+      "source_name": "Athletics alternate rubber lane",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_62b4839eba28f3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e560dabeef6b00",
+      "source_name": "Athletics blue high jump landing mat",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e560dabeef6b00",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_14042dbe1d5515",
+      "source_name": "Athletics cut grass blade 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_14042dbe1d5515",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b0acde138d8f92",
+      "source_name": "Athletics cut grass blade 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b0acde138d8f92",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e15868df73aed9",
+      "source_name": "Athletics cut grass blade 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e15868df73aed9",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f5b39685ec6c1d",
+      "source_name": "Athletics cut grass blade 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f5b39685ec6c1d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e8ed62ec77288c",
+      "source_name": "Athletics dry yellow green natural turf",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e8ed62ec77288c",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_da057e1cd0f6f38ffe.jpg",
+        "Textures/T_da057e1cd0f6f38ffe.jpg"
+      ]
+    },
+    {
+      "id": "M_914a9c45447ca0",
+      "source_name": "Athletics granular red rubber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_914a9c45447ca0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f283c842ffe4bc",
+      "source_name": "Athletics perimeter grey paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f283c842ffe4bc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ac3d3c97e3dfb0",
+      "source_name": "Athletics shaded soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ac3d3c97e3dfb0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ea3c03a74aa125",
+      "source_name": "Athletics worn white track markings",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ea3c03a74aa125",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d31d066abbcc4c",
+      "source_name": "Avenue bench warm hardwood",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d31d066abbcc4c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b31b18d170ecc1",
+      "source_name": "Avenue glazed brown pot",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b31b18d170ecc1",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_51e1e533fb1fc1",
+      "source_name": "Avenue leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_51e1e533fb1fc1",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_c0d7d27dde8675",
+      "source_name": "Avenue leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c0d7d27dde8675",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_37eb6a43d5fad2",
+      "source_name": "Avenue leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_37eb6a43d5fad2",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_4ef902def6cb1e",
+      "source_name": "Avenue leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4ef902def6cb1e",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2ec5b5a2655900",
+      "source_name": "Avenue leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2ec5b5a2655900",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_5594c8f12f7fcb",
+      "source_name": "Basketball clear green tinted backboard",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5594c8f12f7fcb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c161049897c4a9",
+      "source_name": "Basketball dark green safety pad",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c161049897c4a9",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_7792576ac59478",
+      "source_name": "Basketball faded terracotta acrylic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7792576ac59478",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_74e54befd6a419",
+      "source_name": "Basketball perimeter soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_74e54befd6a419",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4c94b0a2676531",
+      "source_name": "Basketball photographed green steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4c94b0a2676531",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_20e4992a64dc99",
+      "source_name": "Basketball red orange hoop steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_20e4992a64dc99",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3bcbe4d1e2f22e",
+      "source_name": "Basketball shaded entry pavers",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3bcbe4d1e2f22e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4f408575328d03",
+      "source_name": "Basketball warm white markings",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4f408575328d03",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d54c656912d5b5",
+      "source_name": "Basketball weathered green acrylic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d54c656912d5b5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8ef04ba6f6b5ee",
+      "source_name": "Basketball white cord net",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8ef04ba6f6b5ee",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4fd6fe8edfe860",
+      "source_name": "Boom motor bronze",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4fd6fe8edfe860",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_7bc8f8c1cf70f6",
+      "source_name": "Bridge pale blue-green posts",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7bc8f8c1cf70f6",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_c382f01804ff5f",
+      "source_name": "Bridge silver grey rails",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c382f01804ff5f",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_9da62f55d7bfff",
+      "source_name": "Bridge small square non-slip pavers",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9da62f55d7bfff",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a830b22e7c9865",
+      "source_name": "Brushed stainless steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a830b22e7c9865",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_dda84c5d959aea",
+      "source_name": "Buqing cobalt blue terrazzo",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dda84c5d959aea",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f6304c45ab572f",
+      "source_name": "Buqing crest white terrazzo",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f6304c45ab572f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_26cfc11235c0e3",
+      "source_name": "Buqing staggered grey granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_26cfc11235c0e3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c99b424e48ef68",
+      "source_name": "Buqing weathered gold lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c99b424e48ef68",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4554eaa7703fed",
+      "source_name": "Campus foliage0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4554eaa7703fed",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_7246a1f19e78bf",
+      "source_name": "Campus foliage1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7246a1f19e78bf",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_3512340a560d1c",
+      "source_name": "Campus foliage2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3512340a560d1c",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_c17f44e07b515a",
+      "source_name": "Campus foliage3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c17f44e07b515a",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_b42d4dc1cb508c",
+      "source_name": "Campus foliage4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b42d4dc1cb508c",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_7dd6a6220bbbb7",
+      "source_name": "Campus honour sign red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7dd6a6220bbbb7",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_eb9e1b4723ec85",
+      "source_name": "Campus lake water",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eb9e1b4723ec85",
+      "family": "water",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_175d341612d200",
+      "source_name": "Campus mottled grey bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_175d341612d200",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_db27c3d16c2e28",
+      "source_name": "Canteen aged warm white render",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_db27c3d16c2e28",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3bbbb38a898739",
+      "source_name": "Canteen bin (0.02, 0.2, 0.3)",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3bbbb38a898739",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_2140029903ecbd",
+      "source_name": "Canteen bin (0.03, 0.26, 0.14)",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2140029903ecbd",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e48e3fcfd46ebb",
+      "source_name": "Canteen blue tile intersection",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e48e3fcfd46ebb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_66307794576fac",
+      "source_name": "Canteen brushed stainless service steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_66307794576fac",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9e1e9992cbeff8",
+      "source_name": "Canteen conservation green ornament",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9e1e9992cbeff8",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3e3ee78e8893b4",
+      "source_name": "Canteen court green acrylic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3e3ee78e8893b4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_51623b999dadba",
+      "source_name": "Canteen court warm red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_51623b999dadba",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1b0e8b064daa35",
+      "source_name": "Canteen court white paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1b0e8b064daa35",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ee236a71e487bb",
+      "source_name": "Canteen cream ceramic dining tiles",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ee236a71e487bb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b3fde1cb461a60",
+      "source_name": "Canteen dark fixed dining frame",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b3fde1cb461a60",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1123706f8dc03a",
+      "source_name": "Canteen dark wall lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1123706f8dc03a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ebf4aaafffa4bf",
+      "source_name": "Canteen green clear glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ebf4aaafffa4bf",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ac30691c5b3a03",
+      "source_name": "Canteen hoop orange",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ac30691c5b3a03",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_fe700740e18118",
+      "source_name": "Canteen indoor daylight glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fe700740e18118",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c12a8275caa0e5",
+      "source_name": "Canteen interior clean warm white",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c12a8275caa0e5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9500fc89f1f808",
+      "source_name": "Canteen photographed cyan stool plastic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9500fc89f1f808",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1a46288cf0313a",
+      "source_name": "Canteen red interior lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1a46288cf0313a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ee10963634184c",
+      "source_name": "Canteen rose granite steps",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ee10963634184c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6af0c8e43d4a7a",
+      "source_name": "Canteen warm service wall",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6af0c8e43d4a7a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_331233888a9a5f",
+      "source_name": "Court green coated wire",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_331233888a9a5f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_2ec2a3fbfaee25",
+      "source_name": "Cultural glossy leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2ec2a3fbfaee25",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b8c136699c0261",
+      "source_name": "Cultural glossy leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b8c136699c0261",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1da7775a1c92d2",
+      "source_name": "Cultural glossy leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1da7775a1c92d2",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_eaa176cda8d918",
+      "source_name": "Cultural glossy leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eaa176cda8d918",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b534649219be7a",
+      "source_name": "Cultural glossy leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b534649219be7a",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b05307fb39ad91",
+      "source_name": "Daosi aged ivory lane paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b05307fb39ad91",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_7516d85c5cf145",
+      "source_name": "Daosi blue banner",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7516d85c5cf145",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ca1fe0b1cb9f18",
+      "source_name": "Daosi border flowers leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ca1fe0b1cb9f18",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_53ede20e5133e1",
+      "source_name": "Daosi border flowers leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_53ede20e5133e1",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_86c12f04c5c20a",
+      "source_name": "Daosi border flowers leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_86c12f04c5c20a",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_553c75856659e0",
+      "source_name": "Daosi border flowers leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_553c75856659e0",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_19175e1d990071",
+      "source_name": "Daosi border flowers leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_19175e1d990071",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5a0b675f6ceea0",
+      "source_name": "Daosi dark worn asphalt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5a0b675f6ceea0",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_1c0d733c664e57",
+      "source_name": "Daosi dark wrought iron",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1c0d733c664e57",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_5ad9d7a443037a",
+      "source_name": "Daosi dry shaded lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5ad9d7a443037a",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6543b08176d99e",
+      "source_name": "Daosi limewash",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6543b08176d99e",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_eb54d655a5c71f",
+      "source_name": "Daosi pale bridge concrete",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eb54d655a5c71f",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2d0f45dad50d0c",
+      "source_name": "Daosi pale impatiens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2d0f45dad50d0c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_28fe0c07963013",
+      "source_name": "Daosi pink impatiens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_28fe0c07963013",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e77b2c3d5b8a11",
+      "source_name": "Daosi potting soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e77b2c3d5b8a11",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_716172e717c783",
+      "source_name": "Daosi red banner",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_716172e717c783",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a85a29e847f294",
+      "source_name": "Daosi ribbed grey transition paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a85a29e847f294",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_1ade03189f67e6",
+      "source_name": "Daosi warm rough name stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1ade03189f67e6",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_f80a54c3fec033",
+      "source_name": "Daosi white tensile roofing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f80a54c3fec033",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a9e35683ac9021",
+      "source_name": "Facade ivory powder coat",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a9e35683ac9021",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_10c16ec62293c5",
+      "source_name": "Facade pale limestone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_10c16ec62293c5",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_1dde2345c58abc",
+      "source_name": "Facade recessed grey spandrel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1dde2345c58abc",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_0fdf1861a480bb",
+      "source_name": "Facade stone joint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0fdf1861a480bb",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6db77e6280d89e",
+      "source_name": "Flowers coral red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6db77e6280d89e",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_628c8a6ae940c4",
+      "source_name": "Flowers golden yellow",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_628c8a6ae940c4",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_83985ecf686e28",
+      "source_name": "Garden lamp frosted pane",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_83985ecf686e28",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_ae293d558975c1",
+      "source_name": "Garden light opal lens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ae293d558975c1",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6defc2f32c2ba9",
+      "source_name": "Gate control blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6defc2f32c2ba9",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_f2f397cc6e8e5e",
+      "source_name": "Grandstand bright blue moulded seats",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f2f397cc6e8e5e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_dc4656cdc6d00a",
+      "source_name": "Grandstand burgundy sign band",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dc4656cdc6d00a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_932a7dcd73f350",
+      "source_name": "Grandstand grey access paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_932a7dcd73f350",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8cb89cfc148efc",
+      "source_name": "Grandstand pale blue standing seam roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8cb89cfc148efc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d8f1a941618bd2",
+      "source_name": "Grandstand pale cyan seats",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d8f1a941618bd2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_0d6b42d6b927df",
+      "source_name": "Grandstand pale grey steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0d6b42d6b927df",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e1d9c3dabfe401",
+      "source_name": "Grandstand weathered ivory concrete",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e1d9c3dabfe401",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9622d395d3cbd5",
+      "source_name": "Granite curb",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9622d395d3cbd5",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_5acf9c9db064c2",
+      "source_name": "Granite rectangular paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5acf9c9db064c2",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_27ef3b989a7a69",
+      "source_name": "Graphite painted metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_27ef3b989a7a69",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_776eebb66faee8",
+      "source_name": "Groundcover 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_776eebb66faee8",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_4a643e45d4deac",
+      "source_name": "Groundcover 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4a643e45d4deac",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_4a59a05ff8bac3",
+      "source_name": "Groundcover 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4a59a05ff8bac3",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_7d0f6f18f111dc",
+      "source_name": "Groundcover 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7d0f6f18f111dc",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a1f49ed47da689",
+      "source_name": "Groundcover 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a1f49ed47da689",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_8ca4028555cc1a",
+      "source_name": "Guardroom cream curtain",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8ca4028555cc1a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b53b4ba3b54625",
+      "source_name": "Gym black rail and skirting",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b53b4ba3b54625",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_10de6690963b8f",
+      "source_name": "Gym daylight clear glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_10de6690963b8f",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3f65ff2218ebc0",
+      "source_name": "Gym faded yellow parking lines",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3f65ff2218ebc0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6f5ac737c69fee",
+      "source_name": "Gym foyer polished grey terrazzo",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6f5ac737c69fee",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3a17fc8a491b01",
+      "source_name": "Gym green tile border",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3a17fc8a491b01",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_77f74271a5ad32",
+      "source_name": "Gym ground hall worn teal floor",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_77f74271a5ad32",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e330eba36c139d",
+      "source_name": "Gym indoor court white paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e330eba36c139d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_cf0ae43b4bdfa5",
+      "source_name": "Gym interior photographed blue wainscot",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cf0ae43b4bdfa5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_495b9eaaed1eb4",
+      "source_name": "Gym interior warm white plaster",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_495b9eaaed1eb4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_492b6c672a4bf2",
+      "source_name": "Gym ivory panel facade",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_492b6c672a4bf2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8b764a419c659e",
+      "source_name": "Gym pale aluminium frames",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8b764a419c659e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a93a6e7cae443f",
+      "source_name": "Gym pale grey standing seam roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a93a6e7cae443f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6c644374c9c01e",
+      "source_name": "Gym photo board honey timber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6c644374c9c01e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d64707d3e33358",
+      "source_name": "Gym photographed orange gallery fascia",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d64707d3e33358",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_68f49c98788430",
+      "source_name": "Gym planted ground soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_68f49c98788430",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1237f679f90c66",
+      "source_name": "Gym shaded road asphalt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1237f679f90c66",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_78f635159b03c4",
+      "source_name": "Gym small square grey tiles",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_78f635159b03c4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_511a40eb0d2166",
+      "source_name": "Gym source sports picture source 393/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_511a40eb0d2166",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_b98130998d5f4164e3.jpg"
+      ]
+    },
+    {
+      "id": "M_3b3287358135c1",
+      "source_name": "Gym table tennis dark folding steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3b3287358135c1",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9a9d410dfb5596",
+      "source_name": "Gym table tennis violet blue top",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9a9d410dfb5596",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_123d8f51725caa",
+      "source_name": "Gym trophy warm gold",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_123d8f51725caa",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_589567605e9b4b",
+      "source_name": "Gym upper maple sports floor",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_589567605e9b4b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3566aa9d98b70e",
+      "source_name": "Gym weathered rose granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3566aa9d98b70e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_84277ad34c3576",
+      "source_name": "Gym yellow boundary",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_84277ad34c3576",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_2a41c93a0e882e",
+      "source_name": "Heyu banyan grey fibrous bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2a41c93a0e882e",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_79c8deaa523720",
+      "source_name": "Heyu connecting bank lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_79c8deaa523720",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_8cda5a0d82df35",
+      "source_name": "Heyu grass blades",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8cda5a0d82df35",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6746f93a9d9c71",
+      "source_name": "Heyu green lake water",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6746f93a9d9c71",
+      "family": "water",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6445b3e57ea820",
+      "source_name": "Heyu lotus autumn brown",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6445b3e57ea820",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_412ccd9b86b066",
+      "source_name": "Heyu lotus blue green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_412ccd9b86b066",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_b328c09f232a87",
+      "source_name": "Heyu lotus fresh green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b328c09f232a87",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_dcc7b40691ad68",
+      "source_name": "Heyu lotus pink",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dcc7b40691ad68",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2a76fce78d58ec",
+      "source_name": "Heyu patchy dry grass base",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2a76fce78d58ec",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_d128e5793bd7a6",
+      "source_name": "Heyu rescue ring orange",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d128e5793bd7a6",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_5fbd2a7a14e597",
+      "source_name": "Heyu rough grey island revetment",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5fbd2a7a14e597",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_ca55aa7345e3e4",
+      "source_name": "Heyu strap leaf dry ochre",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ca55aa7345e3e4",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_b81bf2ae7742bd",
+      "source_name": "Heyu strap leaf green centre",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b81bf2ae7742bd",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_26f7de5c24a418",
+      "source_name": "Heyu strap leaf pale margin",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_26f7de5c24a418",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_9c09dc4a5a3a9e",
+      "source_name": "Historic LED blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9c09dc4a5a3a9e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4f5b5e4ce20e87",
+      "source_name": "Historic canopy woven blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4f5b5e4ce20e87",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8001fc842607dc",
+      "source_name": "Historic emergency tent canvas",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8001fc842607dc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_49be0c8c5fb26d",
+      "source_name": "History black anodized slatted ceiling",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_49be0c8c5fb26d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6ae7c3a1ec5065",
+      "source_name": "History blue green entrance glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6ae7c3a1ec5065",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_165080074023d6",
+      "source_name": "History cabinet dark walnut",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_165080074023d6",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9f6ee612c476d5",
+      "source_name": "History cream exhibit backing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9f6ee612c476d5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_7ad640e21171c2",
+      "source_name": "History dark bronze title",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7ad640e21171c2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_abc0b533fa6e04",
+      "source_name": "History dark grey metal roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_abc0b533fa6e04",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_271ca449e1f7f5",
+      "source_name": "History entrance blue safety band",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_271ca449e1f7f5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a55a7c6e492cf4",
+      "source_name": "History foyer red carpet",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a55a7c6e492cf4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ccda0c7150a480",
+      "source_name": "History graphite display frame",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ccda0c7150a480",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f54f5d05d5e18f",
+      "source_name": "History interior grey stone floor",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f54f5d05d5e18f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_0c57e70d634623",
+      "source_name": "History island retaining masonry",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0c57e70d634623",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a8395255ec6598",
+      "source_name": "History island shaded lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a8395255ec6598",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b8773a3cb2dc15",
+      "source_name": "History miniature lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b8773a3cb2dc15",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_193c7fa146ac8a",
+      "source_name": "History miniature roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_193c7fa146ac8a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bb0e37dc4b2eef",
+      "source_name": "History museum grey forecourt tiles",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bb0e37dc4b2eef",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ae5becdd475c75",
+      "source_name": "History original campus and photo wall source 408/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ae5becdd475c75",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_501d6109a247461880.jpg"
+      ]
+    },
+    {
+      "id": "M_bc830f91642ea5",
+      "source_name": "History original campus and photo wall source 418/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bc830f91642ea5",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_37e2e810771f4726df.jpg"
+      ]
+    },
+    {
+      "id": "M_aef73b3fb1aa9a",
+      "source_name": "History original framed large scroll source 417/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_aef73b3fb1aa9a",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_1ceb7d7b46d9831ef7.jpg"
+      ]
+    },
+    {
+      "id": "M_6b50b33bdf094c",
+      "source_name": "History original framed narrow scroll source 417/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6b50b33bdf094c",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_1ceb7d7b46d9831ef7.jpg"
+      ]
+    },
+    {
+      "id": "M_0125e18419007a",
+      "source_name": "History original framed portrait source 417/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0125e18419007a",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_1ceb7d7b46d9831ef7.jpg"
+      ]
+    },
+    {
+      "id": "M_d4c22067002117",
+      "source_name": "History original preface left source 405/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d4c22067002117",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_c9b0d8fc6cd4c38018.jpg"
+      ]
+    },
+    {
+      "id": "M_ce6847706336ad",
+      "source_name": "History original preface right source 405/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ce6847706336ad",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_5f52f13eb590bc762e.jpg"
+      ]
+    },
+    {
+      "id": "M_88b1d2f5df66ea",
+      "source_name": "History original warm photograph mosaic source 412/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_88b1d2f5df66ea",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_f5bc50cbed5274eaac.jpg"
+      ]
+    },
+    {
+      "id": "M_e35a0f6dc4bf55",
+      "source_name": "History original 历任校长 source 411/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e35a0f6dc4bf55",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_5696821034cef3c91d.jpg"
+      ]
+    },
+    {
+      "id": "M_0964c5bbe1c39c",
+      "source_name": "History original 名师荟萃 source 413/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0964c5bbe1c39c",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_5b92691a9d8617a55e.jpg"
+      ]
+    },
+    {
+      "id": "M_8613794a4743ad",
+      "source_name": "History original 孙诒让 source 414/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8613794a4743ad",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_59c08b104120b72d31.jpg"
+      ]
+    },
+    {
+      "id": "M_fafc765648e4a6",
+      "source_name": "History original 温中百年 source 407/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fafc765648e4a6",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_7c56ca98a6ffd13863.jpg"
+      ]
+    },
+    {
+      "id": "M_27d7ad5e021f5f",
+      "source_name": "History original 英奇匡国 source 410/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_27d7ad5e021f5f",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_66020c36b867288828.jpg"
+      ]
+    },
+    {
+      "id": "M_fb4e6e005b7cb2",
+      "source_name": "History original 英奇匡国 source 416/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fb4e6e005b7cb2",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_67db5df26b257c35c9.jpg"
+      ]
+    },
+    {
+      "id": "M_6d65cba2ccba0b",
+      "source_name": "History red door mat",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6d65cba2ccba0b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bfeead0e16253a",
+      "source_name": "History shoreline dark chain",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bfeead0e16253a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_fe2453b7f9de6f",
+      "source_name": "History warm exhibit lighting",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fe2453b7f9de6f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_73fd5f06a346a7",
+      "source_name": "History warm white exterior plaster",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_73fd5f06a346a7",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_088fb2b4fdc168",
+      "source_name": "Hydrant weathered red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_088fb2b4fdc168",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_29de3668cc106b",
+      "source_name": "Interior basketball green steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_29de3668cc106b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5de1dfa480369a",
+      "source_name": "Interior clear safety glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5de1dfa480369a",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_eeed9f93f345bc",
+      "source_name": "Interior neutral LED",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eeed9f93f345bc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9b2aa94603dd95",
+      "source_name": "Interior orange rim",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9b2aa94603dd95",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_81b7c8953974a8",
+      "source_name": "Island black river pebble mosaic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_81b7c8953974a8",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_07a6763c59a9dd",
+      "source_name": "Island carved grey table stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_07a6763c59a9dd",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_83f72a544949f8",
+      "source_name": "Island pale river pebble mosaic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_83f72a544949f8",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_dc3cb1ce3ecfa2",
+      "source_name": "Jiangkou dark cultural screen metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dc3cb1ce3ecfa2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8ad50fbb223f2a",
+      "source_name": "Jiangkou garden lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8ad50fbb223f2a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d59f62c62d376d",
+      "source_name": "Jiangkou grey granite border",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d59f62c62d376d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f8c523bd6878a2",
+      "source_name": "Jiangkou pale granite slabs",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f8c523bd6878a2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c8227955efde8a",
+      "source_name": "Jiangkou screen ivory field",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c8227955efde8a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5525333271dc16",
+      "source_name": "Jiushan bright blue bridge enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5525333271dc16",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f51602065278a0",
+      "source_name": "Jiushan fine grey pedestrian paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f51602065278a0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_fd2fb738264bb1",
+      "source_name": "Jiushan grey masonry water bank",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fd2fb738264bb1",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bf27921ba76436",
+      "source_name": "Jiushan shaded grass soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bf27921ba76436",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4f1c7e3e6939c5",
+      "source_name": "Jiushan warm yellow lane paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4f1c7e3e6939c5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_458293c69d94f5",
+      "source_name": "Jiushan yellow bridge enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_458293c69d94f5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e3d3c67816d9cc",
+      "source_name": "Ju blue service post enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e3d3c67816d9cc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f0616c4bbfdc34",
+      "source_name": "Ju cultivated brown soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f0616c4bbfdc34",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3ebbf4b8d70911",
+      "source_name": "Ju exposed root bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3ebbf4b8d70911",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_36587ab9564a42",
+      "source_name": "Ju garden red brick",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_36587ab9564a42",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_0aba8e2d507eb4",
+      "source_name": "Ju island weathered stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0aba8e2d507eb4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_36a4307036d1ed",
+      "source_name": "Ju pale stone path",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_36a4307036d1ed",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_95a5ec95a50135",
+      "source_name": "Ju white river pebble tree seat",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_95a5ec95a50135",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_dbc02e30d5d2f5",
+      "source_name": "Lake silt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dbc02e30d5d2f5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ede240e816c2f7",
+      "source_name": "Lawn soil green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ede240e816c2f7",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_bcbd1b33e6e98f",
+      "source_name": "Leaf green 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bcbd1b33e6e98f",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a6c28d824f8ed6",
+      "source_name": "Leaf green 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a6c28d824f8ed6",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_8314bf281dfa74",
+      "source_name": "Leaf green 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8314bf281dfa74",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_98a4d2ce8c3ff9",
+      "source_name": "Leaf green 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_98a4d2ce8c3ff9",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_bd1ad971f9eef7",
+      "source_name": "Leaf green 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bd1ad971f9eef7",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_5fc8ed48fd8cf3",
+      "source_name": "Library blue white ceramic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5fc8ed48fd8cf3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e0a2004161923c",
+      "source_name": "Library brushed brass lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e0a2004161923c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_302abe40f560f0",
+      "source_name": "Library ceiling dark shadow",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_302abe40f560f0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3a7b0417bcc865",
+      "source_name": "Library cream limestone joints",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3a7b0417bcc865",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6eed37f191f65e",
+      "source_name": "Library display board blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6eed37f191f65e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b70d2787c3a049",
+      "source_name": "Library honey oak handrail",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b70d2787c3a049",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_202ed4413c610d",
+      "source_name": "Library ivory floor border",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_202ed4413c610d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_636f3ad2af53e4",
+      "source_name": "Library oak fine vertical panels",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_636f3ad2af53e4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_784489e5fba68a",
+      "source_name": "Library polished brown hall tile",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_784489e5fba68a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_116704a69d62d4",
+      "source_name": "Library porcelain cobalt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_116704a69d62d4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_65e1313db5d61d",
+      "source_name": "Library real transmissive glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_65e1313db5d61d",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d7fdd4e4916104",
+      "source_name": "Library reference bust dark patina",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d7fdd4e4916104",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8ee45a2b80e64a",
+      "source_name": "Library terrace grey tiles",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8ee45a2b80e64a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_34429117b55cdc",
+      "source_name": "Library warm LED diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_34429117b55cdc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_658d60b43720b3",
+      "source_name": "Library warm white interior plaster",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_658d60b43720b3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9cf4c804844610",
+      "source_name": "Lotus leaf green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9cf4c804844610",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_3d20f2ae565101",
+      "source_name": "Math Gu Chaohao gallery original interpretation source 399/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3d20f2ae565101",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_5799fb79183aca4d2a.jpg"
+      ]
+    },
+    {
+      "id": "M_7c79fa083736ed",
+      "source_name": "Math Su Buqing gallery original interpretation source 398/l",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7c79fa083736ed",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_4b092fa31b845f65b6.jpg"
+      ]
+    },
+    {
+      "id": "M_e21d444ba59d72",
+      "source_name": "Math approach grey rectangular pavers",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e21d444ba59d72",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ffa77b0a0bf1ac",
+      "source_name": "Math blue green curtain glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ffa77b0a0bf1ac",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_edb134751fbc6f",
+      "source_name": "Math bougainvillea green 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_edb134751fbc6f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_dbbd42e4caff31",
+      "source_name": "Math bougainvillea green 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dbbd42e4caff31",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_7d05e9e9822514",
+      "source_name": "Math bougainvillea green 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7d05e9e9822514",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_21c66dab78cc17",
+      "source_name": "Math bougainvillea green 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_21c66dab78cc17",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_0c2c766aeaf038",
+      "source_name": "Math bougainvillea green 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0c2c766aeaf038",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4605636b39e1f2",
+      "source_name": "Math bright pink bracts",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4605636b39e1f2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1fe5d29908c383",
+      "source_name": "Math bronze lattice metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1fe5d29908c383",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e36ce9c43affed",
+      "source_name": "Math charcoal coping",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e36ce9c43affed",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_fd92d8e9576996",
+      "source_name": "Math classroom aged timber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fd92d8e9576996",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bc83aa123b5f08",
+      "source_name": "Math classroom dark chalkboard",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bc83aa123b5f08",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8953d028b467d6",
+      "source_name": "Math dark octagonal flower pot",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8953d028b467d6",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b937678d8c545d",
+      "source_name": "Math dry courtyard planting soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b937678d8c545d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bbfecd8262cf83",
+      "source_name": "Math exhibition deep blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bbfecd8262cf83",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_2b21afabb5ad2a",
+      "source_name": "Math exhibition grey floor",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2b21afabb5ad2a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b228bf3b31046e",
+      "source_name": "Math exhibition warm gold",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b228bf3b31046e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_280cf49d1931ee",
+      "source_name": "Math foyer original preface source 398/b",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_280cf49d1931ee",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_3fa89ee420df7b748e.jpg"
+      ]
+    },
+    {
+      "id": "M_cecb850366f6ba",
+      "source_name": "Math irregular dark grey flagstone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cecb850366f6ba",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d46991ab1d8426",
+      "source_name": "Math magenta bracts",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d46991ab1d8426",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c73e76dad613d1",
+      "source_name": "Math photographed projection screen source 402/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c73e76dad613d1",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_6974fca1c518f92df7.jpg"
+      ]
+    },
+    {
+      "id": "M_5d44812abdfb88",
+      "source_name": "Math plaque turquoise calligraphy",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5d44812abdfb88",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_0aa95a52cc2c9d",
+      "source_name": "Math reference red carpet",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0aa95a52cc2c9d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_985b7fbd0e4c92",
+      "source_name": "Math rest grey upholstery",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_985b7fbd0e4c92",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_35e3d3c5fe5aee",
+      "source_name": "Math rest photographed mustard cushion",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_35e3d3c5fe5aee",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_fe6d1854de036e",
+      "source_name": "Math stars gallery original interpretation source 400/f",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fe6d1854de036e",
+      "family": "photo",
+      "created": true,
+      "source_photos": [
+        "Textures/T_38cd6a4fda27262655.jpg"
+      ]
+    },
+    {
+      "id": "M_ea3e330560ab27",
+      "source_name": "Math upper warm oak boards",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ea3e330560ab27",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c67d1f2af083c8",
+      "source_name": "Math warm paper lantern",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c67d1f2af083c8",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_683eeea408091e",
+      "source_name": "Math white rendered plaster",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_683eeea408091e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4767c1fd8a632e",
+      "source_name": "Meihua bronze lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4767c1fd8a632e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1c7f3909f6a8bb",
+      "source_name": "Meihua green plaza bands",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1c7f3909f6a8bb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e1ced4a74cadcc",
+      "source_name": "Meihua light rectangular plaza brick",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e1ced4a74cadcc",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ce2d0196acbb49",
+      "source_name": "Meihua pale aluminium stone panels",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ce2d0196acbb49",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_832eb5a2c867fe",
+      "source_name": "Meihua planted ground",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_832eb5a2c867fe",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4abc85dc2a01e3",
+      "source_name": "Meihua rose promenade",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4abc85dc2a01e3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_190285d6f69c24",
+      "source_name": "Meihua sage green window frames",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_190285d6f69c24",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5df913a9ac57d7",
+      "source_name": "Meihua structural white enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5df913a9ac57d7",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_02d417ddbd37d5",
+      "source_name": "Meihua translucent green curtain wall",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_02d417ddbd37d5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_867904c90fd1ab",
+      "source_name": "Meihua weathered revetment",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_867904c90fd1ab",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_cd58f0a9943f86",
+      "source_name": "Meihua zinc roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cd58f0a9943f86",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ae7dc7a6732b0d",
+      "source_name": "Muted teal glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ae7dc7a6732b0d",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_f9870c20f8ca74",
+      "source_name": "Nantian banner -1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f9870c20f8ca74",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_07fc0140ce6351",
+      "source_name": "Nantian banner 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_07fc0140ce6351",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9836d2bc0b236a",
+      "source_name": "Nantian blue gate number enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9836d2bc0b236a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f852ea5dbb39d2",
+      "source_name": "Nantian blue parking sign",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f852ea5dbb39d2",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5e0311f133a47d",
+      "source_name": "Nantian entry blue green glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5e0311f133a47d",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_28791533e9dcc0",
+      "source_name": "Nantian entry ivory stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_28791533e9dcc0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_cbaabf531f805f",
+      "source_name": "Nantian fine weathered asphalt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cbaabf531f805f",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9e95ae987bc0b3",
+      "source_name": "Nantian green sports fence",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9e95ae987bc0b3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9b03309956d4f8",
+      "source_name": "Nantian light entry paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9b03309956d4f8",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_05e8fa36e94636",
+      "source_name": "Nantian shaded verge soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_05e8fa36e94636",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bf4b7baecab0e5",
+      "source_name": "Nantian worn ivory lane paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bf4b7baecab0e5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d7060a1dd25c74",
+      "source_name": "Natural lawn blades",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d7060a1dd25c74",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_815e52cd1cfa4d",
+      "source_name": "North avenue bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_815e52cd1cfa4d",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_18afff3d1c2ca0",
+      "source_name": "North blue green glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_18afff3d1c2ca0",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6cc2d7e149c18d",
+      "source_name": "North brushed metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6cc2d7e149c18d",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_69f42f3c3c4b23",
+      "source_name": "North bulletin header blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_69f42f3c3c4b23",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_14c135c5323e1e",
+      "source_name": "North dark recess",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_14c135c5323e1e",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_76ef96d25ed468",
+      "source_name": "North entrance rose granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_76ef96d25ed468",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d287da28ab48e0",
+      "source_name": "North gate concrete paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d287da28ab48e0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b35ff3613b0bfb",
+      "source_name": "North gate enamel red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b35ff3613b0bfb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_67415085b09f7e",
+      "source_name": "North gate honed granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_67415085b09f7e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_cf47d7234c82d1",
+      "source_name": "North gate worn road yellow",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cf47d7234c82d1",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f3b3da475d1df1",
+      "source_name": "North guardroom clear glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f3b3da475d1df1",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8f19feabfd5d19",
+      "source_name": "North ivory frames",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8f19feabfd5d19",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_849c287514fdc1",
+      "source_name": "North light granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_849c287514fdc1",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_16d2f51f721c57",
+      "source_name": "North planted ground",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16d2f51f721c57",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9c19aed38edfe6",
+      "source_name": "North stone seams",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9c19aed38edfe6",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_cc19cd54b63866",
+      "source_name": "North street weathered asphalt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cc19cd54b63866",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6af880f7a77db4",
+      "source_name": "North waste bin 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6af880f7a77db4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_351b8646bbde3a",
+      "source_name": "North waste bin 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_351b8646bbde3a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e54e1b8c7b0987",
+      "source_name": "North waste bin 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e54e1b8c7b0987",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d3d628a3c8c67e",
+      "source_name": "North waste bin 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d3d628a3c8c67e",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c4a57ebb7cfda7",
+      "source_name": "North wayfinding timber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c4a57ebb7cfda7",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c6a9dee4e1eae8",
+      "source_name": "North white square tile paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c6a9dee4e1eae8",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3add84dc163aec",
+      "source_name": "Notice burgundy",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3add84dc163aec",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_4cd3f1b444d265",
+      "source_name": "Noticeboard subtle glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4cd3f1b444d265",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_3ec4ec491ad23b",
+      "source_name": "Oiled dark timber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3ec4ec491ad23b",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_b1f8b49e45c63a",
+      "source_name": "Opposite apartment mint facade",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b1f8b49e45c63a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c1cb5a594a9dd0",
+      "source_name": "Opposite balcony green canopy",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c1cb5a594a9dd0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_80488b15a9c5c0",
+      "source_name": "Opposite shop weathered shutters",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_80488b15a9c5c0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a0ffb9a12fb8df",
+      "source_name": "Original wall inscription and relief · photo reference",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a0ffb9a12fb8df",
+      "family": "photo",
+      "created": false,
+      "source_photos": [
+        "Textures/T_3b50b15e3707b15072.jpg"
+      ]
+    },
+    {
+      "id": "M_990a3dde1ea04f",
+      "source_name": "Palm fibrous bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_990a3dde1ea04f",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_cad01139b94d0b",
+      "source_name": "Palm foliage 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cad01139b94d0b",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_04a33ff8ee5e9e",
+      "source_name": "Palm foliage 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_04a33ff8ee5e9e",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_3ddaaf7161aedc",
+      "source_name": "Palm foliage 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3ddaaf7161aedc",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_840fad5bac7cf1",
+      "source_name": "Palm foliage 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_840fad5bac7cf1",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_af8b26177605d6",
+      "source_name": "Palm foliage 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_af8b26177605d6",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_459d138b8a3374",
+      "source_name": "Photovoltaic cells",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_459d138b8a3374",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_972aae8bfcf898",
+      "source_name": "Planting soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_972aae8bfcf898",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_b00df476ba8be9",
+      "source_name": "Plaza blue-grey stone bands",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b00df476ba8be9",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_97bd7c56616d8d",
+      "source_name": "Plaza pale fine granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_97bd7c56616d8d",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_da9ff35d3db0e3",
+      "source_name": "Police emblem warm metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_da9ff35d3db0e3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e88894d0b4791c",
+      "source_name": "Police fascia midnight blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e88894d0b4791c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_59e37707cb6ffa",
+      "source_name": "Porcelain blue bands",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_59e37707cb6ffa",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2879c2a236c2c9",
+      "source_name": "Porcelain white pots",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2879c2a236c2c9",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_7076aa164bd3ce",
+      "source_name": "Road stone red lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7076aa164bd3ce",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_fb5e0c1d58e3c0",
+      "source_name": "Rong weathered carved granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fb5e0c1d58e3c0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_7ef52864f9a519",
+      "source_name": "Rongyu aged bronze label",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7ef52864f9a519",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a43d2634375451",
+      "source_name": "Rongyu mossy retaining stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a43d2634375451",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_20d791776d83ee",
+      "source_name": "Rongyu natural marker rock",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_20d791776d83ee",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4ba3823fa16b27",
+      "source_name": "Rongyu shaded green earth",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4ba3823fa16b27",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_b66dea1a1246af",
+      "source_name": "Rongyu small natural river pebbles",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b66dea1a1246af",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_ccee06e110f9e8",
+      "source_name": "Roof standing seam silver",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ccee06e110f9e8",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_16d12d7b4b566a",
+      "source_name": "Shrub glossy leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16d12d7b4b566a",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_fd6b8ea6223189",
+      "source_name": "Shrub glossy leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fd6b8ea6223189",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_37f51013ff8900",
+      "source_name": "Shrub glossy leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_37f51013ff8900",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_4dd73ceb3a7841",
+      "source_name": "Shrub glossy leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4dd73ceb3a7841",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_de110f6185381c",
+      "source_name": "Shrub glossy leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_de110f6185381c",
+      "family": "foliage",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_076777db6ab354",
+      "source_name": "Shuinan irregular earth bank",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_076777db6ab354",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2457474ad4c26a",
+      "source_name": "Shuinan peninsula grass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2457474ad4c26a",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a7ee8993276527",
+      "source_name": "Shuinan tennis ball felt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a7ee8993276527",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_df9f989e271cd1",
+      "source_name": "Shuinan utility blue door glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_df9f989e271cd1",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_73f101821061cb",
+      "source_name": "Shuinan utility light grey panels",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_73f101821061cb",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_e18c72faac9950",
+      "source_name": "Shuinan utility panel dark joints",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e18c72faac9950",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_152189fc47a3f0",
+      "source_name": "South plaza warm ashlar",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_152189fc47a3f0",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_8d03b81aaea70d",
+      "source_name": "South wall reverse · photographed 119232353",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8d03b81aaea70d",
+      "family": "photo",
+      "created": false,
+      "source_photos": [
+        "Textures/T_2745824f89dec89dfe.jpg"
+      ]
+    },
+    {
+      "id": "M_c0fee882dea3e9",
+      "source_name": "Southern black anodised fittings",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c0fee882dea3e9",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_da9defe142040b",
+      "source_name": "Southern warm lamp diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_da9defe142040b",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_ca10a653f6a94d",
+      "source_name": "Statue dark patinated bronze",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ca10a653f6a94d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_fc72f61dae878c",
+      "source_name": "Statue plaque aged brass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fc72f61dae878c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_307fdcec2317a9",
+      "source_name": "Street laundry muted red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_307fdcec2317a9",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4cec409e98c65f",
+      "source_name": "Taohua mixed shaded soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4cec409e98c65f",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_425de7f3d75e51",
+      "source_name": "Taohua orange brick kiosk",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_425de7f3d75e51",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_316ceacd8a43b8",
+      "source_name": "Taohua pastel blue portals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_316ceacd8a43b8",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_09ece66d903747",
+      "source_name": "Taohua pavilion teal metal roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_09ece66d903747",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_1854a166d84e01",
+      "source_name": "Taohua pink portals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1854a166d84e01",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_ad2865fdd9605c",
+      "source_name": "Taohua rose court slabs",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ad2865fdd9605c",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_17a968ec78ab98",
+      "source_name": "Taohua rough water bank",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_17a968ec78ab98",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2822a620450e15",
+      "source_name": "Taohua white stone portals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2822a620450e15",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a825539b34558e",
+      "source_name": "Telephone booth clear glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a825539b34558e",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5733975fcd8ca5",
+      "source_name": "Telephone booth enamel red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5733975fcd8ca5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6ef49cdb1caa28",
+      "source_name": "Tennis black woven net",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6ef49cdb1caa28",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_e8d5e7a1f6daf6",
+      "source_name": "Tennis cyan enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e8d5e7a1f6daf6",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_341052951b747d",
+      "source_name": "Tennis faded violet acrylic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_341052951b747d",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_4a230041345dc0",
+      "source_name": "Tennis green net standards",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4a230041345dc0",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a0805a8d5af2cc",
+      "source_name": "Tennis silver diamond wire",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a0805a8d5af2cc",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2f8c26d4927185",
+      "source_name": "Tennis warm white court paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2f8c26d4927185",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_fd346f68bf8c31",
+      "source_name": "Tennis weathered sage surround",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fd346f68bf8c31",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_669d5950987115",
+      "source_name": "Tree bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_669d5950987115",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_b31090b4637ac0",
+      "source_name": "Tree limewash",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b31090b4637ac0",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a7e0a544c54444",
+      "source_name": "Unfurnished interior shaded wall",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a7e0a544c54444",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_11f0aee07d58dc",
+      "source_name": "Warm pale granite.001",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_11f0aee07d58dc",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_2c3ecf105ddf23",
+      "source_name": "Waste classification (0.025, 0.17, 0.27)",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2c3ecf105ddf23",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9880b8aeea8f2a",
+      "source_name": "Waste classification (0.18, 0.2, 0.17)",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9880b8aeea8f2a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1fe0668d362440",
+      "source_name": "Waterside clear laminated glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1fe0668d362440",
+      "family": "glass",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a0662999e59355",
+      "source_name": "Waterside drain recess",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a0662999e59355",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_41ee8f50d53b81",
+      "source_name": "Waterside fine rectangular granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_41ee8f50d53b81",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_d381fe14a75064",
+      "source_name": "Waterside grey powder coated railing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d381fe14a75064",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_3d5f2aa7b13dcb",
+      "source_name": "Wayfinding warm wood",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3d5f2aa7b13dcb",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_1980227187dc18",
+      "source_name": "West banyan leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1980227187dc18",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f6de9dd1f7eff0",
+      "source_name": "West banyan leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f6de9dd1f7eff0",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5ebbb67796badf",
+      "source_name": "West banyan leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5ebbb67796badf",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_33c935112d8a52",
+      "source_name": "West banyan leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_33c935112d8a52",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c942840c9f1d2d",
+      "source_name": "West banyan leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c942840c9f1d2d",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f8f5b651fa32f4",
+      "source_name": "West banyan weathered bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f8f5b651fa32f4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f926dc1ab529aa",
+      "source_name": "West boardwalk dark joints",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f926dc1ab529aa",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_8292fae4ec5fce",
+      "source_name": "West boardwalk weathered brown timber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8292fae4ec5fce",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_cd895c2b3df6e1",
+      "source_name": "West gate black wrought iron",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cd895c2b3df6e1",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_aab8ab81027fe8",
+      "source_name": "West gate dark fired brick moulding",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_aab8ab81027fe8",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5e357067584401",
+      "source_name": "West gate garden soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5e357067584401",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_38a0d8f8a8dedb",
+      "source_name": "West gate irregular grey brick",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_38a0d8f8a8dedb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_23c001ca26c9cd",
+      "source_name": "West gate lantern warm glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_23c001ca26c9cd",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_59dff37b9e5628",
+      "source_name": "West gate large aged stone flags",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_59dff37b9e5628",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_3163bc6763f332",
+      "source_name": "West gate pine bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3163bc6763f332",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_83057cbe683f37",
+      "source_name": "West gate pine needles 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_83057cbe683f37",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e6bf0cf734e2ba",
+      "source_name": "West gate pine needles 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e6bf0cf734e2ba",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_269d99bf7fa47b",
+      "source_name": "West gate pine needles 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_269d99bf7fa47b",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_04d6d1c86b29f2",
+      "source_name": "West gate pine needles 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_04d6d1c86b29f2",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d61cc1eb343d19",
+      "source_name": "West gate pine needles 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d61cc1eb343d19",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_85dd0b7150e2e7",
+      "source_name": "West gate round smoked glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_85dd0b7150e2e7",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9368b06483f187",
+      "source_name": "West gate terracotta flower inlays",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9368b06483f187",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_4735a3deb41554",
+      "source_name": "West gate worn limestone mouldings",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4735a3deb41554",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5442800b6387e3",
+      "source_name": "West groundcover 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5442800b6387e3",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_36da09e4716cee",
+      "source_name": "West groundcover 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_36da09e4716cee",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_1dbbfe9d6b3674",
+      "source_name": "West groundcover 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1dbbfe9d6b3674",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_597f54d677ac49",
+      "source_name": "West groundcover 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_597f54d677ac49",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a4e7644e082274",
+      "source_name": "West groundcover 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a4e7644e082274",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_f49e40691de3d7",
+      "source_name": "West lotus leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f49e40691de3d7",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_53d5f2731a4010",
+      "source_name": "West lotus leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_53d5f2731a4010",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_378773b166b6ce",
+      "source_name": "West lotus leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_378773b166b6ce",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_885d3ef16c6225",
+      "source_name": "West lotus leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_885d3ef16c6225",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_7aa8fe68c30d39",
+      "source_name": "West lotus leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7aa8fe68c30d39",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_92630a38de9c0b",
+      "source_name": "West lotus olive stems",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_92630a38de9c0b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_395fadc44352c8",
+      "source_name": "West shaded mound soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_395fadc44352c8",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e0fa0c3c864847",
+      "source_name": "White painted metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e0fa0c3c864847",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_e8330cddf3b050",
+      "source_name": "Yellow bamboo tree supports",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e8330cddf3b050",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_8036c458d7b4de",
+      "source_name": "Zhongshan original printed wayfinding face",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8036c458d7b4de",
+      "family": "photo",
+      "created": false,
+      "source_photos": [
+        "Textures/T_ba32bf5db2dfd96f81.jpg"
+      ]
+    },
+    {
+      "id": "M_9167c33f163da0",
+      "source_name": "Zhongshan rose granite slabs",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9167c33f163da0",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_37e832e7ebc289",
+      "source_name": "Zhongshan sidepath green border",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_37e832e7ebc289",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_828cc9d6f7bee3",
+      "source_name": "Zhongshan sidepath grey flagstone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_828cc9d6f7bee3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a2c72d0f5d7829",
+      "source_name": "Zhouyuan blue hanging nameplate",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a2c72d0f5d7829",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_dd4db777161f6c",
+      "source_name": "Zhouyuan charcoal chair",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dd4db777161f6c",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a799c882d64030",
+      "source_name": "Zhouyuan clear lake glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a799c882d64030",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_2bcfc697528bc3",
+      "source_name": "Zhouyuan fine white stucco",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2bcfc697528bc3",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_e9262bb42e8b1e",
+      "source_name": "Zhouyuan graphite glazing frame",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e9262bb42e8b1e",
+      "family": "glass",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_bd8faed5f2a47d",
+      "source_name": "Zhouyuan lit spotlight lens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bd8faed5f2a47d",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_a887e570f76321",
+      "source_name": "Zhouyuan pale large floor tile",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a887e570f76321",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_c7999868087fae",
+      "source_name": "Zhouyuan pale oak furniture",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c7999868087fae",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_25f897403bd21a",
+      "source_name": "Zhouyuan shaded shore earth",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_25f897403bd21a",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_0ab052883b079b",
+      "source_name": "Zhuyu bamboo olive culm",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0ab052883b079b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_90267eca1217d4",
+      "source_name": "Zhuyu dark pebble paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_90267eca1217d4",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5fa455e1cf89c5",
+      "source_name": "Zhuyu honey timber rail",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5fa455e1cf89c5",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_88434f1fd0f305",
+      "source_name": "Zhuyu narrow bamboo leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_88434f1fd0f305",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_98f130861d8841",
+      "source_name": "Zhuyu narrow bamboo leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_98f130861d8841",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_cf35259db55f2c",
+      "source_name": "Zhuyu narrow bamboo leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cf35259db55f2c",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_d6a369a5bfa15e",
+      "source_name": "Zhuyu narrow bamboo leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d6a369a5bfa15e",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_43fc2254fbfdd7",
+      "source_name": "Zhuyu narrow bamboo leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_43fc2254fbfdd7",
+      "family": "foliage",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_9767006589385b",
+      "source_name": "Zhuyu pale bamboo nodes",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9767006589385b",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_5576bf25acefe6",
+      "source_name": "v040 condenser dark fins",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5576bf25acefe6",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_70814321bd80fb",
+      "source_name": "v040 satin window handle alloy",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_70814321bd80fb",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_6f22e7b6e1c5c9",
+      "source_name": "v040 warm linen interior curtain",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6f22e7b6e1c5c9",
+      "family": "surface",
+      "created": true,
+      "source_photos": []
+    },
+    {
+      "id": "M_2711b6c0e3cae6",
+      "source_name": "v040 window EPDM seals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2711b6c0e3cae6",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_a114d0266b0b18",
+      "source_name": "v043 cast iron drainage",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a114d0266b0b18",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_f9a15f007b04fb",
+      "source_name": "v043 damp shoreline mineral",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f9a15f007b04fb",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_e85d3ad87ecf2b",
+      "source_name": "v043 dry fallen leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e85d3ad87ecf2b",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_0f5934642eb723",
+      "source_name": "v043 dry fallen leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0f5934642eb723",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_6f337f02b9ef1e",
+      "source_name": "v043 dry fallen leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6f337f02b9ef1e",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_1d0b3346f6854a",
+      "source_name": "v043 sawn granite tone 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1d0b3346f6854a",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_ed9947e4f8f297",
+      "source_name": "v043 sawn granite tone 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ed9947e4f8f297",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_31bafafe90fdbc",
+      "source_name": "v043 sawn granite tone 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_31bafafe90fdbc",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_341a956b63d66e",
+      "source_name": "v043 sawn granite tone 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_341a956b63d66e",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_bbb18583dfca1a",
+      "source_name": "v043 sedge green 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bbb18583dfca1a",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_811aa9c67d9210",
+      "source_name": "v043 sedge green 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_811aa9c67d9210",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_618b2ab5089e65",
+      "source_name": "v043 sedge green 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_618b2ab5089e65",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    },
+    {
+      "id": "M_f3863f06f1ba44",
+      "source_name": "v043 weathered drain surround",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f3863f06f1ba44",
+      "family": "surface",
+      "created": false,
+      "source_photos": []
+    }
+  ],
+  "count": 484,
+  "source_colour_links_followed": true
+}

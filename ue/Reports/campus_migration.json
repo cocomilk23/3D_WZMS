@@ -1,0 +1,18 @@
+{
+  "source_version": "v0.0.43",
+  "map": "/Game/WZMS/Maps/L_WZMS_Campus",
+  "zones": [
+    "south",
+    "central",
+    "west",
+    "east",
+    "north"
+  ],
+  "south_demo_retained": true,
+  "completed_zones": [
+    "south",
+    "central"
+  ],
+  "scope": "Existing main campus model; Xinjiang branch remains deferred.",
+  "verified_meshes": 102
+}
