@@ -1,0 +1,933 @@
+{
+  "construction": {
+    "hollow_window_reveals": 578,
+    "glazing_hardware_sets": 1178,
+    "detailed_condensers": 290,
+    "rounded_construction_components": 3823,
+    "parapet_copings": 18,
+    "contoured_canteen_stools": 112,
+    "moulded_stadium_seats": {
+      "seat": 1452,
+      "back": 1452
+    },
+    "detailed_miniature_buildings": 10
+  },
+  "materials": [
+    {
+      "material": "Alumni atrium clear glass",
+      "family": "glass"
+    },
+    {
+      "material": "Alumni oak ceiling slats",
+      "family": "wood"
+    },
+    {
+      "material": "Alumni polished light granite",
+      "family": "mineral"
+    },
+    {
+      "material": "Alumni silver column cladding",
+      "family": "metal"
+    },
+    {
+      "material": "Alumni warm white plaster",
+      "family": "mineral"
+    },
+    {
+      "material": "Architectural teal glass 0",
+      "family": "glass"
+    },
+    {
+      "material": "Architectural teal glass 1",
+      "family": "glass"
+    },
+    {
+      "material": "Architectural teal glass 2",
+      "family": "glass"
+    },
+    {
+      "material": "Architectural teal glass 3",
+      "family": "glass"
+    },
+    {
+      "material": "Athletics perimeter grey paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Athletics shaded soil",
+      "family": "soil"
+    },
+    {
+      "material": "Avenue bench warm hardwood",
+      "family": "wood"
+    },
+    {
+      "material": "Avenue leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Avenue leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Avenue leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Avenue leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Avenue leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Basketball perimeter soil",
+      "family": "soil"
+    },
+    {
+      "material": "Basketball photographed green steel",
+      "family": "metal"
+    },
+    {
+      "material": "Basketball red orange hoop steel",
+      "family": "metal"
+    },
+    {
+      "material": "Basketball shaded entry pavers",
+      "family": "mineral"
+    },
+    {
+      "material": "Bridge silver grey rails",
+      "family": "metal"
+    },
+    {
+      "material": "Bridge small square non-slip pavers",
+      "family": "mineral"
+    },
+    {
+      "material": "Brushed stainless steel",
+      "family": "metal"
+    },
+    {
+      "material": "Buqing staggered grey granite",
+      "family": "mineral"
+    },
+    {
+      "material": "Campus foliage0",
+      "family": "leaf"
+    },
+    {
+      "material": "Campus foliage1",
+      "family": "leaf"
+    },
+    {
+      "material": "Campus foliage2",
+      "family": "leaf"
+    },
+    {
+      "material": "Campus foliage3",
+      "family": "leaf"
+    },
+    {
+      "material": "Campus foliage4",
+      "family": "leaf"
+    },
+    {
+      "material": "Campus lake water",
+      "family": "water"
+    },
+    {
+      "material": "Canteen aged warm white render",
+      "family": "mineral"
+    },
+    {
+      "material": "Canteen brushed stainless service steel",
+      "family": "metal"
+    },
+    {
+      "material": "Canteen cream ceramic dining tiles",
+      "family": "mineral"
+    },
+    {
+      "material": "Canteen green clear glass",
+      "family": "glass"
+    },
+    {
+      "material": "Canteen indoor daylight glazing",
+      "family": "glass"
+    },
+    {
+      "material": "Canteen photographed cyan stool plastic",
+      "family": "paint"
+    },
+    {
+      "material": "Canteen rose granite steps",
+      "family": "mineral"
+    },
+    {
+      "material": "Court green coated wire",
+      "family": "paint"
+    },
+    {
+      "material": "Cultural glossy leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Cultural glossy leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Cultural glossy leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Cultural glossy leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Cultural glossy leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Daosi border flowers leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Daosi border flowers leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Daosi border flowers leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Daosi border flowers leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Daosi border flowers leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Daosi dry shaded lawn",
+      "family": "soil"
+    },
+    {
+      "material": "Daosi pale bridge concrete",
+      "family": "mineral"
+    },
+    {
+      "material": "Daosi potting soil",
+      "family": "soil"
+    },
+    {
+      "material": "Daosi ribbed grey transition paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Daosi warm rough name stone",
+      "family": "mineral"
+    },
+    {
+      "material": "Facade ivory powder coat",
+      "family": "paint"
+    },
+    {
+      "material": "Facade pale limestone",
+      "family": "mineral"
+    },
+    {
+      "material": "Facade stone joint",
+      "family": "mineral"
+    },
+    {
+      "material": "Grandstand bright blue moulded seats",
+      "family": "paint"
+    },
+    {
+      "material": "Grandstand grey access paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Grandstand pale cyan seats",
+      "family": "paint"
+    },
+    {
+      "material": "Grandstand pale grey steel",
+      "family": "metal"
+    },
+    {
+      "material": "Grandstand weathered ivory concrete",
+      "family": "mineral"
+    },
+    {
+      "material": "Granite curb",
+      "family": "mineral"
+    },
+    {
+      "material": "Granite rectangular paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Groundcover 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Groundcover 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Groundcover 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Groundcover 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Groundcover 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Guardroom cream curtain",
+      "family": "fabric"
+    },
+    {
+      "material": "Gym daylight clear glazing",
+      "family": "glass"
+    },
+    {
+      "material": "Gym interior warm white plaster",
+      "family": "mineral"
+    },
+    {
+      "material": "Gym pale aluminium frames",
+      "family": "metal"
+    },
+    {
+      "material": "Gym photo board honey timber",
+      "family": "wood"
+    },
+    {
+      "material": "Gym planted ground soil",
+      "family": "soil"
+    },
+    {
+      "material": "Gym small square grey tiles",
+      "family": "mineral"
+    },
+    {
+      "material": "Gym table tennis dark folding steel",
+      "family": "metal"
+    },
+    {
+      "material": "Gym weathered rose granite",
+      "family": "mineral"
+    },
+    {
+      "material": "Heyu connecting bank lawn",
+      "family": "soil"
+    },
+    {
+      "material": "Heyu green lake water",
+      "family": "water"
+    },
+    {
+      "material": "Heyu patchy dry grass base",
+      "family": "soil"
+    },
+    {
+      "material": "Heyu strap leaf dry ochre",
+      "family": "leaf"
+    },
+    {
+      "material": "Heyu strap leaf green centre",
+      "family": "leaf"
+    },
+    {
+      "material": "Historic canopy woven blue",
+      "family": "fabric"
+    },
+    {
+      "material": "Historic emergency tent canvas",
+      "family": "fabric"
+    },
+    {
+      "material": "History blue green entrance glass",
+      "family": "glass"
+    },
+    {
+      "material": "History cabinet dark walnut",
+      "family": "wood"
+    },
+    {
+      "material": "History interior grey stone floor",
+      "family": "mineral"
+    },
+    {
+      "material": "History island shaded lawn",
+      "family": "soil"
+    },
+    {
+      "material": "History miniature lawn",
+      "family": "soil"
+    },
+    {
+      "material": "History museum grey forecourt tiles",
+      "family": "mineral"
+    },
+    {
+      "material": "History warm white exterior plaster",
+      "family": "mineral"
+    },
+    {
+      "material": "Interior basketball green steel",
+      "family": "metal"
+    },
+    {
+      "material": "Interior clear safety glass",
+      "family": "glass"
+    },
+    {
+      "material": "Island carved grey table stone",
+      "family": "mineral"
+    },
+    {
+      "material": "Jiangkou garden lawn",
+      "family": "soil"
+    },
+    {
+      "material": "Jiangkou grey granite border",
+      "family": "mineral"
+    },
+    {
+      "material": "Jiangkou pale granite slabs",
+      "family": "mineral"
+    },
+    {
+      "material": "Jiushan bright blue bridge enamel",
+      "family": "paint"
+    },
+    {
+      "material": "Jiushan fine grey pedestrian paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Jiushan shaded grass soil",
+      "family": "soil"
+    },
+    {
+      "material": "Jiushan yellow bridge enamel",
+      "family": "paint"
+    },
+    {
+      "material": "Ju blue service post enamel",
+      "family": "paint"
+    },
+    {
+      "material": "Ju cultivated brown soil",
+      "family": "soil"
+    },
+    {
+      "material": "Ju garden red brick",
+      "family": "mineral"
+    },
+    {
+      "material": "Ju island weathered stone",
+      "family": "mineral"
+    },
+    {
+      "material": "Ju pale stone path",
+      "family": "mineral"
+    },
+    {
+      "material": "Lawn soil green",
+      "family": "soil"
+    },
+    {
+      "material": "Leaf green 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Leaf green 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Leaf green 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Leaf green 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Leaf green 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Library blue white ceramic",
+      "family": "mineral"
+    },
+    {
+      "material": "Library brushed brass lettering",
+      "family": "metal"
+    },
+    {
+      "material": "Library cream limestone joints",
+      "family": "mineral"
+    },
+    {
+      "material": "Library honey oak handrail",
+      "family": "wood"
+    },
+    {
+      "material": "Library oak fine vertical panels",
+      "family": "wood"
+    },
+    {
+      "material": "Library real transmissive glazing",
+      "family": "glass"
+    },
+    {
+      "material": "Library terrace grey tiles",
+      "family": "mineral"
+    },
+    {
+      "material": "Library warm white interior plaster",
+      "family": "mineral"
+    },
+    {
+      "material": "Lotus leaf green",
+      "family": "leaf"
+    },
+    {
+      "material": "Math approach grey rectangular pavers",
+      "family": "mineral"
+    },
+    {
+      "material": "Math blue green curtain glazing",
+      "family": "fabric"
+    },
+    {
+      "material": "Math classroom aged timber",
+      "family": "wood"
+    },
+    {
+      "material": "Math dry courtyard planting soil",
+      "family": "soil"
+    },
+    {
+      "material": "Math irregular dark grey flagstone",
+      "family": "mineral"
+    },
+    {
+      "material": "Math rest grey upholstery",
+      "family": "fabric"
+    },
+    {
+      "material": "Math rest photographed mustard cushion",
+      "family": "fabric"
+    },
+    {
+      "material": "Math upper warm oak boards",
+      "family": "wood"
+    },
+    {
+      "material": "Math white rendered plaster",
+      "family": "mineral"
+    },
+    {
+      "material": "Meihua light rectangular plaza brick",
+      "family": "mineral"
+    },
+    {
+      "material": "Meihua pale aluminium stone panels",
+      "family": "metal"
+    },
+    {
+      "material": "Meihua planted ground",
+      "family": "soil"
+    },
+    {
+      "material": "Meihua structural white enamel",
+      "family": "paint"
+    },
+    {
+      "material": "Meihua translucent green curtain wall",
+      "family": "fabric"
+    },
+    {
+      "material": "Muted teal glazing",
+      "family": "glass"
+    },
+    {
+      "material": "Nantian blue gate number enamel",
+      "family": "paint"
+    },
+    {
+      "material": "Nantian entry blue green glass",
+      "family": "glass"
+    },
+    {
+      "material": "Nantian entry ivory stone",
+      "family": "mineral"
+    },
+    {
+      "material": "Nantian light entry paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Nantian shaded verge soil",
+      "family": "soil"
+    },
+    {
+      "material": "Natural lawn blades",
+      "family": "soil"
+    },
+    {
+      "material": "North blue green glazing",
+      "family": "glass"
+    },
+    {
+      "material": "North brushed metal",
+      "family": "metal"
+    },
+    {
+      "material": "North entrance rose granite",
+      "family": "mineral"
+    },
+    {
+      "material": "North gate concrete paving",
+      "family": "mineral"
+    },
+    {
+      "material": "North gate enamel red",
+      "family": "paint"
+    },
+    {
+      "material": "North gate honed granite",
+      "family": "mineral"
+    },
+    {
+      "material": "North guardroom clear glass",
+      "family": "glass"
+    },
+    {
+      "material": "North ivory frames",
+      "family": "paint"
+    },
+    {
+      "material": "North light granite",
+      "family": "mineral"
+    },
+    {
+      "material": "North planted ground",
+      "family": "soil"
+    },
+    {
+      "material": "North stone seams",
+      "family": "mineral"
+    },
+    {
+      "material": "North wayfinding timber",
+      "family": "wood"
+    },
+    {
+      "material": "North white square tile paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Noticeboard subtle glass",
+      "family": "glass"
+    },
+    {
+      "material": "Oiled dark timber",
+      "family": "wood"
+    },
+    {
+      "material": "Palm foliage 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Palm foliage 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Palm foliage 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Palm foliage 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Palm foliage 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Planting soil",
+      "family": "soil"
+    },
+    {
+      "material": "Plaza blue-grey stone bands",
+      "family": "mineral"
+    },
+    {
+      "material": "Plaza pale fine granite",
+      "family": "mineral"
+    },
+    {
+      "material": "Road stone red lettering",
+      "family": "mineral"
+    },
+    {
+      "material": "Rong weathered carved granite",
+      "family": "mineral"
+    },
+    {
+      "material": "Rongyu mossy retaining stone",
+      "family": "mineral"
+    },
+    {
+      "material": "Roof standing seam silver",
+      "family": "metal"
+    },
+    {
+      "material": "Shrub glossy leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Shrub glossy leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Shrub glossy leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Shrub glossy leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Shrub glossy leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "Shuinan utility blue door glass",
+      "family": "glass"
+    },
+    {
+      "material": "South plaza warm ashlar",
+      "family": "mineral"
+    },
+    {
+      "material": "Taohua mixed shaded soil",
+      "family": "soil"
+    },
+    {
+      "material": "Taohua orange brick kiosk",
+      "family": "mineral"
+    },
+    {
+      "material": "Taohua white stone portals",
+      "family": "mineral"
+    },
+    {
+      "material": "Telephone booth clear glazing",
+      "family": "glass"
+    },
+    {
+      "material": "Telephone booth enamel red",
+      "family": "paint"
+    },
+    {
+      "material": "Tennis cyan enamel",
+      "family": "paint"
+    },
+    {
+      "material": "Tennis exterior grey pavers",
+      "family": "mineral"
+    },
+    {
+      "material": "Tennis silver diamond wire",
+      "family": "metal"
+    },
+    {
+      "material": "Warm pale granite.001",
+      "family": "mineral"
+    },
+    {
+      "material": "Waterside clear laminated glass",
+      "family": "glass"
+    },
+    {
+      "material": "Waterside fine rectangular granite",
+      "family": "mineral"
+    },
+    {
+      "material": "Waterside grey powder coated railing",
+      "family": "paint"
+    },
+    {
+      "material": "Wayfinding warm wood",
+      "family": "wood"
+    },
+    {
+      "material": "West banyan leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "West banyan leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "West banyan leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "West banyan leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "West banyan leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "West boardwalk weathered brown timber",
+      "family": "wood"
+    },
+    {
+      "material": "West gate dark fired brick moulding",
+      "family": "mineral"
+    },
+    {
+      "material": "West gate garden soil",
+      "family": "soil"
+    },
+    {
+      "material": "West gate irregular grey brick",
+      "family": "mineral"
+    },
+    {
+      "material": "West gate lantern warm glass",
+      "family": "glass"
+    },
+    {
+      "material": "West gate large aged stone flags",
+      "family": "mineral"
+    },
+    {
+      "material": "West gate round smoked glass",
+      "family": "glass"
+    },
+    {
+      "material": "West gate worn limestone mouldings",
+      "family": "mineral"
+    },
+    {
+      "material": "West groundcover 0",
+      "family": "leaf"
+    },
+    {
+      "material": "West groundcover 1",
+      "family": "leaf"
+    },
+    {
+      "material": "West groundcover 2",
+      "family": "leaf"
+    },
+    {
+      "material": "West groundcover 3",
+      "family": "leaf"
+    },
+    {
+      "material": "West groundcover 4",
+      "family": "leaf"
+    },
+    {
+      "material": "West lotus leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "West lotus leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "West lotus leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "West lotus leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "West lotus leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "West shaded mound soil",
+      "family": "soil"
+    },
+    {
+      "material": "Zhongshan rose granite slabs",
+      "family": "mineral"
+    },
+    {
+      "material": "Zhongshan sidepath grey flagstone",
+      "family": "mineral"
+    },
+    {
+      "material": "Zhouyuan clear lake glazing",
+      "family": "glass"
+    },
+    {
+      "material": "Zhouyuan fine white stucco",
+      "family": "mineral"
+    },
+    {
+      "material": "Zhouyuan graphite glazing frame",
+      "family": "glass"
+    },
+    {
+      "material": "Zhouyuan pale oak furniture",
+      "family": "wood"
+    },
+    {
+      "material": "Zhuyu dark pebble paving",
+      "family": "mineral"
+    },
+    {
+      "material": "Zhuyu honey timber rail",
+      "family": "wood"
+    },
+    {
+      "material": "Zhuyu narrow bamboo leaf 0",
+      "family": "leaf"
+    },
+    {
+      "material": "Zhuyu narrow bamboo leaf 1",
+      "family": "leaf"
+    },
+    {
+      "material": "Zhuyu narrow bamboo leaf 2",
+      "family": "leaf"
+    },
+    {
+      "material": "Zhuyu narrow bamboo leaf 3",
+      "family": "leaf"
+    },
+    {
+      "material": "Zhuyu narrow bamboo leaf 4",
+      "family": "leaf"
+    },
+    {
+      "material": "v040 warm linen interior curtain",
+      "family": "fabric"
+    }
+  ],
+  "surface_count": 228,
+  "scope": "All existing main-campus scene families; inferred hardware and construction detailing. No new unknown rooms, no Xinjiang work, no survey claim.",
+  "tennis_layout": "two pairs along the road; each 23.77m long axis Y; centres (74,8),(92,8),(74,44),(92,44); horizontal divider Y=25.9",
+  "protected_south_wall": true
+}

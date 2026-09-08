@@ -1,0 +1,64 @@
+{
+  "version": "v0.0.40",
+  "model_sha256": "4e9e91b713676816409bd2cce92fcd2f51067664a4b7cfaa90c5492961c30b67",
+  "all_14_images_visually_reviewed": true,
+  "scope": "Visual review of the final 1600x1000, 96-sample images; separate from user acceptance or survey fidelity.",
+  "images": [
+    {
+      "camera": "169_Tennis_rotated_precinct",
+      "notes": "Four courts follow Y, divider crosses precinct, bridge connections clear; inherited garden voids closed and southern water surfaces continuous."
+    },
+    {
+      "camera": "170_Tennis_baseline_and_divider",
+      "notes": "Ground view verifies transverse sagging net, singles/doubles markings, enclosure and horizontal divider; no visible void or obstruction."
+    },
+    {
+      "camera": "171_Tennis_island_and_connections",
+      "notes": "Reverse elevated view confirms northern gate, three-way landing, island bridge and utility-side path. Off-site background remains outside modeled scope."
+    },
+    {
+      "camera": "172_Refined_facade_windows",
+      "notes": "Recessed frames, dark gaskets, latches and glazing reflections visible; pale facade retains edge shading."
+    },
+    {
+      "camera": "173_Refined_ac_and_upper_facade",
+      "notes": "Condenser concentric wire guard, radial supports, radiator fins and mounting feet align with original casing; facade seams and latches remain visible."
+    },
+    {
+      "camera": "174_Refined_moulded_grandstand",
+      "notes": "Contoured seat pans and backs, rolled front edges and blue/white plastic surface shading reviewed at close range."
+    },
+    {
+      "camera": "175_Refined_south_gate",
+      "notes": "Source-backed name wall and relief remain intact; front plaza, gate and refined facade visible under balanced daylight."
+    },
+    {
+      "camera": "176_Refined_library",
+      "notes": "Central stair, metal railings, continuous timber grain, display recesses and polished floor reviewed; circulation remains unobstructed."
+    },
+    {
+      "camera": "177_Refined_landscape",
+      "notes": "Groundcover, foliage light response, water and path continuity inspected. Existing procedural trunk/canopy silhouettes remain visibly simplified at close range; this pass does not claim photographic vegetation fidelity."
+    },
+    {
+      "camera": "178_Refined_math_furniture",
+      "notes": "Separate upholstered cushions, smoothed rounded arms/base and lowered leaning mustard pillows reviewed; previous suspended-pillow appearance corrected."
+    },
+    {
+      "camera": "179_Refined_canteen",
+      "notes": "Concave blue stools and rolled rims visible, support frames align, tabletops rounded and aisle flooring continuous."
+    },
+    {
+      "camera": "180_Refined_history",
+      "notes": "Original exhibit panels and miniature window detail retained. Cabinet verified as separate 20–26 mm glass panels; overhead-light glare is strong at this oblique view and reduces miniature readability."
+    },
+    {
+      "camera": "181_Refined_gym",
+      "notes": "Upper hall wood flooring, court markings, basket structures, roof trusses and gallery stairs reviewed under final lighting."
+    },
+    {
+      "camera": "182_Refined_whole_campus",
+      "notes": "Integrated overview confirms retained main-campus families, eight basketball courts and rotated four-court tennis precinct. Context outside modeled campus is omitted; survey accuracy remains unverified."
+    }
+  ]
+}

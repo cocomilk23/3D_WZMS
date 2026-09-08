@@ -1,0 +1,13 @@
+{
+  "all_passed": true,
+  "saved_model": "E:\\3D_WZMS\\models\\campus\\WZMS_Campus_v040.blend",
+  "hollow_reveal_centres_checked": 578,
+  "moulded_stadium_seats": 1452,
+  "moulded_stadium_backs": 1452,
+  "concave_stools_checked": 112,
+  "seat_surfaces_face_up": true,
+  "old_stool_discs_absent": true,
+  "mesh_library_count_for_stadium_parts": 6,
+  "continuous_water_points_checked": 4,
+  "entrance_garden_gaps_closed": 2
+}
