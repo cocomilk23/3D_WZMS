@@ -3,10 +3,11 @@
   "completed_zones": [
     "south",
     "central",
-    "west"
+    "west",
+    "east"
   ],
   "all_five_zones_complete": false,
-  "mesh_count": 144,
+  "mesh_count": 212,
   "meshes": [
     {
       "zone": "south",
@@ -1156,6 +1157,550 @@
       "zone": "west",
       "mesh": "SM_west_foliage_028",
       "triangles": 122400,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_058",
+      "triangles": 80616,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_059",
+      "triangles": 108218,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_060",
+      "triangles": 51992,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_061",
+      "triangles": 186976,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_062",
+      "triangles": 118740,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_063",
+      "triangles": 161034,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_064",
+      "triangles": 113717,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_065",
+      "triangles": 234198,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_066",
+      "triangles": 292142,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_solid_067",
+      "triangles": 72400,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_glass_057",
+      "triangles": 5110,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_water_068",
+      "triangles": 48,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_001",
+      "triangles": 21504,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_002",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_003",
+      "triangles": 139824,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_004",
+      "triangles": 39000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_005",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_006",
+      "triangles": 28800,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_007",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_008",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_009",
+      "triangles": 55200,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_010",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_011",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_012",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_013",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_014",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_015",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_016",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_017",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_018",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_019",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_020",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_021",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_022",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_023",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_024",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_025",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_026",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_027",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_028",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_029",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_030",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_031",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_032",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_033",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_034",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_035",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_036",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_037",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_038",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_039",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_040",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_041",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_042",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_043",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_044",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_045",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_046",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_047",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_048",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_049",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_050",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_051",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_052",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_053",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_054",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_055",
+      "triangles": 144000,
+      "transform_correct": true,
+      "materials_bound": true,
+      "collision_policy_verified": true
+    },
+    {
+      "zone": "east",
+      "mesh": "SM_east_foliage_056",
+      "triangles": 108512,
       "transform_correct": true,
       "materials_bound": true,
       "collision_policy_verified": true

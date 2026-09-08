@@ -1,0 +1,1682 @@
+{
+  "zone": "east",
+  "source_sha256": "3f22de7bcfceb9410968d8255e1aa91a9a579c99ab154b27665e58cbc3f877ab",
+  "map": "/Game/WZMS/Maps/L_WZMS_Campus",
+  "chunks": [
+    {
+      "name": "SM_east_solid_058",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_058",
+      "source_triangles": 80616,
+      "ue_triangles": 80616,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        22864.60723876953,
+        -20486.288452148438,
+        1050.24995803833
+      ],
+      "materials": [
+        "M_9c19aed38edfe6",
+        "M_14c135c5323e1e",
+        "M_8f19feabfd5d19",
+        "M_e8330cddf3b050",
+        "M_175d341612d200",
+        "M_b31090b4637ac0",
+        "M_d31d066abbcc4c",
+        "M_5fc8ed48fd8cf3",
+        "M_6cc2d7e149c18d",
+        "M_815e52cd1cfa4d",
+        "M_990a3dde1ea04f",
+        "M_849c287514fdc1",
+        "M_83985ecf686e28",
+        "M_9f6ee612c476d5",
+        "M_fe2453b7f9de6f",
+        "M_49be0c8c5fb26d",
+        "M_bb0e37dc4b2eef",
+        "M_165080074023d6",
+        "M_73fd5f06a346a7",
+        "M_271ca449e1f7f5",
+        "M_f54f5d05d5e18f",
+        "M_ccda0c7150a480",
+        "M_a55a7c6e492cf4",
+        "M_0c57e70d634623"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_059",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_059",
+      "source_triangles": 108218,
+      "ue_triangles": 108218,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        25695.498657226562,
+        -12300.0,
+        524.8192310333252
+      ],
+      "materials": [
+        "M_a8395255ec6598",
+        "M_9c19aed38edfe6",
+        "M_abc0b533fa6e04",
+        "M_73fd5f06a346a7",
+        "M_193c7fa146ac8a",
+        "M_b8773a3cb2dc15",
+        "M_7ad640e21171c2",
+        "M_ae5becdd475c75",
+        "M_bc830f91642ea5",
+        "M_aef73b3fb1aa9a",
+        "M_6b50b33bdf094c",
+        "M_0125e18419007a",
+        "M_d4c22067002117",
+        "M_ce6847706336ad",
+        "M_88b1d2f5df66ea",
+        "M_e35a0f6dc4bf55",
+        "M_0964c5bbe1c39c",
+        "M_8613794a4743ad",
+        "M_fafc765648e4a6",
+        "M_27d7ad5e021f5f",
+        "M_fb4e6e005b7cb2",
+        "M_49be0c8c5fb26d",
+        "M_6d65cba2ccba0b",
+        "M_849c287514fdc1"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_060",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_060",
+      "source_triangles": 52056,
+      "ue_triangles": 51992,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        22550.0,
+        -13725.0,
+        386.9999885559082
+      ],
+      "materials": [
+        "M_6cc2d7e149c18d",
+        "M_bb0e37dc4b2eef",
+        "M_abc0b533fa6e04",
+        "M_73fd5f06a346a7",
+        "M_849c287514fdc1",
+        "M_9f6ee612c476d5",
+        "M_165080074023d6",
+        "M_9c19aed38edfe6",
+        "M_14c135c5323e1e",
+        "M_f8c523bd6878a2",
+        "M_d59f62c62d376d",
+        "M_8ad50fbb223f2a",
+        "M_f51602065278a0",
+        "M_4f1c7e3e6939c5",
+        "M_fd2fb738264bb1",
+        "M_5525333271dc16",
+        "M_8f19feabfd5d19",
+        "M_bf27921ba76436",
+        "M_990a3dde1ea04f",
+        "M_458293c69d94f5",
+        "M_36587ab9564a42",
+        "M_36a4307036d1ed",
+        "M_e3d3c67816d9cc",
+        "M_0aba8e2d507eb4"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_061",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_061",
+      "source_triangles": 187504,
+      "ue_triangles": 186976,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        24011.073303222656,
+        -19419.7509765625,
+        548.2558727264404
+      ],
+      "materials": [
+        "M_07a6763c59a9dd",
+        "M_3ebbf4b8d70911",
+        "M_14c135c5323e1e",
+        "M_0aba8e2d507eb4",
+        "M_16d2f51f721c57",
+        "M_f0616c4bbfdc34",
+        "M_95a5ec95a50135",
+        "M_6cc2d7e149c18d",
+        "M_36587ab9564a42",
+        "M_e3d3c67816d9cc",
+        "M_8f19feabfd5d19",
+        "M_9c19aed38edfe6",
+        "M_815e52cd1cfa4d",
+        "M_37e832e7ebc289",
+        "M_b70d2787c3a049",
+        "M_6eed37f191f65e",
+        "M_d7fdd4e4916104",
+        "M_784489e5fba68a",
+        "M_658d60b43720b3",
+        "M_302abe40f560f0",
+        "M_3a7b0417bcc865",
+        "M_8ee45a2b80e64a",
+        "M_e0a2004161923c",
+        "M_202ed4413c610d"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_062",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_062",
+      "source_triangles": 118740,
+      "ue_triangles": 118740,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        13655.000305175781,
+        -13357.499694824219,
+        746.4999675750732
+      ],
+      "materials": [
+        "M_636f3ad2af53e4",
+        "M_6cc2d7e149c18d",
+        "M_302abe40f560f0",
+        "M_784489e5fba68a",
+        "M_3a7b0417bcc865",
+        "M_8f19feabfd5d19",
+        "M_b70d2787c3a049",
+        "M_14c135c5323e1e",
+        "M_34429117b55cdc",
+        "M_8ee45a2b80e64a",
+        "M_bbfecd8262cf83",
+        "M_b228bf3b31046e",
+        "M_3d20f2ae565101",
+        "M_683eeea408091e",
+        "M_7c79fa083736ed",
+        "M_2b21afabb5ad2a",
+        "M_e21d444ba59d72",
+        "M_0aa95a52cc2c9d",
+        "M_ea3e330560ab27",
+        "M_e36ce9c43affed",
+        "M_fd92d8e9576996",
+        "M_bc83aa123b5f08",
+        "M_849c287514fdc1",
+        "M_cecb850366f6ba"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_063",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_063",
+      "source_triangles": 161074,
+      "ue_triangles": 161034,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        13962.5,
+        -11580.000305175781,
+        646.999979019165
+      ],
+      "materials": [
+        "M_c67d1f2af083c8",
+        "M_8f19feabfd5d19",
+        "M_6cc2d7e149c18d",
+        "M_ea3e330560ab27",
+        "M_683eeea408091e",
+        "M_0aa95a52cc2c9d",
+        "M_1fe5d29908c383",
+        "M_bbfecd8262cf83",
+        "M_b228bf3b31046e",
+        "M_280cf49d1931ee",
+        "M_849c287514fdc1",
+        "M_b937678d8c545d",
+        "M_e36ce9c43affed",
+        "M_e21d444ba59d72",
+        "M_5d44812abdfb88",
+        "M_8953d028b467d6",
+        "M_fd92d8e9576996",
+        "M_c73e76dad613d1",
+        "M_35e3d3c5fe5aee",
+        "M_985b7fbd0e4c92",
+        "M_fe6d1854de036e",
+        "M_14c135c5323e1e"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_064",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_064",
+      "source_triangles": 113717,
+      "ue_triangles": 113717,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        22755.00030517578,
+        -12700.0,
+        451.49998664855957
+      ],
+      "materials": [
+        "M_edb134751fbc6f",
+        "M_dbbd42e4caff31",
+        "M_7d05e9e9822514",
+        "M_21c66dab78cc17",
+        "M_0c2c766aeaf038",
+        "M_d46991ab1d8426",
+        "M_4605636b39e1f2",
+        "M_6cc2d7e149c18d",
+        "M_ea3e330560ab27",
+        "M_683eeea408091e",
+        "M_e21d444ba59d72",
+        "M_14c135c5323e1e",
+        "M_4767c1fd8a632e",
+        "M_832eb5a2c867fe",
+        "M_867904c90fd1ab",
+        "M_5df913a9ac57d7",
+        "M_02d417ddbd37d5",
+        "M_9c19aed38edfe6",
+        "M_ce2d0196acbb49",
+        "M_849c287514fdc1",
+        "M_cd58f0a9943f86",
+        "M_e1ced4a74cadcc",
+        "M_1c7f3909f6a8bb",
+        "M_190285d6f69c24"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_065",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_065",
+      "source_triangles": 234798,
+      "ue_triangles": 234198,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        23676.983642578125,
+        -21200.0,
+        1057.4999809265137
+      ],
+      "materials": [
+        "M_bfeead0e16253a",
+        "M_02d417ddbd37d5",
+        "M_e1ced4a74cadcc",
+        "M_cd58f0a9943f86",
+        "M_832eb5a2c867fe",
+        "M_4abc85dc2a01e3",
+        "M_5df913a9ac57d7",
+        "M_190285d6f69c24",
+        "M_815e52cd1cfa4d",
+        "M_849c287514fdc1",
+        "M_8f19feabfd5d19",
+        "M_16d2f51f721c57",
+        "M_14c135c5323e1e",
+        "M_116704a69d62d4",
+        "M_9c19aed38edfe6",
+        "M_c0fee882dea3e9",
+        "M_da9defe142040b",
+        "M_fc72f61dae878c",
+        "M_ca10a653f6a94d",
+        "M_17a968ec78ab98",
+        "M_2822a620450e15",
+        "M_83f72a544949f8",
+        "M_81b7c8953974a8",
+        "M_8ad50fbb223f2a"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_066",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_066",
+      "source_triangles": 292142,
+      "ue_triangles": 292142,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        12876.199340820312,
+        -25908.517456054688,
+        856.3412666320801
+      ],
+      "materials": [
+        "M_d59f62c62d376d",
+        "M_0ab052883b079b",
+        "M_9767006589385b",
+        "M_5fa455e1cf89c5",
+        "M_90267eca1217d4",
+        "M_9c19aed38edfe6",
+        "M_14c135c5323e1e",
+        "M_849c287514fdc1",
+        "M_70814321bd80fb"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_solid_067",
+      "role": "solid",
+      "path": "/Game/WZMS/East/Meshes/SM_east_solid_067",
+      "source_triangles": 72400,
+      "ue_triangles": 72400,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17759.21630859375,
+        -22940.625,
+        1163.2499694824219
+      ],
+      "materials": [
+        "M_70814321bd80fb",
+        "M_5576bf25acefe6",
+        "M_2711b6c0e3cae6",
+        "M_14c135c5323e1e",
+        "M_849c287514fdc1",
+        "M_6f22e7b6e1c5c9",
+        "M_fd92d8e9576996",
+        "M_985b7fbd0e4c92"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_glass_057",
+      "role": "glass",
+      "path": "/Game/WZMS/East/Meshes/SM_east_glass_057",
+      "source_triangles": 5110,
+      "ue_triangles": 5110,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        18058.55255126953,
+        -21157.67822265625,
+        1065.7500267028809
+      ],
+      "materials": [
+        "M_18afff3d1c2ca0",
+        "M_5de1dfa480369a",
+        "M_6ae7c3a1ec5065",
+        "M_65e1313db5d61d",
+        "M_ffa77b0a0bf1ac"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_water_068",
+      "role": "water",
+      "path": "/Game/WZMS/East/Meshes/SM_east_water_068",
+      "source_triangles": 48,
+      "ue_triangles": 48,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        25650.0,
+        -18700.0,
+        -117.99999475479126
+      ],
+      "materials": [
+        "M_6746f93a9d9c71"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_001",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_001",
+      "source_triangles": 21504,
+      "ue_triangles": 21504,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        10420.870971679688,
+        -28910.610961914062,
+        402.2202968597412
+      ],
+      "materials": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_002",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_002",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        10097.978210449219,
+        -17716.983032226562,
+        591.395092010498
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_003",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_003",
+      "source_triangles": 139920,
+      "ue_triangles": 139824,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        18804.287719726562,
+        -15444.886779785156,
+        425.0424861907959
+      ],
+      "materials": [
+        "M_cad01139b94d0b",
+        "M_04a33ff8ee5e9e",
+        "M_3ddaaf7161aedc",
+        "M_840fad5bac7cf1",
+        "M_af8b26177605d6",
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_004",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_004",
+      "source_triangles": 39096,
+      "ue_triangles": 39000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        27002.4658203125,
+        -11080.294799804688,
+        73.65095615386963
+      ],
+      "materials": [
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c",
+        "M_cad01139b94d0b",
+        "M_04a33ff8ee5e9e",
+        "M_3ddaaf7161aedc",
+        "M_840fad5bac7cf1",
+        "M_af8b26177605d6",
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_005",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_005",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        35204.010009765625,
+        -11514.602661132812,
+        961.1926078796387
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_006",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_006",
+      "source_triangles": 28800,
+      "ue_triangles": 28800,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        35200.054931640625,
+        -11500.234985351562,
+        15.494579076766968
+      ],
+      "materials": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_007",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_007",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        33902.84423828125,
+        -10188.450622558594,
+        291.34066104888916
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_008",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_008",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        36530.60607910156,
+        -13198.219299316406,
+        283.5325241088867
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_009",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_009",
+      "source_triangles": 55200,
+      "ue_triangles": 55200,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        29898.739624023438,
+        -12649.313354492188,
+        49.89434480667114
+      ],
+      "materials": [
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_010",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_010",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17811.4501953125,
+        -13355.680847167969,
+        666.3310050964355
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_011",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_011",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17826.358032226562,
+        -12018.8232421875,
+        650.0790119171143
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_012",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_012",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17666.543579101562,
+        -11116.018676757812,
+        609.4491004943848
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_013",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_013",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        19973.605346679688,
+        -11378.31039428711,
+        650.0790119171143
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_014",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_014",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        20190.07110595703,
+        -11975.376892089844,
+        650.0790119171143
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_015",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_015",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        20735.90087890625,
+        -11850.520324707031,
+        585.0711345672607
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_016",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_016",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        19917.564392089844,
+        -9286.715698242188,
+        568.8191413879395
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_017",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_017",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        20951.30615234375,
+        -9046.69189453125,
+        568.8191413879395
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_018",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_018",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        23937.40692138672,
+        -11850.247955322266,
+        601.323127746582
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_019",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_019",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        24165.73028564453,
+        -13015.542602539062,
+        617.5750732421875
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_020",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_020",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        24474.571228027344,
+        -14109.317016601562,
+        633.827018737793
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_021",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_021",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        25349.659729003906,
+        -14659.921264648438,
+        568.8191413879395
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_022",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_022",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        27385.128784179688,
+        -14500.314331054688,
+        585.0711345672607
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_023",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_023",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        27964.117431640625,
+        -13253.044128417969,
+        552.567195892334
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_024",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_024",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        27539.09912109375,
+        -10484.805297851562,
+        585.0711345672607
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_025",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_025",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        25922.515869140625,
+        -9991.964721679688,
+        552.567195892334
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_026",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_026",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        24651.50909423828,
+        -10337.82958984375,
+        585.0711345672607
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_027",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_027",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        20341.95556640625,
+        -9156.35986328125,
+        674.4569778442383
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_028",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_028",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        21710.92529296875,
+        -9119.076538085938,
+        731.3388824462891
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_029",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_029",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        19788.919067382812,
+        -8678.667449951172,
+        601.323127746582
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_030",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_030",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        27437.408447265625,
+        -10450.247955322266,
+        601.323127746582
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_031",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_031",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        28753.173828125,
+        -10420.150756835938,
+        706.9609642028809
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_032",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_032",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        30657.650756835938,
+        -10625.077819824219,
+        617.5750732421875
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_033",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_033",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        31983.10546875,
+        -12463.236999511719,
+        625.7010459899902
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_034",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_034",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        32383.80126953125,
+        -13665.10009765625,
+        658.204984664917
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_035",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_035",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        29123.770141601562,
+        -14777.778625488281,
+        625.7010459899902
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_036",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_036",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        30627.9296875,
+        -14790.919494628906,
+        650.0790119171143
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_037",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_037",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        33739.935302734375,
+        -10953.643798828125,
+        641.9530391693115
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_038",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_038",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        33741.12243652344,
+        -12117.604064941406,
+        625.7010459899902
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_039",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_039",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        34145.745849609375,
+        -13336.4990234375,
+        690.7090187072754
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_040",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_040",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        35579.61120605469,
+        -13753.952026367188,
+        715.0868892669678
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_041",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_041",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        36770.47424316406,
+        -12753.439331054688,
+        633.827018737793
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_042",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_042",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        37142.462158203125,
+        -11580.2978515625,
+        682.582950592041
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_043",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_043",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        36540.51513671875,
+        -10076.106262207031,
+        593.1971073150635
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_044",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_044",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        35016.363525390625,
+        -9647.822570800781,
+        560.6931686401367
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_045",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_045",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17645.494079589844,
+        -14861.111450195312,
+        731.3388824462891
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_046",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_046",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        16762.89825439453,
+        -15718.913269042969,
+        739.4649028778076
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_047",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_047",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17537.777709960938,
+        -17072.848510742188,
+        698.8349914550781
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_048",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_048",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        16389.706420898438,
+        -18472.848510742188,
+        690.7090187072754
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_049",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_049",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        15122.479248046875,
+        -17682.3486328125,
+        706.9609642028809
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_050",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_050",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        13956.329345703125,
+        -18459.817504882812,
+        690.7090187072754
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_051",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_051",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        12316.136169433594,
+        -18894.699096679688,
+        625.7010459899902
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_052",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_052",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        11512.692260742188,
+        -19854.6630859375,
+        609.4491004943848
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_053",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_053",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        13633.36181640625,
+        -30344.815063476562,
+        536.3152027130127
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_054",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_054",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        15109.980773925781,
+        -30414.077758789062,
+        536.3152027130127
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_055",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_055",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        15451.632690429688,
+        -29652.11181640625,
+        536.3152027130127
+      ],
+      "materials": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    },
+    {
+      "name": "SM_east_foliage_056",
+      "role": "foliage",
+      "path": "/Game/WZMS/East/Meshes/SM_east_foliage_056",
+      "source_triangles": 108512,
+      "ue_triangles": 108512,
+      "bounds_error_cm": 0.0,
+      "placement_cm": [
+        17561.41357421875,
+        -19604.79278564453,
+        305.1192283630371
+      ],
+      "materials": [
+        "M_2ec2a3fbfaee25",
+        "M_b8c136699c0261",
+        "M_1da7775a1c92d2",
+        "M_eaa176cda8d918",
+        "M_b534649219be7a",
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c",
+        "M_88434f1fd0f305",
+        "M_98f130861d8841",
+        "M_cf35259db55f2c",
+        "M_d6a369a5bfa15e",
+        "M_43fc2254fbfdd7"
+      ],
+      "verified": true,
+      "pending_campus_placement": false
+    }
+  ],
+  "complete": true
+}
