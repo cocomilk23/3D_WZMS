@@ -1,0 +1,16 @@
+{
+  "origin_mesh_units": [
+    1.0,
+    -1.5,
+    2.5
+  ],
+  "extent_mesh_units": [
+    1.0,
+    1.5,
+    2.5
+  ],
+  "world_conversion": "Place actor at source pivot (X,-Y,Z)*100 with scale 100; raw local FBX vertices retain metre-sized values.",
+  "paths": [
+    "/Game/WZMS/QA/SM_AxisFixture.SM_AxisFixture"
+  ]
+}

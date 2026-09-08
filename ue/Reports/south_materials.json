@@ -1,0 +1,3054 @@
+{
+  "complete": true,
+  "materials": [
+    {
+      "id": "M_c08dc2eeaf2ba5",
+      "source_name": "Architectural teal glass 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c08dc2eeaf2ba5",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_dd665f10495f2f",
+      "source_name": "Architectural teal glass 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dd665f10495f2f",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_e740099a8383ae",
+      "source_name": "Architectural teal glass 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e740099a8383ae",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_9fbb746b00c809",
+      "source_name": "Architectural teal glass 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9fbb746b00c809",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_51e1e533fb1fc1",
+      "source_name": "Avenue leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_51e1e533fb1fc1",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.04549999755620959,
+          0.09554999904036521,
+          0.01000999977529049
+        ],
+        [
+          0.07279999763965606,
+          0.15288000171899796,
+          0.01601599998140335
+        ]
+      ]
+    },
+    {
+      "id": "M_c0d7d27dde8675",
+      "source_name": "Avenue leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c0d7d27dde8675",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.0773499989748001,
+          0.1319499991714954,
+          0.017290000323057164
+        ],
+        [
+          0.12376000099420548,
+          0.21112000316858293,
+          0.027664001105785374
+        ]
+      ]
+    },
+    {
+      "id": "M_37eb6a43d5fad2",
+      "source_name": "Avenue leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_37eb6a43d5fad2",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.1046499964654446,
+          0.1546999979496002,
+          0.025025000742077808
+        ],
+        [
+          0.16743999790906905,
+          0.24752000198841095,
+          0.04004000203967095
+        ]
+      ]
+    },
+    {
+      "id": "M_4ef902def6cb1e",
+      "source_name": "Avenue leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4ef902def6cb1e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.03093999906837941,
+          0.07280000026226041,
+          0.00955499990403652
+        ],
+        [
+          0.04950399956321716,
+          0.11648000289916993,
+          0.015288000171899796
+        ]
+      ]
+    },
+    {
+      "id": "M_2ec5b5a2655900",
+      "source_name": "Avenue leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2ec5b5a2655900",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.1319499991714954,
+          0.16834999930262562,
+          0.03002999932587147
+        ],
+        [
+          0.21112000316858293,
+          0.2693600046181679,
+          0.04804799994421005
+        ]
+      ]
+    },
+    {
+      "id": "M_7bc8f8c1cf70f6",
+      "source_name": "Bridge pale blue-green posts",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7bc8f8c1cf70f6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.30079999327659607,
+          0.4511999899148941,
+          0.4324000078439712
+        ],
+        [
+          0.3391999924182892,
+          0.5087999886274338,
+          0.48760000884532934
+        ]
+      ]
+    },
+    {
+      "id": "M_c382f01804ff5f",
+      "source_name": "Bridge silver grey rails",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c382f01804ff5f",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.34400001084804543,
+          0.4214000152111055,
+          0.4214000152111055
+        ],
+        [
+          0.41599999094009377,
+          0.5095999912261959,
+          0.5095999912261959
+        ]
+      ]
+    },
+    {
+      "id": "M_a830b22e7c9865",
+      "source_name": "Brushed stainless steel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a830b22e7c9865",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.39560001375675213,
+          0.4300000071525574,
+          0.43859999909400926
+        ],
+        [
+          0.47839999113082854,
+          0.5199999809265137,
+          0.5303999706268314
+        ]
+      ]
+    },
+    {
+      "id": "M_4554eaa7703fed",
+      "source_name": "Campus foliage0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4554eaa7703fed",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.06999999985098837,
+          0.14699999290704735,
+          0.015399999654293062
+        ],
+        [
+          0.11200000214576722,
+          0.23519999365806576,
+          0.02463999997138977
+        ]
+      ]
+    },
+    {
+      "id": "M_7246a1f19e78bf",
+      "source_name": "Campus foliage1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7246a1f19e78bf",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.1189999992251396,
+          0.20299999070167551,
+          0.026599998691678062
+        ],
+        [
+          0.19040000281333924,
+          0.3247999920368194,
+          0.04255999881267547
+        ]
+      ]
+    },
+    {
+      "id": "M_3512340a560d1c",
+      "source_name": "Campus foliage2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3512340a560d1c",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.16100000017881388,
+          0.2379999984502792,
+          0.038499999135732654
+        ],
+        [
+          0.25760000576972963,
+          0.3808000056266785,
+          0.061599999928474425
+        ]
+      ]
+    },
+    {
+      "id": "M_c17f44e07b515a",
+      "source_name": "Campus foliage3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c17f44e07b515a",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.04760000177621837,
+          0.11199999558925633,
+          0.014699999551475051
+        ],
+        [
+          0.07616000446319582,
+          0.1791999967575073,
+          0.02351999978303909
+        ]
+      ]
+    },
+    {
+      "id": "M_b42d4dc1cb508c",
+      "source_name": "Campus foliage4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b42d4dc1cb508c",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.20299999070167551,
+          0.25899999892711634,
+          0.046199998962879185
+        ],
+        [
+          0.3247999920368194,
+          0.4144000071048737,
+          0.07391999991416931
+        ]
+      ]
+    },
+    {
+      "id": "M_7dd6a6220bbbb7",
+      "source_name": "Campus honour sign red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7dd6a6220bbbb7",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.42299998879432676,
+          0.01691999927163124,
+          0.01691999927163124
+        ],
+        [
+          0.4769999873638153,
+          0.019079999178647996,
+          0.019079999178647996
+        ]
+      ]
+    },
+    {
+      "id": "M_175d341612d200",
+      "source_name": "Campus mottled grey bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_175d341612d200",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.16899999976158142,
+          0.16249999403953552,
+          0.12999999523162842
+        ],
+        [
+          0.32499998807907104,
+          0.3125,
+          0.25
+        ]
+      ]
+    },
+    {
+      "id": "M_b05307fb39ad91",
+      "source_name": "Daosi aged ivory lane paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b05307fb39ad91",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.6768000268936157,
+          0.6673999798297882,
+          0.5734000134468078
+        ],
+        [
+          0.7632000303268432,
+          0.7525999772548676,
+          0.6466000151634217
+        ]
+      ]
+    },
+    {
+      "id": "M_5a0b675f6ceea0",
+      "source_name": "Daosi dark worn asphalt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5a0b675f6ceea0",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.07500000298023224,
+          0.08500000089406967,
+          0.08799999952316284
+        ],
+        [
+          0.17000000178813934,
+          0.18000000715255737,
+          0.17000000178813934
+        ]
+      ]
+    },
+    {
+      "id": "M_1c0d733c664e57",
+      "source_name": "Daosi dark wrought iron",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1c0d733c664e57",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.018799999579787254,
+          0.024440000504255294,
+          0.023500000350177287
+        ],
+        [
+          0.021199999526143074,
+          0.027560000568628312,
+          0.026500000394880773
+        ]
+      ]
+    },
+    {
+      "id": "M_5ad9d7a443037a",
+      "source_name": "Daosi dry shaded lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5ad9d7a443037a",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.035750001668930054,
+          0.06499999761581421,
+          0.011699999682605267
+        ],
+        [
+          0.06875000149011612,
+          0.125,
+          0.022499999031424522
+        ]
+      ]
+    },
+    {
+      "id": "M_6543b08176d99e",
+      "source_name": "Daosi limewash",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6543b08176d99e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.5921999955177307,
+          0.620400024652481,
+          0.5451999843120575
+        ],
+        [
+          0.6677999949455261,
+          0.6996000277996064,
+          0.6147999823093414
+        ]
+      ]
+    },
+    {
+      "id": "M_eb54d655a5c71f",
+      "source_name": "Daosi pale bridge concrete",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eb54d655a5c71f",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.29240000793933874,
+          0.29240000793933874,
+          0.2580000145435335
+        ],
+        [
+          0.5511999500274669,
+          0.5407999603271492,
+          0.47839999113082854
+        ]
+      ]
+    },
+    {
+      "id": "M_a85a29e847f294",
+      "source_name": "Daosi ribbed grey transition paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a85a29e847f294",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.2666000064849854,
+          0.28380001599788685,
+          0.2580000145435335
+        ],
+        [
+          0.3223999906539916,
+          0.34320000104904125,
+          0.31200000095367386
+        ]
+      ]
+    },
+    {
+      "id": "M_1ade03189f67e6",
+      "source_name": "Daosi warm rough name stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1ade03189f67e6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.24080000503063204,
+          0.1805999973654746,
+          0.10319999940991398
+        ],
+        [
+          0.49919997053146403,
+          0.3951999805450441,
+          0.24959998526573202
+        ]
+      ]
+    },
+    {
+      "id": "M_f80a54c3fec033",
+      "source_name": "Daosi white tensile roofing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f80a54c3fec033",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.6579999887943268,
+          0.6579999887943268,
+          0.5828000044822692
+        ],
+        [
+          0.7419999873638153,
+          0.7419999873638153,
+          0.657200005054474
+        ]
+      ]
+    },
+    {
+      "id": "M_a9e35683ac9021",
+      "source_name": "Facade ivory powder coat",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a9e35683ac9021",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.6278000268459323,
+          0.6450000107288361,
+          0.6105999917030331
+        ],
+        [
+          0.759199991989135,
+          0.7799999713897705,
+          0.7383999505996712
+        ]
+      ]
+    },
+    {
+      "id": "M_10c16ec62293c5",
+      "source_name": "Facade pale limestone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_10c16ec62293c5",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.516000029087067,
+          0.516000029087067,
+          0.4730000181198122
+        ],
+        [
+          0.6240000019073477,
+          0.6240000019073477,
+          0.5719999914169307
+        ]
+      ]
+    },
+    {
+      "id": "M_1dde2345c58abc",
+      "source_name": "Facade recessed grey spandrel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1dde2345c58abc",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.31960000336170197,
+          0.3571999955177307,
+          0.3571999955177307
+        ],
+        [
+          0.3604000037908554,
+          0.40279999494552615,
+          0.40279999494552615
+        ]
+      ]
+    },
+    {
+      "id": "M_0fdf1861a480bb",
+      "source_name": "Facade stone joint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0fdf1861a480bb",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.14620000396966937,
+          0.17200000542402272,
+          0.163400000667572
+        ],
+        [
+          0.1767999953746795,
+          0.20799999547004688,
+          0.19759999027252206
+        ]
+      ]
+    },
+    {
+      "id": "M_6db77e6280d89e",
+      "source_name": "Flowers coral red",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6db77e6280d89e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.48879998207092284,
+          0.01691999927163124,
+          0.026320000812411308
+        ],
+        [
+          0.5511999797821046,
+          0.019079999178647996,
+          0.02968000091612339
+        ]
+      ]
+    },
+    {
+      "id": "M_628c8a6ae940c4",
+      "source_name": "Flowers golden yellow",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_628c8a6ae940c4",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.8648000156879424,
+          0.3665999865531921,
+          0.023500000350177287
+        ],
+        [
+          0.9752000176906587,
+          0.4133999848365784,
+          0.026500000394880773
+        ]
+      ]
+    },
+    {
+      "id": "M_83985ecf686e28",
+      "source_name": "Garden lamp frosted pane",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_83985ecf686e28",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.5921999955177307,
+          0.6109999775886535,
+          0.4511999899148941
+        ],
+        [
+          0.6677999949455261,
+          0.6889999747276306,
+          0.5087999886274338
+        ]
+      ]
+    },
+    {
+      "id": "M_ae293d558975c1",
+      "source_name": "Garden light opal lens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ae293d558975c1",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.6956000089645386,
+          0.5828000044822692
+        ],
+        [
+          0.8055999898910523,
+          0.7844000101089478,
+          0.657200005054474
+        ]
+      ]
+    },
+    {
+      "id": "M_6defc2f32c2ba9",
+      "source_name": "Gate control blue",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6defc2f32c2ba9",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.01409999968484044,
+          0.07519999831914902,
+          0.2632000011205673
+        ],
+        [
+          0.015899999644607306,
+          0.0847999981045723,
+          0.2968000012636185
+        ]
+      ]
+    },
+    {
+      "id": "M_9622d395d3cbd5",
+      "source_name": "Granite curb",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9622d395d3cbd5",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.29240000793933874,
+          0.3182000093936921,
+          0.3182000093936921
+        ],
+        [
+          0.353599990749359,
+          0.3847999908447264,
+          0.3847999908447264
+        ]
+      ]
+    },
+    {
+      "id": "M_5acf9c9db064c2",
+      "source_name": "Granite rectangular paving",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5acf9c9db064c2",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.3611999947309492,
+          0.3784000042438507,
+          0.3526000027894973
+        ],
+        [
+          0.43679997034072926,
+          0.4575999807357789,
+          0.4263999806404115
+        ]
+      ]
+    },
+    {
+      "id": "M_27ef3b989a7a69",
+      "source_name": "Graphite painted metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_27ef3b989a7a69",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.030080001428723333,
+          0.04135999977588653,
+          0.04888000100851059
+        ],
+        [
+          0.03392000161111355,
+          0.04663999974727631,
+          0.055120001137256625
+        ]
+      ]
+    },
+    {
+      "id": "M_776eebb66faee8",
+      "source_name": "Groundcover 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_776eebb66faee8",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.06999999985098837,
+          0.14699999290704735,
+          0.015399999654293062
+        ],
+        [
+          0.11200000214576722,
+          0.23519999365806576,
+          0.02463999997138977
+        ]
+      ]
+    },
+    {
+      "id": "M_4a643e45d4deac",
+      "source_name": "Groundcover 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4a643e45d4deac",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.1189999992251396,
+          0.20299999070167551,
+          0.026599998691678062
+        ],
+        [
+          0.19040000281333924,
+          0.3247999920368194,
+          0.04255999881267547
+        ]
+      ]
+    },
+    {
+      "id": "M_4a59a05ff8bac3",
+      "source_name": "Groundcover 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4a59a05ff8bac3",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.16100000017881388,
+          0.2379999984502792,
+          0.038499999135732654
+        ],
+        [
+          0.25760000576972963,
+          0.3808000056266785,
+          0.061599999928474425
+        ]
+      ]
+    },
+    {
+      "id": "M_7d0f6f18f111dc",
+      "source_name": "Groundcover 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7d0f6f18f111dc",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.04760000177621837,
+          0.11199999558925633,
+          0.014699999551475051
+        ],
+        [
+          0.07616000446319582,
+          0.1791999967575073,
+          0.02351999978303909
+        ]
+      ]
+    },
+    {
+      "id": "M_a1f49ed47da689",
+      "source_name": "Groundcover 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a1f49ed47da689",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.20299999070167551,
+          0.25899999892711634,
+          0.046199998962879185
+        ],
+        [
+          0.3247999920368194,
+          0.4144000071048737,
+          0.07391999991416931
+        ]
+      ]
+    },
+    {
+      "id": "M_2a41c93a0e882e",
+      "source_name": "Heyu banyan grey fibrous bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2a41c93a0e882e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.11700000613927841,
+          0.11050000041723251,
+          0.07800000160932541
+        ],
+        [
+          0.22500000894069672,
+          0.21250000596046448,
+          0.14999999105930328
+        ]
+      ]
+    },
+    {
+      "id": "M_79c8deaa523720",
+      "source_name": "Heyu connecting bank lawn",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_79c8deaa523720",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.058500003069639206,
+          0.09750000387430191,
+          0.014949999749660492
+        ],
+        [
+          0.11250000447034836,
+          0.1875,
+          0.028750000521540642
+        ]
+      ]
+    },
+    {
+      "id": "M_8cda5a0d82df35",
+      "source_name": "Heyu grass blades",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8cda5a0d82df35",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.15039999663829803,
+          0.2162000039219856,
+          0.03947999946773052
+        ],
+        [
+          0.1695999962091446,
+          0.24380000442266467,
+          0.04451999939978123
+        ]
+      ]
+    },
+    {
+      "id": "M_6746f93a9d9c71",
+      "source_name": "Heyu green lake water",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6746f93a9d9c71",
+      "parent": "/Game/WZMS/Materials/M_WZMS_water.M_WZMS_water",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.042300001680850983,
+          0.08648000016808509,
+          0.06392000347375869
+        ],
+        [
+          0.0477000018954277,
+          0.09752000018954278,
+          0.07208000391721726
+        ]
+      ]
+    },
+    {
+      "id": "M_6445b3e57ea820",
+      "source_name": "Heyu lotus autumn brown",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6445b3e57ea820",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.2538000100851059,
+          0.15980000168085098,
+          0.05169999971985817
+        ],
+        [
+          0.28620001137256623,
+          0.1802000018954277,
+          0.05829999968409538
+        ]
+      ]
+    },
+    {
+      "id": "M_412ccd9b86b066",
+      "source_name": "Heyu lotus blue green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_412ccd9b86b066",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.08929999887943267,
+          0.1880000028014183,
+          0.15980000168085098
+        ],
+        [
+          0.10069999873638154,
+          0.21200000315904619,
+          0.1802000018954277
+        ]
+      ]
+    },
+    {
+      "id": "M_b328c09f232a87",
+      "source_name": "Heyu lotus fresh green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b328c09f232a87",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.10339999943971634,
+          0.235,
+          0.10339999943971634
+        ],
+        [
+          0.11659999936819077,
+          0.265,
+          0.11659999936819077
+        ]
+      ]
+    },
+    {
+      "id": "M_dcc7b40691ad68",
+      "source_name": "Heyu lotus pink",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_dcc7b40691ad68",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.5264000022411346,
+          0.15980000168085098,
+          0.24439999103546142
+        ],
+        [
+          0.593600002527237,
+          0.1802000018954277,
+          0.2755999898910523
+        ]
+      ]
+    },
+    {
+      "id": "M_2a76fce78d58ec",
+      "source_name": "Heyu patchy dry grass base",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2a76fce78d58ec",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.06999999985098837,
+          0.09799999874830245,
+          0.017499999962747093
+        ],
+        [
+          0.3136000026702881,
+          0.30240001330375677,
+          0.11200000214576722
+        ]
+      ]
+    },
+    {
+      "id": "M_d128e5793bd7a6",
+      "source_name": "Heyu rescue ring orange",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d128e5793bd7a6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.7990000224113464,
+          0.11279999747872352,
+          0.01409999968484044
+        ],
+        [
+          0.9010000252723694,
+          0.12719999715685845,
+          0.015899999644607306
+        ]
+      ]
+    },
+    {
+      "id": "M_5fbd2a7a14e597",
+      "source_name": "Heyu rough grey island revetment",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_5fbd2a7a14e597",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.2199999988079071,
+          0.23999999463558197,
+          0.1899999976158142
+        ],
+        [
+          0.41999998688697815,
+          0.4300000071525574,
+          0.3400000035762787
+        ]
+      ]
+    },
+    {
+      "id": "M_ca55aa7345e3e4",
+      "source_name": "Heyu strap leaf dry ochre",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ca55aa7345e3e4",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.21000000476837144,
+          0.16100000017881388,
+          0.048999999374151226
+        ],
+        [
+          0.33600001478195196,
+          0.25760000576972963,
+          0.07840000066757202
+        ]
+      ]
+    },
+    {
+      "id": "M_b81bf2ae7742bd",
+      "source_name": "Heyu strap leaf green centre",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b81bf2ae7742bd",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.08399999669194225,
+          0.16100000017881388,
+          0.041999998345971123
+        ],
+        [
+          0.13439999756813048,
+          0.25760000576972963,
+          0.06719999878406524
+        ]
+      ]
+    },
+    {
+      "id": "M_26f7de5c24a418",
+      "source_name": "Heyu strap leaf pale margin",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_26f7de5c24a418",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.4324000078439712,
+          0.46060000896453857,
+          0.235
+        ],
+        [
+          0.48760000884532934,
+          0.5194000101089478,
+          0.265
+        ]
+      ]
+    },
+    {
+      "id": "M_81b7c8953974a8",
+      "source_name": "Island black river pebble mosaic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_81b7c8953974a8",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.08739999681711197,
+          0.09120000153779984,
+          0.08169999718666077
+        ],
+        [
+          0.37950000166893005,
+          0.3959999978542328,
+          0.35475000739097595
+        ]
+      ]
+    },
+    {
+      "id": "M_07a6763c59a9dd",
+      "source_name": "Island carved grey table stone",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_07a6763c59a9dd",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.10130799938869472,
+          0.11111199891614909,
+          0.1045760035028458
+        ],
+        [
+          0.5319599814796447,
+          0.5834399676895146,
+          0.5491199768829347
+        ]
+      ]
+    },
+    {
+      "id": "M_83f72a544949f8",
+      "source_name": "Island pale river pebble mosaic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_83f72a544949f8",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.19380000233650208,
+          0.1899999976158142,
+          0.16339999437332153
+        ],
+        [
+          0.8414999842643738,
+          0.824999988079071,
+          0.7095000147819519
+        ]
+      ]
+    },
+    {
+      "id": "M_ede240e816c2f7",
+      "source_name": "Lawn soil green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ede240e816c2f7",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.07150000333786011,
+          0.11050000041723251,
+          0.025999998673796654
+        ],
+        [
+          0.13750000298023224,
+          0.21250000596046448,
+          0.04999999701976776
+        ]
+      ]
+    },
+    {
+      "id": "M_bcbd1b33e6e98f",
+      "source_name": "Leaf green 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bcbd1b33e6e98f",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.055999997794628165,
+          0.13299999606609347,
+          0.017499999962747093
+        ],
+        [
+          0.08959999837875365,
+          0.2127999982357025,
+          0.028000000536441805
+        ]
+      ]
+    },
+    {
+      "id": "M_a6c28d824f8ed6",
+      "source_name": "Leaf green 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a6c28d824f8ed6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.09799999874830245,
+          0.1959999974966049,
+          0.026599998691678062
+        ],
+        [
+          0.15680000133514405,
+          0.3136000026702881,
+          0.04255999881267547
+        ]
+      ]
+    },
+    {
+      "id": "M_8314bf281dfa74",
+      "source_name": "Leaf green 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8314bf281dfa74",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.15399999654293062,
+          0.2379999984502792,
+          0.038499999135732654
+        ],
+        [
+          0.2463999997138977,
+          0.3808000056266785,
+          0.061599999928474425
+        ]
+      ]
+    },
+    {
+      "id": "M_98a4d2ce8c3ff9",
+      "source_name": "Leaf green 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_98a4d2ce8c3ff9",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.034999999925494185,
+          0.09099999511241919,
+          0.015399999654293062
+        ],
+        [
+          0.05600000107288361,
+          0.1455999952793121,
+          0.02463999997138977
+        ]
+      ]
+    },
+    {
+      "id": "M_bd1ad971f9eef7",
+      "source_name": "Leaf green 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bd1ad971f9eef7",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.21699999797344205,
+          0.26599999213218695,
+          0.055999997794628165
+        ],
+        [
+          0.3472000041484833,
+          0.425599996471405,
+          0.08959999837875365
+        ]
+      ]
+    },
+    {
+      "id": "M_9cf4c804844610",
+      "source_name": "Lotus leaf green",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9cf4c804844610",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.07699999827146531,
+          0.17499999701976776,
+          0.030799999308586123
+        ],
+        [
+          0.12319999985694885,
+          0.2800000011920929,
+          0.04927999994277954
+        ]
+      ]
+    },
+    {
+      "id": "M_ae7dc7a6732b0d",
+      "source_name": "Muted teal glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ae7dc7a6732b0d",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_d7060a1dd25c74",
+      "source_name": "Natural lawn blades",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d7060a1dd25c74",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.05525000020861626,
+          0.10399999469518661,
+          0.020800001919269562
+        ],
+        [
+          0.10625000298023224,
+          0.19999998807907104,
+          0.04000000283122063
+        ]
+      ]
+    },
+    {
+      "id": "M_815e52cd1cfa4d",
+      "source_name": "North avenue bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_815e52cd1cfa4d",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.15600000321865082,
+          0.15275000035762787,
+          0.11700000613927841
+        ],
+        [
+          0.29999998211860657,
+          0.29374998807907104,
+          0.22500000894069672
+        ]
+      ]
+    },
+    {
+      "id": "M_18afff3d1c2ca0",
+      "source_name": "North blue green glazing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_18afff3d1c2ca0",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_6cc2d7e149c18d",
+      "source_name": "North brushed metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6cc2d7e149c18d",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.3698000123023988,
+          0.4127999976396559,
+          0.404200005698204
+        ],
+        [
+          0.44719999103546115,
+          0.49919997053146403,
+          0.4887999808311463
+        ]
+      ]
+    },
+    {
+      "id": "M_14c135c5323e1e",
+      "source_name": "North dark recess",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_14c135c5323e1e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.026320000812411308,
+          0.04042000137269497,
+          0.03947999946773052
+        ],
+        [
+          0.02968000091612339,
+          0.045580001547932625,
+          0.04451999939978123
+        ]
+      ]
+    },
+    {
+      "id": "M_8f19feabfd5d19",
+      "source_name": "North ivory frames",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8f19feabfd5d19",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.6707999865531917,
+          0.6880000216960909,
+          0.653600002670288
+        ],
+        [
+          0.8111999404907237,
+          0.8319999818801875,
+          0.7903999610900883
+        ]
+      ]
+    },
+    {
+      "id": "M_849c287514fdc1",
+      "source_name": "North light granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_849c287514fdc1",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.5503999968528746,
+          0.5589999887943264,
+          0.5246000210285189
+        ],
+        [
+          0.6655999607086187,
+          0.6759999504089365,
+          0.6343999916076655
+        ]
+      ]
+    },
+    {
+      "id": "M_9c19aed38edfe6",
+      "source_name": "North stone seams",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_9c19aed38edfe6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.2580000145435335,
+          0.2751999984264373,
+          0.2580000145435335
+        ],
+        [
+          0.31200000095367386,
+          0.33279998035430935,
+          0.31200000095367386
+        ]
+      ]
+    },
+    {
+      "id": "M_3add84dc163aec",
+      "source_name": "Notice burgundy",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3add84dc163aec",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.17859999775886534,
+          0.023500000350177287,
+          0.018799999579787254
+        ],
+        [
+          0.20139999747276308,
+          0.026500000394880773,
+          0.021199999526143074
+        ]
+      ]
+    },
+    {
+      "id": "M_4cd3f1b444d265",
+      "source_name": "Noticeboard subtle glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4cd3f1b444d265",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_3ec4ec491ad23b",
+      "source_name": "Oiled dark timber",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3ec4ec491ad23b",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.040800001472234726,
+          0.015360000543296337,
+          0.0076800002716481686
+        ],
+        [
+          0.1088000014424324,
+          0.040960002690553665,
+          0.020480001345276833
+        ]
+      ]
+    },
+    {
+      "id": "M_a0ffb9a12fb8df",
+      "source_name": "Original wall inscription and relief · photo reference",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a0ffb9a12fb8df",
+      "parent": "/Game/WZMS/Materials/M_WZMS_photo.M_WZMS_photo",
+      "source_photos": [
+        "Textures/T_3b50b15e3707b15072.jpg"
+      ],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7200000286102295,
+          0.699999988079071,
+          0.6499999761581421
+        ],
+        [
+          0.7200000286102295,
+          0.699999988079071,
+          0.6499999761581421
+        ]
+      ]
+    },
+    {
+      "id": "M_990a3dde1ea04f",
+      "source_name": "Palm fibrous bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_990a3dde1ea04f",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.18849998712539673,
+          0.15600000321865082,
+          0.10399999469518661
+        ],
+        [
+          0.36249998211860657,
+          0.29999998211860657,
+          0.19999998807907104
+        ]
+      ]
+    },
+    {
+      "id": "M_cad01139b94d0b",
+      "source_name": "Palm foliage 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_cad01139b94d0b",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.06999999985098837,
+          0.14699999290704735,
+          0.015399999654293062
+        ],
+        [
+          0.11200000214576722,
+          0.23519999365806576,
+          0.02463999997138977
+        ]
+      ]
+    },
+    {
+      "id": "M_04a33ff8ee5e9e",
+      "source_name": "Palm foliage 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_04a33ff8ee5e9e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.1189999992251396,
+          0.20299999070167551,
+          0.026599998691678062
+        ],
+        [
+          0.19040000281333924,
+          0.3247999920368194,
+          0.04255999881267547
+        ]
+      ]
+    },
+    {
+      "id": "M_3ddaaf7161aedc",
+      "source_name": "Palm foliage 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3ddaaf7161aedc",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.16100000017881388,
+          0.2379999984502792,
+          0.038499999135732654
+        ],
+        [
+          0.25760000576972963,
+          0.3808000056266785,
+          0.061599999928474425
+        ]
+      ]
+    },
+    {
+      "id": "M_840fad5bac7cf1",
+      "source_name": "Palm foliage 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_840fad5bac7cf1",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.04760000177621837,
+          0.11199999558925633,
+          0.014699999551475051
+        ],
+        [
+          0.07616000446319582,
+          0.1791999967575073,
+          0.02351999978303909
+        ]
+      ]
+    },
+    {
+      "id": "M_af8b26177605d6",
+      "source_name": "Palm foliage 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_af8b26177605d6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.20299999070167551,
+          0.25899999892711634,
+          0.046199998962879185
+        ],
+        [
+          0.3247999920368194,
+          0.4144000071048737,
+          0.07391999991416931
+        ]
+      ]
+    },
+    {
+      "id": "M_459d138b8a3374",
+      "source_name": "Photovoltaic cells",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_459d138b8a3374",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.01691999927163124,
+          0.05169999971985817,
+          0.08929999887943267
+        ],
+        [
+          0.019079999178647996,
+          0.05829999968409538,
+          0.10069999873638154
+        ]
+      ]
+    },
+    {
+      "id": "M_972aae8bfcf898",
+      "source_name": "Planting soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_972aae8bfcf898",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.041999998345971123,
+          0.030799999308586123,
+          0.017499999962747093
+        ],
+        [
+          0.06719999878406524,
+          0.04927999994277954,
+          0.028000000536441805
+        ]
+      ]
+    },
+    {
+      "id": "M_b00df476ba8be9",
+      "source_name": "Plaza blue-grey stone bands",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b00df476ba8be9",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.19780000687837607,
+          0.23220001308918015,
+          0.24080000503063204
+        ],
+        [
+          0.23919999556541427,
+          0.2808000008583065,
+          0.2911999905586242
+        ]
+      ]
+    },
+    {
+      "id": "M_97bd7c56616d8d",
+      "source_name": "Plaza pale fine granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_97bd7c56616d8d",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.49879999394416785,
+          0.49020000200271596,
+          0.43859999909400926
+        ],
+        [
+          0.6031999605178839,
+          0.5927999708175662,
+          0.5303999706268314
+        ]
+      ]
+    },
+    {
+      "id": "M_59e37707cb6ffa",
+      "source_name": "Porcelain blue bands",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_59e37707cb6ffa",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.03290000014007091,
+          0.09400000140070915,
+          0.2538000100851059
+        ],
+        [
+          0.03710000015795231,
+          0.10600000157952309,
+          0.28620001137256623
+        ]
+      ]
+    },
+    {
+      "id": "M_2879c2a236c2c9",
+      "source_name": "Porcelain white pots",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2879c2a236c2c9",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.7143999910354614,
+          0.6392000067234039
+        ],
+        [
+          0.8055999898910523,
+          0.8055999898910523,
+          0.7208000075817108
+        ]
+      ]
+    },
+    {
+      "id": "M_7076aa164bd3ce",
+      "source_name": "Road stone red lettering",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_7076aa164bd3ce",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.2751999984264373,
+          0.027520001764893554,
+          0.019780000367462636
+        ],
+        [
+          0.33279998035430935,
+          0.033280000360011996,
+          0.02391999916911125
+        ]
+      ]
+    },
+    {
+      "id": "M_ccee06e110f9e8",
+      "source_name": "Roof standing seam silver",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ccee06e110f9e8",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.3784000042438507,
+          0.404200005698204,
+          0.39560001375675213
+        ],
+        [
+          0.4575999807357789,
+          0.4887999808311463,
+          0.47839999113082854
+        ]
+      ]
+    },
+    {
+      "id": "M_16d12d7b4b566a",
+      "source_name": "Shrub glossy leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16d12d7b4b566a",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.06999999985098837,
+          0.14699999290704735,
+          0.015399999654293062
+        ],
+        [
+          0.11200000214576722,
+          0.23519999365806576,
+          0.02463999997138977
+        ]
+      ]
+    },
+    {
+      "id": "M_fd6b8ea6223189",
+      "source_name": "Shrub glossy leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fd6b8ea6223189",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.1189999992251396,
+          0.20299999070167551,
+          0.026599998691678062
+        ],
+        [
+          0.19040000281333924,
+          0.3247999920368194,
+          0.04255999881267547
+        ]
+      ]
+    },
+    {
+      "id": "M_37f51013ff8900",
+      "source_name": "Shrub glossy leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_37f51013ff8900",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.16100000017881388,
+          0.2379999984502792,
+          0.038499999135732654
+        ],
+        [
+          0.25760000576972963,
+          0.3808000056266785,
+          0.061599999928474425
+        ]
+      ]
+    },
+    {
+      "id": "M_4dd73ceb3a7841",
+      "source_name": "Shrub glossy leaf 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4dd73ceb3a7841",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.04760000177621837,
+          0.11199999558925633,
+          0.014699999551475051
+        ],
+        [
+          0.07616000446319582,
+          0.1791999967575073,
+          0.02351999978303909
+        ]
+      ]
+    },
+    {
+      "id": "M_de110f6185381c",
+      "source_name": "Shrub glossy leaf 4",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_de110f6185381c",
+      "parent": "/Game/WZMS/Materials/M_WZMS_foliage.M_WZMS_foliage",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.20299999070167551,
+          0.25899999892711634,
+          0.046199998962879185
+        ],
+        [
+          0.3247999920368194,
+          0.4144000071048737,
+          0.07391999991416931
+        ]
+      ]
+    },
+    {
+      "id": "M_076777db6ab354",
+      "source_name": "Shuinan irregular earth bank",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_076777db6ab354",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.15000000596046448,
+          0.11999999731779099,
+          0.07000000029802322
+        ],
+        [
+          0.3199999928474426,
+          0.27000001072883606,
+          0.14000000059604645
+        ]
+      ]
+    },
+    {
+      "id": "M_2457474ad4c26a",
+      "source_name": "Shuinan peninsula grass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2457474ad4c26a",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.09000000357627869,
+          0.15000000596046448,
+          0.02199999988079071
+        ],
+        [
+          0.23999999463558197,
+          0.25999999046325684,
+          0.06800000369548798
+        ]
+      ]
+    },
+    {
+      "id": "M_a7ee8993276527",
+      "source_name": "Shuinan tennis ball felt",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a7ee8993276527",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.49819997310638425,
+          0.6392000067234039,
+          0.023500000350177287
+        ],
+        [
+          0.5617999696731568,
+          0.7208000075817108,
+          0.026500000394880773
+        ]
+      ]
+    },
+    {
+      "id": "M_df9f989e271cd1",
+      "source_name": "Shuinan utility blue door glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_df9f989e271cd1",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_73f101821061cb",
+      "source_name": "Shuinan utility light grey panels",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_73f101821061cb",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.4300000071525574,
+          0.44999998807907104,
+          0.41999998688697815
+        ],
+        [
+          0.5899999737739563,
+          0.6000000238418579,
+          0.5400000214576721
+        ]
+      ]
+    },
+    {
+      "id": "M_e18c72faac9950",
+      "source_name": "Shuinan utility panel dark joints",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e18c72faac9950",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.07990000084042549,
+          0.09869999691843986,
+          0.09776000201702117
+        ],
+        [
+          0.09010000094771385,
+          0.11129999652504921,
+          0.11024000227451325
+        ]
+      ]
+    },
+    {
+      "id": "M_152189fc47a3f0",
+      "source_name": "South plaza warm ashlar",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_152189fc47a3f0",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.4127999976396559,
+          0.39560001375675213,
+          0.33539999327659586
+        ],
+        [
+          0.49919997053146403,
+          0.47839999113082854,
+          0.4055999702453619
+        ]
+      ]
+    },
+    {
+      "id": "M_8d03b81aaea70d",
+      "source_name": "South wall reverse · photographed 119232353",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8d03b81aaea70d",
+      "parent": "/Game/WZMS/Materials/M_WZMS_photo.M_WZMS_photo",
+      "source_photos": [
+        "Textures/T_2745824f89dec89dfe.jpg"
+      ],
+      "source_transfer_status": "photo_material_review",
+      "colour_endpoints": [
+        [
+          0.6000000238418579,
+          0.5899999737739563,
+          0.5400000214576721
+        ],
+        [
+          0.6000000238418579,
+          0.5899999737739563,
+          0.5400000214576721
+        ]
+      ]
+    },
+    {
+      "id": "M_c0fee882dea3e9",
+      "source_name": "Southern black anodised fittings",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c0fee882dea3e9",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.01691999927163124,
+          0.024440000504255294,
+          0.02819999936968088
+        ],
+        [
+          0.019079999178647996,
+          0.027560000568628312,
+          0.03179999928921461
+        ]
+      ]
+    },
+    {
+      "id": "M_da9defe142040b",
+      "source_name": "Southern warm lamp diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_da9defe142040b",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.6956000089645386,
+          0.6956000089645386,
+          0.5545999753475189
+        ],
+        [
+          0.7844000101089478,
+          0.7844000101089478,
+          0.6253999722003937
+        ]
+      ]
+    },
+    {
+      "id": "M_4cec409e98c65f",
+      "source_name": "Taohua mixed shaded soil",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4cec409e98c65f",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.06300000143051143,
+          0.09099999511241919,
+          0.024499999687075613
+        ],
+        [
+          0.26879999513626096,
+          0.26879999513626096,
+          0.11200000214576722
+        ]
+      ]
+    },
+    {
+      "id": "M_425de7f3d75e51",
+      "source_name": "Taohua orange brick kiosk",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_425de7f3d75e51",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.45579998297691304,
+          0.2580000145435335,
+          0.14620000396966937
+        ],
+        [
+          0.5511999500274669,
+          0.31200000095367386,
+          0.1767999953746795
+        ]
+      ]
+    },
+    {
+      "id": "M_316ceacd8a43b8",
+      "source_name": "Taohua pastel blue portals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_316ceacd8a43b8",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.12219999551773071,
+          0.47,
+          0.5734000134468078
+        ],
+        [
+          0.13779999494552614,
+          0.53,
+          0.6466000151634217
+        ]
+      ]
+    },
+    {
+      "id": "M_09ece66d903747",
+      "source_name": "Taohua pavilion teal metal roof",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_09ece66d903747",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.023500000350177287,
+          0.30079999327659607,
+          0.2914000022411346
+        ],
+        [
+          0.026500000394880773,
+          0.3391999924182892,
+          0.328600002527237
+        ]
+      ]
+    },
+    {
+      "id": "M_1854a166d84e01",
+      "source_name": "Taohua pink portals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1854a166d84e01",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.49819997310638425,
+          0.15980000168085098,
+          0.2914000022411346
+        ],
+        [
+          0.5617999696731568,
+          0.1802000018954277,
+          0.328600002527237
+        ]
+      ]
+    },
+    {
+      "id": "M_ad2865fdd9605c",
+      "source_name": "Taohua rose court slabs",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ad2865fdd9605c",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.4300000071525574,
+          0.27000001072883606,
+          0.2199999988079071
+        ],
+        [
+          0.4300000071525574,
+          0.27000001072883606,
+          0.2199999988079071
+        ]
+      ]
+    },
+    {
+      "id": "M_17a968ec78ab98",
+      "source_name": "Taohua rough water bank",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_17a968ec78ab98",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.12160000205039978,
+          0.12919999659061432,
+          0.11020000278949738
+        ],
+        [
+          0.527999997138977,
+          0.5609999895095825,
+          0.47850000858306885
+        ]
+      ]
+    },
+    {
+      "id": "M_2822a620450e15",
+      "source_name": "Taohua white stone portals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2822a620450e15",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.6880000216960909,
+          0.679400029754639,
+          0.6105999917030331
+        ],
+        [
+          0.8319999818801875,
+          0.8215999921798698,
+          0.7383999505996712
+        ]
+      ]
+    },
+    {
+      "id": "M_6ef49cdb1caa28",
+      "source_name": "Tennis black woven net",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6ef49cdb1caa28",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.01691999927163124,
+          0.01973999973386526,
+          0.020679999887943265
+        ],
+        [
+          0.019079999178647996,
+          0.022259999699890613,
+          0.023319999873638156
+        ]
+      ]
+    },
+    {
+      "id": "M_e8d5e7a1f6daf6",
+      "source_name": "Tennis cyan enamel",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e8d5e7a1f6daf6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.012899999926239247,
+          0.12900000727176675,
+          0.29240000793933874
+        ],
+        [
+          0.015599999079108251,
+          0.15600000047683693,
+          0.353599990749359
+        ]
+      ]
+    },
+    {
+      "id": "M_341052951b747d",
+      "source_name": "Tennis faded violet acrylic",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_341052951b747d",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.20999999344348907,
+          0.23499999940395355,
+          0.3700000047683716
+        ],
+        [
+          0.3700000047683716,
+          0.38999998569488525,
+          0.47999998927116394
+        ]
+      ]
+    },
+    {
+      "id": "M_4a230041345dc0",
+      "source_name": "Tennis green net standards",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_4a230041345dc0",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.015040000714361667,
+          0.15039999663829803,
+          0.08460000336170197
+        ],
+        [
+          0.016960000805556773,
+          0.1695999962091446,
+          0.0954000037908554
+        ]
+      ]
+    },
+    {
+      "id": "M_a0805a8d5af2cc",
+      "source_name": "Tennis silver diamond wire",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a0805a8d5af2cc",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.2751999984264373,
+          0.34400001084804543,
+          0.3526000027894973
+        ],
+        [
+          0.33279998035430935,
+          0.41599999094009377,
+          0.4263999806404115
+        ]
+      ]
+    },
+    {
+      "id": "M_2f8c26d4927185",
+      "source_name": "Tennis warm white court paint",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2f8c26d4927185",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.7895999753475189,
+          0.7895999753475189,
+          0.7237999820709228
+        ],
+        [
+          0.8903999722003937,
+          0.8903999722003937,
+          0.8161999797821046
+        ]
+      ]
+    },
+    {
+      "id": "M_fd346f68bf8c31",
+      "source_name": "Tennis weathered sage surround",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fd346f68bf8c31",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.18000000715255737,
+          0.33000001311302185,
+          0.23000000417232513
+        ],
+        [
+          0.3199999928474426,
+          0.4300000071525574,
+          0.3199999928474426
+        ]
+      ]
+    },
+    {
+      "id": "M_669d5950987115",
+      "source_name": "Tree bark",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_669d5950987115",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.08449999988079071,
+          0.058500003069639206,
+          0.032499998807907104
+        ],
+        [
+          0.16249999403953552,
+          0.11250000447034836,
+          0.0625
+        ]
+      ]
+    },
+    {
+      "id": "M_b31090b4637ac0",
+      "source_name": "Tree limewash",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_b31090b4637ac0",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.6579999887943268,
+          0.6768000268936157,
+          0.620400024652481
+        ],
+        [
+          0.7419999873638153,
+          0.7632000303268432,
+          0.6996000277996064
+        ]
+      ]
+    },
+    {
+      "id": "M_a7e0a544c54444",
+      "source_name": "Unfurnished interior shaded wall",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a7e0a544c54444",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.30079999327659607,
+          0.3102000123262405,
+          0.27259999215602876
+        ],
+        [
+          0.3391999924182892,
+          0.3498000138998032,
+          0.3073999911546707
+        ]
+      ]
+    },
+    {
+      "id": "M_11f0aee07d58dc",
+      "source_name": "Warm pale granite.001",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_11f0aee07d58dc",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.5676000319957737,
+          0.5503999968528746,
+          0.49879999394416785
+        ],
+        [
+          0.6864000020980825,
+          0.6655999607086187,
+          0.6031999605178839
+        ]
+      ]
+    },
+    {
+      "id": "M_1fe0668d362440",
+      "source_name": "Waterside clear laminated glass",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1fe0668d362440",
+      "parent": "/Game/WZMS/Materials/M_WZMS_glass.M_WZMS_glass",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.7143999910354614,
+          0.8084000134468078,
+          0.770799993276596
+        ],
+        [
+          0.8055999898910523,
+          0.9116000151634217,
+          0.8691999924182893
+        ]
+      ]
+    },
+    {
+      "id": "M_a0662999e59355",
+      "source_name": "Waterside drain recess",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a0662999e59355",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.0253800006583333,
+          0.031960001736879344,
+          0.029139999523758887
+        ],
+        [
+          0.02862000074237585,
+          0.03604000195860863,
+          0.032859999462962156
+        ]
+      ]
+    },
+    {
+      "id": "M_41ee8f50d53b81",
+      "source_name": "Waterside fine rectangular granite",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_41ee8f50d53b81",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.5073999858856197,
+          0.516000029087067,
+          0.4644000261783603
+        ],
+        [
+          0.6135999502182017,
+          0.6240000019073477,
+          0.561600001716613
+        ]
+      ]
+    },
+    {
+      "id": "M_d381fe14a75064",
+      "source_name": "Waterside grey powder coated railing",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_d381fe14a75064",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.17200000542402272,
+          0.2150000035762787,
+          0.23220001308918015
+        ],
+        [
+          0.20799999547004688,
+          0.25999999046325684,
+          0.2808000008583065
+        ]
+      ]
+    },
+    {
+      "id": "M_3d5f2aa7b13dcb",
+      "source_name": "Wayfinding warm wood",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_3d5f2aa7b13dcb",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.2303999960422516,
+          0.11999999731779099,
+          0.036000002175569534
+        ],
+        [
+          0.6143999695777893,
+          0.3199999928474426,
+          0.09600000083446503
+        ]
+      ]
+    },
+    {
+      "id": "M_e0fa0c3c864847",
+      "source_name": "White painted metal",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e0fa0c3c864847",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.7520000112056732,
+          0.7520000112056732,
+          0.6768000268936157
+        ],
+        [
+          0.8480000126361847,
+          0.8480000126361847,
+          0.7632000303268432
+        ]
+      ]
+    },
+    {
+      "id": "M_e8330cddf3b050",
+      "source_name": "Yellow bamboo tree supports",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e8330cddf3b050",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.4511999899148941,
+          0.2632000011205673,
+          0.05639999873936176
+        ],
+        [
+          0.5087999886274338,
+          0.2968000012636185,
+          0.06359999857842923
+        ]
+      ]
+    },
+    {
+      "id": "M_8036c458d7b4de",
+      "source_name": "Zhongshan original printed wayfinding face",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_8036c458d7b4de",
+      "parent": "/Game/WZMS/Materials/M_WZMS_photo.M_WZMS_photo",
+      "source_photos": [
+        "Textures/T_ba32bf5db2dfd96f81.jpg"
+      ],
+      "source_transfer_status": "photo_material_review",
+      "colour_endpoints": [
+        [
+          0.47999998927116394,
+          0.3499999940395355,
+          0.2199999988079071
+        ],
+        [
+          0.47999998927116394,
+          0.3499999940395355,
+          0.2199999988079071
+        ]
+      ]
+    },
+    {
+      "id": "M_2711b6c0e3cae6",
+      "source_name": "v040 window EPDM seals",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_2711b6c0e3cae6",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.01691999927163124,
+          0.02256000019609928,
+          0.023500000350177287
+        ],
+        [
+          0.019079999178647996,
+          0.025440000221133234,
+          0.026500000394880773
+        ]
+      ]
+    },
+    {
+      "id": "M_a114d0266b0b18",
+      "source_name": "v043 cast iron drainage",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_a114d0266b0b18",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.03290000014007091,
+          0.03947999946773052,
+          0.038540001064538955
+        ],
+        [
+          0.03710000015795231,
+          0.04451999939978123,
+          0.04346000120043755
+        ]
+      ]
+    },
+    {
+      "id": "M_f9a15f007b04fb",
+      "source_name": "v043 damp shoreline mineral",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f9a15f007b04fb",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.12219999551773071,
+          0.15039999663829803,
+          0.09869999691843986
+        ],
+        [
+          0.13779999494552614,
+          0.1695999962091446,
+          0.11129999652504921
+        ]
+      ]
+    },
+    {
+      "id": "M_e85d3ad87ecf2b",
+      "source_name": "v043 dry fallen leaf 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_e85d3ad87ecf2b",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.13160000056028365,
+          0.08929999887943267,
+          0.029139999523758887
+        ],
+        [
+          0.14840000063180925,
+          0.10069999873638154,
+          0.032859999462962156
+        ]
+      ]
+    },
+    {
+      "id": "M_0f5934642eb723",
+      "source_name": "v043 dry fallen leaf 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_0f5934642eb723",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.19739999383687973,
+          0.1457000011205673,
+          0.04888000100851059
+        ],
+        [
+          0.22259999305009842,
+          0.1643000012636185,
+          0.055120001137256625
+        ]
+      ]
+    },
+    {
+      "id": "M_6f337f02b9ef1e",
+      "source_name": "v043 dry fallen leaf 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_6f337f02b9ef1e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.235,
+          0.1880000028014183,
+          0.07614000022411346
+        ],
+        [
+          0.265,
+          0.21200000315904619,
+          0.0858600002527237
+        ]
+      ]
+    },
+    {
+      "id": "M_1d0b3346f6854a",
+      "source_name": "v043 sawn granite tone 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_1d0b3346f6854a",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.33840001344680787,
+          0.3571999955177307,
+          0.31960000336170197
+        ],
+        [
+          0.3816000151634216,
+          0.40279999494552615,
+          0.3604000037908554
+        ]
+      ]
+    },
+    {
+      "id": "M_ed9947e4f8f297",
+      "source_name": "v043 sawn granite tone 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_ed9947e4f8f297",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.3760000056028366,
+          0.385399996638298,
+          0.3478000044822693
+        ],
+        [
+          0.42400000631809237,
+          0.43459999620914463,
+          0.3922000050544739
+        ]
+      ]
+    },
+    {
+      "id": "M_31bafafe90fdbc",
+      "source_name": "v043 sawn granite tone 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_31bafafe90fdbc",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.4042000067234039,
+          0.41359999775886536,
+          0.3760000056028366
+        ],
+        [
+          0.45580000758171085,
+          0.46639999747276306,
+          0.42400000631809237
+        ]
+      ]
+    },
+    {
+      "id": "M_341a956b63d66e",
+      "source_name": "v043 sawn granite tone 3",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_341a956b63d66e",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.3571999955177307,
+          0.3713000100851059,
+          0.33840001344680787
+        ],
+        [
+          0.40279999494552615,
+          0.41870001137256624,
+          0.3816000151634216
+        ]
+      ]
+    },
+    {
+      "id": "M_bbb18583dfca1a",
+      "source_name": "v043 sedge green 0",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bbb18583dfca1a",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.08460000336170197,
+          0.15039999663829803,
+          0.030080001428723333
+        ],
+        [
+          0.0954000037908554,
+          0.1695999962091446,
+          0.03392000161111355
+        ]
+      ]
+    },
+    {
+      "id": "M_811aa9c67d9210",
+      "source_name": "v043 sedge green 1",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_811aa9c67d9210",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.13160000056028365,
+          0.2162000039219856,
+          0.04888000100851059
+        ],
+        [
+          0.14840000063180925,
+          0.24380000442266467,
+          0.055120001137256625
+        ]
+      ]
+    },
+    {
+      "id": "M_618b2ab5089e65",
+      "source_name": "v043 sedge green 2",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_618b2ab5089e65",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "scalar_material",
+      "colour_endpoints": [
+        [
+          0.2162000039219856,
+          0.27259999215602876,
+          0.07990000084042549
+        ],
+        [
+          0.24380000442266467,
+          0.3073999911546707,
+          0.09010000094771385
+        ]
+      ]
+    },
+    {
+      "id": "M_f3863f06f1ba44",
+      "source_name": "v043 weathered drain surround",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_f3863f06f1ba44",
+      "parent": "/Game/WZMS/Materials/M_WZMS_surface.M_WZMS_surface",
+      "source_photos": [],
+      "source_transfer_status": "native_procedural_rebuild",
+      "colour_endpoints": [
+        [
+          0.235,
+          0.2538000100851059,
+          0.235
+        ],
+        [
+          0.265,
+          0.28620001137256623,
+          0.265
+        ]
+      ]
+    }
+  ],
+  "binding": "StaticMeshComponent overrides; material edits do not rebuild mesh geometry",
+  "note": "UE material reconstruction; not shader-identical to Blender.",
+  "source_colour_links_followed": true
+}

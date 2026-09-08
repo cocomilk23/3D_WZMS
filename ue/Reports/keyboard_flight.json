@@ -1,0 +1,72 @@
+{
+  "pawn": "BP_WZMS_Explorer_C",
+  "location_cm": [
+    -1450.0,
+    3000.0,
+    91.14994049072266
+  ],
+  "movement_mode": "<MovementMode.MOVE_FLYING: 5>",
+  "flying": true,
+  "camera": "<Object '/Game/WZMS/Maps/UEDPIE_0_L_WZMS_South.L_WZMS_South:PersistentLevel.BP_WZMS_Explorer_C_0' (0x000001AF130D8C00) Class 'BP_WZMS_Explorer_C'>",
+  "camera_components": [
+    [
+      "ExplorerCamera",
+      [
+        -1450.0,
+        3000.0,
+        171.14994049072266
+      ]
+    ]
+  ],
+  "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+  "ground_checks": [
+    {
+      "point": "spawn",
+      "xy_cm": [
+        -1450,
+        3000
+      ],
+      "blocking_hit": true
+    },
+    {
+      "point": "gate",
+      "xy_cm": [
+        0,
+        0
+      ],
+      "blocking_hit": true
+    },
+    {
+      "point": "plaza_near",
+      "xy_cm": [
+        0,
+        -1000
+      ],
+      "blocking_hit": true
+    },
+    {
+      "point": "plaza_middle",
+      "xy_cm": [
+        0,
+        -2500
+      ],
+      "blocking_hit": true
+    },
+    {
+      "point": "plaza_far",
+      "xy_cm": [
+        0,
+        -4400
+      ],
+      "blocking_hit": true
+    },
+    {
+      "point": "tennis",
+      "xy_cm": [
+        3100,
+        4200
+      ],
+      "blocking_hit": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "capture_requested": true,
+  "duration_seconds": 12.007140000001527,
+  "fps_cap": 60,
+  "mode": "Play In Editor",
+  "note": "Inspect the saved CSV and record viewport resolution; this is not a packaged-game benchmark."
+}

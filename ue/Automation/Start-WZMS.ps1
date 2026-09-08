@@ -13,7 +13,7 @@ if ($taskExisting) { Write-Output "WZMS editor already running: $($taskExisting.
 ${env:UE-LocalDataCachePath}="$taskCache/DDC"
 $env:TEMP="$taskCache/Temp"
 $env:TMP="$taskCache/Temp"
-$taskArguments=@(('"'+$taskProject+'"'), '-NoSplash', '-Unattended', '-NoSound', '-culture=en', '-ModelContextProtocolStartServer', '-ModelContextProtocolPort=8010', ('-AbsLog="'+$taskLogs+'/UnrealMCP.log"'))
+$taskArguments=@(('"'+$taskProject+'"'), '-NoSplash', '-Unattended', '-NoSound', '-culture=en', '-SCCProvider=None', '-ModelContextProtocolStartServer', '-ModelContextProtocolPort=8010', ('-AbsLog="'+$taskLogs+'/UnrealMCP.log"'))
 $taskEditor=Start-Process -FilePath $taskEngine -ArgumentList $taskArguments -WorkingDirectory $taskWorkspace -WindowStyle Hidden -PassThru
 $taskEditor.Id | Set-Content (Join-Path $taskLogs 'editor_pid.txt')
 Write-Output "WZMS editor launched: $($taskEditor.Id); MCP http://127.0.0.1:8010/mcp"

@@ -1,0 +1,58 @@
+{
+  "complete": true,
+  "initial": {
+    "location_cm": [
+      -1450.0,
+      3000.0,
+      91.14994049072266
+    ],
+    "flying": false,
+    "mode": "<MovementMode.MOVE_WALKING: 1>"
+  },
+  "tests": [
+    {
+      "test": "compiled ToggleFlight enters flight",
+      "passed": true
+    },
+    {
+      "test": "compiled ToggleFlight restores walking XY and snaps capsule to floor within step height",
+      "passed": true,
+      "saved_cm": [
+        -1450.0,
+        3000.0,
+        120.0
+      ],
+      "restored_cm": [
+        -1450.0,
+        3000.0,
+        91.14994049072266
+      ]
+    },
+    {
+      "test": "character movement and ground collision for two seconds",
+      "passed": true,
+      "travel_cm": 796.9641210738341,
+      "end": {
+        "location_cm": [
+          -1450.0,
+          2203.035878926166,
+          91.14994049072266
+        ],
+        "flying": false,
+        "mode": "<MovementMode.MOVE_WALKING: 1>"
+      }
+    }
+  ],
+  "final": {
+    "location_cm": [
+      -1450.0,
+      2183.269882839322,
+      91.14994049072266
+    ],
+    "flying": false,
+    "mode": "<MovementMode.MOVE_WALKING: 1>"
+  },
+  "slate_tick_median_ms": 28.46920001320541,
+  "slate_tick_note": "Editor Slate tick interval, not a standalone GPU benchmark.",
+  "passed": true
+}

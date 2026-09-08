@@ -1,0 +1,332 @@
+{
+  "passed": true,
+  "mesh_count": 54,
+  "meshes": [
+    {
+      "mesh": "SM_south_solid_044",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_045",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_046",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_047",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_048",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_049",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_050",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_051",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_052",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_solid_053",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_glass_043",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_water_054",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_001",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_002",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_003",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_004",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_005",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_006",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_007",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_008",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_009",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_010",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_011",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_012",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_013",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_014",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_015",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_016",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_017",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_018",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_019",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_020",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_021",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_022",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_023",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_024",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_025",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_026",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_027",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_028",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_029",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_030",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_031",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_032",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_033",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_034",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_035",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_036",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_037",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_038",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_039",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_040",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_041",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    },
+    {
+      "mesh": "SM_south_foliage_042",
+      "triangles_preserved": true,
+      "transform_correct": true,
+      "materials_bound": true
+    }
+  ],
+  "source_hash": "3f22de7bcfceb9410968d8255e1aa91a9a579c99ab154b27665e58cbc3f877ab",
+  "verified_after_nanite_build": true
+}

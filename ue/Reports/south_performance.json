@@ -1,0 +1,44 @@
+{
+  "source": "South_Runtime_Profile.csv",
+  "frames": 716,
+  "duration_seconds": 12.013794599999999,
+  "average_fps": 59.59815560688877,
+  "timings": {
+    "FrameTime": {
+      "mean": 16.779042737430167,
+      "median": 16.667250000000003,
+      "p95": 16.7367
+    },
+    "GameThreadTime": {
+      "mean": 10.443401117318436,
+      "median": 9.8271,
+      "p95": 15.4174
+    },
+    "RenderThreadTime": {
+      "mean": 10.941662150837988,
+      "median": 10.318000000000001,
+      "p95": 15.9921
+    },
+    "GPUTime": {
+      "mean": 9.018084916201117,
+      "median": 8.981300000000001,
+      "p95": 9.6424
+    },
+    "GPUMem/LocalUsedMB": {
+      "mean": 4207.381568715084,
+      "median": 4804.6016,
+      "p95": 4804.6016
+    }
+  },
+  "mode": "UE 5.8 Play In Editor, south gate/plaza view",
+  "gpu": "RTX 3060 Laptop 6GB",
+  "fps_cap": 60,
+  "displayed_game_viewport_pixels": [
+    1355,
+    539
+  ],
+  "limitations": [
+    "One fixed ground view over about 12 seconds; not a whole-zone walk or packaged benchmark.",
+    "Viewport dimensions measured from the Slate screenshot; this does not certify 1080p or 4K performance."
+  ]
+}

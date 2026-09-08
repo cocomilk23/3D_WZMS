@@ -1,0 +1,369 @@
+{
+  "complete": true,
+  "meshes": [
+    {
+      "mesh": "SM_south_foliage_001",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_002",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_003",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_004",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_005",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_006",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_007",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_008",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_009",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_010",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_011",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_012",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_013",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_014",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_015",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_016",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_017",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_018",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_019",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_020",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_021",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_022",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_023",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_024",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_025",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_026",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_027",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_028",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_029",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_030",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_031",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_032",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_033",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_034",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_035",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_036",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_037",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_038",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_039",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_040",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_041",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_foliage_042",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.PRESERVE_AREA: 1>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_044",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_045",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_046",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_047",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_048",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_049",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_050",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_051",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_052",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    },
+    {
+      "mesh": "SM_south_solid_053",
+      "enabled": true,
+      "shape_preservation": "<NaniteShapePreservation.NONE: 0>",
+      "source_retained": true,
+      "fallback_percent": 1.0
+    }
+  ]
+}

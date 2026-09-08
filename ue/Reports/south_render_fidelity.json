@@ -1,0 +1,17 @@
+{
+  "solid_components_use_full_source_fallback": [
+    "SM_south_solid_044",
+    "SM_south_solid_045",
+    "SM_south_solid_046",
+    "SM_south_solid_047",
+    "SM_south_solid_048",
+    "SM_south_solid_049",
+    "SM_south_solid_050",
+    "SM_south_solid_051",
+    "SM_south_solid_052",
+    "SM_south_solid_053"
+  ],
+  "reason": "Retain millimetre-separated painted lines and layered paving; Nanite simplification/quantization caused visible distant surface artifacts at actor scale 100.",
+  "foliage_nanite_retained": true,
+  "non_nanite_coarse_shadow_pages": false
+}

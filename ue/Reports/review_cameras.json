@@ -1,0 +1,52 @@
+[
+  {
+    "label": "Review_05_Plaza_from_gate",
+    "location_cm": [
+      100.0,
+      -450.0,
+      172.00000286102295
+    ],
+    "rotation": "<Struct 'Rotator' (0x000001ACB1066C70) {pitch: 2.589252, yaw: -91.877876, roll: -0.000000}>",
+    "fov": 65.47045135498047
+  },
+  {
+    "label": "Review_186_South_registered_aerial",
+    "location_cm": [
+      16600.0,
+      17400.0,
+      16200.0
+    ],
+    "rotation": "<Struct 'Rotator' (0x000001ACB1066C70) {pitch: -35.343906, yaw: -130.383652, roll: 0.000000}>",
+    "fov": 45.42882537841797
+  },
+  {
+    "label": "Review_187_Tennis_registered_school_view",
+    "location_cm": [
+      3100.0,
+      4200.0,
+      172.00000286102295
+    ],
+    "rotation": "<Struct 'Rotator' (0x000001ACB1066C70) {pitch: 3.844948, yaw: -107.896133, roll: -0.000000}>",
+    "fov": 78.57881164550781
+  },
+  {
+    "label": "Review_188_South_gate_registered_axis",
+    "location_cm": [
+      -2400.0,
+      1800.0,
+      172.00000286102295
+    ],
+    "rotation": "<Struct 'Rotator' (0x000001ACB1066C70) {pitch: 4.299600, yaw: -70.016891, roll: -0.000000}>",
+    "fov": 71.50777435302734
+  },
+  {
+    "label": "Review_Gate_Exterior",
+    "location_cm": [
+      -2500.0,
+      9000.0,
+      750.0
+    ],
+    "rotation": "<Struct 'Rotator' (0x000001ACB1066130) {pitch: -2.105514, yaw: -90.000000, roll: -0.000000}>",
+    "fov": 65.0
+  }
+]

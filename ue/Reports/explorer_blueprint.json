@@ -1,0 +1,27 @@
+{
+  "compiled": true,
+  "pawn": "/Game/WZMS/Blueprints/BP_WZMS_Explorer.BP_WZMS_Explorer",
+  "game_mode": "/Game/WZMS/Blueprints/BP_WZMS_GameMode.BP_WZMS_GameMode",
+  "capsule_cm": {
+    "radius": 30,
+    "half_height": 90
+  },
+  "eye_above_capsule_centre_cm": 80,
+  "walk_speed_cm_s": 420,
+  "fly_speed_cm_s": 1800,
+  "controls": {
+    "WASD": "move",
+    "mouse": "look",
+    "Tab": "flight / return to last walking position",
+    "E/Q": "ascend / descend in flight",
+    "Shift": "faster",
+    "Space": "jump",
+    "R": "return to gate"
+  },
+  "runtime_tested": true,
+  "runtime_report": "explorer_runtime.json",
+  "keyboard_reports": [
+    "keyboard_flight.json",
+    "keyboard_return.json"
+  ]
+}

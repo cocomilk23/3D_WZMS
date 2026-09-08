@@ -1,0 +1,16 @@
+{
+  "sun_lux": 35000,
+  "sun_euler_ue": [
+    -42,
+    -130,
+    0
+  ],
+  "fixed_exposure_ev": 13,
+  "sky_realtime_capture": true,
+  "motion_blur": false,
+  "spawn_cm": [
+    -1450,
+    3000,
+    120
+  ]
+}

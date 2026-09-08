@@ -1,0 +1,1519 @@
+{
+  "source_sha256": "3f22de7bcfceb9410968d8255e1aa91a9a579c99ab154b27665e58cbc3f877ab",
+  "zone": "south",
+  "map": "/Game/WZMS/Maps/L_WZMS_South",
+  "coordinate_mapping": "UE world cm = (Blender X, -Blender Y, Blender Z) * 100",
+  "mesh_local_units": "FBX local vertices are retained; actor scale 100 converts metres to centimetres. Validated with asymmetric fixture.",
+  "chunks": [
+    {
+      "name": "SM_south_solid_044",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_044",
+      "source_triangles": 50098,
+      "ue_triangles": 50074,
+      "source_zero_area_faces": 24,
+      "material_slots": [
+        "M_1dde2345c58abc",
+        "M_a9e35683ac9021",
+        "M_a830b22e7c9865",
+        "M_8036c458d7b4de",
+        "M_97bd7c56616d8d",
+        "M_3ec4ec491ad23b",
+        "M_6defc2f32c2ba9",
+        "M_83f72a544949f8",
+        "M_849c287514fdc1",
+        "M_81b7c8953974a8",
+        "M_2879c2a236c2c9",
+        "M_c382f01804ff5f",
+        "M_b00df476ba8be9",
+        "M_7bc8f8c1cf70f6",
+        "M_175d341612d200",
+        "M_972aae8bfcf898",
+        "M_ccee06e110f9e8",
+        "M_10c16ec62293c5",
+        "M_27ef3b989a7a69",
+        "M_11f0aee07d58dc",
+        "M_e0fa0c3c864847",
+        "M_b05307fb39ad91",
+        "M_a85a29e847f294",
+        "M_9c19aed38edfe6"
+      ],
+      "placement_cm": [
+        7015.493011474609,
+        -3005.1055908203125,
+        1059.5000267028809
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_045",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_045",
+      "source_triangles": 43446,
+      "ue_triangles": 43428,
+      "source_zero_area_faces": 18,
+      "material_slots": [
+        "M_6cc2d7e149c18d",
+        "M_8f19feabfd5d19",
+        "M_849c287514fdc1",
+        "M_f80a54c3fec033",
+        "M_b05307fb39ad91",
+        "M_5a0b675f6ceea0",
+        "M_1ade03189f67e6",
+        "M_eb54d655a5c71f",
+        "M_9c19aed38edfe6",
+        "M_1c0d733c664e57",
+        "M_5ad9d7a443037a",
+        "M_6543b08176d99e",
+        "M_a85a29e847f294",
+        "M_a830b22e7c9865",
+        "M_5acf9c9db064c2",
+        "M_a9e35683ac9021",
+        "M_152189fc47a3f0",
+        "M_972aae8bfcf898",
+        "M_628c8a6ae940c4",
+        "M_e0fa0c3c864847",
+        "M_669d5950987115",
+        "M_10c16ec62293c5",
+        "M_0fdf1861a480bb",
+        "M_175d341612d200"
+      ],
+      "placement_cm": [
+        -3225.0,
+        -1500.0,
+        1143.2499885559082
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_046",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_046",
+      "source_triangles": 73382,
+      "ue_triangles": 73334,
+      "source_zero_area_faces": 48,
+      "material_slots": [
+        "M_b00df476ba8be9",
+        "M_14c135c5323e1e",
+        "M_83985ecf686e28",
+        "M_ae293d558975c1",
+        "M_27ef3b989a7a69",
+        "M_6defc2f32c2ba9",
+        "M_a830b22e7c9865",
+        "M_6db77e6280d89e",
+        "M_a9e35683ac9021",
+        "M_97bd7c56616d8d",
+        "M_11f0aee07d58dc",
+        "M_9622d395d3cbd5",
+        "M_2a41c93a0e882e",
+        "M_9c19aed38edfe6",
+        "M_5fbd2a7a14e597",
+        "M_2a76fce78d58ec",
+        "M_41ee8f50d53b81",
+        "M_849c287514fdc1",
+        "M_6cc2d7e149c18d",
+        "M_b328c09f232a87",
+        "M_412ccd9b86b066",
+        "M_dcc7b40691ad68",
+        "M_d128e5793bd7a6"
+      ],
+      "placement_cm": [
+        8525.0,
+        -2987.4109268188477,
+        886.9999885559082
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_047",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_047",
+      "source_triangles": 52621,
+      "ue_triangles": 52589,
+      "source_zero_area_faces": 32,
+      "material_slots": [
+        "M_8f19feabfd5d19",
+        "M_a9e35683ac9021",
+        "M_7dd6a6220bbbb7",
+        "M_e0fa0c3c864847",
+        "M_152189fc47a3f0",
+        "M_27ef3b989a7a69",
+        "M_a7e0a544c54444",
+        "M_97bd7c56616d8d",
+        "M_972aae8bfcf898",
+        "M_10c16ec62293c5",
+        "M_ede240e816c2f7",
+        "M_d7060a1dd25c74"
+      ],
+      "placement_cm": [
+        1503.2501220703125,
+        -1801.0000228881836,
+        965.7500267028809
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_048",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_048",
+      "source_triangles": 146281,
+      "ue_triangles": 146185,
+      "source_zero_area_faces": 96,
+      "material_slots": [
+        "M_d7060a1dd25c74",
+        "M_972aae8bfcf898",
+        "M_a830b22e7c9865",
+        "M_9622d395d3cbd5",
+        "M_815e52cd1cfa4d",
+        "M_3ec4ec491ad23b",
+        "M_97bd7c56616d8d",
+        "M_3add84dc163aec",
+        "M_a9e35683ac9021",
+        "M_1dde2345c58abc",
+        "M_83f72a544949f8",
+        "M_849c287514fdc1",
+        "M_81b7c8953974a8",
+        "M_459d138b8a3374",
+        "M_0fdf1861a480bb",
+        "M_e8330cddf3b050",
+        "M_175d341612d200",
+        "M_b31090b4637ac0",
+        "M_59e37707cb6ffa"
+      ],
+      "placement_cm": [
+        7191.63818359375,
+        -2602.410888671875,
+        1138.5000228881836
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_049",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_049",
+      "source_triangles": 26802,
+      "ue_triangles": 26302,
+      "source_zero_area_faces": 500,
+      "material_slots": [
+        "M_59e37707cb6ffa",
+        "M_10c16ec62293c5",
+        "M_152189fc47a3f0",
+        "M_2879c2a236c2c9",
+        "M_a9e35683ac9021",
+        "M_a830b22e7c9865",
+        "M_0fdf1861a480bb",
+        "M_27ef3b989a7a69",
+        "M_b00df476ba8be9",
+        "M_815e52cd1cfa4d",
+        "M_076777db6ab354",
+        "M_6cc2d7e149c18d",
+        "M_9c19aed38edfe6",
+        "M_2457474ad4c26a",
+        "M_41ee8f50d53b81",
+        "M_a7ee8993276527",
+        "M_849c287514fdc1",
+        "M_8f19feabfd5d19",
+        "M_73f101821061cb",
+        "M_e18c72faac9950",
+        "M_14c135c5323e1e",
+        "M_e8330cddf3b050",
+        "M_175d341612d200",
+        "M_b31090b4637ac0"
+      ],
+      "placement_cm": [
+        3004.495620727539,
+        -1875.0,
+        1122.5000381469727
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_050",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_050",
+      "source_triangles": 126556,
+      "ue_triangles": 121420,
+      "source_zero_area_faces": 5136,
+      "material_slots": [
+        "M_c0fee882dea3e9",
+        "M_da9defe142040b",
+        "M_6db77e6280d89e",
+        "M_a9e35683ac9021",
+        "M_27ef3b989a7a69",
+        "M_b00df476ba8be9",
+        "M_97bd7c56616d8d",
+        "M_7076aa164bd3ce",
+        "M_ede240e816c2f7",
+        "M_175d341612d200",
+        "M_10c16ec62293c5",
+        "M_ccee06e110f9e8",
+        "M_9622d395d3cbd5",
+        "M_972aae8bfcf898",
+        "M_152189fc47a3f0",
+        "M_a0ffb9a12fb8df",
+        "M_11f0aee07d58dc",
+        "M_8d03b81aaea70d",
+        "M_a830b22e7c9865",
+        "M_a7e0a544c54444",
+        "M_628c8a6ae940c4",
+        "M_2822a620450e15",
+        "M_316ceacd8a43b8",
+        "M_9c19aed38edfe6"
+      ],
+      "placement_cm": [
+        7593.00537109375,
+        -1525.0,
+        1131.9000244140625
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_051",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_051",
+      "source_triangles": 271526,
+      "ue_triangles": 270784,
+      "source_zero_area_faces": 742,
+      "material_slots": [
+        "M_849c287514fdc1",
+        "M_9c19aed38edfe6",
+        "M_07a6763c59a9dd",
+        "M_2822a620450e15",
+        "M_4cec409e98c65f",
+        "M_17a968ec78ab98",
+        "M_81b7c8953974a8",
+        "M_425de7f3d75e51",
+        "M_09ece66d903747",
+        "M_1854a166d84e01",
+        "M_990a3dde1ea04f",
+        "M_14c135c5323e1e",
+        "M_ad2865fdd9605c",
+        "M_175d341612d200",
+        "M_59e37707cb6ffa",
+        "M_a830b22e7c9865",
+        "M_11f0aee07d58dc",
+        "M_a9e35683ac9021",
+        "M_97bd7c56616d8d",
+        "M_e0fa0c3c864847",
+        "M_83f72a544949f8",
+        "M_27ef3b989a7a69",
+        "M_10c16ec62293c5",
+        "M_1dde2345c58abc"
+      ],
+      "placement_cm": [
+        8929.740142822266,
+        -3629.0000915527344,
+        1017.5000190734863
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_052",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_052",
+      "source_triangles": 276436,
+      "ue_triangles": 276436,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_152189fc47a3f0",
+        "M_27ef3b989a7a69",
+        "M_3d5f2aa7b13dcb",
+        "M_2f8c26d4927185",
+        "M_2711b6c0e3cae6",
+        "M_6cc2d7e149c18d",
+        "M_14c135c5323e1e",
+        "M_849c287514fdc1",
+        "M_fd346f68bf8c31",
+        "M_6ef49cdb1caa28",
+        "M_4a230041345dc0",
+        "M_341052951b747d",
+        "M_e8d5e7a1f6daf6",
+        "M_a0805a8d5af2cc",
+        "M_d381fe14a75064",
+        "M_a0662999e59355",
+        "M_41ee8f50d53b81",
+        "M_175d341612d200",
+        "M_9c19aed38edfe6",
+        "M_79c8deaa523720"
+      ],
+      "placement_cm": [
+        3850.0,
+        -3750.0,
+        908.6250305175781
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_solid_053",
+      "role": "solid",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_solid_053",
+      "source_triangles": 63654,
+      "ue_triangles": 63654,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_6cc2d7e149c18d",
+        "M_d381fe14a75064",
+        "M_a0662999e59355",
+        "M_41ee8f50d53b81",
+        "M_27ef3b989a7a69",
+        "M_5a0b675f6ceea0",
+        "M_849c287514fdc1",
+        "M_b05307fb39ad91",
+        "M_9c19aed38edfe6",
+        "M_79c8deaa523720",
+        "M_f3863f06f1ba44",
+        "M_a114d0266b0b18",
+        "M_ed9947e4f8f297",
+        "M_31bafafe90fdbc",
+        "M_341a956b63d66e",
+        "M_1d0b3346f6854a",
+        "M_f9a15f007b04fb"
+      ],
+      "placement_cm": [
+        3850.0,
+        2916.4588928222656,
+        -64.87656831741333
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "complex_source",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_glass_043",
+      "role": "glass",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_glass_043",
+      "source_triangles": 24000,
+      "ue_triangles": 23984,
+      "source_zero_area_faces": 16,
+      "material_slots": [
+        "M_18afff3d1c2ca0",
+        "M_ae7dc7a6732b0d",
+        "M_c08dc2eeaf2ba5",
+        "M_4cd3f1b444d265",
+        "M_df9f989e271cd1",
+        "M_e740099a8383ae",
+        "M_dd665f10495f2f",
+        "M_9fbb746b00c809",
+        "M_1fe0668d362440"
+      ],
+      "placement_cm": [
+        4957.271957397461,
+        -2059.0002059936523,
+        1029.2499542236328
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_water_054",
+      "role": "water",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_water_054",
+      "source_triangles": 34,
+      "ue_triangles": 34,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_6746f93a9d9c71"
+      ],
+      "placement_cm": [
+        10300.0,
+        -1950.0,
+        -117.99999475479126
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": false
+    },
+    {
+      "name": "SM_south_foliage_001",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_001",
+      "source_triangles": 138992,
+      "ue_triangles": 138992,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c",
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        4642.472076416016,
+        -7894.123840332031,
+        472.10216522216797
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_002",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_002",
+      "source_triangles": 123568,
+      "ue_triangles": 123568,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689",
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c"
+      ],
+      "placement_cm": [
+        -4688.258743286133,
+        -6624.140167236328,
+        62.977731227874756
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_003",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_003",
+      "source_triangles": 124048,
+      "ue_triangles": 124048,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689",
+        "M_bcbd1b33e6e98f",
+        "M_a6c28d824f8ed6",
+        "M_8314bf281dfa74",
+        "M_98a4d2ce8c3ff9",
+        "M_bd1ad971f9eef7",
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        310.2720260620117,
+        72.03521728515625,
+        703.6900043487549
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_004",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_004",
+      "source_triangles": 134400,
+      "ue_triangles": 134400,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        -1588.4321212768555,
+        -1723.1143951416016,
+        720.0000286102295
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_005",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_005",
+      "source_triangles": 134563,
+      "ue_triangles": 134563,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c",
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        -676.8847465515137,
+        -1648.561668395996,
+        547.4092483520508
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_006",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_006",
+      "source_triangles": 45028,
+      "ue_triangles": 45028,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        65.37246704101562,
+        -1503.293800354004,
+        25.53163170814514
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_007",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_007",
+      "source_triangles": 168462,
+      "ue_triangles": 144396,
+      "source_zero_area_faces": 24066,
+      "material_slots": [
+        "M_26f7de5c24a418",
+        "M_b81bf2ae7742bd",
+        "M_ca55aa7345e3e4"
+      ],
+      "placement_cm": [
+        9197.27554321289,
+        -1499.0808486938477,
+        27.731576561927795
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_008",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_008",
+      "source_triangles": 18049,
+      "ue_triangles": 18049,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_8cda5a0d82df35",
+        "M_bcbd1b33e6e98f",
+        "M_a6c28d824f8ed6",
+        "M_8314bf281dfa74",
+        "M_98a4d2ce8c3ff9",
+        "M_bd1ad971f9eef7"
+      ],
+      "placement_cm": [
+        3583.5777282714844,
+        1605.977439880371,
+        43.24902296066284
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_009",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_009",
+      "source_triangles": 236340,
+      "ue_triangles": 236340,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        -0.25730133056640625,
+        -6970.1171875,
+        155.44803142547607
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_010",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_010",
+      "source_triangles": 135848,
+      "ue_triangles": 135848,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        -2363.2171630859375,
+        166.13483428955078,
+        18.966765701770782
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_011",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_011",
+      "source_triangles": 135848,
+      "ue_triangles": 135848,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        -1207.3497772216797,
+        -2944.611358642578,
+        19.038115441799164
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_012",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_012",
+      "source_triangles": 135848,
+      "ue_triangles": 135848,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        -1103.2690048217773,
+        166.92256927490234,
+        18.93465369939804
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_013",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_013",
+      "source_triangles": 135848,
+      "ue_triangles": 135848,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_776eebb66faee8",
+        "M_4a643e45d4deac",
+        "M_4a59a05ff8bac3",
+        "M_7d0f6f18f111dc",
+        "M_a1f49ed47da689"
+      ],
+      "placement_cm": [
+        52.11436748504639,
+        -2944.9447631835938,
+        19.054286181926727
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_014",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_014",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -5354.505157470703,
+        -4361.112213134766,
+        731.3388824462891
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_015",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_015",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -5840.711212158203,
+        -5422.467041015625,
+        788.2208347320557
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_016",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_016",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -6157.950973510742,
+        -6234.3170166015625,
+        845.1026916503906
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_017",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_017",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -6319.748306274414,
+        -7473.912811279297,
+        731.3388824462891
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_018",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_018",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -6519.399261474609,
+        -8058.2061767578125,
+        788.2208347320557
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_019",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_019",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -7702.960205078125,
+        -7669.986724853516,
+        845.1026916503906
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_020",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_020",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -7668.580627441406,
+        -6489.785003662109,
+        731.3388824462891
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_021",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_021",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -7156.443023681641,
+        -5307.588195800781,
+        788.2208347320557
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_022",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_022",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        -6986.761474609375,
+        -4431.400299072266,
+        845.1026916503906
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_023",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_023",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        8541.450500488281,
+        -1235.6805801391602,
+        666.3310050964355
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_024",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_024",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        9484.951782226562,
+        -1927.5823593139648,
+        633.827018737793
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_025",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_025",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        9955.43441772461,
+        -1206.1080932617188,
+        503.81126403808594
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_026",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_026",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        22139.947509765625,
+        -8465.811157226562,
+        666.3310050964355
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_027",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_027",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        22235.26153564453,
+        -7574.4873046875,
+        544.4412231445312
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_028",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_028",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        19934.344482421875,
+        -6883.189392089844,
+        609.4491004943848
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_029",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_029",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        22116.392517089844,
+        -6357.871246337891,
+        576.9451141357422
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_030",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_030",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        20547.89581298828,
+        -5352.520751953125,
+        568.8191413879395
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_031",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_031",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        21590.63262939453,
+        -5213.567352294922,
+        552.567195892334
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_032",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_032",
+      "source_triangles": 138124,
+      "ue_triangles": 138124,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_bcbd1b33e6e98f",
+        "M_a6c28d824f8ed6",
+        "M_8314bf281dfa74",
+        "M_98a4d2ce8c3ff9",
+        "M_bd1ad971f9eef7",
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        -2034.0435028076172,
+        -678.6828994750977,
+        476.6326904296875
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_033",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_033",
+      "source_triangles": 43008,
+      "ue_triangles": 43008,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        45.70763111114502,
+        -2945.355224609375,
+        587.2653007507324
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_034",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_034",
+      "source_triangles": 144000,
+      "ue_triangles": 144000,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_51e1e533fb1fc1",
+        "M_c0d7d27dde8675",
+        "M_37eb6a43d5fad2",
+        "M_4ef902def6cb1e",
+        "M_2ec5b5a2655900"
+      ],
+      "placement_cm": [
+        10628.985595703125,
+        3357.9849243164062,
+        763.8428688049316
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_035",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_035",
+      "source_triangles": 138704,
+      "ue_triangles": 138704,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c",
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        8301.517486572266,
+        -853.3140182495117,
+        399.20969009399414
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_036",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_036",
+      "source_triangles": 128320,
+      "ue_triangles": 128224,
+      "source_zero_area_faces": 96,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c",
+        "M_16d12d7b4b566a",
+        "M_fd6b8ea6223189",
+        "M_37f51013ff8900",
+        "M_4dd73ceb3a7841",
+        "M_de110f6185381c",
+        "M_cad01139b94d0b",
+        "M_04a33ff8ee5e9e",
+        "M_3ddaaf7161aedc",
+        "M_840fad5bac7cf1",
+        "M_af8b26177605d6"
+      ],
+      "placement_cm": [
+        14147.479248046875,
+        -7055.176544189453,
+        414.34717178344727
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_037",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_037",
+      "source_triangles": 134400,
+      "ue_triangles": 134400,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        -2812.575912475586,
+        -4957.887268066406,
+        298.419713973999
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_038",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_038",
+      "source_triangles": 134400,
+      "ue_triangles": 134400,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        -697.7411270141602,
+        -4962.231063842773,
+        297.20191955566406
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_039",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_039",
+      "source_triangles": 136800,
+      "ue_triangles": 136800,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c",
+        "M_bcbd1b33e6e98f",
+        "M_a6c28d824f8ed6",
+        "M_8314bf281dfa74",
+        "M_98a4d2ce8c3ff9",
+        "M_bd1ad971f9eef7"
+      ],
+      "placement_cm": [
+        503.30982208251953,
+        -1268.6761856079102,
+        412.184476852417
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_040",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_040",
+      "source_triangles": 134400,
+      "ue_triangles": 134400,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        1944.1133499145508,
+        -2196.6094970703125,
+        515.6657695770264
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_041",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_041",
+      "source_triangles": 134400,
+      "ue_triangles": 134400,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_4554eaa7703fed",
+        "M_7246a1f19e78bf",
+        "M_3512340a560d1c",
+        "M_c17f44e07b515a",
+        "M_b42d4dc1cb508c"
+      ],
+      "placement_cm": [
+        4.2629241943359375,
+        -1644.002914428711,
+        519.2307472229004
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    },
+    {
+      "name": "SM_south_foliage_042",
+      "role": "foliage",
+      "mesh": "/Game/WZMS/South/Meshes/SM_south_foliage_042",
+      "source_triangles": 136840,
+      "ue_triangles": 136840,
+      "source_zero_area_faces": 0,
+      "material_slots": [
+        "M_9cf4c804844610",
+        "M_bbb18583dfca1a",
+        "M_811aa9c67d9210",
+        "M_618b2ab5089e65",
+        "M_e85d3ad87ecf2b",
+        "M_0f5934642eb723",
+        "M_6f337f02b9ef1e"
+      ],
+      "placement_cm": [
+        1774.9853134155273,
+        381.95457458496094,
+        -67.10192561149597
+      ],
+      "scale": 100,
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "nanite": true
+    }
+  ],
+  "complete": true,
+  "source_triangles": 6817074
+}
