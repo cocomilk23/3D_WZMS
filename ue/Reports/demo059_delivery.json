@@ -14,7 +14,9 @@
     "Single stadium overview only; separate goal/track shots replaced by Math Museum and School History Museum exteriors",
     "Generic waterfront replaced by Taohua Island",
     "Buqing wide arc includes plaza and teaching buildings",
-    "Arrival flight raised above near foreground canopy"
+    "Arrival flight raised above near foreground canopy",
+    "27.375–32.750s: repetitive teaching buildings replaced by Meihua art building facade and entrance",
+    "32.750–39.375s: ambiguous lotus/tennis shot replaced by Gym exterior leading into basketball"
   ],
   "render_patches": [
     {
@@ -43,11 +45,23 @@
       ],
       "report": "E:\\WZMS_UE\\ue\\Reports\\demo059_taohua_render.json",
       "success": true
+    },
+    {
+      "id": "middle_r02",
+      "range": [
+        657,
+        945
+      ],
+      "report": "E:\\WZMS_UE\\ue\\Reports\\demo059_middle_r02_render.json",
+      "success": true
     }
   ],
   "path": "E:\\WZMS_Media\\demo059\\WZMS_Anthem_Clean_v2_1080p.mp4",
-  "bytes": 144868159,
-  "sha256": "c4bd496901ef261b7b4588a283e1a3b720644762cb99e09a58ffb39f5d1045fd",
+  "bytes": 137825152,
+  "sha256": "c0459f1aff0ed728d99ade58eb0e7a8a0440e0e2cdb04e298da1f88dab574b96",
   "additional_visual_and_decode_qa": "Not performed, per explicit user instruction; direct owner acceptance.",
-  "user_review_pending": true
+  "user_review_pending": true,
+  "edit_revision": "r02",
+  "sequence": "/Game/WZMS/Cinematics/LS_Demo059_Campus_r02.LS_Demo059_Campus_r02",
+  "replaced_in_place": true
 }

@@ -1,7 +1,7 @@
 {
   "preview": null,
   "final": {
-    "sequence": "/Game/WZMS/Cinematics/LS_Demo059_Campus_r01.LS_Demo059_Campus_r01",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo059_Campus_r02.LS_Demo059_Campus_r02",
     "frames": 1885,
     "cuts": [
       {
@@ -29,13 +29,13 @@
         "end": 657
       },
       {
-        "id": "05_teaching",
+        "id": "05_meihua",
         "sample": null,
         "start": 657,
         "end": 786
       },
       {
-        "id": "06_lotus",
+        "id": "06_gym",
         "sample": null,
         "start": 786,
         "end": 945
@@ -78,5 +78,5 @@
       }
     ]
   },
-  "source": "Accepted final.57; user clean-only revised edit."
+  "source": "Accepted final.57; demo059 same-file revision of 27s/33s shots."
 }

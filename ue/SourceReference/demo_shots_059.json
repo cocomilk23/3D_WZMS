@@ -147,70 +147,70 @@
       "end_frame": 657
     },
     {
-      "id": "05_teaching",
-      "title": "教学楼",
-      "purpose": "以步青广场后方教学楼为主景，缓慢侧向揭示层次。",
+      "id": "05_meihua",
+      "title": "梅花岛艺术楼",
+      "purpose": "独立展现艺术楼白色入口框架和弧形玻璃立面，轻抬升侧移交代完整建筑，区别于教学楼全景。",
       "start": [
-        81,
-        106,
-        31
+        280,
+        90,
+        14
       ],
       "control": [
-        56,
-        105,
-        33
+        295,
+        93,
+        16
       ],
       "end": [
-        26,
-        113,
-        32
+        315,
+        99,
+        17
       ],
       "target_start": [
-        54,
-        194,
-        14
+        300,
+        131,
+        5
       ],
       "target_end": [
-        54,
-        194,
-        14
+        300,
+        131,
+        5
       ],
-      "fov": 60,
+      "fov": 62,
       "seconds": 5.375,
       "start_frame": 657,
       "end_frame": 786
     },
     {
-      "id": "06_lotus",
-      "title": "荷塘 · 网球场",
+      "id": "06_gym",
+      "title": "体育馆外景",
       "seconds": 6.625,
       "start": [
-        125,
-        -25,
-        25
+        -115,
+        349,
+        26
       ],
       "control": [
-        100,
-        -45,
-        15
+        -98,
+        344,
+        29
       ],
       "end": [
-        72,
-        -20,
-        11
+        -77,
+        344,
+        31
       ],
       "target_start": [
-        75,
-        20,
-        0
+        -76,
+        399,
+        8
       ],
       "target_end": [
-        60,
-        18,
-        0
+        -76,
+        399,
+        8
       ],
-      "fov": 65,
-      "purpose": "以荷塘、网球场和教学楼形成前中后景关系。",
+      "fov": 60,
+      "purpose": "以体育馆入口、百叶立面和曲面屋顶为唯一主体，侧前方平缓掠行，自然衔接下一段篮球场。",
       "start_frame": 786,
       "end_frame": 945
     },
@@ -420,5 +420,7 @@
     }
   ],
   "delivery": "Clean only; complete anthem retained",
-  "user_review_policy": "Deliver directly for user review; no additional agent visual/decode QA requested."
+  "user_review_policy": "Deliver directly for user review; no additional agent visual/decode QA requested.",
+  "edit_revision": "r02",
+  "revision_note": "Replace 27.375–39.375s only; same demo059 output path, music and all other shot timings unchanged."
 }

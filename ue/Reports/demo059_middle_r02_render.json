@@ -1,0 +1,22 @@
+{
+  "complete": true,
+  "started_unix": 1788986771.1625464,
+  "request": {
+    "name": "Anthem clean revision middle_r02",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo059_Campus_r02.LS_Demo059_Campus_r02",
+    "directory": "E:\\WZMS_Media\\demo059\\retakes\\middle_r02",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "samples": 8,
+    "frame_range": [
+      657,
+      945
+    ],
+    "report": "demo059_middle_r02_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788987120.0606017
+}
