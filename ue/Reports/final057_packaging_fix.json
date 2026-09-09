@@ -1,0 +1,6 @@
+{
+  "attempt": 1,
+  "reason": "Editor-only MovieRenderPipeline preview widget assets were enumerated for cook but their runtime module is excluded from the installed Shipping target.",
+  "preserved_logs": "E:\\WZMS_ValidationBuilds\\_failed\\0.1.0-final.57-cook01",
+  "fix": "Exclude /MovieRenderPipeline and offline /Game/WZMS/Cinematics from cook; keep MRQ enabled for editor cinematics."
+}
