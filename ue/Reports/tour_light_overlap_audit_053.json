@@ -1,0 +1,249 @@
+{
+  "method": "Offline sphere intersection and 2m grid sampling using authored source-light records; no runtime frame or image claims.",
+  "input_sha256": {
+    "campus_interior_lighting.json": "e24abc974d843249b8247b376d4261d01c63d8c1cb87dcf43c2305139d931baa",
+    "tour_interior_lighting.json": "73f21ba48f0d304c8f78747f8dbc9725cddd78f02de7def17d329297530279e6",
+    "tour_performance.json": "5f6fb60306e4cb9e7e518d9f7834b0353d2391d9c93d7c23805425bf5dbd7ebe"
+  },
+  "source_light_count": 128,
+  "areas": [
+    {
+      "area": "Alumni",
+      "source_light_count": 7,
+      "blender_source_types": {
+        "AREA": 7
+      },
+      "radius_m": {
+        "min": 6.5,
+        "median": 6.5,
+        "p95": 6.5,
+        "max": 6.5
+      },
+      "intersecting_sphere_pairs": 15,
+      "all_pairs": 21
+    },
+    {
+      "area": "Canteen",
+      "source_light_count": 15,
+      "blender_source_types": {
+        "AREA": 15
+      },
+      "radius_m": {
+        "min": 9.5,
+        "median": 9.5,
+        "p95": 9.5,
+        "max": 9.5
+      },
+      "intersecting_sphere_pairs": 64,
+      "all_pairs": 105
+    },
+    {
+      "area": "Gym",
+      "source_light_count": 43,
+      "blender_source_types": {
+        "AREA": 43
+      },
+      "radius_m": {
+        "min": 9.5,
+        "median": 9.5,
+        "p95": 18.0,
+        "max": 18.0
+      },
+      "intersecting_sphere_pairs": 443,
+      "all_pairs": 903
+    },
+    {
+      "area": "History",
+      "source_light_count": 24,
+      "blender_source_types": {
+        "AREA": 24
+      },
+      "radius_m": {
+        "min": 6.5,
+        "median": 6.5,
+        "p95": 6.5,
+        "max": 6.5
+      },
+      "intersecting_sphere_pairs": 195,
+      "all_pairs": 276
+    },
+    {
+      "area": "Library",
+      "source_light_count": 10,
+      "blender_source_types": {
+        "AREA": 10
+      },
+      "radius_m": {
+        "min": 22.0,
+        "median": 22.0,
+        "p95": 22.0,
+        "max": 22.0
+      },
+      "intersecting_sphere_pairs": 45,
+      "all_pairs": 45
+    },
+    {
+      "area": "Math",
+      "source_light_count": 17,
+      "blender_source_types": {
+        "AREA": 17
+      },
+      "radius_m": {
+        "min": 6.5,
+        "median": 6.5,
+        "p95": 6.5,
+        "max": 6.5
+      },
+      "intersecting_sphere_pairs": 55,
+      "all_pairs": 136
+    },
+    {
+      "area": "Zhouyuan",
+      "source_light_count": 12,
+      "blender_source_types": {
+        "SPOT": 12
+      },
+      "radius_m": {
+        "min": 6.5,
+        "median": 6.5,
+        "p95": 6.5,
+        "max": 6.5
+      },
+      "intersecting_sphere_pairs": 57,
+      "all_pairs": 66
+    }
+  ],
+  "sample_planes": [
+    {
+      "area": "Library",
+      "height_blender_m": 1.6,
+      "samples": 480,
+      "sphere_overlap_count": {
+        "min": 2,
+        "median": 6,
+        "p95": 10,
+        "max": 10
+      },
+      "max_overlap_point_ue_cm": [
+        12300,
+        -15200,
+        160.0
+      ]
+    },
+    {
+      "area": "Library",
+      "height_blender_m": 5.8,
+      "samples": 480,
+      "sphere_overlap_count": {
+        "min": 2,
+        "median": 6,
+        "p95": 10,
+        "max": 10
+      },
+      "max_overlap_point_ue_cm": [
+        12100,
+        -15400,
+        580.0
+      ]
+    },
+    {
+      "area": "Gym",
+      "height_blender_m": 2.6,
+      "samples": 600,
+      "sphere_overlap_count": {
+        "min": 1,
+        "median": 6,
+        "p95": 8,
+        "max": 11
+      },
+      "max_overlap_point_ue_cm": [
+        -9000,
+        -39500,
+        260.0
+      ]
+    },
+    {
+      "area": "Gym",
+      "height_blender_m": 10.6,
+      "samples": 600,
+      "sphere_overlap_count": {
+        "min": 1,
+        "median": 7,
+        "p95": 10,
+        "max": 11
+      },
+      "max_overlap_point_ue_cm": [
+        -8200,
+        -40500,
+        1060.0
+      ]
+    },
+    {
+      "area": "Canteen",
+      "height_blender_m": 2.6,
+      "samples": 336,
+      "sphere_overlap_count": {
+        "min": 1,
+        "median": 2,
+        "p95": 4,
+        "max": 4
+      },
+      "max_overlap_point_ue_cm": [
+        11700,
+        -35900,
+        260.0
+      ]
+    }
+  ],
+  "documented_additional_lights_outside_baseline": [
+    "Tour_InteriorLight_Library_Upper_00",
+    "Tour_InteriorLight_Library_Upper_01",
+    "Tour_InteriorLight_Library_Upper_02",
+    "Tour_InteriorLight_Library_Upper_03",
+    "Tour_InteriorLight_Library_Upper_04",
+    "Tour_InteriorLight_Library_Upper_05",
+    "Tour_InteriorBounce_Library_Upper_00",
+    "Tour_InteriorBounce_Library_Upper_01",
+    "Tour_InteriorBounce_Library_Upper_02",
+    "Tour_InteriorBounce_Library_Upper_03"
+  ],
+  "previous_clearance_inspector_omitted_prefixes": [
+    "Tour_InteriorLight_",
+    "Tour_InteriorBounce_"
+  ],
+  "inspector_scope_fixed_but_not_rerun": true,
+  "existing_measured_views": [
+    {
+      "view": "SouthGate",
+      "average_fps": 48.80993606137445,
+      "gpu_ms": 19.194640306122448
+    },
+    {
+      "view": "Aerial",
+      "average_fps": 54.896048856883525,
+      "gpu_ms": 16.902417304189434
+    },
+    {
+      "view": "Library",
+      "average_fps": 27.369823674605797,
+      "gpu_ms": 35.617543795620435
+    },
+    {
+      "view": "GymUpper",
+      "average_fps": 37.51480323645553,
+      "gpu_ms": 25.654590812250333
+    },
+    {
+      "view": "Canteen",
+      "average_fps": 50.08126910454221,
+      "gpu_ms": 18.779434031936127
+    }
+  ],
+  "limitations": [
+    "Sphere overlap is only potential influence, not rendered light count or GPU cost.",
+    "No occlusion, rect-light hemisphere, spot cone, floor-slab visibility, or shadow-cache reuse is simulated.",
+    "Extra lights are explicitly listed, excluded from sphere totals; their current active state needs a fresh editor inventory.",
+    "No new performance result, visual improvement, or standalone acceptance is claimed."
+  ],
+  "next_measurement": "Fresh editor session after user testing: inventory every authored local light, profile GPU passes at the same library/gym viewpoints, then compare isolated runtime-only lighting/shadow diagnostics with baseline before considering saved changes."
+}
