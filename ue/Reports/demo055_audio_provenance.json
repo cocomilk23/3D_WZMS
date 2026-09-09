@@ -1,0 +1,11 @@
+{
+  "composition": "Original deterministic ambient keys/pads by this project; no third-party recording or music sample.",
+  "environment": "Project original Tour_Gentle_Air.wav, synthesized air ambience; not a recording of the school.",
+  "audio": {
+    "sample_rate": 48000,
+    "seconds": 60,
+    "channels": 2,
+    "sha256": "ae711c74f3eaca074bf92cd5af5ff5750152482d1015bee24a0a0e66196fb14e"
+  },
+  "font": "Noto Sans SC, SIL Open Font License; see project ue/SourceFonts/NotoSansSC/OFL.txt."
+}

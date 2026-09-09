@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788945295.1600907,
+  "request": {
+    "name": "WZMS immersive demo 60 seconds",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo055_Campus_r02.LS_Demo055_Campus_r02",
+    "directory": "E:/WZMS_Media/demo055/frames-master",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "samples": 4,
+    "report": "demo055_final_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788945520.0505862
+}

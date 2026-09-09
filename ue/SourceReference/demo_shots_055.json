@@ -1,0 +1,15 @@
+{
+  "version": "demo-055",
+  "source_game_version": "0.1.0-test.54",
+  "fps": 24,
+  "resolution": [1920,1080],
+  "shots": [
+    {"id":"01_gate","title":"南大门","seconds":8,"start":[-31,-49,2.0],"end":[-25,-41,2.2],"target_start":[-26,-23,3.7],"target_end":[-25,-20,3.9],"fov":67},
+    {"id":"02_water","title":"水岸与荷塘","seconds":8,"start":[119,-36,29],"end":[110,-29,28],"target_start":[65,14,0],"target_end":[58,21,0],"fov":58.7},
+    {"id":"03_walk","title":"江口路","seconds":9,"start":[171.5,145,1.7],"end":[171.9,153,1.72],"target_start":[172.3,195,2.95],"target_end":[172.6,203,2.97],"fov":65.5},
+    {"id":"04_buqing","title":"步青广场","seconds":8,"start":[57,140,1.72],"end":[52,148,2.1],"target_start":[54,182,10],"target_end":[54,184,10.4],"fov":69.4},
+    {"id":"05_library","title":"图书馆","seconds":8,"start":[76,127,6],"end":[83,126,6.5],"target_start":[115,153,6],"target_end":[117,153,6.5],"fov":57.2},
+    {"id":"06_interior","title":"馆内一隅","seconds":8,"start":[119.1,155,5.95],"end":[123.1,155,5.95],"target_start":[140,155,6.88],"target_end":[144,155,6.88],"fov":81.2},
+    {"id":"07_campus","title":"温州中学","seconds":11,"start":[-245,-120,370],"end":[-265,-140,415],"target_start":[54,172,14],"target_end":[54,172,14],"fov":65.5}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_commit": "44097874ca0ccb2abc0afa9b3d340df899749f0d",
+  "version": "0.1.0-test.54",
+  "archive": "E:\\WZMS_ValidationBuilds\\0.1.0-test.54\\WZMS-0.1.0-test.54-Windows.zip",
+  "archive_bytes": 1736446338,
+  "archive_sha256": "e93f3c847fdfe62711fe103e15bda15278c9e96ae49aed0518e4604632c346bb",
+  "windows_bytes": 1736308151,
+  "file_count": 41,
+  "zip_crc_checked": true,
+  "source_assets_unchanged_during_build": true,
+  "standalone_user_acceptance_pending": true,
+  "launcher": "E:\\WZMS_ValidationBuilds\\0.1.0-test.54\\Windows\\WZMS.exe"
+}

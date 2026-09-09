@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788945035.8200204,
+  "request": {
+    "name": "Demo055 contact review",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo055_Contact_r01.LS_Demo055_Contact_r01",
+    "directory": "E:/WZMS_Media/demo055/contact-r01",
+    "resolution": [
+      960,
+      540
+    ],
+    "samples": 1,
+    "report": "demo055_contact_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788945068.6839132
+}

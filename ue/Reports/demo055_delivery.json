@@ -1,0 +1,30 @@
+{
+  "duration_seconds": 60,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frame_count": 1440,
+  "render_success": true,
+  "decoded_without_errors": true,
+  "visual_source": "Current UE campus with cinematic cameras; not uninterrupted first-person gameplay.",
+  "audio": "Original ambient score mixed with project-synthesized air ambience.",
+  "files": [
+    {
+      "path": "E:\\WZMS_Media\\demo055\\WZMS_Demo_60s_Promo_1080p.mp4",
+      "bytes": 47968758,
+      "sha256": "dfb37e4c7ec1c125377994391cf4dceacce03da6a1d0810eae32d9a65149b237"
+    },
+    {
+      "path": "E:\\WZMS_Media\\demo055\\WZMS_Demo_60s_Clean_1080p.mp4",
+      "bytes": 57330819,
+      "sha256": "b962e0816a35a65ca6c32276aeeddcd6a54925e22664ba87f79142f4aa4dd557"
+    }
+  ],
+  "user_review_pending": true,
+  "source_game_version": "0.1.0-test.54",
+  "source_game_commit": "44097874ca0ccb2abc0afa9b3d340df899749f0d",
+  "sequence": "/Game/WZMS/Cinematics/LS_Demo055_Campus_r02",
+  "visual_review": "Two rounds of start/middle/end camera renders; final gate, plaza, interior and title frame spot checks. Both complete MP4 streams decoded successfully."
+}
