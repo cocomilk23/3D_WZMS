@@ -1,0 +1,99 @@
+{
+  "preview": {
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo056_Contact_r03.LS_Demo056_Contact_r03",
+    "frames": 5,
+    "cuts": [
+      {
+        "id": "01_gate_arc",
+        "sample": 0,
+        "start": 0,
+        "end": 1
+      },
+      {
+        "id": "01_gate_arc",
+        "sample": 0.25,
+        "start": 1,
+        "end": 2
+      },
+      {
+        "id": "01_gate_arc",
+        "sample": 0.5,
+        "start": 2,
+        "end": 3
+      },
+      {
+        "id": "01_gate_arc",
+        "sample": 0.75,
+        "start": 3,
+        "end": 4
+      },
+      {
+        "id": "01_gate_arc",
+        "sample": 1,
+        "start": 4,
+        "end": 5
+      }
+    ]
+  },
+  "final": {
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo056_Campus_r03.LS_Demo056_Campus_r03",
+    "frames": 1800,
+    "cuts": [
+      {
+        "id": "01_gate_arc",
+        "sample": null,
+        "start": 0,
+        "end": 168
+      },
+      {
+        "id": "02_plaza_rise",
+        "sample": null,
+        "start": 168,
+        "end": 336
+      },
+      {
+        "id": "03_lotus_sweep",
+        "sample": null,
+        "start": 336,
+        "end": 528
+      },
+      {
+        "id": "04_library_orbit",
+        "sample": null,
+        "start": 528,
+        "end": 696
+      },
+      {
+        "id": "05_buqing_arc",
+        "sample": null,
+        "start": 696,
+        "end": 888
+      },
+      {
+        "id": "06_basketball",
+        "sample": null,
+        "start": 888,
+        "end": 1080
+      },
+      {
+        "id": "07_track_low",
+        "sample": null,
+        "start": 1080,
+        "end": 1272
+      },
+      {
+        "id": "08_track_orbit",
+        "sample": null,
+        "start": 1272,
+        "end": 1512
+      },
+      {
+        "id": "09_campus_reveal",
+        "sample": null,
+        "start": 1512,
+        "end": 1800
+      }
+    ]
+  },
+  "source": "Game campus 0.1.0-test.54; camera-only cinematic, not continuous player control."
+}

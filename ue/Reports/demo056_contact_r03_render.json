@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788968760.7918575,
+  "request": {
+    "name": "Exterior demo gate clearance review",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo056_Contact_r03.LS_Demo056_Contact_r03",
+    "directory": "E:/WZMS_Media/demo056/contact-r03",
+    "resolution": [
+      960,
+      540
+    ],
+    "samples": 1,
+    "report": "demo056_contact_r03_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788968767.0360935
+}

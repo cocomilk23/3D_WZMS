@@ -1,0 +1,53 @@
+{
+  "duration_seconds": 75,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frame_count": 1800,
+  "all_exterior": true,
+  "render_success": true,
+  "decoded_without_errors": true,
+  "visual_source": "Current UE campus with cinematic cameras; not uninterrupted first-person gameplay.",
+  "audio": "Original ambient score mixed with project-synthesized air ambience.",
+  "files": [
+    {
+      "path": "E:\\WZMS_Media\\demo056\\WZMS_Exterior_75s_Promo_1080p.mp4",
+      "bytes": 120102867,
+      "sha256": "347b6bb95ee00f7e3cc64403de15a0ee0fab73e1747ef52d5c75f44353fc93ba"
+    },
+    {
+      "path": "E:\\WZMS_Media\\demo056\\WZMS_Exterior_75s_Clean_1080p.mp4",
+      "bytes": 144061765,
+      "sha256": "c6ef258b73ffe7abb7ec3777fceb9e547e1577f786bf3a2aa4d8ee0e862956ec"
+    }
+  ],
+  "user_review_pending": true,
+  "game_version": "0.1.0-test.54",
+  "game_source_commit": "44097874ca0ccb2abc0afa9b3d340df899749f0d",
+  "sequence": "/Game/WZMS/Cinematics/LS_Demo056_Campus_r03",
+  "visual_review": {
+    "contact_samples_per_shot": 5,
+    "revisions": 3,
+    "encoded_spot_checks_seconds": [
+      3,
+      49,
+      58,
+      71
+    ],
+    "notes": "Inspected gate/title, low track pass, overhead track orbit, and final campus/title frames. No claim of full subjective video playback review."
+  },
+  "measured_promo": {
+    "duration_seconds": 75.0,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 24,
+    "audio_sample_rate": 48000,
+    "audio_channels": 2,
+    "mean_volume_db": -23.0,
+    "peak_volume_db": -9.1
+  }
+}

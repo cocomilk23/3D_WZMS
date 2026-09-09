@@ -4,10 +4,12 @@ from pathlib import Path
 import numpy as np
 from PIL import Image,ImageDraw,ImageFont
 ue=Path(__file__).resolve().parents[1]
-media=Path('E:/WZMS_Media/demo055');media.mkdir(parents=True,exist_ok=True)
 ff=Path('D:/python/Lib/site-packages/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe')
 font=ue/'SourceFonts/NotoSansSC/NotoSansSC.ttf'
-parser=argparse.ArgumentParser();parser.add_argument('--prepare-only',action='store_true');parser.add_argument('--reuse-clean',action='store_true');args=parser.parse_args()
+parser=argparse.ArgumentParser();parser.add_argument('--prepare-only',action='store_true');parser.add_argument('--reuse-clean',action='store_true');parser.add_argument('--version',default='055',choices=['055','056']);parser.add_argument('--seconds',type=int,default=60);args=parser.parse_args()
+seconds=args.seconds;assert 10<=seconds<=180
+media=Path('E:/WZMS_Media')/('demo'+args.version);media.mkdir(parents=True,exist_ok=True)
+exterior=args.version=='056'
 
 def digest(path):
     h=hashlib.sha256()
@@ -16,7 +18,7 @@ def digest(path):
     return h.hexdigest()
 
 def prepare():
-    sr=48000;seconds=60;rng=np.random.default_rng(55);audio=np.zeros((sr*seconds,2),np.float64)
+    sr=48000;rng=np.random.default_rng(55);audio=np.zeros((sr*seconds,2),np.float64)
     def tone(midi,start,duration,level,pan,pad=False):
         n=int(sr*duration);t=np.arange(n)/sr;hz=440*2**((midi-69)/12)
         if pad:
@@ -29,12 +31,12 @@ def prepare():
         if b>a:audio[a:b]+=y[:b-a,None]*level*np.array([math.sqrt((1-pan)/2),math.sqrt((1+pan)/2)])
     # Original D major / B minor / G major / A suspended progression, no sampled recording.
     chords=[[50,57,61,66],[47,54,57,62],[43,50,57,59],[45,52,57,62]]
-    for bar in range(8):
+    for bar in range(math.ceil(seconds/8)):
         start=bar*8;chord=chords[bar%4]
-        for j,m in enumerate(chord):tone(m,start,min(8.8,60-start),.005,-.45+j*.3,True)
+        for j,m in enumerate(chord):tone(m,start,min(8.8,seconds-start),.005,-.45+j*.3,True)
         for j in range(4):
             at=start+1+j*1.65
-            if at<58:tone(chord[(j+bar)%4]+12,at,5,.034,-.35+.7*rng.random())
+            if at<seconds-2:tone(chord[(j+bar)%4]+12,at,5,.034,-.35+.7*rng.random())
     wet=np.zeros_like(audio)
     for delay,gain in [(.083,.16),(.149,.13),(.263,.10),(.431,.075),(.691,.04)]:
         shift=int(sr*delay);wet[shift:]+=audio[:-shift,::-1]*gain
@@ -58,15 +60,15 @@ def prepare():
             draw.rectangle((0,0,1920,1080),fill=(6,15,18,85))
             x,y=960,425;anchor='mt'
             draw.text((x,y),'温州中学',font=face(76),fill=(255,255,252,255),anchor=anchor)
-            draw.text((x,y+110),'校 园 漫 游',font=face(36),fill=(245,246,237,250),anchor=anchor)
-            draw.text((x,y+191),'3D 场景 Demo  ·  自由探索',font=face(25),fill=(235,239,229,245),anchor=anchor)
+            draw.text((x,y+110),'校 园 掠 影' if exterior else '校 园 漫 游',font=face(36),fill=(245,246,237,250),anchor=anchor)
+            draw.text((x,y+191),'全外景  ·  3D 校园漫游' if exterior else '3D 场景 Demo  ·  自由探索',font=face(25),fill=(235,239,229,245),anchor=anchor)
             draw.line((885,y+173,1035,y+173),fill=(206,220,195,205),width=2)
         else:
             # Quiet lower-left lockup, leaving the actual gate lettering readable.
             for y in range(730,1080):
                 draw.line((0,y,1919,y),fill=(4,12,16,int(115*(y-730)/350)))
-            draw.text((126,819),'校园漫游',font=face(60),fill=(255,255,252,255))
-            draw.text((130,911),'温州中学  /  3D 场景 Demo',font=face(27),fill=(240,244,237,250))
+            draw.text((126,819),'校园掠影' if exterior else '校园漫游',font=face(60),fill=(255,255,252,255))
+            draw.text((130,911),'温州中学  /  外景篇' if exterior else '温州中学  /  3D 场景 Demo',font=face(27),fill=(240,244,237,250))
             draw.line((130,807,194,807),fill=(215,225,196,255),width=3)
         im.save(media/path)
     title('title_intro.png');title('title_outro.png',True)
@@ -75,14 +77,15 @@ def prepare():
 prepare()
 if args.prepare_only:
     print('Prepared original stereo audio and title overlays',flush=True);raise SystemExit(0)
-state=json.loads((ue/'Reports/demo055_final_render.json').read_text())
+state=json.loads((ue/'Reports'/f'demo{args.version}_final_render.json').read_text())
 assert state.get('complete') and state.get('success'),state
 frames=media/'frames-master';files=sorted(frames.glob('frame_*.png'))
-assert [p.name for p in files]==[f'frame_{i:05}.png' for i in range(1440)],'Missing, extra or misnumbered frames'
+assert [p.name for p in files]==[f'frame_{i:05}.png' for i in range(seconds*24)],'Missing, extra or misnumbered frames'
 if not args.reuse_clean:
     for p in files:
         with Image.open(p) as im:assert im.size==(1920,1080);im.verify()
-clean=media/'WZMS_Demo_60s_Clean_1080p.mp4';promo=media/'WZMS_Demo_60s_Promo_1080p.mp4'
+label='Exterior' if exterior else 'Demo'
+clean=media/f'WZMS_{label}_{seconds}s_Clean_1080p.mp4';promo=media/f'WZMS_{label}_{seconds}s_Promo_1080p.mp4'
 assert not promo.exists(),'Preserve existing deliverables'
 if args.reuse_clean:
     previous=json.loads((media/'delivery-manifest-r01.json').read_text(encoding='utf8'))
@@ -91,10 +94,10 @@ if args.reuse_clean:
 else:
     assert not clean.exists(),'Preserve existing clean master'
     subprocess.run([str(ff),'-hide_banner','-nostdin','-n','-framerate','24','-i',str(frames/'frame_%05d.png'),'-c:v','libx264','-preset','slow','-crf','17','-pix_fmt','yuv420p','-threads','6','-movflags','+faststart',str(clean)],check=True)
-filters='[0:v]fade=t=in:st=0:d=0.7,fade=t=out:st=58:d=2[base];[1:v]format=rgba,fade=t=in:st=0.9:d=0.8:alpha=1,fade=t=out:st=5.8:d=0.8:alpha=1[intro];[2:v]format=rgba,fade=t=in:st=53.7:d=1.2:alpha=1,fade=t=out:st=58:d=2:alpha=1[outro];[base][intro]overlay=0:0:shortest=1[v1];[v1][outro]overlay=0:0:shortest=1[v]'
-subprocess.run([str(ff),'-hide_banner','-nostdin','-n','-i',str(clean),'-loop','1','-framerate','24','-i',str(media/'title_intro.png'),'-loop','1','-framerate','24','-i',str(media/'title_outro.png'),'-i',str(media/'Original_Ambient_Score.wav'),'-filter_complex_threads','2','-filter_complex',filters,'-map','[v]','-map','3:a','-t','60','-r','24','-c:v','libx264','-preset','slow','-crf','18','-pix_fmt','yuv420p','-threads','6','-c:a','aac','-b:a','256k','-movflags','+faststart',str(promo)],check=True)
+filters=f'[0:v]fade=t=in:st=0:d=0.7,fade=t=out:st={seconds-2}:d=2[base];[1:v]format=rgba,fade=t=in:st=0.9:d=0.8:alpha=1,fade=t=out:st=5.8:d=0.8:alpha=1[intro];[2:v]format=rgba,fade=t=in:st={seconds-6.3}:d=1.2:alpha=1,fade=t=out:st={seconds-2}:d=2:alpha=1[outro];[base][intro]overlay=0:0:shortest=1[v1];[v1][outro]overlay=0:0:shortest=1[v]'
+subprocess.run([str(ff),'-hide_banner','-nostdin','-n','-i',str(clean),'-loop','1','-framerate','24','-i',str(media/'title_intro.png'),'-loop','1','-framerate','24','-i',str(media/'title_outro.png'),'-i',str(media/'Original_Ambient_Score.wav'),'-filter_complex_threads','2','-filter_complex',filters,'-map','[v]','-map','3:a','-t',str(seconds),'-r','24','-c:v','libx264','-preset','slow','-crf','18','-pix_fmt','yuv420p','-threads','6','-c:a','aac','-b:a','256k','-movflags','+faststart',str(promo)],check=True)
 for p in [clean,promo]:
     subprocess.run([str(ff),'-v','error','-nostdin','-i',str(p),'-f','null','-'],check=True)
-report={'duration_seconds':60,'fps':24,'resolution':[1920,1080],'frame_count':1440,'render_success':True,'decoded_without_errors':True,'visual_source':'Current UE campus with cinematic cameras; not uninterrupted first-person gameplay.','audio':'Original ambient score mixed with project-synthesized air ambience.','files':[{'path':str(p),'bytes':p.stat().st_size,'sha256':digest(p)} for p in [promo,clean]],'user_review_pending':True}
+report={'duration_seconds':seconds,'fps':24,'resolution':[1920,1080],'frame_count':seconds*24,'all_exterior':exterior,'render_success':True,'decoded_without_errors':True,'visual_source':'Current UE campus with cinematic cameras; not uninterrupted first-person gameplay.','audio':'Original ambient score mixed with project-synthesized air ambience.','files':[{'path':str(p),'bytes':p.stat().st_size,'sha256':digest(p)} for p in [promo,clean]],'user_review_pending':True}
 (media/'delivery-manifest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
 print(json.dumps(report,ensure_ascii=False,indent=2),flush=True)

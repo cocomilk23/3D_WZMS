@@ -1,0 +1,18 @@
+{
+  "version":"demo-056-exterior",
+  "source_game_version":"0.1.0-test.54",
+  "fps":24,
+  "resolution":[1920,1080],
+  "ease_strength":0.35,
+  "shots":[
+    {"id":"01_gate_arc","title":"南大门","seconds":7,"start":[-43,-46,3.5],"control":[-39,-48,8],"end":[-31,-43,11],"target_start":[-26,-23,3.2],"target_end":[-26,-23,3.2],"fov":64},
+    {"id":"02_plaza_rise","title":"南大门广场","seconds":7,"start":[-8,-13,3],"control":[-5,5,18],"end":[21,9,24],"target_start":[-4,38,8],"target_end":[-7,45,10],"fov":70},
+    {"id":"03_lotus_sweep","title":"荷塘与网球场","seconds":8,"start":[125,-25,25],"control":[100,-45,15],"end":[72,-20,11],"target_start":[75,20,0],"target_end":[60,18,0],"fov":65},
+    {"id":"04_library_orbit","title":"图书馆外景","seconds":7,"start":[85,126,9],"control":[124,117,14],"end":[160,135,13],"target_start":[126,155,9],"target_end":[126,155,9],"fov":65},
+    {"id":"05_buqing_arc","title":"步青广场","seconds":8,"start":[105,113,52],"control":[55,102,52],"end":[7,119,47],"target_start":[54,162,0],"target_end":[54,176,7],"fov":66},
+    {"id":"06_basketball","title":"篮球场","seconds":8,"start":[65,234,40],"control":[72,276,50],"end":[51,324,62],"target_start":[14.5,281,0],"target_end":[14.5,281,0],"fov":70},
+    {"id":"07_track_low","title":"操场 · 低空掠过","seconds":8,"start":[-38,240,2.4],"control":[-34,273,4],"end":[-47,306,9],"target_start":[-62,297,1],"target_end":[-98,328,8],"fov":72},
+    {"id":"08_track_orbit","title":"操场 · 环绕全景","seconds":10,"start":[-193,204,90],"control":[-155,169,105],"end":[-61,178,127],"target_start":[-95,271,0],"target_end":[-95,271,0],"fov":70},
+    {"id":"09_campus_reveal","title":"校园全景","seconds":12,"start":[-180,70,180],"control":[-265,50,270],"end":[-245,-80,325],"target_start":[50,185,0],"target_end":[50,185,0],"fov":70}
+  ]
+}

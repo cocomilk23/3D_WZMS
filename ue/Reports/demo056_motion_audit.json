@@ -1,0 +1,94 @@
+{
+  "frames": 1800,
+  "seconds": 75.0,
+  "shots": [
+    {
+      "id": "01_gate_arc",
+      "start_frame": 0,
+      "end_frame_exclusive": 168,
+      "travel_m": 15.06,
+      "peak_speed_m_s": 2.61,
+      "peak_axis_turn_deg_s": 4.03,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "02_plaza_rise",
+      "start_frame": 168,
+      "end_frame_exclusive": 336,
+      "travel_m": 44.98,
+      "peak_speed_m_s": 7.22,
+      "peak_axis_turn_deg_s": 9.62,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "03_lotus_sweep",
+      "start_frame": 336,
+      "end_frame_exclusive": 528,
+      "travel_m": 60.73,
+      "peak_speed_m_s": 8.39,
+      "peak_axis_turn_deg_s": 4.51,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "04_library_orbit",
+      "start_frame": 528,
+      "end_frame_exclusive": 696,
+      "travel_m": 77.32,
+      "peak_speed_m_s": 12.77,
+      "peak_axis_turn_deg_s": 23.75,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "05_buqing_arc",
+      "start_frame": 696,
+      "end_frame_exclusive": 888,
+      "travel_m": 99.67,
+      "peak_speed_m_s": 14.51,
+      "peak_axis_turn_deg_s": 13.91,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "06_basketball",
+      "start_frame": 888,
+      "end_frame_exclusive": 1080,
+      "travel_m": 94.97,
+      "peak_speed_m_s": 13.98,
+      "peak_axis_turn_deg_s": 15.88,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "07_track_low",
+      "start_frame": 1080,
+      "end_frame_exclusive": 1272,
+      "travel_m": 67.66,
+      "peak_speed_m_s": 9.9,
+      "peak_axis_turn_deg_s": 6.64,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "08_track_orbit",
+      "start_frame": 1272,
+      "end_frame_exclusive": 1512,
+      "travel_m": 143.19,
+      "peak_speed_m_s": 17.84,
+      "peak_axis_turn_deg_s": 10.37,
+      "angular_wrap_resolved": true
+    },
+    {
+      "id": "09_campus_reveal",
+      "start_frame": 1512,
+      "end_frame_exclusive": 1800,
+      "travel_m": 235.65,
+      "peak_speed_m_s": 21.89,
+      "peak_axis_turn_deg_s": 2.31,
+      "angular_wrap_resolved": true
+    }
+  ],
+  "all_exterior_camera_plan": true,
+  "user_correction": "Xuezi Plaza withdrawn by user; no location renamed.",
+  "visual_clearance_checks": [
+    "demo056_contact_r01_render.json",
+    "demo056_contact_r02_render.json",
+    "demo056_contact_r03_render.json"
+  ]
+}
