@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788982346.7727008,
+  "request": {
+    "name": "Anthem film 058 camera contact",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo058_Contact_r01.LS_Demo058_Contact_r01",
+    "directory": "E:/WZMS_Media/demo058/contact-r01",
+    "resolution": [
+      960,
+      540
+    ],
+    "samples": 4,
+    "report": "demo058_contact_r01_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788982435.1809478
+}

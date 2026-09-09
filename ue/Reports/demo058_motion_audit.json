@@ -1,0 +1,156 @@
+{
+  "shots": [
+    {
+      "id": "01_gate",
+      "frames": 238,
+      "seconds": 9.916666666666666,
+      "start_second": 0.0,
+      "end_second": 9.916666666666666,
+      "min_height_m": 3.5,
+      "distance_m": 15.058707287469744,
+      "max_speed_m_s": 1.8001886964251328,
+      "max_pan_deg_s": 2.8460065340195797,
+      "max_tilt_deg_s": 2.338177072225321
+    },
+    {
+      "id": "02_arrival",
+      "frames": 145,
+      "seconds": 6.041666666666667,
+      "start_second": 9.916666666666666,
+      "end_second": 15.958333333333334,
+      "min_height_m": 3.0,
+      "distance_m": 44.98468215893441,
+      "max_speed_m_s": 8.162691331045128,
+      "max_pan_deg_s": 10.898496236440906,
+      "max_tilt_deg_s": 5.7570285751990085
+    },
+    {
+      "id": "03_crest",
+      "frames": 168,
+      "seconds": 7.0,
+      "start_second": 15.958333333333334,
+      "end_second": 22.958333333333332,
+      "min_height_m": 30.0,
+      "distance_m": 30.232819406131735,
+      "max_speed_m_s": 4.962204141175045,
+      "max_pan_deg_s": 1.0231815394945443e-12,
+      "max_tilt_deg_s": 0.34148869998290365
+    },
+    {
+      "id": "04_library",
+      "frames": 106,
+      "seconds": 4.416666666666667,
+      "start_second": 22.958333333333332,
+      "end_second": 27.375,
+      "min_height_m": 16.0,
+      "distance_m": 49.758012503469594,
+      "max_speed_m_s": 12.85794131127302,
+      "max_pan_deg_s": 13.056276894630287,
+      "max_tilt_deg_s": 1.151512509159602
+    },
+    {
+      "id": "05_teaching",
+      "frames": 129,
+      "seconds": 5.375,
+      "start_second": 27.375,
+      "end_second": 32.75,
+      "min_height_m": 31.0,
+      "distance_m": 55.68936976301506,
+      "max_speed_m_s": 11.978802555462138,
+      "max_pan_deg_s": 7.94386985478468,
+      "max_tilt_deg_s": 0.5956238709015764
+    },
+    {
+      "id": "06_lotus",
+      "frames": 159,
+      "seconds": 6.625,
+      "start_second": 32.75,
+      "end_second": 39.375,
+      "min_height_m": 11.0,
+      "distance_m": 60.73378547130651,
+      "max_speed_m_s": 9.940908744069699,
+      "max_pan_deg_s": 5.409453726950915,
+      "max_tilt_deg_s": 1.8436971516957783
+    },
+    {
+      "id": "07_basketball",
+      "frames": 115,
+      "seconds": 4.791666666666667,
+      "start_second": 39.375,
+      "end_second": 44.166666666666664,
+      "min_height_m": 44.0,
+      "distance_m": 57.57898898209572,
+      "max_speed_m_s": 13.646876865323247,
+      "max_pan_deg_s": 12.17045873437155,
+      "max_tilt_deg_s": 2.6895211810701767
+    },
+    {
+      "id": "08_goal",
+      "frames": 101,
+      "seconds": 4.208333333333333,
+      "start_second": 44.166666666666664,
+      "end_second": 48.375,
+      "min_height_m": 2.8,
+      "distance_m": 21.716488034528897,
+      "max_speed_m_s": 5.944374463944868,
+      "max_pan_deg_s": 21.82795434460786,
+      "max_tilt_deg_s": 3.1865558297094623
+    },
+    {
+      "id": "09_track",
+      "frames": 129,
+      "seconds": 5.375,
+      "start_second": 48.375,
+      "end_second": 53.75,
+      "min_height_m": 3.0,
+      "distance_m": 54.075915917269874,
+      "max_speed_m_s": 11.525186700045799,
+      "max_pan_deg_s": 8.471812020708853,
+      "max_tilt_deg_s": 0.4731946734985293
+    },
+    {
+      "id": "10_stadium",
+      "frames": 149,
+      "seconds": 6.208333333333333,
+      "start_second": 53.75,
+      "end_second": 59.958333333333336,
+      "min_height_m": 86.0,
+      "distance_m": 92.55519603900636,
+      "max_speed_m_s": 17.360199015685026,
+      "max_pan_deg_s": 11.265840141405647,
+      "max_tilt_deg_s": 2.9317520365194696
+    },
+    {
+      "id": "11_water",
+      "frames": 139,
+      "seconds": 5.791666666666667,
+      "start_second": 59.958333333333336,
+      "end_second": 65.75,
+      "min_height_m": 39.0,
+      "distance_m": 19.53446715303086,
+      "max_speed_m_s": 3.8800049164731787,
+      "max_pan_deg_s": 2.3116127951063277,
+      "max_tilt_deg_s": 2.713623973839276
+    },
+    {
+      "id": "12_campus",
+      "frames": 307,
+      "seconds": 12.791666666666666,
+      "start_second": 65.75,
+      "end_second": 78.54166666666667,
+      "min_height_m": 170.0,
+      "distance_m": 187.52590630251962,
+      "max_speed_m_s": 16.260313303645802,
+      "max_pan_deg_s": 1.3007353406359243,
+      "max_tilt_deg_s": 0.18690973072210681
+    }
+  ],
+  "all_frames": 1885,
+  "no_single_frame_pan_over_3_degrees": true,
+  "framing_reviews": [
+    "contact-r01: all 12 paths at five positions",
+    "contact-r02: library, crest, teaching, goal, water; five positions each",
+    "contact-r03: crest end framing, five positions"
+  ],
+  "source": "Camera transforms in final demo_shots_058.json; visual contacts rendered from final.57."
+}

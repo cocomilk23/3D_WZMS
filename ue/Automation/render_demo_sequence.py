@@ -12,6 +12,9 @@ output=config.find_or_add_setting_by_class(unreal.MoviePipelineOutputSetting)
 output.output_directory=unreal.DirectoryPath(req['directory']);output.file_name_format='frame_{frame_number}'
 output.output_resolution=unreal.IntPoint(*req['resolution']);output.zero_pad_frame_numbers=5
 output.override_existing_output=False;output.flush_disk_writes_per_shot=True
+if 'frame_range' in req:
+    start,end=req['frame_range'];assert 0<=start<end
+    output.use_custom_playback_range=True;output.custom_start_frame=start;output.custom_end_frame=end
 config.find_or_add_setting_by_class(unreal.MoviePipelineDeferredPassBase)
 config.find_or_add_setting_by_class(unreal.MoviePipelineImageSequenceOutput_PNG)
 aa=config.find_or_add_setting_by_class(unreal.MoviePipelineAntiAliasingSetting)

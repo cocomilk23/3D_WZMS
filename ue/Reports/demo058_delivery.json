@@ -1,0 +1,31 @@
+{
+  "source_game": "0.1.0-final.57",
+  "duration_seconds": 78.54166666666667,
+  "fps": 24,
+  "frames": 1885,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "picture_aspect": "2:1 within 16:9 frame",
+  "all_exterior": true,
+  "fresh_render": true,
+  "render_samples": 8,
+  "complete_anthem_original_speed": true,
+  "clean_definition": "Same edit, music, grading and fades; no titles, captions or branding overlays.",
+  "font": "WZMS Promo Sans Bold, static weight 700 subset of Noto Sans SC under OFL.",
+  "full_decode_pass": true,
+  "files": [
+    {
+      "path": "E:\\WZMS_Media\\demo058\\WZMS_Anthem_Promo_1080p.mp4",
+      "bytes": 158718026,
+      "sha256": "2fd8469beb682e2f9fd051f6d5e0d58a33999c4bde569405e3f1580961248f88"
+    },
+    {
+      "path": "E:\\WZMS_Media\\demo058\\WZMS_Anthem_Clean_1080p.mp4",
+      "bytes": 158249898,
+      "sha256": "6b14bfed6e6db10cae395889c6d21c9564d4622b1c84281ee1d3b6a0a77e7b57"
+    }
+  ],
+  "user_review_pending": true
+}

@@ -4,6 +4,8 @@ Blender v0.0.43 中已有的本部模型已全部迁入同一张 UE 校园地图
 
 最新交付为 `0.1.0-final.57`。独立游戏：`E:/WZMS_ValidationBuilds/0.1.0-final.57/Windows/WZMS.exe`；分享完整同目录 `WZMS-0.1.0-final.57-Windows.zip`，接收方完整解压后运行，无需 UE 或 Blender。[本次更新](Docs/FINAL_DELIVERY_057.md) · [验收状态](Docs/FINAL_DELIVERY_ACCEPTANCE_057.md)。
 
+最新校歌宣传片为 `demo059` clean 修订版：只保留一段操场全景，增加数学馆、校史馆与桃花岛外景，步青广场改为广场和教学楼的宽景。保留完整校歌，78.54 秒、1080p，无字幕。视频在 `E:/WZMS_Media/demo059/`；[修订记录](Docs/DEMO_FILM_059.md)。按用户要求直接交用户观看验收。此前带场景字幕的 `demo058` 保留在原目录，[原版分镜](Docs/DEMO_FILM_058.md)。视频和音乐留在本地，镜头、排版与制作记录纳入版本管理。
+
 ## 打开与操作
 
 - 工程：E:/WZMS_UE/ue/WZMS/WZMS.uproject。

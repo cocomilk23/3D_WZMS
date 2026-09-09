@@ -1,0 +1,22 @@
+{
+  "complete": true,
+  "started_unix": 1788984908.457083,
+  "request": {
+    "name": "Anthem arrival retake above foreground canopy",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo058_Campus_r04.LS_Demo058_Campus_r04",
+    "directory": "E:/WZMS_Media/demo058/retake-arrival",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "samples": 8,
+    "frame_range": [
+      238,
+      383
+    ],
+    "report": "demo058_arrival_retake_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788985063.662543
+}

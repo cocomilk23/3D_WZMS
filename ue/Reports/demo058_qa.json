@@ -1,0 +1,50 @@
+{
+  "media": [
+    {
+      "version": "Clean",
+      "decoded_frames": 1885,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 24,
+      "audio_packet_hash": "SHA256=ba16ee2afc6c95237eb541c76b2f6b6ca92685c2c1240c330531b81f77a99c06",
+      "black_intervals": [
+        {
+          "start": 0.0,
+          "end": 0.0833333
+        },
+        {
+          "start": 78.416667,
+          "end": 78.5
+        }
+      ]
+    },
+    {
+      "version": "Promo",
+      "decoded_frames": 1885,
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 24,
+      "audio_packet_hash": "SHA256=ba16ee2afc6c95237eb541c76b2f6b6ca92685c2c1240c330531b81f77a99c06",
+      "black_intervals": [
+        {
+          "start": 0.0,
+          "end": 0.0833333
+        },
+        {
+          "start": 78.416667,
+          "end": 78.5
+        }
+      ]
+    }
+  ],
+  "audio_identical": true,
+  "font_weight": 700,
+  "no_missing_glyphs": true,
+  "visual_review_frames": 24,
+  "visual_review_status": "Contact sheets and full-size samples generated; reviewer must inspect before final delivery.",
+  "source_game": "0.1.0-final.57"
+}

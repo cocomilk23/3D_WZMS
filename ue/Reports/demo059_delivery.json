@@ -1,0 +1,53 @@
+{
+  "version": "demo059",
+  "source_game": "0.1.0-final.57",
+  "duration_seconds": 78.54166666666667,
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 1885,
+  "clean_only": true,
+  "school_anthem_retained": true,
+  "changes": [
+    "Single stadium overview only; separate goal/track shots replaced by Math Museum and School History Museum exteriors",
+    "Generic waterfront replaced by Taohua Island",
+    "Buqing wide arc includes plaza and teaching buildings",
+    "Arrival flight raised above near foreground canopy"
+  ],
+  "render_patches": [
+    {
+      "id": "buqing",
+      "range": [
+        383,
+        551
+      ],
+      "report": "E:\\WZMS_UE\\ue\\Reports\\demo059_buqing_render.json",
+      "success": true
+    },
+    {
+      "id": "cultural",
+      "range": [
+        1060,
+        1290
+      ],
+      "report": "E:\\WZMS_UE\\ue\\Reports\\demo059_cultural_render.json",
+      "success": true
+    },
+    {
+      "id": "taohua",
+      "range": [
+        1439,
+        1578
+      ],
+      "report": "E:\\WZMS_UE\\ue\\Reports\\demo059_taohua_render.json",
+      "success": true
+    }
+  ],
+  "path": "E:\\WZMS_Media\\demo059\\WZMS_Anthem_Clean_v2_1080p.mp4",
+  "bytes": 144868159,
+  "sha256": "c4bd496901ef261b7b4588a283e1a3b720644762cb99e09a58ffb39f5d1045fd",
+  "additional_visual_and_decode_qa": "Not performed, per explicit user instruction; direct owner acceptance.",
+  "user_review_pending": true
+}

@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788982900.5755131,
+  "request": {
+    "name": "WZMS Anthem final.57 exterior film 78.54 seconds",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo058_Campus_r03.LS_Demo058_Campus_r03",
+    "directory": "E:/WZMS_Media/demo058/frames-master",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "samples": 8,
+    "report": "demo058_final_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788983821.0477004
+}

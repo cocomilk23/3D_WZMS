@@ -1,0 +1,10 @@
+{
+  "source": "User supplied E:/校歌.mp3",
+  "source_sha256": "06fc075c97af793e59df15dd98f82bf75639d5419904ef5823d8066a8725e2ae",
+  "local_reference_copy": "Source/School_Anthem.mp3",
+  "full_performance": true,
+  "tempo_changed": false,
+  "editing": "Full original performance; linear loudness normalization to -16 LUFS with -1.5 dBTP target, no synthetic music, silence pad under one video frame.",
+  "duration_seconds": 78.54166666666667,
+  "both_versions_have_same_music": true
+}

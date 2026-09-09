@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788982561.5349941,
+  "request": {
+    "name": "Anthem film 058 refined framing contact",
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo058_Contact_r02.LS_Demo058_Contact_r02",
+    "directory": "E:/WZMS_Media/demo058/contact-r02",
+    "resolution": [
+      960,
+      540
+    ],
+    "samples": 4,
+    "report": "demo058_contact_r02_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788982590.8457973
+}

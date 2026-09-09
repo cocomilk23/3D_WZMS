@@ -1,0 +1,82 @@
+{
+  "preview": null,
+  "final": {
+    "sequence": "/Game/WZMS/Cinematics/LS_Demo059_Campus_r01.LS_Demo059_Campus_r01",
+    "frames": 1885,
+    "cuts": [
+      {
+        "id": "01_gate",
+        "sample": null,
+        "start": 0,
+        "end": 238
+      },
+      {
+        "id": "02_arrival",
+        "sample": null,
+        "start": 238,
+        "end": 383
+      },
+      {
+        "id": "03_buqing_wide",
+        "sample": null,
+        "start": 383,
+        "end": 551
+      },
+      {
+        "id": "04_library",
+        "sample": null,
+        "start": 551,
+        "end": 657
+      },
+      {
+        "id": "05_teaching",
+        "sample": null,
+        "start": 657,
+        "end": 786
+      },
+      {
+        "id": "06_lotus",
+        "sample": null,
+        "start": 786,
+        "end": 945
+      },
+      {
+        "id": "07_basketball",
+        "sample": null,
+        "start": 945,
+        "end": 1060
+      },
+      {
+        "id": "08_math",
+        "sample": null,
+        "start": 1060,
+        "end": 1161
+      },
+      {
+        "id": "09_history",
+        "sample": null,
+        "start": 1161,
+        "end": 1290
+      },
+      {
+        "id": "10_stadium",
+        "sample": null,
+        "start": 1290,
+        "end": 1439
+      },
+      {
+        "id": "11_taohua",
+        "sample": null,
+        "start": 1439,
+        "end": 1578
+      },
+      {
+        "id": "12_campus",
+        "sample": null,
+        "start": 1578,
+        "end": 1885
+      }
+    ]
+  },
+  "source": "Accepted final.57; user clean-only revised edit."
+}

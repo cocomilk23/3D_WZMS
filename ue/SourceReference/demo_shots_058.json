@@ -1,0 +1,422 @@
+{
+  "version": "demo-058-anthem",
+  "source_game_version": "0.1.0-final.57",
+  "fps": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "ease_strength": 0.28,
+  "duration_seconds": 78.54166666666667,
+  "music": "User supplied E:/校歌.mp3; complete performance, original tempo.",
+  "shots": [
+    {
+      "id": "01_gate",
+      "title": "南大门",
+      "seconds": 9.916666666666666,
+      "start": [
+        -43,
+        -46,
+        3.5
+      ],
+      "control": [
+        -39,
+        -48,
+        8
+      ],
+      "end": [
+        -31,
+        -43,
+        11
+      ],
+      "target_start": [
+        -26,
+        -23,
+        3.2
+      ],
+      "target_end": [
+        -26,
+        -23,
+        3.2
+      ],
+      "fov": 64,
+      "purpose": "以校名墙确立身份，侧移抬升，邀请观众入校。",
+      "start_frame": 0,
+      "end_frame": 238
+    },
+    {
+      "id": "02_arrival",
+      "title": "南大门广场",
+      "seconds": 6.041666666666667,
+      "start": [
+        -8,
+        -13,
+        3
+      ],
+      "control": [
+        -5,
+        5,
+        18
+      ],
+      "end": [
+        21,
+        9,
+        24
+      ],
+      "target_start": [
+        -4,
+        38,
+        8
+      ],
+      "target_end": [
+        -7,
+        45,
+        10
+      ],
+      "fov": 70,
+      "purpose": "从入口走向校园，以广场与德涵楼展开空间。",
+      "start_frame": 238,
+      "end_frame": 383
+    },
+    {
+      "id": "03_crest",
+      "title": "步青广场",
+      "purpose": "由校徽特写后拉，展开广场与教学楼前沿，保持文字朝向稳定。",
+      "start": [
+        54,
+        133,
+        30
+      ],
+      "control": [
+        54,
+        125,
+        42
+      ],
+      "end": [
+        54,
+        116,
+        55
+      ],
+      "target_start": [
+        54,
+        157,
+        0
+      ],
+      "target_end": [
+        54,
+        162,
+        1
+      ],
+      "fov": 58,
+      "seconds": 7.0,
+      "start_frame": 383,
+      "end_frame": 551
+    },
+    {
+      "id": "04_library",
+      "title": "图书馆",
+      "seconds": 4.416666666666667,
+      "start": [
+        102,
+        99,
+        16
+      ],
+      "control": [
+        127,
+        96,
+        18
+      ],
+      "end": [
+        151,
+        104,
+        19
+      ],
+      "target_start": [
+        126,
+        155,
+        8
+      ],
+      "target_end": [
+        126,
+        155,
+        8
+      ],
+      "fov": 62,
+      "purpose": "以建筑正立面与入口表达求学主题。",
+      "start_frame": 551,
+      "end_frame": 657
+    },
+    {
+      "id": "05_teaching",
+      "title": "教学楼",
+      "purpose": "以步青广场后方教学楼为主景，缓慢侧向揭示层次。",
+      "start": [
+        81,
+        106,
+        31
+      ],
+      "control": [
+        56,
+        105,
+        33
+      ],
+      "end": [
+        26,
+        113,
+        32
+      ],
+      "target_start": [
+        54,
+        194,
+        14
+      ],
+      "target_end": [
+        54,
+        194,
+        14
+      ],
+      "fov": 60,
+      "seconds": 5.375,
+      "start_frame": 657,
+      "end_frame": 786
+    },
+    {
+      "id": "06_lotus",
+      "title": "荷塘 · 网球场",
+      "seconds": 6.625,
+      "start": [
+        125,
+        -25,
+        25
+      ],
+      "control": [
+        100,
+        -45,
+        15
+      ],
+      "end": [
+        72,
+        -20,
+        11
+      ],
+      "target_start": [
+        75,
+        20,
+        0
+      ],
+      "target_end": [
+        60,
+        18,
+        0
+      ],
+      "fov": 65,
+      "purpose": "以荷塘、网球场和教学楼形成前中后景关系。",
+      "start_frame": 786,
+      "end_frame": 945
+    },
+    {
+      "id": "07_basketball",
+      "title": "篮球场",
+      "seconds": 4.791666666666667,
+      "start": [
+        65,
+        245,
+        44
+      ],
+      "control": [
+        70,
+        272,
+        48
+      ],
+      "end": [
+        55,
+        300,
+        52
+      ],
+      "target_start": [
+        14.5,
+        267,
+        0
+      ],
+      "target_end": [
+        14.5,
+        280,
+        0
+      ],
+      "fov": 70,
+      "purpose": "展示八片球场与红色间隔，顺着场地长边环绕。",
+      "start_frame": 945,
+      "end_frame": 1060
+    },
+    {
+      "id": "08_goal",
+      "title": "操场 · 足球场",
+      "purpose": "以十一人制球门为视觉锚点，沿底线外侧横移，不穿越球网。",
+      "start": [
+        -101,
+        212,
+        2.8
+      ],
+      "control": [
+        -91,
+        215,
+        3.4
+      ],
+      "end": [
+        -80,
+        217,
+        5
+      ],
+      "target_start": [
+        -85,
+        228,
+        1.25
+      ],
+      "target_end": [
+        -85,
+        231,
+        1.6
+      ],
+      "fov": 61,
+      "seconds": 4.208333333333333,
+      "start_frame": 1060,
+      "end_frame": 1161
+    },
+    {
+      "id": "09_track",
+      "title": "操场 · 跑道",
+      "seconds": 5.375,
+      "start": [
+        -38,
+        247,
+        3
+      ],
+      "control": [
+        -34,
+        272,
+        5
+      ],
+      "end": [
+        -43,
+        300,
+        9
+      ],
+      "target_start": [
+        -62,
+        297,
+        1
+      ],
+      "target_end": [
+        -98,
+        328,
+        8
+      ],
+      "fov": 72,
+      "purpose": "沿跑道方向掠过，呼应音乐增强段落。",
+      "start_frame": 1161,
+      "end_frame": 1290
+    },
+    {
+      "id": "10_stadium",
+      "title": "操场全景",
+      "seconds": 6.208333333333333,
+      "start": [
+        -178,
+        210,
+        86
+      ],
+      "control": [
+        -145,
+        190,
+        96
+      ],
+      "end": [
+        -92,
+        190,
+        110
+      ],
+      "target_start": [
+        -95,
+        271,
+        0
+      ],
+      "target_end": [
+        -95,
+        271,
+        0
+      ],
+      "fov": 70,
+      "purpose": "升至高处，完整交代跑道、绿茵场与体育馆。",
+      "start_frame": 1290,
+      "end_frame": 1439
+    },
+    {
+      "id": "11_water",
+      "title": "校园水岸",
+      "purpose": "以岛屿建筑、桥与水岸为主体，收束运动段落，过渡到校园全景。",
+      "start": [
+        216,
+        169,
+        39
+      ],
+      "control": [
+        220,
+        162,
+        43
+      ],
+      "end": [
+        228,
+        156,
+        47
+      ],
+      "target_start": [
+        275,
+        143,
+        3
+      ],
+      "target_end": [
+        275,
+        146,
+        3
+      ],
+      "fov": 66,
+      "seconds": 5.791666666666667,
+      "start_frame": 1439,
+      "end_frame": 1578
+    },
+    {
+      "id": "12_campus",
+      "title": "温州中学",
+      "seconds": 12.791666666666666,
+      "start": [
+        -164,
+        67,
+        170
+      ],
+      "control": [
+        -237,
+        29,
+        235
+      ],
+      "end": [
+        -240,
+        -55,
+        280
+      ],
+      "target_start": [
+        50,
+        185,
+        0
+      ],
+      "target_end": [
+        50,
+        185,
+        0
+      ],
+      "fov": 67,
+      "purpose": "完整校园缓慢后拉升空，保留终止和弦与片尾呼吸。",
+      "start_frame": 1578,
+      "end_frame": 1885
+    }
+  ]
+}
