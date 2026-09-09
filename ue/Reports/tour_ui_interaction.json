@@ -1,0 +1,7 @@
+{
+  "passed": false,
+  "status": "awaiting owner availability or owner acceptance",
+  "observed": "Initial updated campus map and all 24 destination labels rendered correctly in PIE. Native click was not executed because user input changed the foreground window.",
+  "native_clicks_completed": 0,
+  "automated_destination_report": "tour_navigation_runtime.json"
+}

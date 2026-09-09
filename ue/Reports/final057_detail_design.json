@@ -1,0 +1,87 @@
+{
+  "basketball": {
+    "courts": 8,
+    "grid": "4x2",
+    "centres": [
+      [
+        -1,
+        222
+      ],
+      [
+        30,
+        222
+      ],
+      [
+        -1,
+        248
+      ],
+      [
+        30,
+        248
+      ],
+      [
+        -1,
+        274
+      ],
+      [
+        30,
+        274
+      ],
+      [
+        -1,
+        300
+      ],
+      [
+        30,
+        300
+      ]
+    ],
+    "court_size_m": [
+      28,
+      15
+    ],
+    "orientation": "existing east-west long axis retained",
+    "red_cross_strips_m": 2.4,
+    "red_centre_aisle_m": 2.6,
+    "centre_circles_red": 8,
+    "surface_partition_overlap_m2": 0,
+    "existing_dimensions_estimated": true
+  },
+  "crest": {
+    "centre_blender_m": [
+      54,
+      157
+    ],
+    "diameter_m": 16.04,
+    "original_image_unchanged": true,
+    "single_opaque_surface": true
+  },
+  "goals": {
+    "count": 2,
+    "clear_opening_m": [
+      7.32,
+      2.44
+    ],
+    "depth_m": 2.4,
+    "post_diameter_m": 0.12,
+    "centres_blender_m": [
+      [
+        -85,
+        227.5
+      ],
+      [
+        -85,
+        332.5
+      ]
+    ],
+    "spacing_m": 105
+  },
+  "triangles": {
+    "SM_Final057_Basketball_Surface": 20150,
+    "SM_Final057_Buqing_Crest": 256,
+    "SM_Final057_Goal_South": 624,
+    "SM_Final057_GoalNet_South": 3664,
+    "SM_Final057_Goal_North": 624,
+    "SM_Final057_GoalNet_North": 3664
+  }
+}

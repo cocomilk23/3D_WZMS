@@ -1,0 +1,52 @@
+{
+  "complete": true,
+  "passed": true,
+  "stages": [
+    {
+      "report": "tour_navigation_runtime.json",
+      "passed": true,
+      "elapsed_seconds": 38.21
+    },
+    {
+      "report": "tour_save_restore.json",
+      "passed": true,
+      "elapsed_seconds": 0.58
+    },
+    {
+      "report": "final057_routes_simulation_retry.json",
+      "passed": true,
+      "elapsed_seconds": 89.75
+    },
+    {
+      "report": "final057_detail_routes.json",
+      "passed": true,
+      "elapsed_seconds": 126.97
+    },
+    {
+      "report": "tour_water_runtime.json",
+      "passed": true,
+      "elapsed_seconds": 48.65
+    },
+    {
+      "report": "tour_perimeter_runtime.json",
+      "passed": true,
+      "elapsed_seconds": 36.72
+    },
+    {
+      "report": "tour_exposure_runtime.json",
+      "passed": true,
+      "elapsed_seconds": 0.61
+    },
+    {
+      "report": "tour_complete_routes_runtime.json",
+      "passed": true,
+      "case_count": 74
+    },
+    {
+      "report": "final057_boardwalk_routes.json",
+      "passed": true,
+      "case_count": 3
+    }
+  ],
+  "native_ui_review_pending": true
+}

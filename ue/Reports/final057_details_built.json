@@ -1,0 +1,63 @@
+{
+  "objects": [
+    {
+      "actor": "SM_Final057_Basketball_Surface",
+      "asset": "/Game/WZMS/Final057/SM_Final057_Basketball_Surface",
+      "triangles": 20150,
+      "collision": true,
+      "materials": [
+        "/Game/WZMS/Materials/Instances/MI_M_d54c656912d5b5.MI_M_d54c656912d5b5",
+        "/Game/WZMS/Materials/Instances/MI_M_7792576ac59478.MI_M_7792576ac59478",
+        "/Game/WZMS/Materials/Instances/MI_M_4f408575328d03.MI_M_4f408575328d03"
+      ]
+    },
+    {
+      "actor": "SM_Final057_Buqing_Crest",
+      "asset": "/Game/WZMS/Final057/SM_Final057_Buqing_Crest",
+      "triangles": 256,
+      "collision": false,
+      "materials": [
+        "/Game/WZMS/Final057/M_Crest.M_Crest"
+      ]
+    },
+    {
+      "actor": "SM_Final057_Goal_South",
+      "asset": "/Game/WZMS/Final057/SM_Final057_Goal_South",
+      "triangles": 624,
+      "collision": true,
+      "materials": [
+        "/Game/WZMS/Final057/MI_WhiteGoalFrame.MI_WhiteGoalFrame"
+      ]
+    },
+    {
+      "actor": "SM_Final057_GoalNet_South",
+      "asset": "/Game/WZMS/Final057/SM_Final057_GoalNet_South",
+      "triangles": 3664,
+      "collision": false,
+      "materials": [
+        "/Game/WZMS/Materials/Instances/MI_M_8ef04ba6f6b5ee.MI_M_8ef04ba6f6b5ee"
+      ]
+    },
+    {
+      "actor": "SM_Final057_Goal_North",
+      "asset": "/Game/WZMS/Final057/SM_Final057_Goal_North",
+      "triangles": 624,
+      "collision": true,
+      "materials": [
+        "/Game/WZMS/Final057/MI_WhiteGoalFrame.MI_WhiteGoalFrame"
+      ]
+    },
+    {
+      "actor": "SM_Final057_GoalNet_North",
+      "asset": "/Game/WZMS/Final057/SM_Final057_GoalNet_North",
+      "triangles": 3664,
+      "collision": false,
+      "materials": [
+        "/Game/WZMS/Materials/Instances/MI_M_8ef04ba6f6b5ee.MI_M_8ef04ba6f6b5ee"
+      ]
+    }
+  ],
+  "texture_source_unchanged": true,
+  "texture_mips": "UE power-of-two build stretch for mipmapped viewing",
+  "map_saved": true
+}

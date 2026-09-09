@@ -1,0 +1,486 @@
+{
+  "views": [
+    {
+      "view": "Review_188_South_gate_registered_axis",
+      "index": 0,
+      "before": {
+        "mean_pixel_std_8bit": 4.719801425933838,
+        "pixels_std_over_3_percent": 24.117730034722225,
+        "pixels_std_over_12_percent": 11.601019965277779,
+        "p99_std": 51.78696258544922
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.8931242823600769,
+        "pixels_std_over_3_percent": 7.710394965277779,
+        "pixels_std_over_12_percent": 0.14225260416666669,
+        "p99_std": 6.551081657409668
+      }
+    },
+    {
+      "view": "Review_05_Plaza_from_gate",
+      "index": 1,
+      "before": {
+        "mean_pixel_std_8bit": 3.9671313762664795,
+        "pixels_std_over_3_percent": 28.841471354166664,
+        "pixels_std_over_12_percent": 13.494574652777777,
+        "p99_std": 27.84218978881836
+      },
+      "after": {
+        "mean_pixel_std_8bit": 2.157954216003418,
+        "pixels_std_over_3_percent": 13.613932291666666,
+        "pixels_std_over_12_percent": 3.4869791666666665,
+        "p99_std": 29.221748542785658
+      }
+    },
+    {
+      "view": "Review_172_Refined_facade_windows",
+      "index": 2,
+      "before": {
+        "mean_pixel_std_8bit": 0.9371984004974365,
+        "pixels_std_over_3_percent": 2.7964409722222223,
+        "pixels_std_over_12_percent": 0.5232204861111112,
+        "p99_std": 5.842849254608154
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.3383923768997192,
+        "pixels_std_over_3_percent": 4.145399305555555,
+        "pixels_std_over_12_percent": 1.6796875,
+        "p99_std": 28.244344730377197
+      }
+    },
+    {
+      "view": "Review_187_Tennis_registered_school_view",
+      "index": 3,
+      "before": {
+        "mean_pixel_std_8bit": 1.1200405359268188,
+        "pixels_std_over_3_percent": 12.357855902777779,
+        "pixels_std_over_12_percent": 0.4561631944444445,
+        "p99_std": 9.682099342346191
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.1152750253677368,
+        "pixels_std_over_3_percent": 12.308051215277779,
+        "pixels_std_over_12_percent": 0.4295789930555556,
+        "p99_std": 9.530652046203613
+      }
+    },
+    {
+      "view": "Review_18_Buqing_arrival",
+      "index": 4,
+      "before": {
+        "mean_pixel_std_8bit": 0.7742693424224854,
+        "pixels_std_over_3_percent": 3.804144965277778,
+        "pixels_std_over_12_percent": 0.1264105902777778,
+        "p99_std": 5.416025638580322
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.7512591481208801,
+        "pixels_std_over_3_percent": 3.6114366319444446,
+        "pixels_std_over_12_percent": 0.07074652777777778,
+        "p99_std": 5.182100772857666
+      }
+    },
+    {
+      "view": "Review_63_Library_Buqing_front",
+      "index": 5,
+      "before": {
+        "mean_pixel_std_8bit": 1.7045587301254272,
+        "pixels_std_over_3_percent": 10.446397569444445,
+        "pixels_std_over_12_percent": 3.2424045138888893,
+        "p99_std": 36.24563232421879
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.5214674472808838,
+        "pixels_std_over_3_percent": 2.454318576388889,
+        "pixels_std_over_12_percent": 0.03917100694444444,
+        "p99_std": 4.3108391761779785
+      }
+    },
+    {
+      "view": "Review_67_Library_ground_hall",
+      "index": 6,
+      "before": {
+        "mean_pixel_std_8bit": 1.2194998264312744,
+        "pixels_std_over_3_percent": 6.9580078125,
+        "pixels_std_over_12_percent": 0.1902126736111111,
+        "p99_std": 6.905613422393799
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.2149595022201538,
+        "pixels_std_over_3_percent": 6.944444444444445,
+        "pixels_std_over_12_percent": 0.1877170138888889,
+        "p99_std": 6.8839592933654785
+      }
+    },
+    {
+      "view": "Review_69_Library_second_hall",
+      "index": 7,
+      "before": {
+        "mean_pixel_std_8bit": 1.6740236282348633,
+        "pixels_std_over_3_percent": 14.318033854166668,
+        "pixels_std_over_12_percent": 0.19270833333333334,
+        "p99_std": 8.239471435546875
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.6694393157958984,
+        "pixels_std_over_3_percent": 14.1181640625,
+        "pixels_std_over_12_percent": 0.1845703125,
+        "p99_std": 8.178575849533093
+      }
+    },
+    {
+      "view": "Review_70_Library_curved_stairs",
+      "index": 8,
+      "before": {
+        "mean_pixel_std_8bit": 2.5465219020843506,
+        "pixels_std_over_3_percent": 30.335611979166664,
+        "pixels_std_over_12_percent": 0.49804687499999994,
+        "p99_std": 10.152654647827148
+      },
+      "after": {
+        "mean_pixel_std_8bit": 2.4946815967559814,
+        "pixels_std_over_3_percent": 29.452799479166668,
+        "pixels_std_over_12_percent": 0.47916666666666663,
+        "p99_std": 9.90054702758789
+      }
+    },
+    {
+      "view": "Review_106_Zhouyuan_entry",
+      "index": 9,
+      "before": {
+        "mean_pixel_std_8bit": 3.0233376026153564,
+        "pixels_std_over_3_percent": 9.460611979166666,
+        "pixels_std_over_12_percent": 6.562282986111111,
+        "p99_std": 50.95170593261719
+      },
+      "after": {
+        "mean_pixel_std_8bit": 2.8645176887512207,
+        "pixels_std_over_3_percent": 8.339518229166666,
+        "pixels_std_over_12_percent": 5.6943359375,
+        "p99_std": 55.21674346923828
+      }
+    },
+    {
+      "view": "Review_111_Alumni_exhibition_hall",
+      "index": 10,
+      "before": {
+        "mean_pixel_std_8bit": 6.2106733322143555,
+        "pixels_std_over_3_percent": 96.48307291666667,
+        "pixels_std_over_12_percent": 0.1328125,
+        "p99_std": 9.90054702758789
+      },
+      "after": {
+        "mean_pixel_std_8bit": 6.137292861938477,
+        "pixels_std_over_3_percent": 96.33224826388889,
+        "pixels_std_over_12_percent": 0.12131076388888888,
+        "p99_std": 9.816015243530273
+      }
+    },
+    {
+      "view": "Review_139_Basketball_eight_overview",
+      "index": 11,
+      "before": {
+        "mean_pixel_std_8bit": 1.3963743448257446,
+        "pixels_std_over_3_percent": 13.435655381944445,
+        "pixels_std_over_12_percent": 1.4150390625,
+        "p99_std": 14.055445671081543
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.1260019540786743,
+        "pixels_std_over_3_percent": 11.986653645833334,
+        "pixels_std_over_12_percent": 0.1501736111111111,
+        "p99_std": 6.435039043426514
+      }
+    },
+    {
+      "view": "Review_141_Basketball_shared_aisle",
+      "index": 12,
+      "before": {
+        "mean_pixel_std_8bit": 0.6103489995002747,
+        "pixels_std_over_3_percent": 5.144097222222222,
+        "pixels_std_over_12_percent": 0.4873046875,
+        "p99_std": 8.55865385055545
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.5776321291923523,
+        "pixels_std_over_3_percent": 4.601019965277778,
+        "pixels_std_over_12_percent": 0.43923611111111105,
+        "p99_std": 8.003485336303722
+      }
+    },
+    {
+      "view": "Review_174_Refined_moulded_grandstand",
+      "index": 13,
+      "before": {
+        "mean_pixel_std_8bit": 0.3290097415447235,
+        "pixels_std_over_3_percent": 0.14539930555555555,
+        "pixels_std_over_12_percent": 0.004665798611111111,
+        "p99_std": 1.3437095880508423
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.32463815808296204,
+        "pixels_std_over_3_percent": 0.17393663194444445,
+        "pixels_std_over_12_percent": 0.004774305555555556,
+        "p99_std": 1.3819270133972168
+      }
+    },
+    {
+      "view": "Review_38_North_gate_from_street",
+      "index": 14,
+      "before": {
+        "mean_pixel_std_8bit": 2.5372562408447266,
+        "pixels_std_over_3_percent": 14.1591796875,
+        "pixels_std_over_12_percent": 6.061740451388889,
+        "p99_std": 29.508006763458255
+      },
+      "after": {
+        "mean_pixel_std_8bit": 6.431817054748535,
+        "pixels_std_over_3_percent": 26.402669270833336,
+        "pixels_std_over_12_percent": 14.858072916666668,
+        "p99_std": 70.5932698059082
+      }
+    },
+    {
+      "view": "Review_148_Gym_table_tennis_hall",
+      "index": 15,
+      "before": {
+        "mean_pixel_std_8bit": 3.489531993865967,
+        "pixels_std_over_3_percent": 70.5,
+        "pixels_std_over_12_percent": 0.3254123263888889,
+        "p99_std": 7.477280616760254
+      },
+      "after": {
+        "mean_pixel_std_8bit": 3.4842028617858887,
+        "pixels_std_over_3_percent": 72.47102864583333,
+        "pixels_std_over_12_percent": 0.16395399305555555,
+        "p99_std": 7.052875518798828
+      }
+    },
+    {
+      "view": "Review_150_Gym_upper_sports_hall",
+      "index": 16,
+      "before": {
+        "mean_pixel_std_8bit": 1.6229236125946045,
+        "pixels_std_over_3_percent": 10.568142361111112,
+        "pixels_std_over_12_percent": 0.2150607638888889,
+        "p99_std": 7.947759380340589
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.5152091979980469,
+        "pixels_std_over_3_percent": 9.217230902777777,
+        "pixels_std_over_12_percent": 0.21549479166666666,
+        "p99_std": 7.910523891448975
+      }
+    },
+    {
+      "view": "Review_153_Math_preface_atrium",
+      "index": 17,
+      "before": {
+        "mean_pixel_std_8bit": 6.529380798339844,
+        "pixels_std_over_3_percent": 98.6706814236111,
+        "pixels_std_over_12_percent": 0.017686631944444444,
+        "p99_std": 8.782875061035156
+      },
+      "after": {
+        "mean_pixel_std_8bit": 6.496340751647949,
+        "pixels_std_over_3_percent": 98.66200086805556,
+        "pixels_std_over_12_percent": 0.015733506944444444,
+        "p99_std": 8.535465240478516
+      }
+    },
+    {
+      "view": "Review_157_Math_traditional_classroom",
+      "index": 18,
+      "before": {
+        "mean_pixel_std_8bit": 5.011999607086182,
+        "pixels_std_over_3_percent": 96.49490017361111,
+        "pixels_std_over_12_percent": 0.012586805555555556,
+        "p99_std": 7.5369462966918945
+      },
+      "after": {
+        "mean_pixel_std_8bit": 5.013856410980225,
+        "pixels_std_over_3_percent": 96.46354166666666,
+        "pixels_std_over_12_percent": 0.013454861111111112,
+        "p99_std": 7.538788318634033
+      }
+    },
+    {
+      "view": "Review_159_History_entry_preface",
+      "index": 19,
+      "before": {
+        "mean_pixel_std_8bit": 1.52421236038208,
+        "pixels_std_over_3_percent": 4.436414930555556,
+        "pixels_std_over_12_percent": 0.008897569444444444,
+        "p99_std": 4.051748752593994
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.5409011840820312,
+        "pixels_std_over_3_percent": 4.616102430555555,
+        "pixels_std_over_12_percent": 0.010633680555555554,
+        "p99_std": 4.072264194488525
+      }
+    },
+    {
+      "view": "Review_161_History_exhibition_aisle",
+      "index": 20,
+      "before": {
+        "mean_pixel_std_8bit": 1.547570824623108,
+        "pixels_std_over_3_percent": 4.033094618055555,
+        "pixels_std_over_12_percent": 0.012261284722222222,
+        "p99_std": 4.4744648933410645
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.526853322982788,
+        "pixels_std_over_3_percent": 3.7572699652777777,
+        "pixels_std_over_12_percent": 0.015299479166666668,
+        "p99_std": 4.4370598793029785
+      }
+    },
+    {
+      "view": "Review_164_Canteen_dining_hall",
+      "index": 21,
+      "before": {
+        "mean_pixel_std_8bit": 3.1493823528289795,
+        "pixels_std_over_3_percent": 36.982204861111114,
+        "pixels_std_over_12_percent": 0.18912760416666669,
+        "p99_std": 8.17983627319336
+      },
+      "after": {
+        "mean_pixel_std_8bit": 3.1141350269317627,
+        "pixels_std_over_3_percent": 37.73882378472222,
+        "pixels_std_over_12_percent": 0.05219184027777778,
+        "p99_std": 7.443770885467529
+      }
+    },
+    {
+      "view": "Review_182_Refined_whole_campus",
+      "index": 22,
+      "before": {
+        "mean_pixel_std_8bit": 0.7041224241256714,
+        "pixels_std_over_3_percent": 5.834309895833333,
+        "pixels_std_over_12_percent": 0.09255642361111112,
+        "p99_std": 5.649483680725098
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.6850259900093079,
+        "pixels_std_over_3_percent": 5.726996527777778,
+        "pixels_std_over_12_percent": 0.03005642361111111,
+        "p99_std": 5.484194278717041
+      }
+    },
+    {
+      "view": "Review_177_Refined_landscape",
+      "index": 23,
+      "before": {
+        "mean_pixel_std_8bit": 0.6190061569213867,
+        "pixels_std_over_3_percent": 2.519965277777778,
+        "pixels_std_over_12_percent": 0.029839409722222224,
+        "p99_std": 4.674843788146973
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.6317872405052185,
+        "pixels_std_over_3_percent": 2.5950520833333335,
+        "pixels_std_over_12_percent": 0.028971354166666668,
+        "p99_std": 4.733891010284424
+      }
+    },
+    {
+      "view": "Crest_top",
+      "index": 24,
+      "before": {
+        "mean_pixel_std_8bit": 0.19452093541622162,
+        "pixels_std_over_3_percent": 0.2718098958333333,
+        "pixels_std_over_12_percent": 0.0016276041666666667,
+        "p99_std": 0.5951189994812012
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.18881206214427948,
+        "pixels_std_over_3_percent": 0.048828125,
+        "pixels_std_over_12_percent": 0.0,
+        "p99_std": 1.0
+      }
+    },
+    {
+      "view": "Court_ground",
+      "index": 25,
+      "before": {
+        "mean_pixel_std_8bit": 0.8032439947128296,
+        "pixels_std_over_3_percent": 8.509982638888888,
+        "pixels_std_over_12_percent": 0.3062065972222222,
+        "p99_std": 7.8894267082214355
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.7581602931022644,
+        "pixels_std_over_3_percent": 8.09841579861111,
+        "pixels_std_over_12_percent": 0.2830946180555556,
+        "p99_std": 7.642624855041504
+      }
+    },
+    {
+      "view": "Court_top",
+      "index": 26,
+      "before": {
+        "mean_pixel_std_8bit": 0.38721489906311035,
+        "pixels_std_over_3_percent": 2.053927951388889,
+        "pixels_std_over_12_percent": 0.05967881944444445,
+        "p99_std": 4.310033326148987
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.4018293023109436,
+        "pixels_std_over_3_percent": 2.106662326388889,
+        "pixels_std_over_12_percent": 0.06358506944444445,
+        "p99_std": 4.297932147979736
+      }
+    },
+    {
+      "view": "Track_goals",
+      "index": 27,
+      "before": {
+        "mean_pixel_std_8bit": 1.9546773433685303,
+        "pixels_std_over_3_percent": 22.531901041666664,
+        "pixels_std_over_12_percent": 0.1877170138888889,
+        "p99_std": 7.107825379371666
+      },
+      "after": {
+        "mean_pixel_std_8bit": 1.9761689901351929,
+        "pixels_std_over_3_percent": 23.24457465277778,
+        "pixels_std_over_12_percent": 0.1843532986111111,
+        "p99_std": 7.2284159660339355
+      }
+    },
+    {
+      "view": "East_islands",
+      "index": 28,
+      "before": {
+        "mean_pixel_std_8bit": 0.6576682925224304,
+        "pixels_std_over_3_percent": 3.576931423611111,
+        "pixels_std_over_12_percent": 0.7828776041666667,
+        "p99_std": 10.117023468017578
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.7737120389938354,
+        "pixels_std_over_3_percent": 5.353190104166667,
+        "pixels_std_over_12_percent": 0.6883680555555555,
+        "p99_std": 10.0950345993042
+      }
+    },
+    {
+      "view": "North_exterior",
+      "index": 29,
+      "before": {
+        "mean_pixel_std_8bit": 0.555615246295929,
+        "pixels_std_over_3_percent": 1.602973090277778,
+        "pixels_std_over_12_percent": 0.018120659722222224,
+        "p99_std": 4.027682304382324
+      },
+      "after": {
+        "mean_pixel_std_8bit": 0.5518624186515808,
+        "pixels_std_over_3_percent": 1.398980034722222,
+        "pixels_std_over_12_percent": 0.017795138888888888,
+        "p99_std": 3.7444403171539307
+      }
+    }
+  ],
+  "method": "12 final frames from 30 identical stationary camera views, 1280x720, 24fps, MRQ temporal samples=1. Pixel variability includes legitimate water motion, temporal AA and GI noise, not solely z-fighting. Changed crest/court geometry is expected to change image content.",
+  "visual_review_required": true
+}

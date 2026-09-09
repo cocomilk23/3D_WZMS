@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788973176.3879938,
+  "request": {
+    "name": "Final057 after temporal review",
+    "sequence": "/Game/WZMS/Cinematics/LS_Final057_Campus_audit.LS_Final057_Campus_audit",
+    "directory": "E:/WZMS_Media/final057/after",
+    "resolution": [
+      1280,
+      720
+    ],
+    "samples": 1,
+    "report": "final057_after_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788973312.7265642
+}

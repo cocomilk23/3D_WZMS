@@ -52,5 +52,5 @@ def build(name,preview):
     seq.set_playback_end(cursor);unreal.EditorAssetLibrary.save_loaded_asset(seq)
     return {'sequence':seq.get_path_name(),'frames':cursor,'cuts':rows}
 
-result={'preview':build(req['prefix']+'_Contact_'+req['revision'],True),'final':build(req['prefix']+'_Campus_'+req['revision'],False),'source':'Game campus 0.1.0-test.54; camera-only cinematic, not continuous player control.'}
+result={'preview':build(req['prefix']+'_Contact_'+req['revision'],True),'final':build(req['prefix']+'_Campus_'+req['revision'],False),'source':req.get('source','Game campus 0.1.0-test.54; camera-only cinematic, not continuous player control.')}
 (ue/'Reports'/req['report']).write_text(json.dumps(result,indent=2)+'\n',encoding='utf8')

@@ -1,0 +1,16 @@
+{
+  "mesh": "/Game/WZMS/West/Meshes/SM_west_solid_040.SM_west_solid_040",
+  "selected_materials": [
+    "M_8292fae4ec5fce",
+    "M_f926dc1ab529aa"
+  ],
+  "affected_vertices": 3380,
+  "affected_triangles": 5132,
+  "surface_raise_m": 0.02,
+  "triangle_count_unchanged": 166581,
+  "uv_materials_and_renderer_preserved": true,
+  "old_positions_sha256": "4fc2b4fb8e103fc15387cd4e84ef392af22fb835dbf10c60f3beb15fb37469b3",
+  "visual_and_local_route_review_pending": false,
+  "visual_review_passed": true,
+  "route_report": "final057_boardwalk_routes.json"
+}

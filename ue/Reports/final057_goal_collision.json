@@ -1,0 +1,84 @@
+{
+  "posts_and_crossbar_solid": true,
+  "low_braces_visual_only": true,
+  "proxies": [
+    {
+      "actor": "Final057_GoalCollision_South_Left",
+      "centre_blender_m": [
+        -88.72,
+        227.5,
+        1.25
+      ],
+      "size_m": [
+        0.12,
+        0.12,
+        2.5
+      ]
+    },
+    {
+      "actor": "Final057_GoalCollision_South_Right",
+      "centre_blender_m": [
+        -81.28,
+        227.5,
+        1.25
+      ],
+      "size_m": [
+        0.12,
+        0.12,
+        2.5
+      ]
+    },
+    {
+      "actor": "Final057_GoalCollision_South_Crossbar",
+      "centre_blender_m": [
+        -85,
+        227.5,
+        2.5
+      ],
+      "size_m": [
+        7.56,
+        0.12,
+        0.12
+      ]
+    },
+    {
+      "actor": "Final057_GoalCollision_North_Left",
+      "centre_blender_m": [
+        -88.72,
+        332.5,
+        1.25
+      ],
+      "size_m": [
+        0.12,
+        0.12,
+        2.5
+      ]
+    },
+    {
+      "actor": "Final057_GoalCollision_North_Right",
+      "centre_blender_m": [
+        -81.28,
+        332.5,
+        1.25
+      ],
+      "size_m": [
+        0.12,
+        0.12,
+        2.5
+      ]
+    },
+    {
+      "actor": "Final057_GoalCollision_North_Crossbar",
+      "centre_blender_m": [
+        -85,
+        332.5,
+        2.5
+      ],
+      "size_m": [
+        7.56,
+        0.12,
+        0.12
+      ]
+    }
+  ]
+}

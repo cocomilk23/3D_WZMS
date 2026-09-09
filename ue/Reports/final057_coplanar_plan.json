@@ -1,0 +1,2048 @@
+{
+  "same_facing_overlap_groups": 408,
+  "clipped_source_triangles": 868,
+  "maximum_union_area_error_m2": 5.790923296444817e-13,
+  "method": "Polygon subtraction of measured same-facing coplanar overlaps, smaller surface retained as detail. Barycentric interpolation preserves existing UVs/normals/material IDs. Opposite-facing internal joints left unchanged.",
+  "groups": [
+    {
+      "faces": 2,
+      "union_area_m2": 0.311741,
+      "union_error_m2": 3.763103110371313e-15
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 0.572352,
+      "union_error_m2": 3.207999585813744e-15
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 0.515413,
+      "union_error_m2": 5.88938620094126e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.373826,
+      "union_error_m2": 3.1648471278573898e-15
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 80.837693,
+      "union_error_m2": 5.950795411990839e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 118.879642,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 269.999992,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 150.439735,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 10.773604,
+      "union_error_m2": 6.050715484207103e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 10.552147,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 1099.0,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 3.706989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 8,
+      "union_area_m2": 3.957565,
+      "union_error_m2": 1.5096159999145042e-16
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 3.706931,
+      "union_error_m2": 4.856886919556158e-16
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 3.706989,
+      "union_error_m2": 6.0114611286829035e-15
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 2.427572,
+      "union_error_m2": 5.833658209275505e-15
+    },
+    {
+      "faces": 8,
+      "union_area_m2": 3.957565,
+      "union_error_m2": 5.4713178432308496e-15
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 3.706989,
+      "union_error_m2": 2.674339386675352e-14
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 3.706931,
+      "union_error_m2": 7.0405581863684785e-15
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 3.706989,
+      "union_error_m2": 7.095012779864917e-15
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 2.427572,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 2.212516,
+      "union_error_m2": 7.771561172376096e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 2.212516,
+      "union_error_m2": 7.771561172376096e-16
+    },
+    {
+      "faces": 21,
+      "union_area_m2": 569.105727,
+      "union_error_m2": 4.56926163572291e-15
+    },
+    {
+      "faces": 26,
+      "union_area_m2": 320.959867,
+      "union_error_m2": 7.602815946250452e-14
+    },
+    {
+      "faces": 32,
+      "union_area_m2": 758.862081,
+      "union_error_m2": 5.2887381973842906e-14
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 1724.069725,
+      "union_error_m2": 5.790923296444817e-13
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 73.075499,
+      "union_error_m2": 3.907985046680551e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 82.894215,
+      "union_error_m2": 4.085620730620576e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 129.443022,
+      "union_error_m2": 5.3818061118704463e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 67.177631,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 67.429016,
+      "union_error_m2": 1.1146639167236572e-13
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 73.429464,
+      "union_error_m2": 5.950795411990839e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 67.145527,
+      "union_error_m2": 7.316369732279782e-14
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 66.420233,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 18.341736,
+      "union_error_m2": 6.411537967210279e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 18.310709,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.684652,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 355.236196,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 355.231058,
+      "union_error_m2": 9.298117831235686e-16
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 80.837693,
+      "union_error_m2": 5.950795411990839e-14
+    },
+    {
+      "faces": 8,
+      "union_area_m2": 21.48334,
+      "union_error_m2": 4.56926163572291e-15
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 60.800018,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 53.600006,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 67.429016,
+      "union_error_m2": 1.1146639167236572e-13
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 67.177631,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 73.429464,
+      "union_error_m2": 5.995204332975845e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 67.145527,
+      "union_error_m2": 7.316369732279782e-14
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 12.959997,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 8,
+      "union_area_m2": 1325.718327,
+      "union_error_m2": 2.894351425197783e-13
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 7.519994,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 17.218759,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 14.799987,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 250.786634,
+      "union_error_m2": 9.027500968983304e-15
+    },
+    {
+      "faces": 32,
+      "union_area_m2": 375.62541,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 38,
+      "union_area_m2": 4098.287418,
+      "union_error_m2": 3.938009289321628e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.991052,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 7,
+      "union_area_m2": 2594.65028,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 10.117344,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 41.679896,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 22.320006,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 27.742597,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 15.599995,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 765.0,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2468.399994,
+      "union_error_m2": 1.6153745008296028e-14
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 28.499985,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2059.0,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 690.0,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 535.634297,
+      "union_error_m2": 1.9539925233402755e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.70194,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 17,
+      "union_area_m2": 59.095791,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 851.0,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 24,
+      "union_area_m2": 189.398254,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 20,
+      "union_area_m2": 83.603359,
+      "union_error_m2": 3.495868958897086e-13
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 2591.249781,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 655.814103,
+      "union_error_m2": 8.526512829121202e-14
+    },
+    {
+      "faces": 11,
+      "union_area_m2": 86.029552,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 18,
+      "union_area_m2": 3702.799683,
+      "union_error_m2": 3.899105430887895e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 325.0,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 47.553769,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 24.179969,
+      "union_error_m2": 1.0581813203458523e-16
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 7.915867,
+      "union_error_m2": 1.2369835507174374e-15
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 1.124916,
+      "union_error_m2": 4.363557231560504e-16
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 142.469901,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 11,
+      "union_area_m2": 8.80547,
+      "union_error_m2": 1.221249985768882e-16
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 142.469901,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 2.480032,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 2.444001,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 985.140038,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 15.461434,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 108.629389,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 647.291242,
+      "union_error_m2": 1.687538997430238e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 623.921675,
+      "union_error_m2": 1.0658141036401503e-14
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 142.469901,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 142.469901,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 66.521999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 14.782749,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 0.879998,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 0.527998,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.660763,
+      "union_error_m2": 2.768609773813038e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.532093,
+      "union_error_m2": 2.220446049250313e-16
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.948849,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.500001,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.500001,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.948849,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 7.733028,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 7.733028,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034353,
+      "union_error_m2": 2.2213134109883015e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034353,
+      "union_error_m2": 6.336077496005288e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034321,
+      "union_error_m2": 1.570987941514404e-14
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034323,
+      "union_error_m2": 4.6629367034256575e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034325,
+      "union_error_m2": 3.737672493628323e-14
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034383,
+      "union_error_m2": 8.136398591549257e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034383,
+      "union_error_m2": 6.589242091412442e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034351,
+      "union_error_m2": 1.1098005245910661e-14
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034353,
+      "union_error_m2": 1.6594430583055885e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034356,
+      "union_error_m2": 1.6050640769824445e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842495,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842495,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.03438,
+      "union_error_m2": 1.4290716369600928e-17
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.03438,
+      "union_error_m2": 4.445228907190568e-18
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034348,
+      "union_error_m2": 1.942890293094024e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.03435,
+      "union_error_m2": 5.5902548215525094e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034352,
+      "union_error_m2": 1.0027460632666685e-14
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.03437,
+      "union_error_m2": 1.0443035325380379e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.03437,
+      "union_error_m2": 8.40473524110763e-16
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034338,
+      "union_error_m2": 1.4405143744511406e-14
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.03434,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 48.034343,
+      "union_error_m2": 1.2219500584997878e-15
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 18.677721,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 10,
+      "union_area_m2": 14.523925,
+      "union_error_m2": 1.5648940476786777e-14
+    },
+    {
+      "faces": 41,
+      "union_area_m2": 165.363248,
+      "union_error_m2": 9.077813460892488e-14
+    },
+    {
+      "faces": 40,
+      "union_area_m2": 164.385122,
+      "union_error_m2": 6.772360450213455e-15
+    },
+    {
+      "faces": 16,
+      "union_area_m2": 1314.209108,
+      "union_error_m2": 1.2573466349295318e-13
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 718.471197,
+      "union_error_m2": 3.9968028886505635e-14
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 358.991302,
+      "union_error_m2": 2.6645352591003757e-15
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 8.882499,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 112.599893,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 19.87501,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 19.87501,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 29.166073,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 29.166073,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.455982,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 3.974001,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 25.792,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 25.7974,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 25.7974,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 25.792,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.910224,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.884442,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 230.475202,
+      "union_error_m2": 1.3877787807814457e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 11.465435,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.6332421526321639e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.9984014443252818e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 225.118702,
+      "union_error_m2": 5.3290705182007514e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 270.133241,
+      "union_error_m2": 2.7495367094232392e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 247.626035,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.6332421526321639e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.9984014443252818e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 225.118702,
+      "union_error_m2": 5.3290705182007514e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 270.133241,
+      "union_error_m2": 2.7495367094232392e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 247.626035,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 7,
+      "union_area_m2": 138.619208,
+      "union_error_m2": 1.7455081398983585e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 88.27926,
+      "union_error_m2": 3.197442310920451e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.6332421526321639e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.9984014443252818e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 225.118702,
+      "union_error_m2": 5.3290705182007514e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 270.133241,
+      "union_error_m2": 2.7495367094232392e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 247.626035,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.6332421526321639e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.9984014443252818e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 225.118702,
+      "union_error_m2": 5.3290705182007514e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 270.133241,
+      "union_error_m2": 2.7495367094232392e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 247.626035,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.6332421526321639e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.9984014443252818e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 225.118702,
+      "union_error_m2": 5.3290705182007514e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 270.133241,
+      "union_error_m2": 2.7495367094232392e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 247.626035,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.6332421526321639e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 269.625143,
+      "union_error_m2": 1.9984014443252818e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 225.118702,
+      "union_error_m2": 5.3290705182007514e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 270.133241,
+      "union_error_m2": 2.7495367094232392e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 247.626035,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 8.882499,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 116.400024,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 13.639996,
+      "union_error_m2": 5.921289696899593e-20
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.006,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.455999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 80.243123,
+      "union_error_m2": 5.3818061118704463e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 78.863383,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.021992,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.006,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 34.237967,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 8.882499,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.301995,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.143581,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.143581,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 655.814103,
+      "union_error_m2": 8.526512829121202e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 14.970011,
+      "union_error_m2": 1.6653345369377348e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 14.965931,
+      "union_error_m2": 1.3747683547116196e-16
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 82.409942,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 86.338293,
+      "union_error_m2": 9.663385543146052e-14
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.958007,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.301995,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.039992,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.039992,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 3.974001,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 35.111118,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.958007,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.172451,
+      "union_error_m2": 2.172741153660951e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.169889,
+      "union_error_m2": 1.2635834219232311e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.172451,
+      "union_error_m2": 2.1759937601784074e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.169889,
+      "union_error_m2": 1.3322676295501878e-15
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 8.767998,
+      "union_error_m2": 9.71446205338196e-18
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 8.767998,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 4.607999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 4.607999,
+      "union_error_m2": 3.5360131536959615e-16
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 19.500008,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 12,
+      "union_area_m2": 4.8,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 3.843004,
+      "union_error_m2": 3.16411275029212e-17
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 3.861999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 8,
+      "union_area_m2": 25.991999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 36.459997,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 40.041714,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.039992,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.039992,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 72.319996,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.529662,
+      "union_error_m2": 7.860465750519907e-17
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 72.319996,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 14.359999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.269999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 34.611924,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 11.07,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842495,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842495,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.842553,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 39.189763,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.879961,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.879961,
+      "union_error_m2": 7.389488326792204e-15
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.879961,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.879961,
+      "union_error_m2": 7.389488326792204e-15
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 13.192,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.333334,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.338334,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.973157,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.973099,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.973157,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.973157,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.973099,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.973157,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.529662,
+      "union_error_m2": 7.860465750519907e-17
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.529662,
+      "union_error_m2": 7.860465750519907e-17
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.529662,
+      "union_error_m2": 7.860465750519907e-17
+    },
+    {
+      "faces": 98,
+      "union_area_m2": 51.480043,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.160026,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.160026,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.767614,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.740952,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 8.214094,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 8.267866,
+      "union_error_m2": 1.6209245995131918e-16
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.11108,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.111054,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.041986,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.111054,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.041986,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.111054,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.041986,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.042018,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.111054,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.041986,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.111054,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.041986,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.111054,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.041986,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.740952,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.767614,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.865831,
+      "union_error_m2": 1.1102230246251565e-16
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.865831,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 11.07,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 39.189763,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 40.041714,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.224044,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.224044,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.223989,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.346512,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.125976,
+      "union_error_m2": 1.6542323066914832e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.133779,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.125976,
+      "union_error_m2": 1.657007864253046e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.133779,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.92335,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.944424,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 3.944413,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.83,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.83,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.5925,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 358.991302,
+      "union_error_m2": 2.6645352591003757e-15
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1.185,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 501.739685,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 11.326106,
+      "union_error_m2": 3.674838211509268e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 1205.690912,
+      "union_error_m2": 1.4432899320127035e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 0.890293,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 248.799927,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 20.083403,
+      "union_error_m2": 1.345614346192064e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 19.806065,
+      "union_error_m2": 1.0825143407534876e-13
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 16.041838,
+      "union_error_m2": 2.282872198149985e-13
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 16.361278,
+      "union_error_m2": 1.3459005505895965e-14
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 21.881576,
+      "union_error_m2": 2.3183999885894105e-13
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 31.514331,
+      "union_error_m2": 1.832314139825486e-13
+    },
+    {
+      "faces": 5,
+      "union_area_m2": 22.084743,
+      "union_error_m2": 1.9345419363658856e-15
+    },
+    {
+      "faces": 6,
+      "union_area_m2": 31.176211,
+      "union_error_m2": 2.203473891723353e-13
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 6.060683,
+      "union_error_m2": 3.788636071533347e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.500526,
+      "union_error_m2": 1.6653345369377348e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.386192,
+      "union_error_m2": 2.888054378979987e-14
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 4.789575,
+      "union_error_m2": 3.0253577421035516e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.557749,
+      "union_error_m2": 3.2612801348363973e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.519828,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 1.545431,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 3.163958,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 2.429839,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 111.753073,
+      "union_error_m2": 1.4432899320127035e-15
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 10.539998,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 5.102596,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 11,
+      "union_area_m2": 18.587439,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 9,
+      "union_area_m2": 14.433643,
+      "union_error_m2": 7.783530764360336e-14
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760473,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760473,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760473,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760474,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 2.760473,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 12.840424,
+      "union_error_m2": 8.72635297355373e-14
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 30.128336,
+      "union_error_m2": 2.3852447794681098e-18
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 38.730014,
+      "union_error_m2": 1.7705021476688287e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 30.128336,
+      "union_error_m2": 2.3852447794681098e-18
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 38.730014,
+      "union_error_m2": 1.7705021476688287e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 55.933404,
+      "union_error_m2": 2.2703193491846463e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 61.184336,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 55.933404,
+      "union_error_m2": 2.271403551357132e-16
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 7.061619,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 7.61559,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 4.670574,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 10.610999,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 3.843004,
+      "union_error_m2": 1.58205637514606e-17
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 33.600006,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 2.234977,
+      "union_error_m2": 3.0495896606586026e-16
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 2.782513,
+      "union_error_m2": 7.375198986851142e-16
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 15.749995,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 14,
+      "union_area_m2": 2.782513,
+      "union_error_m2": 9.71462087205957e-18
+    },
+    {
+      "faces": 8,
+      "union_area_m2": 9.820019,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 30.911845,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 32.834909,
+      "union_error_m2": 1.2744525487023983e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 111.50798,
+      "union_error_m2": 3.802513859341161e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 32.834909,
+      "union_error_m2": 1.2744525487023983e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 111.50798,
+      "union_error_m2": 3.552713678800501e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 32.834909,
+      "union_error_m2": 1.2744525487023983e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 111.50798,
+      "union_error_m2": 3.802513859341161e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 32.834909,
+      "union_error_m2": 1.2744525487023983e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 111.50798,
+      "union_error_m2": 3.552713678800501e-15
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 182.887961,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 3,
+      "union_area_m2": 24.2536,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 12.817187,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 4,
+      "union_area_m2": 12.817187,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 5.070818,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 5.070818,
+      "union_error_m2": 0.0
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 2.407618,
+      "union_error_m2": 4.85722573273506e-16
+    },
+    {
+      "faces": 2,
+      "union_area_m2": 2.407618,
+      "union_error_m2": 4.440892098500626e-16
+    }
+  ]
+}

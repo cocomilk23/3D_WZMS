@@ -1,0 +1,62 @@
+{
+  "views": [
+    {
+      "view": "Review_05_Plaza_from_gate",
+      "seconds": 6,
+      "first_frame": 0,
+      "last_frame": 143,
+      "first_second": {
+        "mean_std_8bit": 2.2730767726898193,
+        "percent_std_over_12": 1.2816840277777777
+      },
+      "last_second": {
+        "mean_std_8bit": 1.0116205215454102,
+        "percent_std_over_12": 0.1330295138888889
+      }
+    },
+    {
+      "view": "Review_172_Refined_facade_windows",
+      "seconds": 6,
+      "first_frame": 144,
+      "last_frame": 287,
+      "first_second": {
+        "mean_std_8bit": 2.173598527908325,
+        "percent_std_over_12": 0.20475260416666666
+      },
+      "last_second": {
+        "mean_std_8bit": 0.4725530445575714,
+        "percent_std_over_12": 0.016384548611111112
+      }
+    },
+    {
+      "view": "Review_106_Zhouyuan_entry",
+      "seconds": 6,
+      "first_frame": 288,
+      "last_frame": 431,
+      "first_second": {
+        "mean_std_8bit": 3.841193199157715,
+        "percent_std_over_12": 6.205729166666667
+      },
+      "last_second": {
+        "mean_std_8bit": 2.2333171367645264,
+        "percent_std_over_12": 4.573350694444445
+      }
+    },
+    {
+      "view": "Review_38_North_gate_from_street",
+      "seconds": 6,
+      "first_frame": 432,
+      "last_frame": 575,
+      "first_second": {
+        "mean_std_8bit": 9.72285270690918,
+        "percent_std_over_12": 22.34711371527778
+      },
+      "last_second": {
+        "mean_std_8bit": 0.8672022819519043,
+        "percent_std_over_12": 0.5225694444444444
+      }
+    }
+  ],
+  "render_settings": "Same 1280x720 MRQ samples=1 settings as before/after comparison. Six-second stationary hold per view. No Nanite pool increase or quality reduction.",
+  "interpretation": "Temporal variability also includes AA, GI, vegetation streaming and legitimate water motion; inspect frames before attributing changes."
+}

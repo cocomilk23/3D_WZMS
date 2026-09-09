@@ -1,0 +1,18 @@
+{
+  "complete": true,
+  "started_unix": 1788978117.0179815,
+  "request": {
+    "name": "Final057 extended stationary QA",
+    "sequence": "/Game/WZMS/Cinematics/LS_Final057_Hold_Campus_r01.LS_Final057_Hold_Campus_r01",
+    "directory": "E:/WZMS_Media/final057/hold-default",
+    "resolution": [
+      1280,
+      720
+    ],
+    "samples": 1,
+    "report": "final057_hold_render.json"
+  },
+  "errors": [],
+  "success": true,
+  "finished_unix": 1788978155.852778
+}

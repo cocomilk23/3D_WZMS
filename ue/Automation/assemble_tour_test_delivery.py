@@ -2,8 +2,8 @@
 import argparse,hashlib,json,pathlib,shutil,zipfile
 
 parser=argparse.ArgumentParser();parser.add_argument('build_directory');args=parser.parse_args()
-build=pathlib.Path(args.build_directory).resolve();allowed=pathlib.Path('E:/WZMS_ValidationBuilds').resolve()
-assert build.parent==allowed,build
+build=pathlib.Path(args.build_directory).resolve();allowed={pathlib.Path(p).resolve() for p in ['E:/WZMS_ValidationBuilds','E:/WZMS_Releases']}
+assert build.parent in allowed,build
 root=pathlib.Path(__file__).resolve().parents[2];ue=root/'ue'
 state=json.loads((build/'build-process.json').read_text(encoding='utf8'))
 assert state['state']=='complete' and (build/'Windows/WZMS.exe').is_file()
@@ -11,6 +11,7 @@ destination=build/'Delivery';assert not destination.exists(),'Preserve the exist
 destination.mkdir()
 for source,name in [('TOUR_TEST_BUILD.md','开始游览.md'),('TOUR_USER_GUIDE.md','操作说明.md'),('TOUR_ASSET_SOURCES.md','素材来源.md')]:
  shutil.copy2(ue/'Docs'/source,destination/name)
+if state['version']=='0.1.0-final.57':shutil.copy2(ue/'Docs/FINAL_DELIVERY_057.md',destination/'本次更新.md')
 shutil.copy2(build/'source-manifest.json',destination/'source-manifest.json')
 licenses=destination/'Licenses/NotoSansSC';licenses.mkdir(parents=True)
 for name in ['OFL.txt','SOURCE.json','DERIVATIVE.json']:shutil.copy2(ue/'SourceFonts/NotoSansSC'/name,licenses/name)
