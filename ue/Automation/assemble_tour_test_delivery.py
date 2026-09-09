@@ -11,7 +11,10 @@ destination=build/'Delivery';assert not destination.exists(),'Preserve the exist
 destination.mkdir()
 for source,name in [('TOUR_TEST_BUILD.md','开始游览.md'),('TOUR_USER_GUIDE.md','操作说明.md'),('TOUR_ASSET_SOURCES.md','素材来源.md')]:
  shutil.copy2(ue/'Docs'/source,destination/name)
-if state['version']=='0.1.0-final.57':shutil.copy2(ue/'Docs/FINAL_DELIVERY_057.md',destination/'本次更新.md')
+if state['version']=='0.1.0-final.57':
+ shutil.copy2(ue/'Docs/FINAL_DELIVERY_057.md',destination/'本次更新.md')
+ shutil.copy2(ue/'Docs/FINAL_DELIVERY_ACCEPTANCE_057.md',destination/'验收记录.md')
+ if (build/'standalone-smoke.json').exists():shutil.copy2(build/'standalone-smoke.json',destination/'standalone-smoke.json')
 shutil.copy2(build/'source-manifest.json',destination/'source-manifest.json')
 licenses=destination/'Licenses/NotoSansSC';licenses.mkdir(parents=True)
 for name in ['OFL.txt','SOURCE.json','DERIVATIVE.json']:shutil.copy2(ue/'SourceFonts/NotoSansSC'/name,licenses/name)

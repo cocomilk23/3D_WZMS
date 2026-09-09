@@ -2,17 +2,21 @@
 
 Blender v0.0.43 中已有的本部模型已全部迁入同一张 UE 校园地图，包括建筑、道路、运动场、绿化、水面和已经制作的室内空间。新疆部继续暂缓，尺寸沿用用户认可的估算方案。
 
+最新交付为 `0.1.0-final.57`。独立游戏：`E:/WZMS_ValidationBuilds/0.1.0-final.57/Windows/WZMS.exe`；分享完整同目录 `WZMS-0.1.0-final.57-Windows.zip`，接收方完整解压后运行，无需 UE 或 Blender。[本次更新](Docs/FINAL_DELIVERY_057.md) · [验收状态](Docs/FINAL_DELIVERY_ACCEPTANCE_057.md)。
+
 ## 打开与操作
 
 - 工程：E:/WZMS_UE/ue/WZMS/WZMS.uproject。
 - 整校地图：/Game/WZMS/Maps/L_WZMS_Campus，已设为默认启动地图。
 - 已验收的南区独立地图仍保留：/Game/WZMS/Maps/L_WZMS_South。
 - 启动入口：ue/Automation/Start-WZMS.ps1。使用 UE 5.8、DX12/SM6。
-- 点击 Play 开始。WASD 移动，鼠标转向，Shift 加速，空格跳跃；Tab 切换航拍并返回上次步行位置，航拍时 Q/E 降低/升高；R 返回南门；Esc 结束运行，Shift+F1 释放鼠标。
+- 独立游戏中：WASD 移动，鼠标转向，Shift 加速，空格跳跃；M / Esc 打开地图，Tab 切换航拍并返回步行位置，航拍时 Q/E 降低/升高，R 返回安全位置。编辑器调试可点击 Play，并用 Shift+F1 释放鼠标。
 
-当前交付为可在 UE 编辑器运行的工程，未打包独立 Windows 程序。首次加载需要等待着色器和资源缓存，之后使用 E 盘缓存。
+已打包独立 Windows 程序并完成离屏启动检查；最终人工菜单点击与所有者长时间游览验收仍待完成。首次加载或切换地点可能出现资源加载波动。
 
-## 迁入内容
+## 迁入基线内容与统计
+
+以下保留初次迁入的统计与验证范围；后续游览功能和最终修正以本页上方的最新交付记录为准。
 
 | 分区 | 分块数 | 源对象数 |
 |---|---:|---:|
