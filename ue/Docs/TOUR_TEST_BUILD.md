@@ -4,7 +4,7 @@
 
 ## 启动
 
-完整解压，运行 `Windows/WZMS.exe`，不要单独移动可执行文件。无需安装 Blender 或 Unreal Engine。若提示缺少运行库，安装包内 `Windows/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe` 后重试。
+完整解压，运行 `Windows/WZMS.exe`，不要单独移动可执行文件。无需安装 Blender 或 Unreal Engine。若提示缺少 Microsoft Visual C++ 运行库，安装包内 `Windows/Engine/Extras/Redist/en-us/vc_redist.x64.exe` 后重试。
 
 启动后在地图中选择地点，或点击“继续游览”。WASD 行走，鼠标环顾，Shift 加速，空格跳跃，M / Esc 打开地图，Tab 切换航拍，Q / E 下降和上升，R 返回安全位置。建议使用菜单的“保存并退出”。
 

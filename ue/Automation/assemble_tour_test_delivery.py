@@ -22,6 +22,9 @@ def digest(path):
  with path.open('rb') as stream:
   for block in iter(lambda:stream.read(8*1024*1024),b''):h.update(block)
  return h.hexdigest()
+source_manifest=json.loads((build/'source-manifest.json').read_text(encoding='utf8'))
+changed=[name for name,expected in source_manifest['source_files_sha256'].items() if digest(root/name)!=expected]
+assert not changed,('Source assets/config changed during the build; inspect before delivering',changed)
 files=[(p,'Windows/'+p.relative_to(build/'Windows').as_posix()) for p in sorted((build/'Windows').rglob('*')) if p.is_file()]
 files += [(p,p.relative_to(destination).as_posix()) for p in sorted(destination.rglob('*')) if p.is_file()]
 checks=''.join(f'{digest(p)}  {name}\n' for p,name in files)
@@ -34,6 +37,6 @@ with zipfile.ZipFile(archive) as z:
  failed=z.testzip();assert failed is None,failed
 archive_hash=digest(archive)
 (build/(archive.name+'.sha256')).write_text(archive_hash+'  '+archive.name+'\n',encoding='utf8')
-report={'source_commit':state['source_commit'],'version':state['version'],'archive':str(archive),'archive_bytes':archive.stat().st_size,'archive_sha256':archive_hash,'windows_bytes':sum(p.stat().st_size for p,n in files if n.startswith('Windows/')),'file_count':len(files),'zip_crc_checked':True,'standalone_user_acceptance_pending':True,'launcher':str(build/'Windows/WZMS.exe')}
+report={'source_commit':state['source_commit'],'version':state['version'],'archive':str(archive),'archive_bytes':archive.stat().st_size,'archive_sha256':archive_hash,'windows_bytes':sum(p.stat().st_size for p,n in files if n.startswith('Windows/')),'file_count':len(files),'zip_crc_checked':True,'source_assets_unchanged_during_build':True,'standalone_user_acceptance_pending':True,'launcher':str(build/'Windows/WZMS.exe')}
 (build/'delivery-manifest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
 print(json.dumps(report,ensure_ascii=False,indent=2),flush=True)
