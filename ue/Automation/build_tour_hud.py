@@ -89,7 +89,7 @@ g=function(bp,'DrawTourMap',params)
 body=['(HUD|DrawTexture :Texture "/Game/WZMS/Tour/UI/T_Tour_CampusMap.T_Tour_CampusMap" :ScreenX X :ScreenY Y :ScreenW Side :ScreenH Side :TextureU U :TextureV V :TextureUWidth Span :TextureVHeight Span :BlendMode "BLEND_Opaque")']
 major={0,2,12,13,14,16,18,20,21}
 for p in destinations:
- u,v=p['map_uv'];body.append(f'({draw_dot} :X X :Y Y :Side Side :U U :V V :Span Span :DotU {u} :DotV {v} :Label {q(p["name"])} :ClickName {q("POI%02d"%p["index"])} :Labels Labels :Major {str(p["index"] in major).lower()})')
+ u,v=p['map_uv'];body.append(f'({draw_dot} :X X :Y Y :Side Side :U U :V V :Span Span :DotU {u} :DotV {v} :Label {q(p["name"])} :ClickName {q("MapPOI%02d"%p["index"])} :Labels Labels :Major {str(p["index"] in major).lower()})')
 body.extend(['(bind pawn (Game|GetPlayerPawn 0))','(bind pos (Transformation|GetActorLocation :self pawn))','(bind direction (Transformation|GetActorForwardVector :self pawn))','(bind px (+ X (* (/ (- (/ (+ (.x pos) 20000) 62000) U) Span) Side)))','(bind py (+ Y (* (/ (- (/ (+ (.y pos) 49500) 62000) V) Span) Side)))'])
 tipx='(+ px (* (.x direction) 10))';tipy='(+ py (* (.y direction) 10))';leftx='(- (- px (* (.x direction) 7)) (* (.y direction) 6))';lefty='(+ (- py (* (.y direction) 7)) (* (.x direction) 6))';rightx='(+ (- px (* (.x direction) 7)) (* (.y direction) 6))';righty='(- (- py (* (.y direction) 7)) (* (.x direction) 6))'
 for x1,y1,x2,y2 in [(tipx,tipy,leftx,lefty),(tipx,tipy,rightx,righty),(leftx,lefty,rightx,righty)]:body.append(f'(HUD|DrawLine :StartScreenX {x1} :StartScreenY {y1} :EndScreenX {x2} :EndScreenY {y2} :LineColor {orange} :LineThickness 2.5)')
@@ -124,7 +124,9 @@ draw.append(f'(if {get("MenuOpen")} ({node(event,"DrawTourMenu")}) (else ({node(
 actions=[('POI%02d'%p['index'],f'({visit} :Index {p["index"]})') for p in destinations]+[('Continue',f'({setmenu} :Open false)'),('Help',setv('HelpOpen','(not '+get('HelpOpen')+')')),('Volume',f'({cyclevolume})')]+[('Quality'+str(i),f'({selectquality} :Quality {i})') for i in [1,2,3]]+[('Exit',f'''(bind explorer ({cast} :Object (Game|GetPlayerPawn 0))
  (:then ({savefn} :self explorer) (Game|QuitGame :SpecificPlayer (Game|GetPlayerController 0) :QuitPreference "Quit")) (:CastFailed))''')]
 # The toolset currently fails to rename SwitchOnName exec pins. Explicit equality branches preserve the actual hit-box names.
-click=[f'(if (== BoxName {q(name)}) {action})' for name,action in actions]
+# Map dots and list cards coexist in one HUD frame; AddHitBox requires unique names.
+# Route both names to the same destination without registering duplicate hit boxes.
+click=[f'(if (or (== BoxName {q(name)}) (== BoxName {q("Map"+name)})) {action})' if name.startswith('POI') else f'(if (== BoxName {q(name)}) {action})' for name,action in actions]
 code='(event EventReceiveDrawHUD (SizeX SizeY)\n'+'\n'.join(draw)+')\n(event EventHitBoxClicked (BoxName)\n'+'\n'.join(click)+')\n(event EventHitBoxBeginCursorOver (BoxName) '+setv('HoverName','BoxName')+')\n(event EventHitBoxEndCursorOver (BoxName) '+setv('HoverName',q('None'))+')'
 write(event,code);codes.append(code);compile_save(bp)
 gm=assets.load_asset('/Game/WZMS/Blueprints/BP_WZMS_GameMode');unreal.get_default_object(gm.generated_class()).set_editor_property('hud_class',bp.generated_class());compile_save(gm)
