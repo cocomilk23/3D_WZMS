@@ -1,0 +1,15 @@
+{
+  "source_commit": "4c71407",
+  "editor_pid": 6680,
+  "event_utc": "2026-09-09T05:25:55Z",
+  "failure": "GPU Error_DMA_PageFault; engine reset, device removed",
+  "vram_budget_mb": 5226,
+  "vram_used_mb": 4829.28,
+  "system_gpu_memory_used_mb": 331.12,
+  "scope": "Editor PIE after 13 runtime interior captures; no source mutation active",
+  "not_proven": [
+    "Root cause",
+    "Standalone stability"
+  ],
+  "follow_up": "Inspect shadow workload and capture stable runtime performance; no claim that the package is release ready."
+}

@@ -1,0 +1,20 @@
+{
+  "reviewed_utc": "2026-09-09T05:58:19.082297+00:00",
+  "scope": "13 open-interior views reviewed, then refined local luminaires; final canteen and gym verified after saving and fresh PIE. No global exposure change.",
+  "light_adjustments_verified": true,
+  "remaining_visual_work": [
+    "Greenish indirect-light cast on some white ceilings",
+    "Continuous indoor/outdoor exposure transitions"
+  ],
+  "standalone_validation_pending": true,
+  "screenshots": {
+    "Reviews/Tour/Final050_Canteen.png": "f91bcc795f78e377a8b1a9be28eb3a0e2a9328fdca741849d286b091f4bde655",
+    "Reviews/Tour/Final050_Gym_Upper.png": "5ae3fab90ee0b76d7bd21ef9d40657d874b2e7f0f77852f7a5a02ec1baf9fad1",
+    "Reviews/Tour/Runtime050_Alumni.png": "43eea3530bf369900074c2b73aa0675ac527fe2b946276652ec963238cfe109b",
+    "Reviews/Tour/Runtime050_Gym_Ground.png": "2aaa77a3163ffedc31b1407621aae0db457182475f7e9a9f296e02993ccd9c78",
+    "Reviews/Tour/Runtime050_Math_Ground.png": "eb770b90959945f8f70abf7651e004bb886c2f79ad002dcc38ef863f45d2a465",
+    "Reviews/Tour/Runtime050_Math_Upper.png": "2343e3e8eeb0f33a31513a14152f577587c3a73e8eb262dec8802f7d4613de0f",
+    "Reviews/Tour/Runtime050_History.png": "c2ec105a8ec60f76d05ce28d75b3a4a662edb4549f4117a0d69ba9f576cb43d1",
+    "Reviews/Tour/Runtime050_Zhouyuan_Inside.png": "7975d5cc6e3989de7dc467f5bda15bfb89d2768346a2a1cd8c4efeabbcecca7d"
+  }
+}

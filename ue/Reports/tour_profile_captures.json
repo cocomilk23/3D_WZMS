@@ -1,0 +1,49 @@
+{
+  "complete": true,
+  "captures": [
+    {
+      "view": "SouthGate",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_135225).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 20
+    },
+    {
+      "view": "Aerial",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_135253).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 20
+    },
+    {
+      "view": "Library",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_135321).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 20
+    },
+    {
+      "view": "GymUpper",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_135349).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 20
+    },
+    {
+      "view": "Canteen",
+      "csv": "E:\\WZMS_UE\\ue\\WZMS\\Saved\\Profiling\\CSV\\Profile(20260909_135417).csv",
+      "warmup_seconds": 5,
+      "capture_seconds": 20
+    }
+  ],
+  "fps_cap": 60,
+  "gameplay_fov": 80,
+  "mode": "UE 5.8 PIE; current complete campus, tour HUD, refined local lighting; not standalone certification",
+  "quality": 3,
+  "resolution_scale": [
+    1.0,
+    100.0,
+    0.0,
+    100.0
+  ],
+  "viewport_pixels": [
+    1701.0,
+    981.0
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "mode": "UE 5.8 PIE; current complete campus, tour HUD, refined local lighting; not standalone certification",
+  "fps_cap": 60,
+  "gpu": "RTX 3060 Laptop 6GB",
+  "views": [
+    {
+      "view": "SouthGate",
+      "csv": "Tour_Profile_SouthGate.csv",
+      "frames": 980,
+      "duration_seconds": 20.077879199999998,
+      "average_fps": 48.80993606137445,
+      "timings": {
+        "FrameTime": {
+          "mean": 20.487631836734693,
+          "median": 20.356450000000002,
+          "p95": 22.138
+        },
+        "GameThreadTime": {
+          "mean": 12.011655,
+          "median": 11.69575,
+          "p95": 14.6417
+        },
+        "RenderThreadTime": {
+          "mean": 0.002806020408163265,
+          "median": 0.0021,
+          "p95": 0.0032
+        },
+        "GPUTime": {
+          "mean": 19.194640306122448,
+          "median": 19.1204,
+          "p95": 20.0878
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4883.785029897959,
+          "median": 4887.6367,
+          "p95": 4890.2617
+        }
+      }
+    },
+    {
+      "view": "Aerial",
+      "csv": "Tour_Profile_Aerial.csv",
+      "frames": 1098,
+      "duration_seconds": 20.0014395,
+      "average_fps": 54.896048856883525,
+      "timings": {
+        "FrameTime": {
+          "mean": 18.216247267759563,
+          "median": 18.1127,
+          "p95": 20.0156
+        },
+        "GameThreadTime": {
+          "mean": 13.758886520947177,
+          "median": 13.44625,
+          "p95": 17.1297
+        },
+        "RenderThreadTime": {
+          "mean": 0.0029120218579234973,
+          "median": 0.0022,
+          "p95": 0.0036
+        },
+        "GPUTime": {
+          "mean": 16.902417304189434,
+          "median": 16.8522,
+          "p95": 17.639
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4890.269896721312,
+          "median": 4889.1367,
+          "p95": 4891.7617
+        }
+      }
+    },
+    {
+      "view": "Library",
+      "csv": "Tour_Profile_Library.csv",
+      "frames": 548,
+      "duration_seconds": 20.022050800000002,
+      "average_fps": 27.369823674605797,
+      "timings": {
+        "FrameTime": {
+          "mean": 36.53658905109489,
+          "median": 36.493700000000004,
+          "p95": 39.6126
+        },
+        "GameThreadTime": {
+          "mean": 10.206492153284671,
+          "median": 9.9757,
+          "p95": 12.0374
+        },
+        "RenderThreadTime": {
+          "mean": 0.0018651459854014598,
+          "median": 0.0016,
+          "p95": 0.0034
+        },
+        "GPUTime": {
+          "mean": 35.617543795620435,
+          "median": 35.4945,
+          "p95": 37.0518
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4953.212201824817,
+          "median": 4927.2617,
+          "p95": 4993.8867
+        }
+      }
+    },
+    {
+      "view": "GymUpper",
+      "csv": "Tour_Profile_GymUpper.csv",
+      "frames": 751,
+      "duration_seconds": 20.0187642,
+      "average_fps": 37.51480323645553,
+      "timings": {
+        "FrameTime": {
+          "mean": 26.656144074567244,
+          "median": 26.6192,
+          "p95": 28.586
+        },
+        "GameThreadTime": {
+          "mean": 11.095368175765646,
+          "median": 10.7664,
+          "p95": 13.7554
+        },
+        "RenderThreadTime": {
+          "mean": 0.0022193075898801597,
+          "median": 0.002,
+          "p95": 0.0033
+        },
+        "GPUTime": {
+          "mean": 25.654590812250333,
+          "median": 25.5654,
+          "p95": 26.6331
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 5040.036167376831,
+          "median": 5035.3867,
+          "p95": 5102.0117
+        }
+      }
+    },
+    {
+      "view": "Canteen",
+      "csv": "Tour_Profile_Canteen.csv",
+      "frames": 1002,
+      "duration_seconds": 20.007480200000003,
+      "average_fps": 50.08126910454221,
+      "timings": {
+        "FrameTime": {
+          "mean": 19.96754510978044,
+          "median": 19.861449999999998,
+          "p95": 22.0303
+        },
+        "GameThreadTime": {
+          "mean": 13.518192215568861,
+          "median": 12.8729,
+          "p95": 18.2699
+        },
+        "RenderThreadTime": {
+          "mean": 0.0024748502994011976,
+          "median": 0.0021,
+          "p95": 0.0036
+        },
+        "GPUTime": {
+          "mean": 18.779434031936127,
+          "median": 18.7128,
+          "p95": 19.7044
+        },
+        "GPUMem/LocalUsedMB": {
+          "mean": 4903.59665508982,
+          "median": 4860.8867,
+          "p95": 4991.5117
+        }
+      }
+    }
+  ],
+  "viewport_pixels": [
+    1701.0,
+    981.0
+  ],
+  "resolution_scale": [
+    1.0,
+    100.0,
+    0.0,
+    100.0
+  ],
+  "quality_preset": 3,
+  "resolution_note": "Measured PIE viewport; not a 1080p/4K or packaged-game certification.",
+  "limitations": "Five stationary views, 20 seconds each after warmup. First-load streaming and free movement may differ. The previous GPU page fault remains a separate unresolved stability finding."
+}

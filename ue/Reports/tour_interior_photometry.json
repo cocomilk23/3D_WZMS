@@ -1,0 +1,744 @@
+{
+  "purpose": "Improve darker gym upper hall and canteen, reduce colored cast using existing neutral/warm-white luminaires. No global exposure or geometry change.",
+  "lights": [
+    {
+      "actor": "InteriorLight_011_Zhouyuan visible entry downlight",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_012_Zhouyuan visible entry downlight.001",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_013_Zhouyuan visible entry downlight.002",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_014_Zhouyuan visible entry downlight.003",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_015_Zhouyuan visible entry downlight.004",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_016_Zhouyuan visible entry downlight.005",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_017_Zhouyuan visible entry downlight.006",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_018_Zhouyuan visible entry downlight.007",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_019_Zhouyuan visible entry downlight.008",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_020_Zhouyuan visible entry downlight.009",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_021_Zhouyuan visible entry downlight.010",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_022_Zhouyuan visible entry downlight.011",
+      "original_estimated_lumens": 4550.0,
+      "revised_lumens": 8190.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_023_Alumni warm ceiling area",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_024_Alumni warm ceiling area.001",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_025_Alumni warm ceiling area.002",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_026_Alumni warm ceiling area.003",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_027_Alumni warm ceiling area.004",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_028_Alumni warm ceiling area.005",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_029_Alumni warm ceiling area.006",
+      "original_estimated_lumens": 6300.0,
+      "revised_lumens": 10080.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_030_Gym ground fluorescent pair light",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_031_Gym ground fluorescent pair light.001",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_032_Gym ground fluorescent pair light.002",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_033_Gym ground fluorescent pair light.003",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_034_Gym ground fluorescent pair light.004",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_035_Gym ground fluorescent pair light.005",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_036_Gym ground fluorescent pair light.006",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_037_Gym ground fluorescent pair light.007",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_038_Gym ground fluorescent pair light.008",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_039_Gym ground fluorescent pair light.009",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_040_Gym ground fluorescent pair light.010",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_041_Gym ground fluorescent pair light.011",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_042_Gym ground fluorescent pair light.012",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_043_Gym ground fluorescent pair light.013",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_044_Gym ground fluorescent pair light.014",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_045_Gym ground fluorescent pair light.015",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_046_Gym ground fluorescent pair light.016",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_047_Gym ground fluorescent pair light.017",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_048_Gym ground fluorescent pair light.018",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_049_Gym ground fluorescent pair light.019",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_050_Gym ground fluorescent pair light.020",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_051_Gym ground fluorescent pair light.021",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_052_Gym ground fluorescent pair light.022",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_053_Gym ground fluorescent pair light.023",
+      "original_estimated_lumens": 7700.0,
+      "revised_lumens": 15400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_054_Gym trophy case LED light",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 5600.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_055_Gym trophy case LED light.001",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 5600.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_056_Gym trophy case LED light.002",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 5600.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_057_Gym upper industrial light",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_058_Gym upper industrial light.001",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_059_Gym upper industrial light.002",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_060_Gym upper industrial light.003",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_061_Gym upper industrial light.004",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_062_Gym upper industrial light.005",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_063_Gym upper industrial light.006",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_064_Gym upper industrial light.007",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_065_Gym upper industrial light.008",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_066_Gym upper industrial light.009",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_067_Gym upper industrial light.010",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_068_Gym upper industrial light.011",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_069_Gym upper industrial light.012",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_070_Gym upper industrial light.013",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_071_Gym upper industrial light.014",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_072_Gym upper industrial light.015",
+      "original_estimated_lumens": 52500.0,
+      "revised_lumens": 157500.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_073_Math warm pendant fill",
+      "original_estimated_lumens": 5600.0,
+      "revised_lumens": 8960.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_074_Math warm pendant fill.001",
+      "original_estimated_lumens": 5600.0,
+      "revised_lumens": 8960.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_075_Math warm pendant fill.002",
+      "original_estimated_lumens": 5600.0,
+      "revised_lumens": 8960.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_076_Math ceiling soft exhibit light",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_077_Math ceiling soft exhibit light.001",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_078_Math ceiling soft exhibit light.002",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_079_Math ceiling soft exhibit light.003",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_080_Math ceiling soft exhibit light.004",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_081_Math ceiling soft exhibit light.005",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_082_Math ceiling soft exhibit light.006",
+      "original_estimated_lumens": 9800.0,
+      "revised_lumens": 15680.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_083_Math classroom pendant light",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 4480.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_084_Math classroom pendant light.001",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 4480.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_085_Math classroom pendant light.002",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 4480.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_086_Math classroom pendant light.003",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 4480.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_087_Math classroom pendant light.004",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 4480.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_088_Math classroom pendant light.005",
+      "original_estimated_lumens": 2800.0,
+      "revised_lumens": 4480.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_089_Math rest ambient fill",
+      "original_estimated_lumens": 14000.0,
+      "revised_lumens": 22400.0,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_090_History exhibit wash",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_091_History exhibit wash.001",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_092_History exhibit wash.002",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_093_History exhibit wash.003",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_094_History exhibit wash.004",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_095_History exhibit wash.005",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_096_History exhibit wash.006",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_097_History exhibit wash.007",
+      "original_estimated_lumens": 3150.0,
+      "revised_lumens": 4095.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_098_History soft gallery light",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_099_History soft gallery light.001",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_100_History soft gallery light.002",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_101_History soft gallery light.003",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_102_History soft gallery light.004",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_103_History soft gallery light.005",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_104_History soft gallery light.006",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_105_History soft gallery light.007",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_106_History soft gallery light.008",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_107_History soft gallery light.009",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_108_History soft gallery light.010",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_109_History soft gallery light.011",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_110_History soft gallery light.012",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_111_History soft gallery light.013",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_112_History soft gallery light.014",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_113_History soft gallery light.015",
+      "original_estimated_lumens": 2660.0,
+      "revised_lumens": 3458.0,
+      "temperature_k": 4200
+    },
+    {
+      "actor": "InteriorLight_114_Canteen twin fluorescent light",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_115_Canteen twin fluorescent light.001",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_116_Canteen twin fluorescent light.002",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_117_Canteen twin fluorescent light.003",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_118_Canteen twin fluorescent light.004",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_119_Canteen twin fluorescent light.005",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_120_Canteen twin fluorescent light.006",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_121_Canteen twin fluorescent light.007",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_122_Canteen twin fluorescent light.008",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_123_Canteen twin fluorescent light.009",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_124_Canteen twin fluorescent light.010",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_125_Canteen twin fluorescent light.011",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_126_Canteen twin fluorescent light.012",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_127_Canteen twin fluorescent light.013",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    },
+    {
+      "actor": "InteriorLight_128_Canteen twin fluorescent light.014",
+      "original_estimated_lumens": 6650.0,
+      "revised_lumens": 150000,
+      "temperature_k": 5000
+    }
+  ],
+  "lamp_materials": [
+    {
+      "material": "Alumni warm recessed diffuser",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_16f84a34bccbfe.MI_M_16f84a34bccbfe",
+      "luminance": 2880.0
+    },
+    {
+      "material": "History warm exhibit lighting",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_fe2453b7f9de6f.MI_M_fe2453b7f9de6f",
+      "luminance": 1920.0
+    },
+    {
+      "material": "Interior neutral LED",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_eeed9f93f345bc.MI_M_eeed9f93f345bc",
+      "luminance": 2880.0
+    },
+    {
+      "material": "Math warm paper lantern",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_c67d1f2af083c8.MI_M_c67d1f2af083c8",
+      "luminance": 1727.9999542236328
+    },
+    {
+      "material": "Zhouyuan lit spotlight lens",
+      "instance": "/Game/WZMS/Materials/Instances/MI_M_bd8faed5f2a47d.MI_M_bd8faed5f2a47d",
+      "luminance": 2304.0000915527344
+    }
+  ],
+  "visual_validation_pending": true,
+  "estimated_photometry": true,
+  "rendered_adjustments_verified": true,
+  "visual_review": "Reports/tour_visual_review_050.json"
+}
