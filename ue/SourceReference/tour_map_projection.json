@@ -1,0 +1,22 @@
+{
+  "source": "Orthographic render of actual UE scene",
+  "north": "Blender +Y / UE -Y",
+  "centre_blender_m": [
+    110,
+    185
+  ],
+  "width_m": 620,
+  "bounds_blender_m": [
+    -200,
+    -125,
+    420,
+    495
+  ],
+  "pixel_size": [
+    2048,
+    2048
+  ],
+  "u_formula": "(source_x+200)/620",
+  "v_formula": "(495-source_y)/620",
+  "image": "SourceTextures/T_Tour_CampusMap.png"
+}

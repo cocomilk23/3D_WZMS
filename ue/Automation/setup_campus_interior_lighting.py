@@ -35,7 +35,7 @@ box_handle=next((h for h in handles if isinstance(obj(h),unreal.BoxComponent)),N
 if box_handle is None:
     box_handle,reason=ss.add_new_subobject(unreal.AddNewSubobjectParams(parent_handle=handles[0],new_class=unreal.BoxComponent,blueprint_context=bp));assert not str(reason),str(reason)
     ss.rename_subobject(box_handle,unreal.Text('InteriorBounds'))
-box=obj(box_handle);box.set_collision_profile_name('NoCollision');box.set_editor_property('hidden_in_game',True)
+box=obj(box_handle);box.set_collision_enabled(unreal.CollisionEnabled.QUERY_ONLY);box.set_collision_response_to_all_channels(unreal.CollisionResponseType.ECR_IGNORE);box.set_editor_property('generate_overlap_events',False);box.set_editor_property('hidden_in_game',True)
 pp_handle=next((h for h in ss.k2_gather_subobject_data_for_blueprint(bp) if isinstance(obj(h),unreal.PostProcessComponent)),None)
 if pp_handle is None:
     pp_handle,reason=ss.add_new_subobject(unreal.AddNewSubobjectParams(parent_handle=box_handle,new_class=unreal.PostProcessComponent,blueprint_context=bp));assert not str(reason),str(reason)

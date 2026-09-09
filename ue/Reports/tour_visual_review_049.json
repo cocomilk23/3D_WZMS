@@ -1,0 +1,18 @@
+{
+  "reviewed_utc": "2026-09-09T05:13:32.936503+00:00",
+  "capture": "Native UE Slate screenshot of the actual floating PIE window. No image alteration.",
+  "checked": [
+    "Chinese menu legibility, title separation and all 24 destination cards",
+    "Library stairs and nearby wall details visible after editor restart, with saved bounded exposure settings",
+    "Library minimap crop follows its actual campus position"
+  ],
+  "not_checked": [
+    "Complete mouse/key interaction",
+    "Every open interior",
+    "Standalone packaged rendering and performance"
+  ],
+  "screenshots": {
+    "Reviews/Tour/Tour_UI_Menu_Polished.png": "a1b9c8e3357f1fb7abc4f579290dcc8b47d0eab43535037ecdd22d4b7e40a8b5",
+    "Reviews/Tour/Tour_Library_Runtime_Exposure.png": "df9955bad56d3efee0e2153a05b3e1683632babba516647b98bb2357119d72ad"
+  }
+}

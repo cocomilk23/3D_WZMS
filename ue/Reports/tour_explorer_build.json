@@ -1,0 +1,10 @@
+{
+  "compiled": true,
+  "save_slot": "WZMS_CampusTour",
+  "save_version": 1,
+  "destinations": 24,
+  "autosave_seconds": 10,
+  "default_quality": 3,
+  "volume_sound_mix": "/Game/WZMS/Tour/Audio/Mix_Tour",
+  "runtime_validation_pending": true
+}

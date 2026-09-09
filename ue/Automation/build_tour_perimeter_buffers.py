@@ -3,7 +3,7 @@ import json,sys,math
 from pathlib import Path
 sys.path.insert(0,'E:/WZMS_UE_Cache/Python')
 import shapely
-from shapely.geometry import shape
+from shapely.geometry import shape,LineString
 from tour_mesh_buffers import buffer,box_mesh,flat,quad
 root=Path(__file__).resolve().parents[1];plan=json.loads((root/'SourceReference/tour_perimeter_plan.json').read_text(encoding='utf8'));rows=[]
 def mesh(name,mats,collision=False):
@@ -16,7 +16,9 @@ b=mesh('SM_Tour_District_Road',['North street weathered asphalt','North light gr
 # Lane markings follow the ring centreline with broken intervals.
 line=shape(plan['playable_boundary']).buffer(14).exterior
 for i in range(int(line.length/10)):
- a=line.interpolate(i*10);e=line.interpolate(i*10+4);dx,dy=e.x-a.x,e.y-a.y;box_mesh(b[2],[(a.x+e.x)/2,(a.y+e.y)/2,.027],[math.hypot(dx,dy),.12,.016],math.atan2(dy,dx))
+ a=line.interpolate(i*10);e=line.interpolate(i*10+4)
+ if not shape(plan['ring_road']).contains(LineString([a,e]).buffer(.08)):continue
+ dx,dy=e.x-a.x,e.y-a.y;box_mesh(b[2],[(a.x+e.x)/2,(a.y+e.y)/2,.027],[math.hypot(dx,dy),.12,.016],math.atan2(dy,dx))
 b=mesh('SM_Tour_Perimeter_Wall',['History warm white exterior plaster','Jiushan grey masonry water bank','North light granite'],True)
 for line in shapely.get_parts(shape(plan['visible_wall_lines'])):
  points=list(line.coords)

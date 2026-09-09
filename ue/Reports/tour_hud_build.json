@@ -1,0 +1,9 @@
+{
+  "compiled": true,
+  "map": "Fixed orthographic campus texture; dynamic UV crop and position/orientation arrow",
+  "destinations": 24,
+  "language": "Chinese",
+  "font": "/Game/WZMS/Tour/UI/F_Tour_Chinese_Font.F_Tour_Chinese_Font",
+  "font_source": "SourceFonts/NotoSansSC/OFL.txt",
+  "runtime_validation_pending": true
+}

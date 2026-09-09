@@ -1,0 +1,9 @@
+{
+  "source": "SourceAudio/SOURCE.json",
+  "sound": "/Game/WZMS/Tour/Audio/SW_Gentle_Air.SW_Gentle_Air",
+  "sound_class": "/Game/WZMS/Tour/Audio/SC_Tour.SC_Tour",
+  "mix": "/Game/WZMS/Tour/Audio/Mix_Tour.Mix_Tour",
+  "component_volume": 0.25,
+  "looping": true,
+  "volume_control_and_listening_test_pending": true
+}

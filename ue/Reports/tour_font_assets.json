@@ -1,0 +1,9 @@
+{
+  "font": "/Game/WZMS/Tour/UI/F_Tour_Chinese_Font.F_Tour_Chinese_Font",
+  "font_face": "/Game/WZMS/Tour/UI/F_Tour_Chinese.F_Tour_Chinese",
+  "legacy_canvas_size": 24,
+  "loading_policy": "Inline",
+  "license": "SourceFonts/NotoSansSC/OFL.txt",
+  "derivative": "SourceFonts/NotoSansSC/DERIVATIVE.json",
+  "glyph_render_validation_pending": true
+}

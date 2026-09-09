@@ -1,0 +1,9 @@
+{
+  "source": "NotoSansSC.ttf",
+  "source_url": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+  "license": "OFL.txt",
+  "change": "Instantiate weight 400; rename family to WZMS Tour Sans; preserve copyright and license.",
+  "fonttools_version": "4.60.1",
+  "file": "WZMSTourSans-Regular.ttf",
+  "sha256": "01efd7b37b025277ad3698a2d5afb1c4e9dd02c4e4b62e75ae0d0200b055357d"
+}

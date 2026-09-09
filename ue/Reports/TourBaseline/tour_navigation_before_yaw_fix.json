@@ -1,0 +1,250 @@
+{
+  "complete": true,
+  "hud_class": "BP_WZMS_TourHUD_C",
+  "initial_menu_open": true,
+  "initial_paused": true,
+  "cases": [
+    {
+      "name": "南大门",
+      "index": 0,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "南大门广场",
+      "index": 1,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "网球场",
+      "index": 2,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "荷屿",
+      "index": 3,
+      "passed": false,
+      "position_error_cm": 1.8499755859375,
+      "grounded": true,
+      "heading_error_degrees": 180.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "德涵楼·贯真楼",
+      "index": 4,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "道司前路",
+      "index": 5,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "榕屿",
+      "index": 6,
+      "passed": true,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "籀园学堂",
+      "index": 7,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 180.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "校友风采",
+      "index": 8,
+      "passed": false,
+      "position_error_cm": 1.8461074829101562,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "步青广场",
+      "index": 9,
+      "passed": true,
+      "position_error_cm": 1.8499431610107422,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "南田路",
+      "index": 10,
+      "passed": false,
+      "position_error_cm": 1.8500289916992188,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "西门",
+      "index": 11,
+      "passed": true,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "操场",
+      "index": 12,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "篮球场",
+      "index": 13,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "体育馆",
+      "index": 14,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "北门",
+      "index": 15,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "食堂",
+      "index": 16,
+      "passed": false,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "竹屿",
+      "index": 17,
+      "passed": true,
+      "position_error_cm": 1.8499832153320312,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "图书馆",
+      "index": 18,
+      "passed": true,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "数学馆",
+      "index": 19,
+      "passed": true,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "校史馆",
+      "index": 20,
+      "passed": true,
+      "position_error_cm": 1.849996566772461,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "桃花岛",
+      "index": 21,
+      "passed": false,
+      "position_error_cm": 1.850053310394287,
+      "grounded": true,
+      "heading_error_degrees": 90.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "梅花岛",
+      "index": 22,
+      "passed": true,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    },
+    {
+      "name": "橘岛",
+      "index": 23,
+      "passed": true,
+      "position_error_cm": 1.8499984741210938,
+      "grounded": true,
+      "heading_error_degrees": 0.0,
+      "menu_open": false,
+      "paused": false
+    }
+  ],
+  "method": "Invoke actual HUD destination-travel function and observe the real pawn settling. This is not a substitute for mouse-click UI testing.",
+  "passed": false
+}

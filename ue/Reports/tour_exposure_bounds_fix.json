@@ -1,0 +1,49 @@
+{
+  "cause": "The NoCollision shape did not supply a runtime distance query for the bounded PostProcessComponent. QueryOnly with all responses ignored restores exposure without blocking movement.",
+  "volumes": [
+    {
+      "actor": "InteriorExposure_Library_Upper",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E5987820C0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_Library",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E5987804C0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_Zhouyuan",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E59878B3C0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_Alumni",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E59878F2C0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_Gym",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E59878BAC0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_Math",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E598782EC0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_History",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E59878DDC0) {}>"
+    },
+    {
+      "actor": "InteriorExposure_Canteen",
+      "query_shape": "<CollisionEnabled.QUERY_ONLY: 1>",
+      "responses": "<Struct 'CollisionResponse' (0x000001E5987851C0) {}>"
+    }
+  ],
+  "runtime_library_probe": "Bounded query enabled: real first-person library stair view changed from near-black to illuminated; unbound probe first isolated the cause.",
+  "fresh_world_validation_pending": false,
+  "fresh_world_report": "Reports/tour_exposure_runtime.json",
+  "fresh_runtime_screenshot": "Reviews/Tour/Tour_Library_Runtime_Exposure.png"
+}

@@ -13,7 +13,7 @@ if ($taskExisting) { Write-Output "WZMS editor already running: $($taskExisting.
 ${env:UE-LocalDataCachePath}="$taskCache/DDC"
 $env:TEMP="$taskCache/Temp"
 $env:TMP="$taskCache/Temp"
-$taskArguments=@(('"'+$taskProject+'"'), '-NoSplash', '-Unattended', '-NoSound', '-culture=en', '-SCCProvider=None', '-ModelContextProtocolStartServer', '-ModelContextProtocolPort=8010', ('-AbsLog="'+$taskLogs+'/UnrealMCP.log"'))
+$taskArguments=@(('"'+$taskProject+'"'), '-NoSplash', '-Unattended', '-culture=en', '-SCCProvider=None', '-ModelContextProtocolStartServer', '-ModelContextProtocolPort=8010', ('-AbsLog="'+$taskLogs+'/UnrealMCP.log"'))
 if ($Map) {
     if ($Map -notmatch '^/Game/WZMS/Maps/[A-Za-z0-9_]+$') { throw 'Invalid WZMS map path' }
     $taskArguments=@(('"'+$taskProject+'"'),$Map)+$taskArguments[1..($taskArguments.Count-1)]

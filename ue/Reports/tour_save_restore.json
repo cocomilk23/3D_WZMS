@@ -1,0 +1,16 @@
+{
+  "position_error_cm": 0.0,
+  "heading_error_degrees": 0.0,
+  "position_cm": [
+    34600.0,
+    -11500.0,
+    92.14999008178711
+  ],
+  "has_saved_visit": true,
+  "menu_open": true,
+  "paused": true,
+  "quality": 3,
+  "volume": 0.65,
+  "method": "Fresh PIE startup, loading the disk save written by the destination runtime test.",
+  "passed": true
+}

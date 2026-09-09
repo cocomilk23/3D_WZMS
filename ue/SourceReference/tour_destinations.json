@@ -1,0 +1,486 @@
+{
+  "count": 24,
+  "method": "Actual floor trace plus a clear standing capsule, within 1.8m of the selected reference location. Continuous access and UI travel are tested separately.",
+  "destinations": [
+    {
+      "index": 0,
+      "name": "南大门",
+      "source_floor_point_m": [
+        -14.5,
+        -30,
+        0
+      ],
+      "position_cm": [
+        -1450.0,
+        3000.0,
+        92.9999885559082
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.2991935483870968,
+        0.8467741935483871
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 1,
+      "name": "南大门广场",
+      "source_floor_point_m": [
+        -8.667,
+        21.667,
+        0
+      ],
+      "position_cm": [
+        -866.7000732421875,
+        -2166.7000045776367,
+        92.99996566772461
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.3086016117219002,
+        0.7634403225068123
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 2,
+      "name": "网球场",
+      "source_floor_point_m": [
+        51,
+        -15,
+        0
+      ],
+      "position_cm": [
+        5100.0,
+        1500.0,
+        92.99996948242188
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.40483870967741936,
+        0.8225806451612904
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 3,
+      "name": "荷屿",
+      "source_floor_point_m": [
+        100,
+        15,
+        0
+      ],
+      "position_cm": [
+        10000.0,
+        -1500.0000381469727,
+        92.9999885559082
+      ],
+      "yaw_ue": 180,
+      "map_uv": [
+        0.4838709677419355,
+        0.774193547771823
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 4,
+      "name": "德涵楼·贯真楼",
+      "source_floor_point_m": [
+        18,
+        47,
+        0
+      ],
+      "position_cm": [
+        1800.0,
+        -4700.0,
+        92.9999885559082
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.35161290322580646,
+        0.7225806451612903
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 5,
+      "name": "道司前路",
+      "source_floor_point_m": [
+        -81,
+        136,
+        0
+      ],
+      "position_cm": [
+        -8100.0,
+        -13600.0,
+        94.00000381469727
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.19193548387096773,
+        0.5790322580645161
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 6,
+      "name": "榕屿",
+      "source_floor_point_m": [
+        -29,
+        106,
+        0
+      ],
+      "position_cm": [
+        -2900.000015258789,
+        -10599.999816894531,
+        94.00000762939453
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.2758064513667937,
+        0.6274193577920237
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 7,
+      "name": "籀园学堂",
+      "source_floor_point_m": [
+        -27,
+        130.5,
+        0
+      ],
+      "position_cm": [
+        -2699.9999389648438,
+        -13050.0,
+        94.00000381469727
+      ],
+      "yaw_ue": 180,
+      "map_uv": [
+        0.2790322590489541,
+        0.5879032258064516
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 8,
+      "name": "校友风采",
+      "source_floor_point_m": [
+        -42,
+        162,
+        0
+      ],
+      "position_cm": [
+        -4200.000183105469,
+        -16200.0,
+        94.59999465942383
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.2548387067241053,
+        0.5370967741935484
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 9,
+      "name": "步青广场",
+      "source_floor_point_m": [
+        3,
+        164,
+        0
+      ],
+      "position_cm": [
+        300.00001525878906,
+        -16400.0,
+        97.0000228881836
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.3274193550848192,
+        0.5338709677419354
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 10,
+      "name": "南田路",
+      "source_floor_point_m": [
+        -20,
+        218,
+        0
+      ],
+      "position_cm": [
+        -2000.0001525878906,
+        -21800.0,
+        97.00003051757812
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.2903225781840663,
+        0.4467741935483871
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 11,
+      "name": "西门",
+      "source_floor_point_m": [
+        -120,
+        169,
+        0
+      ],
+      "position_cm": [
+        -11999.999938964844,
+        -16900.0,
+        94.00000381469727
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.12903225904895413,
+        0.5258064516129032
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 12,
+      "name": "操场",
+      "source_floor_point_m": [
+        -44.23,
+        322.19,
+        0
+      ],
+      "position_cm": [
+        -4423.000183105469,
+        -32219.0,
+        97.00001907348633
+      ],
+      "yaw_ue": 90,
+      "map_uv": [
+        0.25124193253055693,
+        0.27872580645161293
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 13,
+      "name": "篮球场",
+      "source_floor_point_m": [
+        0,
+        259,
+        0
+      ],
+      "position_cm": [
+        7.62939453125e-05,
+        -25899.999389648438,
+        96.49995803833008
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.32258064639183787,
+        0.3806451711347026
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 14,
+      "name": "体育馆",
+      "source_floor_point_m": [
+        -76,
+        392,
+        1.08
+      ],
+      "position_cm": [
+        -7600.000061035156,
+        -39200.0,
+        202.89998626708984
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.199999999015562,
+        0.16612903225806452
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 15,
+      "name": "北门",
+      "source_floor_point_m": [
+        54,
+        367,
+        0
+      ],
+      "position_cm": [
+        5400.000045776367,
+        -36700.0,
+        93.20001220703125
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.4096774200931672,
+        0.2064516129032258
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 16,
+      "name": "食堂",
+      "source_floor_point_m": [
+        124.4,
+        351.3,
+        1.04
+      ],
+      "position_cm": [
+        12440.000396728516,
+        -35130.0,
+        200.00002670288086
+      ],
+      "yaw_ue": -90,
+      "map_uv": [
+        0.5232258128504599,
+        0.23177419354838708
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 17,
+      "name": "竹屿",
+      "source_floor_point_m": [
+        143,
+        294,
+        0
+      ],
+      "position_cm": [
+        14300.0,
+        -29399.999633789062,
+        94.00001907348633
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.5532258064516129,
+        0.32419355429372476
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 18,
+      "name": "图书馆",
+      "source_floor_point_m": [
+        116,
+        155,
+        0
+      ],
+      "position_cm": [
+        11600.000061035156,
+        -15500.0,
+        94.80000114440918
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.5096774203392767,
+        0.5483870967741935
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 19,
+      "name": "数学馆",
+      "source_floor_point_m": [
+        147,
+        121,
+        0
+      ],
+      "position_cm": [
+        14700.000061035156,
+        -12099.999938964844,
+        94.89999198913574
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.5596774203392767,
+        0.6032258074360509
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 20,
+      "name": "校史馆",
+      "source_floor_point_m": [
+        247,
+        120,
+        0
+      ],
+      "position_cm": [
+        24700.000061035156,
+        -12000.000366210938,
+        93.99995803833008
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.7209677429199218,
+        0.6048387037707913
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 21,
+      "name": "桃花岛",
+      "source_floor_point_m": [
+        211,
+        82,
+        0
+      ],
+      "position_cm": [
+        21099.999908447266,
+        -8200.000091552734,
+        96.40004348754883
+      ],
+      "yaw_ue": 90,
+      "map_uv": [
+        0.6629032243297945,
+        0.6661290307814075
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 22,
+      "name": "梅花岛",
+      "source_floor_point_m": [
+        282,
+        112,
+        0
+      ],
+      "position_cm": [
+        28200.000244140625,
+        -11200.0,
+        93.99998092651367
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.7774193587764617,
+        0.617741935483871
+      ],
+      "floor_and_capsule_verified": true
+    },
+    {
+      "index": 23,
+      "name": "橘岛",
+      "source_floor_point_m": [
+        346,
+        115,
+        0
+      ],
+      "position_cm": [
+        34600.0,
+        -11500.0,
+        93.9999885559082
+      ],
+      "yaw_ue": 0,
+      "map_uv": [
+        0.8806451612903226,
+        0.6129032258064516
+      ],
+      "floor_and_capsule_verified": true
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "complete": true,
+  "passed": true,
+  "cases": [
+    {
+      "name": "InteriorExposure_Library_Upper",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_Library",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_Zhouyuan",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_Alumni",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_Gym",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_Math",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_History",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    },
+    {
+      "name": "InteriorExposure_Canteen",
+      "inside_distance_cm": 0.0,
+      "outside_distance_cm": 250.0,
+      "all_channels_ignored": true,
+      "channel_responses": {
+        "<CollisionChannel.ECC_CAMERA: 4>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_DESTRUCTIBLE: 7>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PAWN: 2>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_PHYSICS_BODY: 5>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VEHICLE: 6>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_VISIBILITY: 3>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_DYNAMIC: 1>": "<CollisionResponseType.ECR_IGNORE: 0>",
+        "<CollisionChannel.ECC_WORLD_STATIC: 0>": "<CollisionResponseType.ECR_IGNORE: 0>"
+      },
+      "passed": true
+    }
+  ],
+  "method": "Fresh PIE world. Actual primitive collision distance inside/outside each volume and response on every exported collision channel. Visual exposure and movement checked separately."
+}
