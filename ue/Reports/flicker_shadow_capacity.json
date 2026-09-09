@@ -1,0 +1,17 @@
+{
+  "variable": "r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel",
+  "before_runtime": 16,
+  "after_runtime": 32,
+  "reason": "Previous actual runtime logs report VSM One Pass Projection max lights overflow. Raise supported capacity without removing lights or shadows.",
+  "reference": "https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-console-variables-reference",
+  "temporal_visual_validation_pending": true,
+  "fixed_view_spot_check": {
+    "cameras": [
+      "Review_18_Buqing_arrival",
+      "Review_63_Library_Buqing_front"
+    ],
+    "frames_per_camera": 2,
+    "observed": "No obvious alternate-surface patches in inspected building and ground areas; foliage changes between frames.",
+    "limitation": "Sparse still-frame checks do not certify continuous temporal stability or all buildings."
+  }
+}

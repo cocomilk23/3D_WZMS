@@ -1,0 +1,119 @@
+{
+  "reason": "Source footprint intersections prove coplanar overlaps between plaza, classroom ground slab, library apron and passage. Preserve connected slab geometry with <=2cm vertical separation.",
+  "meshes": [
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_037",
+      "positions_sha256": "e01d8e063c0af7f239d17c5b3bf83fa2abe37f72d2316abef6671b359620f45c",
+      "triangles_sha256": "4790ccd74788764e1d816b098a12fcd8bdbebfa559bc79a12a66ac9389af4361",
+      "vertex_count": 157960,
+      "triangle_count": 264860,
+      "changes": [
+        {
+          "object": "Buqing continuous plaza slab",
+          "vertex_ids": [
+            156976,
+            156977,
+            156978,
+            156979,
+            156980,
+            156981,
+            156982,
+            156983
+          ],
+          "old_bounds_blender_m": [
+            [
+              -3.0,
+              134.0,
+              -0.3299999237060547
+            ],
+            [
+              111.0,
+              181.0,
+              -0.010000228881835938
+            ]
+          ],
+          "translation_local": [
+            0,
+            0,
+            -0.02
+          ],
+          "old_top_z_m": -0.010000228881835938,
+          "new_top_z_m": -0.030000228881835938
+        }
+      ]
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_038",
+      "positions_sha256": "30016ed9f1501e390b8785af6f96436e6630985864e481f8bfebbb8b36244d3e",
+      "triangles_sha256": "181e3fe2a29999a5adb71766ac606a790c4cc4bd3ddb0875110184ddda4b6444",
+      "vertex_count": 107714,
+      "triangle_count": 167172,
+      "changes": [
+        {
+          "object": "Buqing through-passage floor",
+          "vertex_ids": [
+            50068,
+            50069,
+            50070,
+            50071,
+            50072,
+            50073,
+            50074,
+            50075
+          ],
+          "old_bounds_blender_m": [
+            [
+              47.0,
+              180.0,
+              -0.3299999237060547
+            ],
+            [
+              61.0,
+              196.0,
+              -0.010000228881835938
+            ]
+          ],
+          "translation_local": [
+            0,
+            0,
+            0.01
+          ],
+          "old_top_z_m": -0.010000228881835938,
+          "new_top_z_m": -2.2888183593729183e-07
+        },
+        {
+          "object": "Buqing north exit apron",
+          "vertex_ids": [
+            11756,
+            11757,
+            11758,
+            11759,
+            11760,
+            11761,
+            11762,
+            11763
+          ],
+          "old_bounds_blender_m": [
+            [
+              47.0,
+              194.5,
+              -0.3299999237060547
+            ],
+            [
+              61.0,
+              205.5,
+              -0.010000228881835938
+            ]
+          ],
+          "translation_local": [
+            0,
+            0,
+            0.02
+          ],
+          "old_top_z_m": -0.010000228881835938,
+          "new_top_z_m": 0.009999771118164063
+        }
+      ]
+    }
+  ]
+}

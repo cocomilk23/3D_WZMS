@@ -1,0 +1,119 @@
+{
+  "meshes": [
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_037",
+      "changes": [
+        {
+          "object": "Buqing continuous plaza slab",
+          "vertex_ids": [
+            156976,
+            156977,
+            156978,
+            156979,
+            156980,
+            156981,
+            156982,
+            156983
+          ],
+          "old_bounds_blender_m": [
+            [
+              -3.0,
+              134.0,
+              -0.3299999237060547
+            ],
+            [
+              111.0,
+              181.0,
+              -0.010000228881835938
+            ]
+          ],
+          "translation_local": [
+            0,
+            0,
+            -0.02
+          ],
+          "old_top_z_m": -0.010000228881835938,
+          "new_top_z_m": -0.030000228881835938
+        }
+      ],
+      "triangles_unchanged": true,
+      "only_selected_vertices_changed": true,
+      "new_positions_sha256": "ca309e890b69c70acf01aabbd08a46c19190b65588b5d30cbcd75ea2c4f2a385"
+    },
+    {
+      "mesh": "/Game/WZMS/Central/Meshes/SM_central_solid_038",
+      "changes": [
+        {
+          "object": "Buqing through-passage floor",
+          "vertex_ids": [
+            50068,
+            50069,
+            50070,
+            50071,
+            50072,
+            50073,
+            50074,
+            50075
+          ],
+          "old_bounds_blender_m": [
+            [
+              47.0,
+              180.0,
+              -0.3299999237060547
+            ],
+            [
+              61.0,
+              196.0,
+              -0.010000228881835938
+            ]
+          ],
+          "translation_local": [
+            0,
+            0,
+            0.01
+          ],
+          "old_top_z_m": -0.010000228881835938,
+          "new_top_z_m": -2.2888183593729183e-07
+        },
+        {
+          "object": "Buqing north exit apron",
+          "vertex_ids": [
+            11756,
+            11757,
+            11758,
+            11759,
+            11760,
+            11761,
+            11762,
+            11763
+          ],
+          "old_bounds_blender_m": [
+            [
+              47.0,
+              194.5,
+              -0.3299999237060547
+            ],
+            [
+              61.0,
+              205.5,
+              -0.010000228881835938
+            ]
+          ],
+          "translation_local": [
+            0,
+            0,
+            0.02
+          ],
+          "old_top_z_m": -0.010000228881835938,
+          "new_top_z_m": 0.009999771118164063
+        }
+      ],
+      "triangles_unchanged": true,
+      "only_selected_vertices_changed": true,
+      "new_positions_sha256": "cbec106e4e020b788b05684c4c1eb75255fcf11f2737401ff1abf7c7a10eedce"
+    }
+  ],
+  "runtime_validation_pending": false,
+  "runtime_validation_report": "tour_flicker_routes_runtime.json",
+  "scope": "Three real-character round trips passed; fixed-view image spot checks only; full-campus user acceptance pending."
+}
